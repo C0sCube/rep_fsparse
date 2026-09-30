@@ -402,15 +402,25 @@ class GrandFundData:
     def _update_benchmark_data(self,main_key:str,bench_data):
         bench_data = " ".join(bench_data) if isinstance(bench_data,list) else bench_data
         bench_data = re.sub(self.REGEX["escape"],"",bench_data,re.IGNORECASE)
-        if match:=re.match(self.REGEX["benchmark"],bench_data,re.IGNORECASE):
+        
+        # print(bench_data)
+        
+        if match:=re.findall(self.REGEX["benchmark"],bench_data,re.IGNORECASE):
+            
+            # print(f"MATCH FOUND {bench_data}::{match}")
             return {"benchmark_index":match[0]}
+        # print("ORIGINAL RUN")
         return {main_key:bench_data}
    
     def _update_date_data(self,main_key:str,data):
+        
         date_data = " ".join(data) if isinstance(data, list) else data
         date_data = re.sub(self.REGEX["escape"],"",date_data,re.IGNORECASE)
+        # print(date_data)
         if match := re.findall(self.REGEX["date"],date_data,re.IGNORECASE):
+            # print(f"MATCH FOUND {date_data}::{match}")
             return {"scheme_launch_date":match[0]}
+        # print("ORIGINAL RUN")
         return {main_key:date_data}
     
     def _update_bench_sub_data(self,main_key:str,bench_data):
@@ -422,36 +432,52 @@ class GrandFundData:
         return {main_key:bench_data}
 
     
+    
     # def _update_manager_data(self, main_key: str, data):
     #     final_list = []
-    #     manager_data = " ".join(data) if isinstance(data, list) else data
-    #     manager_data = re.sub(self.REGEX["escape"], "", manager_data).strip()
-    
-    #     names = re.findall(self.REGEX['manager']['name'], manager_data, re.IGNORECASE)
-    #     # optional fields
-    #     exps  = re.findall(self.REGEX['manager'].get('exp', ""), manager_data, re.IGNORECASE) if 'exp' in self.REGEX['manager'] else []
-    #     sinces = re.findall(self.REGEX['manager'].get('since', ""), manager_data, re.IGNORECASE) if 'since' in self.REGEX['manager'] else []
-    #     max_len = len(names)
-    #     exps   += [""] * (max_len - len(exps))
-    #     sinces += [""] * (max_len - len(sinces))
-
-    #     for name, since, exp in zip(names, sinces, exps):
-    #         final_list.append(self._return_manager_data(name=name, since=since, exp=exp))
-
+    #     manager_data = " ".join(data) if isinstance(data,list) else data
+    #     manager_data =re.sub(self.REGEX["escape"], "", manager_data).strip()
+    #     n = re.findall(self.REGEX['manager']['name'], manager_data, re.IGNORECASE)
+    #     e = re.findall(self.REGEX['manager']['exp'], manager_data, re.IGNORECASE)
+    #     s = re.findall(self.REGEX['manager']['since'], manager_data, re.IGNORECASE)
+        
+    #     adjust = lambda target, lst: target[:len(lst)] + ([target[-1]] * abs(len(target) - len(lst)) if lst else [""])
+    #     n,s = adjust(n,e),adjust(s,e)
+    #     for name,since,exp in zip(n,s,e):
+    #         final_list.append(self._return_manager_data(name=name,since=since,exp=exp))
     #     return {main_key: final_list}
     
     def _update_manager_data(self, main_key: str, data):
+        manager_data = " ".join(data) if isinstance(data, list) else data
+        manager_data = re.sub(self.REGEX["escape"], "", manager_data).strip()
+
+        names = re.findall(
+            self.REGEX["manager"]["name"],
+            manager_data,
+            re.I
+        )
+        exps = re.findall(
+            self.REGEX["manager"].get("exp", r"$^"),
+            manager_data,
+            re.I
+        )
+        sinces = re.findall(
+            self.REGEX["manager"].get("since", r"$^"),
+            manager_data,
+            re.I
+        )
+
         final_list = []
-        manager_data = " ".join(data) if isinstance(data,list) else data
-        manager_data =re.sub(self.REGEX["escape"], "", manager_data).strip()
-        n = re.findall(self.REGEX['manager']['name'], manager_data, re.IGNORECASE)
-        e = re.findall(self.REGEX['manager']['exp'], manager_data, re.IGNORECASE)
-        s = re.findall(self.REGEX['manager']['since'], manager_data, re.IGNORECASE)
-        
-        adjust = lambda target, lst: target[:len(lst)] + ([target[-1]] * abs(len(target) - len(lst)) if lst else [""])
-        n,s = adjust(n,e),adjust(s,e)
-        for name,since,exp in zip(n,s,e):
-            final_list.append(self._return_manager_data(name=name,since=since,exp=exp))
+
+        for idx, name in enumerate(names):
+            final_list.append(
+                self._return_manager_data(
+                    name=name,
+                    exp=exps[idx] if idx < len(exps) else "",
+                    since=sinces[idx] if idx < len(sinces) else "",
+                )
+            )
+
         return {main_key: final_list}
     
     # dynamic function match
@@ -518,6 +544,10 @@ class GrandFundData:
     def _apply_special_handling(self, temp: dict) -> dict: #brother function of _special_match_regex_to_content 
         updated = temp.copy()
         for head, content in temp.items():
+            
+            
+            # print(head, content)
+            
             result = self._special_match_regex_to_content(head, content)
             if result:
                 updated.update(result)

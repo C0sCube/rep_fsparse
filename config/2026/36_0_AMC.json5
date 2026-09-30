@@ -1,109 +1,157 @@
 {
-  AMC_NAME: "Shriram Mutual Fund",
-  MAIN_MAP: { select: true, map: true, special: true },
-  IMP_DATA: {
-    amc_name: "Shriram Asset Management Company Limited",
-    mutual_fund_name: "Shriram Mutual fund",
+  "AMC_NAME": "Shriram Mutual Fund",
+  "CLONEKEYS": {
+    "benchmark_index": ".*benchmark_name",
+    "fund_manager": ".*fund_manager$",
+    "min_addl_amt": ".*sip$",
+    "min_amt": ".*lumpsum_amount$",
+    "monthly_aaum_value": ".*aaum",
+    "scheme_launch_date": ".*fund_details"
   },
-  PARAMS: {
-    title: {
-      ocr: false,
-      pattern: "(SHRIRAM.+?(?:FUNDS?|ETF|INDEX)\\s*(?:OF FUNDS?|Fo?O?F)?)",
-      bbox: [0, 0, 490, 90],
-    },
-    clip_bbox: [
-      [0, 100, 210, 812],
-      [210, 100, 450, 812],
+  "DUPLICATE_MUTUAL_FUNDS": {},
+  "IMP_DATA": {
+    "amc_name": "Shriram Asset Management Company Limited",
+    "mutual_fund_name": "Shriram Mutual fund"
+  },
+  "MAIN_MAP": {
+    "map": true,
+    "select": true,
+    "special": true
+  },
+  "MERGEKEYS": {
+    "load": [
+      ".*(entry_load|exit_load)"
     ],
-    line_x: 290.0,
-    data: {
-      size: [6, 12],
-      color: [0],
-      update_size: 30.0,
-      font: ["Poppins-SemiBold"],
-    },
-    content_size: [30.0, 10.0],
-    method: "clip",
-    line_side: "",
-    max_financial_index_highlight: 6,
-    pdf_ocr: false,
-    sanitize_fund: false,
-    stop_words: [],
-    update_min_add: false,
+    "metrics": [
+      "metrics",
+      ".*(expense_ratio|major_risk_factor)"
+    ]
   },
-  DUPLICATE_MUTUAL_FUNDS: {},
-  PRE_DATA_SELECT: [],
-  REGEX: {
-    aum: "(?:Net|Latest)\\s*AUM\\D*([\\d.]+\\s*cr)",
-    benchmark: "^.+?(?:Index|TRI)",
-    date: "(\\d{1,2}\\s*(?:th|st|rd|nd)?\\s*[A-Za-z]+\\s*,?\\s*\\d{3,4})",
-    scheme: [
-      "About the Fund",
-      "Date of Inception",
-      "Benchmark",
-      "Fund Managers",
-      "Investment Objective",
-      "Type of Scheme",
-      "Other Details",
-      "Average AUM",
-      "Expense Ratio",
-      "Loads",
-      "Minimum Investment",
-      "EOL",
-      "Quantitative Data",
-      "EOL",
-      "Date\\s*of\\s*Inception",
-      "Fund Managers",
+  "PARAMS": {
+    "clip_bbox": [
+      [
+        6.15,
+        115.15,
+        185.48,
+        843.88
+      ],
+      [
+        408.75,
+        135.37,
+        589.84,
+        840.3
+      ]
     ],
-    ptr: "([\\d.]+)",
-    min_amt: "Rs\\.?\\s*([\\d,]+)\\D*(\\d+)",
-    manager: {
-      pattern: "(?:Mr\\.?|Ms\\.?)\\s*([\\w\\s]+)\\(Since\\s*([A-Za-z\\s,0-9]+?)\\)\\D*?Experience\\D*?(\\d{1,2} years)",
-      fields: ["name", "since", "exp"],
+    "content_size": [
+      30,
+      10
+    ],
+    "data": {
+      "color": [
+        0
+      ],
+      "font": [
+        "Poppins-SemiBold"
+      ],
+      "size": [
+        6,
+        12
+      ],
+      "update_size": 30
     },
-    metrics: "(Portfolio Turnover Ratio\\D*|Standard Deviation|Portfolio Beta|Sharpe Ratio|Information Ratio|Average Maturity|Residual Maturity\\D*|Modified Duration\\D*|Macaulay Duration\\D*|Annualised Portfolio YTM\\D*|Yield to Maturity)\\s*(-?[\\d.]+\\s*(?:years?|days?|months?|%)?)",
-    load: "()Exit Load(.+)$",
-    escape: "[^a-zA-Z0-9\\.\\,\\+\\(\\)\\s\\-\\%]+|\\(Annualised\\)",
+    "line_side": "",
+    "line_x": 290,
+    "max_financial_index_highlight": 4,
+    "method": "clip",
+    "pdf_ocr": false,
+    "sanitize_fund": false,
+    "stop_words": [],
+    "title": {
+      "bbox": [
+        0,
+        0,
+        500,
+        75
+      ],
+      "ocr": false,
+      "pattern": "((?:Shriram|SHRIRAM).+?(?:Funds?|FUNDS?|ETF|INDEX|Index)\\s*(?:OF FUNDS?|Fo?O?F|of\\s+[Ff]unds?)?)"
+    },
+    "update_min_add": false
   },
-  PATTERN_TO_FUNCTION: {
-    "^(before|dummy).*": ["_extract_scheme_non_esc_data", "scheme"],
+  "PATTERN_TO_FUNCTION": {
+    "^(before|dummy).*": [
+      "_extract_scheme_non_esc_data",
+      "scheme"
+    ]
   },
-  SECONDARY_PATTERN_TO_FUNCTION: {
-    ".*load": ["_extract_load_data", "load"],
-    ".*(quantitative|expense_ratio)": ["_extract_generic_data", "metrics"],
-    ".*average_aum": ["_extract_generic_data", "aum"],
-    "^before.benchmark": ["_extract_non_esc_data", "benchmark"],
-    ".*fund_manager": ["_extract_manager_data", "manager"],
-    ".*minimum_investment": ["_extract_amt_data", "min_amt"],
-    ".*date_of_inception": ["_extract_generic_data", "date"],
+  "PRE_DATA_SELECT": [],
+  "PROMOTE_KEYS": {},
+  "REGEX": {
+    "aum": "([\\d.]+\\s*[Cc]r)",
+    "benchmark": "^.+?(?:Index|TRI)",
+    "date": "(\\d{1,2}\\s*(?:th|st|rd|nd)?\\s*[A-Za-z]+\\s*,?\\s*\\d{3,4})",
+    "escape": "[^a-zA-Z0-9\\.\\,\\+\\(\\)\\s\\-\\%]+|TRI|\\(Annualised\\)|Date of [iI]nception.+?[aA]llotment",
+    "load": "()Exit Load(.+)$",
+    "manager": {
+      "exp": "(?<=\\s)\\d{1,2}\\s*[Yy]ears?(?=\\s)",
+      "name": "(?:Mrs?|Ms)\\.?\\s+([A-Za-z]+\\s+[A-Za-z]+)",
+      "since": "[A-Za-z]{3}\\s*\\d{1,2}\\s*\\,?\\s*\\d{4}"
+    },
+    "metrics": "(PE|Information\\s+Ratio|PB|Average Maturity|Macaul[ea]y\\s*(?:Duration)?|Modified Duration|Modi.+?ed Duration|Yield to Maturity|Standard\\s+Deviation|Sharpe\\s+[rR]atio|Beta|R Squared|Treynor|Jenson|Portfolio Turnover\\D*)\\s*(?:\\:|\\(.+?\\)\\:?)?\\s*(-?[\\d.]+\\s*(?:[Yy]ears?|[Mm]onths?|[Dd]ays?|%)?|NA)",
+    "min_amt": "Rs\\.?\\s*([\\d,]+)\\D*(\\d+)",
+    "ptr": "([\\d.]+)",
+    "scheme": [
+      "Fund\\s+Details?",
+      "Benchmark\\s+Name",
+      "NAV.+?as\\s+on",
+      "AUM.+?as\\s+on",
+      "AAUM.+?for\\s+the",
+      "Fund\\s+Manager",
+      "Minimum\\s+[Ii]nvestment",
+      "Lumpsum\\s+[aA]mount",
+      "SIP",
+      "Exit\\s+Load",
+      "Total\\s+Expense\\s+Ratio",
+      "Please refer to the",
+      "EOL",
+      "Major\\s+Risk\\s+Factors?",
+      "EOL"
+    ]
   },
-  TERTIARY_PATTERN_TO_FUNCTION: {
-    ".*date_of_inception": ["_extract_generic_data", "date"],
+  "SECONDARY_PATTERN_TO_FUNCTION": {
+    ".*(expense_ratio|major_risk_factor)": [
+      "_extract_generic_data",
+      "metrics"
+    ],
+    ".*(lumpsum_amount|sip)": [
+      "_extract_amt_data",
+      "min_amt"
+    ],
+    ".*aaum": [
+      "_extract_generic_data",
+      "aum"
+    ]
   },
-  SELECTKEYS: [
-    "amc_name",
-    "main_scheme_name",
-    "page_number",
-    "load",
+  "SELECTKEYS": [
+    "monthly_aaum_value",
+    "monthly_aaum_date",
+    "fund_manager",
     "benchmark_index",
-    ".*average_aum",
-    ".*minimum_investment",
-    "additional_investment",
     "monthly_aaum_date",
     "mutual_fund_name",
-    ".*fund_manager",
+    "amc_name",
+    "main_scheme_name",
     "metrics",
-    ".*date_of_inception",
+    "scheme_launch_date",
+    "(min_amt|min_addl_amt)",
+    "load",
+    "page_number"
   ],
-  MERGEKEYS: {
-    metrics: [".*expense_ratio", ".*quantitative_data"],
-    load: [".*loads"],
+  "SPECIAL_FUNCTIONS": {
+    "benchmark_index": "_update_benchmark_data",
+    "fund_manager": "_update_manager_data",
+    "scheme_launch_date": "_update_date_data"
   },
-  CLONEKEYS: {
-    additional_investment: ".*minimum_investment",
-    benchmark_index: "before.benchmark",
-  },
-  PROMOTE_KEYS: {},
-  SPECIAL_FUNCTIONS: {},
-  Z_MUTUAL_FUND_DATA: {},
+  "TERTIARY_PATTERN_TO_FUNCTION": {},
+  "Z_MUTUAL_FUND_DATA": {}
 }

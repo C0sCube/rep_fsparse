@@ -17,8 +17,8 @@
   },
   PARAMS: {
     clip_bbox: [
-      [0, 90, 250, 815],
-      [245, 95, 585, 815],
+      [0, 80, 210, 853.42],
+      [214.98, 119.87, 396.09, 789.5],
     ],
     content_size: [30, 17],
     data: {
@@ -42,8 +42,7 @@
     update_min_add: false,
   },
   PATTERN_TO_FUNCTION: {
-    "^before.*": ["_extract_scheme_data", "scheme"],
-    "^dummy.*": ["_extract_scheme_data", "scheme2"],
+    "^(before|dummy).*": ["_extract_scheme_data", "scheme"],
   },
   PRE_DATA_SELECT: [],
   PROMOTE_KEYS: {},
@@ -71,10 +70,10 @@
       "Face Value",
       "Monthly\\s*[aA]vg\\s*AUM",
       "Month\\s*[Ee]nd\\s*AUM",
-      "Total Expense Ratio",
+      "Base\\s*Expense\\s*Ratio",
       "EOL",
+      "Quantitative\\s*Data", "EOL"
     ],
-    scheme2: ["Top 10 Portfolio", "Quantitative\\s*Data", "EOL"],
   },
   SECONDARY_PATTERN_TO_FUNCTION: {
     ".*(minimum_additional|minimum_investment)": [

@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "document_name": "120_31-Aug-26_FS.pdf",
+    "file_type": "fs",
+    "process_date": "20260921"
+  },
+  "records": [
+    {
+      "value": {
+        "amc_name": "Jio BlackRock Asset Management Private Limited",
+        "benchmark_index": [
+          "Nifty 50 Hybrid Composite Debt 50:50 Index (TRI"
+        ],
+        "field_location": [
+          {
+            "amc_name": "4",
+            "benchmark_index": "4",
+            "count": 1,
+            "fund_manager_managing_fund_since": "4",
+            "fund_manager_name": "4",
+            "fund_manager_qualification": "4",
+            "fund_manager_total_exp": "4",
+            "load_exit": "4",
+            "main_scheme_name": "4",
+            "metrics_mod_duration": "4",
+            "min_addl_amt": "4",
+            "min_addl_amt_multiple": "4",
+            "min_amt": "4",
+            "min_amt_multiple": "4",
+            "monthly_aaum_date": "4",
+            "monthly_aaum_value": "4",
+            "mutual_fund_name": "4",
+            "riskometer": "4",
+            "riskometer_benchmark": "4",
+            "scheme_launch_date": "4"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "July 2026",
+            "name": "Virendra Kumar",
+            "qualification": "",
+            "total_exp": "19 Years"
+          },
+          {
+            "managing_fund_since": "July 2026",
+            "name": "Siddharth Deb",
+            "qualification": "",
+            "total_exp": "14 Years"
+          },
+          {
+            "managing_fund_since": "July 2026",
+            "name": "Manish Kalani",
+            "qualification": "",
+            "total_exp": "13 Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Prism Hybrid Long-Short Fund",
+        "metrics": [
+          {
+            "name": "mod_duration",
+            "value": "1.34"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "Monthly Average AUM   302.73 Cr   240.02  Cr   76.",
+        "mutual_fund_name": "Prism SIF",
+        "page_number": "4",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20260717"
+      }
+    }
+  ]
+}

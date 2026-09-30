@@ -47,6 +47,7 @@ class Reader:
                     else:
                         title_text = " ".join(page.get_text("text", clip=bbox).split("\n"))
                     title_text = re.sub(escape_regex, "", title_text).strip()
+                    
                     title_match = re.findall(title_regex, title_text, re.DOTALL)
                     title = (
                         " ".join([_ for _ in title_match[0].strip().split(" ") if _])

@@ -1,0 +1,333 @@
+{
+  "metadata": {
+    "document_name": "102_31-Aug-26_FS.pdf",
+    "file_type": "fs",
+    "process_date": "20260921"
+  },
+  "records": [
+    {
+      "value": {
+        "amc_name": "Abakkus Asset Management Private Limited",
+        "benchmark_index": [
+          "29th December 2025 : BSE 500 Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "5",
+            "benchmark_index": "5",
+            "count": 4,
+            "fund_manager_managing_fund_since": "5",
+            "fund_manager_name": "5",
+            "fund_manager_qualification": "5",
+            "fund_manager_total_exp": "5",
+            "load_entry": "5",
+            "load_exit": "5",
+            "main_scheme_name": "5",
+            "min_addl_amt": "5",
+            "min_addl_amt_multiple": "5",
+            "min_amt": "5",
+            "min_amt_multiple": "5",
+            "monthly_aaum_date": "5",
+            "monthly_aaum_value": "5",
+            "mutual_fund_name": "5",
+            "riskometer": "5",
+            "riskometer_benchmark": "5",
+            "scheme_launch_date": "5"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "29Th December 2025",
+            "name": "Sanjay Doshi",
+            "qualification": "",
+            "total_exp": "20+ Years"
+          },
+          {
+            "managing_fund_since": "23Rd March 2026",
+            "name": "Abhishek Ks",
+            "qualification": "",
+            "total_exp": "12+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Sanjay Doshi",
+            "qualification": "",
+            "total_exp": ""
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Abhishek Ks",
+            "qualification": "",
+            "total_exp": ""
+          }
+        ],
+        "load": [
+          {
+            "type": "entry",
+            "comment": "Nil"
+          },
+          {
+            "type": "exit",
+            "comment": "if any : If units redeemed or switched out are upto 10% (limit) of the units purchased or switched in within 3 months from the date of allotment - Nil If units redeemed or switched out are over and above the 10% (limit) within 3 months from the date of allotment - 1% of the applicable NAV If redeemed switched out after 3 months from the date of allotment - Nil"
+          }
+        ],
+        "main_scheme_name": "Abakkus Flexi Cap Fund",
+        "metrics": [],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "6,898.57 Crore",
+        "mutual_fund_name": "Abakkus Mutual Fund",
+        "page_number": "5",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20251229"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Abakkus Asset Management Private Limited",
+        "benchmark_index": [
+          "17th March 2026 : Nifty Smallcap 250"
+        ],
+        "field_location": [
+          {
+            "amc_name": "8",
+            "benchmark_index": "8",
+            "count": 4,
+            "fund_manager_managing_fund_since": "8",
+            "fund_manager_name": "8",
+            "fund_manager_qualification": "8",
+            "fund_manager_total_exp": "8",
+            "load_entry": "8",
+            "load_exit": "8",
+            "main_scheme_name": "8",
+            "min_addl_amt": "8",
+            "min_addl_amt_multiple": "8",
+            "min_amt": "8",
+            "min_amt_multiple": "8",
+            "monthly_aaum_date": "8",
+            "monthly_aaum_value": "8",
+            "mutual_fund_name": "8",
+            "riskometer": "8",
+            "riskometer_benchmark": "8",
+            "scheme_launch_date": "8"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "17Th March 2026",
+            "name": "Sanjay Doshi",
+            "qualification": "",
+            "total_exp": "20+ Years"
+          },
+          {
+            "managing_fund_since": "23Rd March 2026",
+            "name": "Abhishek Ks",
+            "qualification": "",
+            "total_exp": "12+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Sanjay Doshi",
+            "qualification": "",
+            "total_exp": ""
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Abhishek Ks",
+            "qualification": "",
+            "total_exp": ""
+          }
+        ],
+        "load": [
+          {
+            "type": "entry",
+            "comment": "Nil"
+          },
+          {
+            "type": "exit",
+            "comment": "if any : If units redeemed or switched out are upto 10% (limit) of the units purchased or switched in within 3 months from the date of allotment - Nil If units redeemed or switched out are over and above the 10% (limit) within 3 months from the date of allotment - 1% of the applicable NAV If redeemed switched out after 3 months from the date of allotment - Nil"
+          }
+        ],
+        "main_scheme_name": "Abakkus Small Cap Fund",
+        "metrics": [],
+        "min_addl_amt": "500",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "2,473.57 Crores",
+        "mutual_fund_name": "Abakkus Mutual Fund",
+        "page_number": "8",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20260317"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Abakkus Asset Management Private Limited",
+        "benchmark_index": [
+          "04th August 2026 : NIFTY Large Midcap 250"
+        ],
+        "field_location": [
+          {
+            "amc_name": "11",
+            "benchmark_index": "11",
+            "count": 4,
+            "fund_manager_managing_fund_since": "11",
+            "fund_manager_name": "11",
+            "fund_manager_qualification": "11",
+            "fund_manager_total_exp": "11",
+            "load_entry": "11",
+            "load_exit": "11",
+            "main_scheme_name": "11",
+            "min_addl_amt": "11",
+            "min_addl_amt_multiple": "11",
+            "min_amt": "11",
+            "min_amt_multiple": "11",
+            "monthly_aaum_date": "11",
+            "monthly_aaum_value": "11",
+            "mutual_fund_name": "11",
+            "riskometer": "11",
+            "riskometer_benchmark": "11",
+            "scheme_launch_date": "11"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "04Th August 2026",
+            "name": "Pratish Krishnan",
+            "qualification": "",
+            "total_exp": "25+ Years"
+          },
+          {
+            "managing_fund_since": "04Th August 2026",
+            "name": "Abhishek K",
+            "qualification": "",
+            "total_exp": "12+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Pratish Krishnan",
+            "qualification": "",
+            "total_exp": ""
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Abhishek K",
+            "qualification": "",
+            "total_exp": ""
+          }
+        ],
+        "load": [
+          {
+            "type": "entry",
+            "comment": "Nil"
+          },
+          {
+            "type": "exit",
+            "comment": "if any : 1% if Units redeemed switched out before 6 months from the date of allotment. No Exit Load is payable if Units are redeemed switched-out after 6 months from the date of allotment."
+          }
+        ],
+        "main_scheme_name": "Abakkus Large & Mid Cap Fund",
+        "metrics": [],
+        "min_addl_amt": "500",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "361.54 Crores",
+        "mutual_fund_name": "Abakkus Mutual Fund",
+        "page_number": "11",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20260804"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Abakkus Asset Management Private Limited",
+        "benchmark_index": [
+          "12th December 2025 : CRISIL Liquid Debt A-I"
+        ],
+        "field_location": [
+          {
+            "amc_name": "14",
+            "benchmark_index": "14",
+            "count": 4,
+            "fund_manager_managing_fund_since": "14",
+            "fund_manager_name": "14",
+            "fund_manager_qualification": "14",
+            "fund_manager_total_exp": "14",
+            "load_entry": "14",
+            "load_exit": "14",
+            "main_scheme_name": "14",
+            "min_addl_amt": "14",
+            "min_addl_amt_multiple": "14",
+            "min_amt": "14",
+            "min_amt_multiple": "14",
+            "monthly_aaum_date": "14",
+            "monthly_aaum_value": "14",
+            "mutual_fund_name": "14",
+            "riskometer": "14",
+            "riskometer_benchmark": "14",
+            "scheme_launch_date": "14"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "23Rd March 2026",
+            "name": "Abhishek Ks",
+            "qualification": "",
+            "total_exp": "12+ Years"
+          },
+          {
+            "managing_fund_since": "12Th December 2025",
+            "name": "Sanjay Doshi",
+            "qualification": "",
+            "total_exp": "20+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Abhishek Ks",
+            "qualification": "",
+            "total_exp": ""
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Sanjay Doshi",
+            "qualification": "",
+            "total_exp": ""
+          }
+        ],
+        "load": [
+          {
+            "type": "entry",
+            "comment": "Nil"
+          },
+          {
+            "type": "exit",
+            "comment": "if any : Investment period (Days Exit Load (% of from subscription NAV) redemption proceeds) 1 Day 0.0070% 2 Days 0.0065% 3 Days 0.0060% 4 Days 0.0055% 5 Days 0.0050% 6 Days 0.0045% 7 Days Or More NIL"
+          }
+        ],
+        "main_scheme_name": "Abakkus Liquid Fund",
+        "metrics": [],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "1000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "531.48 Crore",
+        "mutual_fund_name": "Abakkus Mutual Fund",
+        "page_number": "14",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20251212"
+      }
+    }
+  ]
+}

@@ -1,0 +1,5383 @@
+{
+  "metadata": {
+    "document_name": "38_31-Aug-26_FS.pdf",
+    "file_type": "fs",
+    "process_date": "20260917"
+  },
+  "records": [
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "07 May 1998 Nifty 100"
+        ],
+        "field_location": [
+          {
+            "amc_name": "16",
+            "benchmark_index": "16",
+            "count": 67,
+            "fund_manager_managing_fund_since": "16",
+            "fund_manager_name": "16",
+            "fund_manager_qualification": "16",
+            "fund_manager_total_exp": "16",
+            "load_exit": "16",
+            "main_scheme_name": "16",
+            "metrics_beta": "16",
+            "metrics_information_ratio": "16",
+            "metrics_port_turnover_ratio": "16",
+            "min_addl_amt": "16",
+            "min_addl_amt_multiple": "16",
+            "min_amt": "16",
+            "min_amt_multiple": "16",
+            "monthly_aaum_date": "16",
+            "monthly_aaum_value": "16",
+            "mutual_fund_name": "16",
+            "riskometer": "16",
+            "riskometer_benchmark": "16",
+            "scheme_launch_date": "16"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "05-Apr-2023",
+            "name": "Abhinav Sharma",
+            "qualification": "",
+            "total_exp": "19"
+          },
+          {
+            "managing_fund_since": "01-Mar-   2025",
+            "name": "Hasmukh Vishariya",
+            "qualification": "",
+            "total_exp": "8"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1. On or before 30 days from the date of allotment: 0.50%. 2. After 30 days from the date of allotment: NIL."
+          }
+        ],
+        "main_scheme_name": "Tata Large Cap Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.98"
+          },
+          {
+            "name": "information_ratio",
+            "value": "1.34"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "5802"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "2,786.45",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "16",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "19980507"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "06 September 2018 Nifty 500"
+        ],
+        "field_location": [
+          {
+            "amc_name": "19",
+            "benchmark_index": "19",
+            "count": 67,
+            "fund_manager_managing_fund_since": "19",
+            "fund_manager_name": "19",
+            "fund_manager_qualification": "19",
+            "fund_manager_total_exp": "19",
+            "load_exit": "19",
+            "main_scheme_name": "19",
+            "metrics_beta": "19",
+            "metrics_information_ratio": "19",
+            "metrics_port_turnover_ratio": "19",
+            "min_addl_amt": "19",
+            "min_addl_amt_multiple": "19",
+            "min_amt": "19",
+            "min_amt_multiple": "19",
+            "monthly_aaum_date": "19",
+            "monthly_aaum_value": "19",
+            "mutual_fund_name": "19",
+            "riskometer": "19",
+            "riskometer_benchmark": "19",
+            "scheme_launch_date": "19"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "03-Oct-2025",
+            "name": "Anand Sharma",
+            "qualification": "",
+            "total_exp": "14"
+          },
+          {
+            "managing_fund_since": "03-Oct-   2023",
+            "name": "Aditya Bagul",
+            "qualification": "",
+            "total_exp": "13"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Redemption Switch-out SWP STP: 1. On or before 30 days from the date of allotment: 0.50%. 2. After 30 days from the date of allotment: NIL."
+          }
+        ],
+        "main_scheme_name": "Tata Flexi Cap Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.83"
+          },
+          {
+            "name": "information_ratio",
+            "value": "-2.38"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "7062"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "3,707.65",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "19",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20180906"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "25 February 1993 Nifty Large Midcap 250"
+        ],
+        "field_location": [
+          {
+            "amc_name": "22",
+            "benchmark_index": "22",
+            "count": 67,
+            "fund_manager_managing_fund_since": "22",
+            "fund_manager_name": "22",
+            "fund_manager_qualification": "22",
+            "fund_manager_total_exp": "22",
+            "load_exit": "22",
+            "main_scheme_name": "22",
+            "metrics_beta": "22",
+            "metrics_information_ratio": "22",
+            "metrics_port_turnover_ratio": "22",
+            "min_addl_amt": "22",
+            "min_addl_amt_multiple": "22",
+            "min_amt": "22",
+            "min_amt_multiple": "22",
+            "monthly_aaum_date": "22",
+            "monthly_aaum_value": "22",
+            "mutual_fund_name": "22",
+            "riskometer": "22",
+            "riskometer_benchmark": "22",
+            "scheme_launch_date": "22"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "03-Sep-2018",
+            "name": "Chandraprakash Padiyar",
+            "qualification": "",
+            "total_exp": "25"
+          },
+          {
+            "managing_fund_since": "01-Jul-   2025",
+            "name": "Kapil Malhotra",
+            "qualification": "",
+            "total_exp": "16"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1. On or before 30 days from the date of allotment: 0.50%. 2. After 30 days from the date of allotment: NIL."
+          }
+        ],
+        "main_scheme_name": "Tata Large & Mid Cap Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.96"
+          },
+          {
+            "name": "information_ratio",
+            "value": "-2.39"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "1905"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "7,860.82",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "22",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "19930225"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "29 June 2004 Nifty 500"
+        ],
+        "field_location": [
+          {
+            "amc_name": "25",
+            "benchmark_index": "25",
+            "count": 67,
+            "fund_manager_managing_fund_since": "25",
+            "fund_manager_name": "25",
+            "fund_manager_qualification": "25",
+            "fund_manager_total_exp": "25",
+            "load_exit": "25",
+            "main_scheme_name": "25",
+            "metrics_beta": "25",
+            "metrics_information_ratio": "25",
+            "metrics_port_turnover_ratio": "25",
+            "min_addl_amt": "25",
+            "min_addl_amt_multiple": "25",
+            "min_amt": "25",
+            "min_amt_multiple": "25",
+            "monthly_aaum_date": "25",
+            "monthly_aaum_value": "25",
+            "mutual_fund_name": "25",
+            "riskometer": "25",
+            "riskometer_benchmark": "25",
+            "scheme_launch_date": "25"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "01-Apr-2016",
+            "name": "Sonam Udasi",
+            "qualification": "",
+            "total_exp": "28"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1. On or before 30 days from the date of allotment: 0.50%. 2. After 30 days from the date of allotment: NIL."
+          }
+        ],
+        "main_scheme_name": "Tata Value Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.95"
+          },
+          {
+            "name": "information_ratio",
+            "value": "0.41"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "6478"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "8,613.11",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "25",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20040629"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "01 July 1994 Nifty Midcap 150"
+        ],
+        "field_location": [
+          {
+            "amc_name": "28",
+            "benchmark_index": "28",
+            "count": 67,
+            "fund_manager_managing_fund_since": "28",
+            "fund_manager_name": "28",
+            "fund_manager_qualification": "28",
+            "fund_manager_total_exp": "28",
+            "load_exit": "28",
+            "main_scheme_name": "28",
+            "metrics_beta": "28",
+            "metrics_port_turnover_ratio": "28",
+            "min_addl_amt": "28",
+            "min_addl_amt_multiple": "28",
+            "min_amt": "28",
+            "min_amt_multiple": "28",
+            "monthly_aaum_date": "28",
+            "monthly_aaum_value": "28",
+            "mutual_fund_name": "28",
+            "riskometer": "28",
+            "riskometer_benchmark": "28",
+            "scheme_launch_date": "28"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "09-Mar-2021",
+            "name": "Satish Chandra",
+            "qualification": "",
+            "total_exp": "19"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1. On or before 30 days from the date of allotment: 0.50%. 2. After 30 days from the date of allotment: NIL."
+          }
+        ],
+        "main_scheme_name": "Tata Mid Cap Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.81"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "4269"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "6,170.31",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "28",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "19940701"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "31 March 1996 Nifty 500"
+        ],
+        "field_location": [
+          {
+            "amc_name": "31",
+            "benchmark_index": "31",
+            "count": 67,
+            "fund_manager_managing_fund_since": "31",
+            "fund_manager_name": "31",
+            "fund_manager_qualification": "31",
+            "fund_manager_total_exp": "31",
+            "load_exit": "31",
+            "main_scheme_name": "31",
+            "metrics_beta": "31",
+            "metrics_port_turnover_ratio": "31",
+            "min_addl_amt": "31",
+            "min_addl_amt_multiple": "31",
+            "min_amt": "31",
+            "min_amt_multiple": "31",
+            "monthly_aaum_date": "31",
+            "monthly_aaum_value": "31",
+            "mutual_fund_name": "31",
+            "riskometer": "31",
+            "riskometer_benchmark": "31",
+            "scheme_launch_date": "31"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "16-Dec-2021",
+            "name": "Sailesh Jain",
+            "qualification": "",
+            "total_exp": "23"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil (Compulsory lock-in period for 3 years)"
+          }
+        ],
+        "main_scheme_name": "Tata ELSS - Tax Saver Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.09"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "4060"
+          }
+        ],
+        "min_addl_amt": "500",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "500",
+        "min_amt_multiple": "500",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "4,743.94",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "31",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "19960331"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "12 November 2018 Nifty Smallcap 250"
+        ],
+        "field_location": [
+          {
+            "amc_name": "34",
+            "benchmark_index": "34",
+            "count": 67,
+            "fund_manager_managing_fund_since": "34",
+            "fund_manager_name": "34",
+            "fund_manager_qualification": "34",
+            "fund_manager_total_exp": "34",
+            "load_exit": "34",
+            "main_scheme_name": "34",
+            "metrics_beta": "34",
+            "metrics_information_ratio": "34",
+            "metrics_port_turnover_ratio": "34",
+            "min_addl_amt": "34",
+            "min_addl_amt_multiple": "34",
+            "min_amt": "34",
+            "min_amt_multiple": "34",
+            "monthly_aaum_date": "34",
+            "monthly_aaum_value": "34",
+            "mutual_fund_name": "34",
+            "riskometer": "34",
+            "riskometer_benchmark": "34",
+            "scheme_launch_date": "34"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "19-Oct-2018",
+            "name": "Chandraprakash Padiyar",
+            "qualification": "",
+            "total_exp": "25"
+          },
+          {
+            "managing_fund_since": "03-Oct-   2023",
+            "name": "Jeetendra Khatri",
+            "qualification": "",
+            "total_exp": "18"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Redemption Switch out SWP STP: 1. On or before 30 days from the date of allotment: 0.50%. 2. After 30 days from the date of allotment: NIL."
+          }
+        ],
+        "main_scheme_name": "Tata Small Cap Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.84"
+          },
+          {
+            "name": "information_ratio",
+            "value": "-2.04"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "748"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "13,029.94",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "34",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20181112"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "05 December 2019 Nifty 500"
+        ],
+        "field_location": [
+          {
+            "amc_name": "37",
+            "benchmark_index": "37",
+            "count": 67,
+            "fund_manager_managing_fund_since": "37",
+            "fund_manager_name": "37",
+            "fund_manager_qualification": "37",
+            "fund_manager_total_exp": "37",
+            "load_exit": "37",
+            "main_scheme_name": "37",
+            "metrics_beta": "37",
+            "metrics_information_ratio": "37",
+            "metrics_port_turnover_ratio": "37",
+            "min_addl_amt": "37",
+            "min_addl_amt_multiple": "37",
+            "min_amt": "37",
+            "min_amt_multiple": "37",
+            "monthly_aaum_date": "37",
+            "monthly_aaum_value": "37",
+            "mutual_fund_name": "37",
+            "riskometer": "37",
+            "riskometer_benchmark": "37",
+            "scheme_launch_date": "37"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "03-Oct-2025",
+            "name": "Anand Sharma",
+            "qualification": "",
+            "total_exp": "14"
+          },
+          {
+            "managing_fund_since": "01-Mar-   2025",
+            "name": "Hasmukh Vishariya",
+            "qualification": "",
+            "total_exp": "8"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Redemption Switch-out SWP STP: 1. On or before 30 days from the date of allotment: 0.50%. 2. After 30 days from the date of allotment: NIL."
+          }
+        ],
+        "main_scheme_name": "Tata Focused Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.89"
+          },
+          {
+            "name": "information_ratio",
+            "value": "-1.44"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "7389"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "1,777.42",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "37",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20191205"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "25 February 2003 Nifty 50"
+        ],
+        "field_location": [
+          {
+            "amc_name": "40",
+            "benchmark_index": "40",
+            "count": 67,
+            "fund_manager_managing_fund_since": "40",
+            "fund_manager_name": "40",
+            "fund_manager_qualification": "40",
+            "fund_manager_total_exp": "40",
+            "load_exit": "40",
+            "main_scheme_name": "40",
+            "metrics_beta": "40",
+            "metrics_port_turnover_ratio": "40",
+            "min_addl_amt": "40",
+            "min_addl_amt_multiple": "40",
+            "min_amt": "40",
+            "min_amt_multiple": "40",
+            "monthly_aaum_date": "40",
+            "monthly_aaum_value": "40",
+            "mutual_fund_name": "40",
+            "riskometer": "40",
+            "riskometer_benchmark": "40",
+            "scheme_launch_date": "40"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "01-Jul-2025",
+            "name": "Nitin Bharat",
+            "qualification": "",
+            "total_exp": "19"
+          },
+          {
+            "managing_fund_since": "20-Dec-   2024",
+            "name": "Rakesh Indrajeet",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "0.25% of the applicable NAV, if redeemed on or before 7 days from the date of allotment."
+          }
+        ],
+        "main_scheme_name": "TATA NIFTY 50 INDEX FUND",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.97"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "636"
+          }
+        ],
+        "min_addl_amt": "150",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "1,725.32",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "40",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20030225"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "26 April 2024 Nifty Auto"
+        ],
+        "field_location": [
+          {
+            "amc_name": "43",
+            "benchmark_index": "43",
+            "count": 67,
+            "fund_manager_managing_fund_since": "43",
+            "fund_manager_name": "43",
+            "fund_manager_qualification": "43",
+            "fund_manager_total_exp": "43",
+            "load_exit": "43",
+            "main_scheme_name": "43",
+            "metrics_beta": "43",
+            "metrics_port_turnover_ratio": "43",
+            "min_addl_amt": "43",
+            "min_addl_amt_multiple": "43",
+            "min_amt": "43",
+            "min_amt_multiple": "43",
+            "monthly_aaum_date": "43",
+            "monthly_aaum_value": "43",
+            "mutual_fund_name": "43",
+            "riskometer": "43",
+            "riskometer_benchmark": "43",
+            "scheme_launch_date": "43"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "01-Jul-2025",
+            "name": "Nitin Bharat",
+            "qualification": "",
+            "total_exp": "19"
+          },
+          {
+            "managing_fund_since": "20-Dec-   2024",
+            "name": "Rakesh Indrajeet",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "0.25 % of the applicable NAV, if redeemed on or before 15 days from the date of allotment"
+          }
+        ],
+        "main_scheme_name": "Tata Nifty Auto Index Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.96"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "2212"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "109.11",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "43",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20240426"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "24 July 2024 Nifty India Tourism"
+        ],
+        "field_location": [
+          {
+            "amc_name": "46",
+            "benchmark_index": "46",
+            "count": 67,
+            "fund_manager_managing_fund_since": "46",
+            "fund_manager_name": "46",
+            "fund_manager_qualification": "46",
+            "fund_manager_total_exp": "46",
+            "load_exit": "46",
+            "main_scheme_name": "46",
+            "metrics_beta": "46",
+            "metrics_port_turnover_ratio": "46",
+            "min_addl_amt": "46",
+            "min_addl_amt_multiple": "46",
+            "min_amt": "46",
+            "min_amt_multiple": "46",
+            "monthly_aaum_date": "46",
+            "monthly_aaum_value": "46",
+            "mutual_fund_name": "46",
+            "riskometer": "46",
+            "riskometer_benchmark": "46",
+            "scheme_launch_date": "46"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "01-Jul-2025",
+            "name": "Nitin Bharat",
+            "qualification": "",
+            "total_exp": "19"
+          },
+          {
+            "managing_fund_since": "20-Dec-   2024",
+            "name": "Rakesh Indrajeet",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "0.25% of the applicable NAV, if redeemed on or before 15 days from the date of allotment"
+          }
+        ],
+        "main_scheme_name": "Tata Nifty India Tourism Index Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.96"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "4001"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "271.15",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "46",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20240724"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "26 April 2024 Nifty Financial Services"
+        ],
+        "field_location": [
+          {
+            "amc_name": "49",
+            "benchmark_index": "49",
+            "count": 67,
+            "fund_manager_managing_fund_since": "49",
+            "fund_manager_name": "49",
+            "fund_manager_qualification": "49",
+            "fund_manager_total_exp": "49",
+            "load_exit": "49",
+            "main_scheme_name": "49",
+            "metrics_beta": "49",
+            "metrics_port_turnover_ratio": "49",
+            "min_addl_amt": "49",
+            "min_addl_amt_multiple": "49",
+            "min_amt": "49",
+            "min_amt_multiple": "49",
+            "monthly_aaum_date": "49",
+            "monthly_aaum_value": "49",
+            "mutual_fund_name": "49",
+            "riskometer": "49",
+            "riskometer_benchmark": "49",
+            "scheme_launch_date": "49"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "01-Jul-2025",
+            "name": "Nitin Bharat",
+            "qualification": "",
+            "total_exp": "19"
+          },
+          {
+            "managing_fund_since": "20-Dec-   2024",
+            "name": "Rakesh Indrajeet",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "0.25 % of the applicable NAV, if redeemed on or before 15 days from the date of allotment"
+          }
+        ],
+        "main_scheme_name": "Tata Nifty Financial Services Index Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.96"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "7017"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "70.54",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "49",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20240426"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "26 April 2024 Nifty MidSmall Healthcare"
+        ],
+        "field_location": [
+          {
+            "amc_name": "52",
+            "benchmark_index": "52",
+            "count": 67,
+            "fund_manager_managing_fund_since": "52",
+            "fund_manager_name": "52",
+            "fund_manager_qualification": "52",
+            "fund_manager_total_exp": "52",
+            "load_exit": "52",
+            "main_scheme_name": "52",
+            "metrics_beta": "52",
+            "metrics_port_turnover_ratio": "52",
+            "min_addl_amt": "52",
+            "min_addl_amt_multiple": "52",
+            "min_amt": "52",
+            "min_amt_multiple": "52",
+            "monthly_aaum_date": "52",
+            "monthly_aaum_value": "52",
+            "mutual_fund_name": "52",
+            "riskometer": "52",
+            "riskometer_benchmark": "52",
+            "scheme_launch_date": "52"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "01-Jul-2025",
+            "name": "Nitin Bharat",
+            "qualification": "",
+            "total_exp": "19"
+          },
+          {
+            "managing_fund_since": "20-Dec-   2024",
+            "name": "Rakesh Indrajeet",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "0.25 % of the applicable NAV, if redeemed on or before 15 days from the date of allotment"
+          }
+        ],
+        "main_scheme_name": "Tata Nifty MidSmall Healthcare Index Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.96"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "4004"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "214.52",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "52",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20240426"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "26 April 2024 Nifty Realty"
+        ],
+        "field_location": [
+          {
+            "amc_name": "55",
+            "benchmark_index": "55",
+            "count": 67,
+            "fund_manager_managing_fund_since": "55",
+            "fund_manager_name": "55",
+            "fund_manager_qualification": "55",
+            "fund_manager_total_exp": "55",
+            "load_exit": "55",
+            "main_scheme_name": "55",
+            "metrics_beta": "55",
+            "metrics_port_turnover_ratio": "55",
+            "min_addl_amt": "55",
+            "min_addl_amt_multiple": "55",
+            "min_amt": "55",
+            "min_amt_multiple": "55",
+            "monthly_aaum_date": "55",
+            "monthly_aaum_value": "55",
+            "mutual_fund_name": "55",
+            "riskometer": "55",
+            "riskometer_benchmark": "55",
+            "scheme_launch_date": "55"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "01-Jul-2025",
+            "name": "Nitin Bharat",
+            "qualification": "",
+            "total_exp": "19"
+          },
+          {
+            "managing_fund_since": "20-Dec-   2024",
+            "name": "Rakesh Indrajeet",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "0.25 % of the applicable NAV, if redeemed on or before 15 days from the date of allotment"
+          }
+        ],
+        "main_scheme_name": "Tata Nifty Realty Index Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.96"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "5141"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "64.53",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "55",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20240426"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "26 April 2024 Nifty 500 Multicap India Manufacturing 50:30:20"
+        ],
+        "field_location": [
+          {
+            "amc_name": "58",
+            "benchmark_index": "58",
+            "count": 67,
+            "fund_manager_managing_fund_since": "58",
+            "fund_manager_name": "58",
+            "fund_manager_qualification": "58",
+            "fund_manager_total_exp": "58",
+            "load_exit": "58",
+            "main_scheme_name": "58",
+            "metrics_beta": "58",
+            "metrics_port_turnover_ratio": "58",
+            "min_addl_amt": "58",
+            "min_addl_amt_multiple": "58",
+            "min_amt": "58",
+            "min_amt_multiple": "58",
+            "monthly_aaum_date": "58",
+            "monthly_aaum_value": "58",
+            "mutual_fund_name": "58",
+            "riskometer": "58",
+            "riskometer_benchmark": "58",
+            "scheme_launch_date": "58"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "01-Jul-2025",
+            "name": "Nitin Bharat",
+            "qualification": "",
+            "total_exp": "19"
+          },
+          {
+            "managing_fund_since": "20-Dec-   2024",
+            "name": "Rakesh Indrajeet",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "0.25 % of the applicable NAV, if redeemed on or before 15 days from the date of allotment"
+          }
+        ],
+        "main_scheme_name": "TATA Nifty500 Multicap India Manufacturing 50:30:20 Index Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.96"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "4088"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "140.75",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "58",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20240426"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "26 April 2024 Nifty 500 Multicap Infrastructure 50:30:20"
+        ],
+        "field_location": [
+          {
+            "amc_name": "61",
+            "benchmark_index": "61",
+            "count": 67,
+            "fund_manager_managing_fund_since": "61",
+            "fund_manager_name": "61",
+            "fund_manager_qualification": "61",
+            "fund_manager_total_exp": "61",
+            "load_exit": "61",
+            "main_scheme_name": "61",
+            "metrics_beta": "61",
+            "metrics_port_turnover_ratio": "61",
+            "min_addl_amt": "61",
+            "min_addl_amt_multiple": "61",
+            "min_amt": "61",
+            "min_amt_multiple": "61",
+            "monthly_aaum_date": "61",
+            "monthly_aaum_value": "61",
+            "mutual_fund_name": "61",
+            "riskometer": "61",
+            "riskometer_benchmark": "61",
+            "scheme_launch_date": "61"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "01-Jul-2025",
+            "name": "Nitin Bharat",
+            "qualification": "",
+            "total_exp": "19"
+          },
+          {
+            "managing_fund_since": "20-Dec-   2024",
+            "name": "Rakesh Indrajeet",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "0.25% of the applicable NAV, if redeemed on or before 15 days from the date of allotment"
+          }
+        ],
+        "main_scheme_name": "Tata Nifty500 Multicap Infrastructure 50:30:20 Index Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.97"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "4799"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "78.87",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "61",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20240426"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "25 February 2003 BSE Sensex"
+        ],
+        "field_location": [
+          {
+            "amc_name": "64",
+            "benchmark_index": "64",
+            "count": 67,
+            "fund_manager_managing_fund_since": "64",
+            "fund_manager_name": "64",
+            "fund_manager_qualification": "64",
+            "fund_manager_total_exp": "64",
+            "load_exit": "64",
+            "main_scheme_name": "64",
+            "metrics_beta": "64",
+            "metrics_port_turnover_ratio": "64",
+            "min_addl_amt": "64",
+            "min_addl_amt_multiple": "64",
+            "min_amt": "64",
+            "min_amt_multiple": "64",
+            "monthly_aaum_date": "64",
+            "monthly_aaum_value": "64",
+            "mutual_fund_name": "64",
+            "riskometer": "64",
+            "riskometer_benchmark": "64",
+            "scheme_launch_date": "64"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "01-Jul-2025",
+            "name": "Nitin Bharat",
+            "qualification": "",
+            "total_exp": "19"
+          },
+          {
+            "managing_fund_since": "20-Dec-   2024",
+            "name": "Rakesh Indrajeet",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "0.25% of the applicable NAV, if redeemed on or before 7 days from the date of allotment."
+          }
+        ],
+        "main_scheme_name": "Tata BSE Sensex Index Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.97"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "1019"
+          }
+        ],
+        "min_addl_amt": "150",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "392.21",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "64",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20030225"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "12 December 2024 BSE Select Businesses Group Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "67",
+            "benchmark_index": "67",
+            "count": 67,
+            "fund_manager_managing_fund_since": "67",
+            "fund_manager_name": "67",
+            "fund_manager_qualification": "67",
+            "fund_manager_total_exp": "67",
+            "load_exit": "67",
+            "main_scheme_name": "67",
+            "metrics_beta": "67",
+            "metrics_port_turnover_ratio": "67",
+            "min_addl_amt": "67",
+            "min_addl_amt_multiple": "67",
+            "min_amt": "67",
+            "min_amt_multiple": "67",
+            "monthly_aaum_date": "67",
+            "monthly_aaum_value": "67",
+            "mutual_fund_name": "67",
+            "riskometer": "67",
+            "riskometer_benchmark": "67",
+            "scheme_launch_date": "67"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "01-Jul-2025",
+            "name": "Nitin Bharat",
+            "qualification": "",
+            "total_exp": "19"
+          },
+          {
+            "managing_fund_since": "20-Dec-   2024",
+            "name": "Rakesh Indrajeet",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "0.25% of the applicable NAV, if redeemed on or before 15 days from the date of allotment"
+          }
+        ],
+        "main_scheme_name": "Tata BSE Select Business Groups Index Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.95"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "5048"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "232.00",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "67",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20241212"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "03 April 2025 BSE Quality Total Return Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "70",
+            "benchmark_index": "70",
+            "count": 67,
+            "fund_manager_managing_fund_since": "70",
+            "fund_manager_name": "70",
+            "fund_manager_qualification": "70",
+            "fund_manager_total_exp": "70",
+            "load_exit": "70",
+            "main_scheme_name": "70",
+            "metrics_beta": "70",
+            "metrics_port_turnover_ratio": "70",
+            "min_addl_amt": "70",
+            "min_addl_amt_multiple": "70",
+            "min_amt": "70",
+            "min_amt_multiple": "70",
+            "monthly_aaum_date": "70",
+            "monthly_aaum_value": "70",
+            "mutual_fund_name": "70",
+            "riskometer": "70",
+            "riskometer_benchmark": "70",
+            "scheme_launch_date": "70"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "01-Jul-2025",
+            "name": "Nitin Bharat",
+            "qualification": "",
+            "total_exp": "19"
+          },
+          {
+            "managing_fund_since": "01-Jul-2025",
+            "name": "Rakesh Indrajeet",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "0.25% of the applicable NAV, if redeemed on or before 15 days from the date of allotment"
+          }
+        ],
+        "main_scheme_name": "Tata BSE Quality Index Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.94"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "7509"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "58.07",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "70",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250403"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "29 December 2025 BSE Multicap Consumption 50:30:20 Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "73",
+            "benchmark_index": "73",
+            "count": 67,
+            "fund_manager_managing_fund_since": "73",
+            "fund_manager_name": "73",
+            "fund_manager_qualification": "73",
+            "fund_manager_total_exp": "73",
+            "load_exit": "73",
+            "main_scheme_name": "73",
+            "metrics_port_turnover_ratio": "73",
+            "min_addl_amt": "73",
+            "min_addl_amt_multiple": "73",
+            "min_amt": "73",
+            "min_amt_multiple": "73",
+            "monthly_aaum_date": "73",
+            "monthly_aaum_value": "73",
+            "mutual_fund_name": "73",
+            "riskometer": "73",
+            "riskometer_benchmark": "73",
+            "scheme_launch_date": "73"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "08-Dec-2025",
+            "name": "Nitin Bharat",
+            "qualification": "",
+            "total_exp": "19"
+          },
+          {
+            "managing_fund_since": "08-Dec-   2025",
+            "name": "Rakesh Indrajeet",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "0.25% of the applicable NAV, if redeemed on or before 15 days from the date of allotment."
+          }
+        ],
+        "main_scheme_name": "Tata BSE Multicap Consumption 50:30:20 Index Fund",
+        "metrics": [
+          {
+            "name": "port_turnover_ratio",
+            "value": "5561"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "44.30",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "73",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20251229"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "01 January 2019 Nifty 50"
+        ],
+        "field_location": [
+          {
+            "amc_name": "76",
+            "benchmark_index": "76",
+            "count": 67,
+            "fund_manager_managing_fund_since": "76",
+            "fund_manager_name": "76",
+            "fund_manager_qualification": "76",
+            "fund_manager_total_exp": "76",
+            "load_exit": "76",
+            "main_scheme_name": "76",
+            "metrics_beta": "76",
+            "metrics_port_turnover_ratio": "76",
+            "min_addl_amt": "76",
+            "min_addl_amt_multiple": "76",
+            "min_amt": "76",
+            "min_amt_multiple": "76",
+            "monthly_aaum_date": "76",
+            "monthly_aaum_value": "76",
+            "mutual_fund_name": "76",
+            "riskometer": "76",
+            "riskometer_benchmark": "76",
+            "scheme_launch_date": "76"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "01-Jul-2025",
+            "name": "Nitin Bharat",
+            "qualification": "",
+            "total_exp": "19"
+          },
+          {
+            "managing_fund_since": "20-Dec-   2024",
+            "name": "Rakesh Indrajeet",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "TATA NIFTY 50 EXCHANGE TRADED FUND",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.97"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "393"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "0",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "724.88",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "76",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20190101"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "30 August 2019 Nifty Private Bank"
+        ],
+        "field_location": [
+          {
+            "amc_name": "79",
+            "benchmark_index": "79",
+            "count": 67,
+            "fund_manager_managing_fund_since": "79",
+            "fund_manager_name": "79",
+            "fund_manager_qualification": "79",
+            "fund_manager_total_exp": "79",
+            "load_exit": "79",
+            "main_scheme_name": "79",
+            "metrics_beta": "79",
+            "metrics_port_turnover_ratio": "79",
+            "min_addl_amt": "79",
+            "min_addl_amt_multiple": "79",
+            "min_amt": "79",
+            "min_amt_multiple": "79",
+            "monthly_aaum_date": "79",
+            "monthly_aaum_value": "79",
+            "mutual_fund_name": "79",
+            "riskometer": "79",
+            "riskometer_benchmark": "79",
+            "scheme_launch_date": "79"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "01-Jul-2025",
+            "name": "Nitin Bharat",
+            "qualification": "",
+            "total_exp": "19"
+          },
+          {
+            "managing_fund_since": "20-Dec-   2024",
+            "name": "Rakesh Indrajeet",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Tata Nifty Private Bank Exchange Traded Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.97"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "2551"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "1500",
+        "min_amt_multiple": "0",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "19.53",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "79",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20190830"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "20 May 2021 Nifty 500"
+        ],
+        "field_location": [
+          {
+            "amc_name": "82",
+            "benchmark_index": "82",
+            "count": 67,
+            "fund_manager_managing_fund_since": "82",
+            "fund_manager_name": "82",
+            "fund_manager_qualification": "82",
+            "fund_manager_total_exp": "82",
+            "load_exit": "82",
+            "main_scheme_name": "82",
+            "metrics_beta": "82",
+            "metrics_information_ratio": "82",
+            "metrics_port_turnover_ratio": "82",
+            "min_addl_amt": "82",
+            "min_addl_amt_multiple": "82",
+            "min_amt": "82",
+            "min_amt_multiple": "82",
+            "monthly_aaum_date": "82",
+            "monthly_aaum_value": "82",
+            "mutual_fund_name": "82",
+            "riskometer": "82",
+            "riskometer_benchmark": "82",
+            "scheme_launch_date": "82"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "03-May-2021",
+            "name": "Sailesh Jain",
+            "qualification": "",
+            "total_exp": "23"
+          },
+          {
+            "managing_fund_since": "03-May-   2021",
+            "name": "Murthy Nagarajan",
+            "qualification": "",
+            "total_exp": "29"
+          },
+          {
+            "managing_fund_since": "01-Mar-2025",
+            "name": "Hasmukh Vishariya",
+            "qualification": "",
+            "total_exp": "8"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Redemption Switch-out SWP STP: 1. On or before 30 days from the date of allotment: 0.50%. 2. After 30 days from the date of allotment: NIL."
+          }
+        ],
+        "main_scheme_name": "Tata Dividend Yield Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.00"
+          },
+          {
+            "name": "information_ratio",
+            "value": "3.03"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "3286"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "1,150.12",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "82",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20210520"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "13 April 2022 Nifty India Digital"
+        ],
+        "field_location": [
+          {
+            "amc_name": "85",
+            "benchmark_index": "85",
+            "count": 67,
+            "fund_manager_managing_fund_since": "85",
+            "fund_manager_name": "85",
+            "fund_manager_qualification": "85",
+            "fund_manager_total_exp": "85",
+            "load_exit": "85",
+            "main_scheme_name": "85",
+            "metrics_beta": "85",
+            "metrics_port_turnover_ratio": "85",
+            "min_addl_amt": "85",
+            "min_addl_amt_multiple": "85",
+            "min_amt": "85",
+            "min_amt_multiple": "85",
+            "monthly_aaum_date": "85",
+            "monthly_aaum_value": "85",
+            "mutual_fund_name": "85",
+            "riskometer": "85",
+            "riskometer_benchmark": "85",
+            "scheme_launch_date": "85"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "01-Jul-2025",
+            "name": "Nitin Bharat",
+            "qualification": "",
+            "total_exp": "19"
+          },
+          {
+            "managing_fund_since": "20-Dec-   2024",
+            "name": "Rakesh Indrajeet",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Redemption Switch-out SWP STP on or before expiry of 365 days from the date of allotment: If the withdrawal amount or switched out amount is not more than 12% of the original cost of investment- Nil Redemption Switch-out SWP STP on or before expiry of 365 days from the date of allotment: If the withdrawal amount or switched out amount is more than 12% of the original cost of investment-1% Redemption Switch-out SWP STP after expiry of 365 days from the date of allotment-Nil"
+          }
+        ],
+        "main_scheme_name": "Tata Nifty India Digital ETF Fund of Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.94"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "1430"
+          }
+        ],
+        "min_addl_amt": "150",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "116.18",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "85",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20220413"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "31 March 2022 Nifty India Digital"
+        ],
+        "field_location": [
+          {
+            "amc_name": "88",
+            "benchmark_index": "88",
+            "count": 67,
+            "fund_manager_managing_fund_since": "88",
+            "fund_manager_name": "88",
+            "fund_manager_qualification": "88",
+            "fund_manager_total_exp": "88",
+            "load_exit": "88",
+            "main_scheme_name": "88",
+            "metrics_beta": "88",
+            "metrics_port_turnover_ratio": "88",
+            "min_addl_amt": "88",
+            "min_addl_amt_multiple": "88",
+            "min_amt": "88",
+            "min_amt_multiple": "88",
+            "monthly_aaum_date": "88",
+            "monthly_aaum_value": "88",
+            "mutual_fund_name": "88",
+            "riskometer": "88",
+            "riskometer_benchmark": "88",
+            "scheme_launch_date": "88"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "01-Jul-2025",
+            "name": "Nitin Bharat",
+            "qualification": "",
+            "total_exp": "19"
+          },
+          {
+            "managing_fund_since": "20-Dec-   2024",
+            "name": "Rakesh Indrajeet",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Tata Nifty India Digital Exchange Traded Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.97"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "4347"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "174.13",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "88",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20220331"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "12 January 2024 Domestic Price of Silver"
+        ],
+        "field_location": [
+          {
+            "amc_name": "91",
+            "benchmark_index": "91",
+            "count": 67,
+            "fund_manager_managing_fund_since": "91",
+            "fund_manager_name": "91",
+            "fund_manager_qualification": "91",
+            "fund_manager_total_exp": "91",
+            "load_exit": "91",
+            "main_scheme_name": "91",
+            "metrics_beta": "91",
+            "metrics_port_turnover_ratio": "91",
+            "min_addl_amt": "91",
+            "min_addl_amt_multiple": "91",
+            "min_amt": "91",
+            "min_amt_multiple": "91",
+            "monthly_aaum_date": "91",
+            "monthly_aaum_value": "91",
+            "mutual_fund_name": "91",
+            "riskometer": "91",
+            "riskometer_benchmark": "91",
+            "scheme_launch_date": "91"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "02-Jan-2024",
+            "name": "Tapan Patel",
+            "qualification": "",
+            "total_exp": "12"
+          },
+          {
+            "managing_fund_since": "01-Jul-2025",
+            "name": "Nitin Bharat",
+            "qualification": "",
+            "total_exp": "19"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Tata Silver Exchange Traded Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.94"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "11958"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "5,430.64",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "91",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20240112"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "19 January 2024 Domestic Price of Silver"
+        ],
+        "field_location": [
+          {
+            "amc_name": "94",
+            "benchmark_index": "94",
+            "count": 67,
+            "fund_manager_managing_fund_since": "94",
+            "fund_manager_name": "94",
+            "fund_manager_qualification": "94",
+            "fund_manager_total_exp": "94",
+            "load_exit": "94",
+            "main_scheme_name": "94",
+            "metrics_beta": "94",
+            "metrics_port_turnover_ratio": "94",
+            "min_addl_amt": "94",
+            "min_addl_amt_multiple": "94",
+            "min_amt": "94",
+            "min_amt_multiple": "94",
+            "monthly_aaum_date": "94",
+            "monthly_aaum_value": "94",
+            "mutual_fund_name": "94",
+            "riskometer": "94",
+            "riskometer_benchmark": "94",
+            "scheme_launch_date": "94"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "02-Jan-2024",
+            "name": "Tapan Patel",
+            "qualification": "",
+            "total_exp": "12"
+          },
+          {
+            "managing_fund_since": "09-Mar-   2026",
+            "name": "Nitin Bharat",
+            "qualification": "",
+            "total_exp": "19"
+          },
+          {
+            "managing_fund_since": "09-Mar-2026",
+            "name": "Rakesh Indrajeet",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Redemption Switch-out SWP STP on or before expiry of 7 days from the date of allotment: 0.5%"
+          }
+        ],
+        "main_scheme_name": "Tata Silver ETF Fund of Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.77"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "2023"
+          }
+        ],
+        "min_addl_amt": "150",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "1,088.74",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "94",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20240119"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "12 January 2024 Domestic Price of Gold"
+        ],
+        "field_location": [
+          {
+            "amc_name": "97",
+            "benchmark_index": "97",
+            "count": 67,
+            "fund_manager_managing_fund_since": "97",
+            "fund_manager_name": "97",
+            "fund_manager_qualification": "97",
+            "fund_manager_total_exp": "97",
+            "load_exit": "97",
+            "main_scheme_name": "97",
+            "metrics_beta": "97",
+            "metrics_port_turnover_ratio": "97",
+            "min_addl_amt": "97",
+            "min_addl_amt_multiple": "97",
+            "min_amt": "97",
+            "min_amt_multiple": "97",
+            "monthly_aaum_date": "97",
+            "monthly_aaum_value": "97",
+            "mutual_fund_name": "97",
+            "riskometer": "97",
+            "riskometer_benchmark": "97",
+            "scheme_launch_date": "97"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "02-Jan-2024",
+            "name": "Tapan Patel",
+            "qualification": "",
+            "total_exp": "12"
+          },
+          {
+            "managing_fund_since": "01-Jul-2025",
+            "name": "Nitin Bharat",
+            "qualification": "",
+            "total_exp": "19"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Tata Gold Exchange Traded Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.94"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "3063"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "6,114.09",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "97",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20240112"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "19 January 2024 Domestic Price of Gold"
+        ],
+        "field_location": [
+          {
+            "amc_name": "100",
+            "benchmark_index": "100",
+            "count": 67,
+            "fund_manager_managing_fund_since": "100",
+            "fund_manager_name": "100",
+            "fund_manager_qualification": "100",
+            "fund_manager_total_exp": "100",
+            "load_exit": "100",
+            "main_scheme_name": "100",
+            "metrics_beta": "100",
+            "metrics_port_turnover_ratio": "100",
+            "min_addl_amt": "100",
+            "min_addl_amt_multiple": "100",
+            "min_amt": "100",
+            "min_amt_multiple": "100",
+            "monthly_aaum_date": "100",
+            "monthly_aaum_value": "100",
+            "mutual_fund_name": "100",
+            "riskometer": "100",
+            "riskometer_benchmark": "100",
+            "scheme_launch_date": "100"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "02-Jan-2024",
+            "name": "Tapan Patel",
+            "qualification": "",
+            "total_exp": "12"
+          },
+          {
+            "managing_fund_since": "09-Mar-   2026",
+            "name": "Nitin Bharat",
+            "qualification": "",
+            "total_exp": "19"
+          },
+          {
+            "managing_fund_since": "09-Mar-2026",
+            "name": "Rakesh Indrajeet",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Redemption Switch-out SWP STP on or before expiry of 7 days from the date of allotment: 0.5%"
+          }
+        ],
+        "main_scheme_name": "Tata Gold ETF Fund of Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.94"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "586"
+          }
+        ],
+        "min_addl_amt": "150",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "1,511.60",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "100",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20240119"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "20 October 2022 Nifty Midcap150 Momentum 50"
+        ],
+        "field_location": [
+          {
+            "amc_name": "103",
+            "benchmark_index": "103",
+            "count": 67,
+            "fund_manager_managing_fund_since": "103",
+            "fund_manager_name": "103",
+            "fund_manager_qualification": "103",
+            "fund_manager_total_exp": "103",
+            "load_exit": "103",
+            "main_scheme_name": "103",
+            "metrics_beta": "103",
+            "metrics_port_turnover_ratio": "103",
+            "min_addl_amt": "103",
+            "min_addl_amt_multiple": "103",
+            "min_amt": "103",
+            "min_amt_multiple": "103",
+            "monthly_aaum_date": "103",
+            "monthly_aaum_value": "103",
+            "mutual_fund_name": "103",
+            "riskometer": "103",
+            "riskometer_benchmark": "103",
+            "scheme_launch_date": "103"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "01-Jul-2025",
+            "name": "Nitin Bharat",
+            "qualification": "",
+            "total_exp": "19"
+          },
+          {
+            "managing_fund_since": "20-Dec-   2024",
+            "name": "Rakesh Indrajeet",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1. On or before 30 days from the date of allotment: 0.50% 2. After 30 days from the date of allotment: NIL."
+          }
+        ],
+        "main_scheme_name": "Tata Nifty Midcap 150 Momentum 50 Index Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.97"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "10622"
+          }
+        ],
+        "min_addl_amt": "150",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "1,247.78",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "103",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20221020"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "05 September 2024 Nifty 200 Alpha 30"
+        ],
+        "field_location": [
+          {
+            "amc_name": "106",
+            "benchmark_index": "106",
+            "count": 67,
+            "fund_manager_managing_fund_since": "106",
+            "fund_manager_name": "106",
+            "fund_manager_qualification": "106",
+            "fund_manager_total_exp": "106",
+            "load_exit": "106",
+            "main_scheme_name": "106",
+            "metrics_beta": "106",
+            "metrics_port_turnover_ratio": "106",
+            "min_addl_amt": "106",
+            "min_addl_amt_multiple": "106",
+            "min_amt": "106",
+            "min_amt_multiple": "106",
+            "monthly_aaum_date": "106",
+            "monthly_aaum_value": "106",
+            "mutual_fund_name": "106",
+            "riskometer": "106",
+            "riskometer_benchmark": "106",
+            "scheme_launch_date": "106"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "01-Jul-2025",
+            "name": "Nitin Bharat",
+            "qualification": "",
+            "total_exp": "19"
+          },
+          {
+            "managing_fund_since": "20-Dec-   2024",
+            "name": "Rakesh Indrajeet",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "0.25% of the applicable NAV, if redeemed on or before 15 days from the date of allotment"
+          }
+        ],
+        "main_scheme_name": "Tata Nifty200 Alpha 30 Index Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.96"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "16804"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "206.75",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "106",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20240905"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "24 October 2024 Nifty Capital Markets"
+        ],
+        "field_location": [
+          {
+            "amc_name": "109",
+            "benchmark_index": "109",
+            "count": 67,
+            "fund_manager_managing_fund_since": "109",
+            "fund_manager_name": "109",
+            "fund_manager_qualification": "109",
+            "fund_manager_total_exp": "109",
+            "load_exit": "109",
+            "main_scheme_name": "109",
+            "metrics_beta": "109",
+            "metrics_port_turnover_ratio": "109",
+            "min_addl_amt": "109",
+            "min_addl_amt_multiple": "109",
+            "min_amt": "109",
+            "min_amt_multiple": "109",
+            "monthly_aaum_date": "109",
+            "monthly_aaum_value": "109",
+            "mutual_fund_name": "109",
+            "riskometer": "109",
+            "riskometer_benchmark": "109",
+            "scheme_launch_date": "109"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "01-Jul-2025",
+            "name": "Nitin Bharat",
+            "qualification": "",
+            "total_exp": "19"
+          },
+          {
+            "managing_fund_since": "20-Dec-   2024",
+            "name": "Rakesh Indrajeet",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "0.25% of the applicable NAV, if redeemed on or before 15 days from the date of allotment"
+          }
+        ],
+        "main_scheme_name": "Tata Nifty Capital Markets Index Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.95"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "2535"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "937.14",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "109",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20241024"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "19 June 2025 Nifty Midcap 150"
+        ],
+        "field_location": [
+          {
+            "amc_name": "112",
+            "benchmark_index": "112",
+            "count": 67,
+            "fund_manager_managing_fund_since": "112",
+            "fund_manager_name": "112",
+            "fund_manager_qualification": "112",
+            "fund_manager_total_exp": "112",
+            "load_exit": "112",
+            "main_scheme_name": "112",
+            "metrics_beta": "112",
+            "metrics_port_turnover_ratio": "112",
+            "min_addl_amt": "112",
+            "min_addl_amt_multiple": "112",
+            "min_amt": "112",
+            "min_amt_multiple": "112",
+            "monthly_aaum_date": "112",
+            "monthly_aaum_value": "112",
+            "mutual_fund_name": "112",
+            "riskometer": "112",
+            "riskometer_benchmark": "112",
+            "scheme_launch_date": "112"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "01-Jul-2025",
+            "name": "Nitin Bharat",
+            "qualification": "",
+            "total_exp": "19"
+          },
+          {
+            "managing_fund_since": "02-Jun-2025",
+            "name": "Rakesh Indrajeet",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "0.25% of the applicable NAV, if redeemed on or before 15 days from the date of allotment."
+          }
+        ],
+        "main_scheme_name": "Tata Nifty Midcap 150 Index Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.93"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "3842"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "325.87",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "112",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250619"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "01 October 2025 Nifty Next 50"
+        ],
+        "field_location": [
+          {
+            "amc_name": "115",
+            "benchmark_index": "115",
+            "count": 67,
+            "fund_manager_managing_fund_since": "115",
+            "fund_manager_name": "115",
+            "fund_manager_qualification": "115",
+            "fund_manager_total_exp": "115",
+            "load_exit": "115",
+            "main_scheme_name": "115",
+            "metrics_port_turnover_ratio": "115",
+            "min_addl_amt": "115",
+            "min_addl_amt_multiple": "115",
+            "min_amt": "115",
+            "min_amt_multiple": "115",
+            "monthly_aaum_date": "115",
+            "monthly_aaum_value": "115",
+            "mutual_fund_name": "115",
+            "riskometer": "115",
+            "riskometer_benchmark": "115",
+            "scheme_launch_date": "115"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "12-Sep-2025",
+            "name": "Nitin Bharat",
+            "qualification": "",
+            "total_exp": "19"
+          },
+          {
+            "managing_fund_since": "12-Sep-   2025",
+            "name": "Rakesh Indrajeet",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "0.25% of the applicable NAV, if redeemed on or before 15 days from the date of allotment."
+          }
+        ],
+        "main_scheme_name": "Tata Nifty Next 50 Index Fund",
+        "metrics": [
+          {
+            "name": "port_turnover_ratio",
+            "value": "4952"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "126.07",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "115",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20251001"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "02 February 2023 NIFTY 500 Multicap 50:25:25"
+        ],
+        "field_location": [
+          {
+            "amc_name": "118",
+            "benchmark_index": "118",
+            "count": 67,
+            "fund_manager_managing_fund_since": "118",
+            "fund_manager_name": "118",
+            "fund_manager_qualification": "118",
+            "fund_manager_total_exp": "118",
+            "load_exit": "118",
+            "main_scheme_name": "118",
+            "metrics_beta": "118",
+            "metrics_information_ratio": "118",
+            "metrics_port_turnover_ratio": "118",
+            "min_addl_amt": "118",
+            "min_addl_amt_multiple": "118",
+            "min_amt": "118",
+            "min_amt_multiple": "118",
+            "monthly_aaum_date": "118",
+            "monthly_aaum_value": "118",
+            "mutual_fund_name": "118",
+            "riskometer": "118",
+            "riskometer_benchmark": "118",
+            "scheme_launch_date": "118"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "27-Jan-2025",
+            "name": "Meeta Shetty",
+            "qualification": "",
+            "total_exp": "19"
+          },
+          {
+            "managing_fund_since": "16-Jan-   2023",
+            "name": "Murthy Nagarajan",
+            "qualification": "",
+            "total_exp": "29"
+          },
+          {
+            "managing_fund_since": "01-Mar-2025",
+            "name": "Hasmukh Vishariya",
+            "qualification": "",
+            "total_exp": "8"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1. On or before 30 days from the date of allotment: 0.50%. 2. After 30 days from the date of allotment: NIL."
+          }
+        ],
+        "main_scheme_name": "Tata Multicap Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.90"
+          },
+          {
+            "name": "information_ratio",
+            "value": "1.26"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "6779"
+          }
+        ],
+        "min_addl_amt": "150",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "3,588.15",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "118",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20230202"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "04 August 2021 Nifty 500"
+        ],
+        "field_location": [
+          {
+            "amc_name": "121",
+            "benchmark_index": "121",
+            "count": 67,
+            "fund_manager_managing_fund_since": "121",
+            "fund_manager_name": "121",
+            "fund_manager_qualification": "121",
+            "fund_manager_total_exp": "121",
+            "load_exit": "121",
+            "main_scheme_name": "121",
+            "metrics_beta": "121",
+            "metrics_information_ratio": "121",
+            "metrics_port_turnover_ratio": "121",
+            "min_addl_amt": "121",
+            "min_addl_amt_multiple": "121",
+            "min_amt": "121",
+            "min_amt_multiple": "121",
+            "monthly_aaum_date": "121",
+            "monthly_aaum_value": "121",
+            "mutual_fund_name": "121",
+            "riskometer": "121",
+            "riskometer_benchmark": "121",
+            "scheme_launch_date": "121"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "16-Jul-2021",
+            "name": "Rahul Singh",
+            "qualification": "",
+            "total_exp": "30"
+          },
+          {
+            "managing_fund_since": "16-Jul-2021",
+            "name": "Murthy Nagarajan",
+            "qualification": "",
+            "total_exp": "29"
+          },
+          {
+            "managing_fund_since": "16-Dec-2021",
+            "name": "Sailesh Jain",
+            "qualification": "",
+            "total_exp": "23"
+          },
+          {
+            "managing_fund_since": "01-Mar- 2025",
+            "name": "Hasmukh Vishariya",
+            "qualification": "",
+            "total_exp": "8"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Redemption Switch-out SWP STP non- SIP 1. On or before 30 days from the date of allotment: 0.50%. 2. After 30 days from the date of allotment: NIL."
+          }
+        ],
+        "main_scheme_name": "Tata Business Cycle Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.95"
+          },
+          {
+            "name": "information_ratio",
+            "value": "0"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "4648"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "2,624.86",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "121",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20210804"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "24 May 1996 Nifty 500 Shariah"
+        ],
+        "field_location": [
+          {
+            "amc_name": "124",
+            "benchmark_index": "124",
+            "count": 67,
+            "fund_manager_managing_fund_since": "124",
+            "fund_manager_name": "124",
+            "fund_manager_qualification": "124",
+            "fund_manager_total_exp": "124",
+            "load_exit": "124",
+            "main_scheme_name": "124",
+            "metrics_beta": "124",
+            "metrics_information_ratio": "124",
+            "metrics_port_turnover_ratio": "124",
+            "min_addl_amt": "124",
+            "min_addl_amt_multiple": "124",
+            "min_amt": "124",
+            "min_amt_multiple": "124",
+            "monthly_aaum_date": "124",
+            "monthly_aaum_value": "124",
+            "mutual_fund_name": "124",
+            "riskometer": "124",
+            "riskometer_benchmark": "124",
+            "scheme_launch_date": "124"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "06-Sep-2021",
+            "name": "Abhinav Sharma",
+            "qualification": "",
+            "total_exp": "19"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "0.50% of NAV if redeemed switched out on or before 90 days from the date of allotment."
+          }
+        ],
+        "main_scheme_name": "Tata Ethical Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.87"
+          },
+          {
+            "name": "information_ratio",
+            "value": "-1.74"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "2445"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "3,885.02",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "124",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "19960524"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "28 December 2015 Nifty Financial Services"
+        ],
+        "field_location": [
+          {
+            "amc_name": "127",
+            "benchmark_index": "127",
+            "count": 67,
+            "fund_manager_managing_fund_since": "127",
+            "fund_manager_name": "127",
+            "fund_manager_qualification": "127",
+            "fund_manager_total_exp": "127",
+            "load_exit": "127",
+            "main_scheme_name": "127",
+            "metrics_beta": "127",
+            "metrics_port_turnover_ratio": "127",
+            "min_addl_amt": "127",
+            "min_addl_amt_multiple": "127",
+            "min_amt": "127",
+            "min_amt_multiple": "127",
+            "monthly_aaum_date": "127",
+            "monthly_aaum_value": "127",
+            "mutual_fund_name": "127",
+            "riskometer": "127",
+            "riskometer_benchmark": "127",
+            "scheme_launch_date": "127"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "31-Oct-2025",
+            "name": "Kapil Malhotra",
+            "qualification": "",
+            "total_exp": "16"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "0.25% of NAV if redeemed switched out before 30 days from the date of allotment."
+          }
+        ],
+        "main_scheme_name": "Tata Banking And Financial Services Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.93"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "7947"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "3,235.84",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "127",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20151228"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "28 December 2015 NIFTY IT"
+        ],
+        "field_location": [
+          {
+            "amc_name": "130",
+            "benchmark_index": "130",
+            "count": 67,
+            "fund_manager_managing_fund_since": "130",
+            "fund_manager_name": "130",
+            "fund_manager_qualification": "130",
+            "fund_manager_total_exp": "130",
+            "load_exit": "130",
+            "main_scheme_name": "130",
+            "metrics_beta": "130",
+            "metrics_information_ratio": "130",
+            "metrics_port_turnover_ratio": "130",
+            "min_addl_amt": "130",
+            "min_addl_amt_multiple": "130",
+            "min_amt": "130",
+            "min_amt_multiple": "130",
+            "monthly_aaum_date": "130",
+            "monthly_aaum_value": "130",
+            "mutual_fund_name": "130",
+            "riskometer": "130",
+            "riskometer_benchmark": "130",
+            "scheme_launch_date": "130"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "09-Nov-2018",
+            "name": "Meeta Shetty",
+            "qualification": "",
+            "total_exp": "19"
+          },
+          {
+            "managing_fund_since": "01-Mar-   2025",
+            "name": "Hasmukh Vishariya",
+            "qualification": "",
+            "total_exp": "8"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "0.25% of NAV if redeemed switched out before 30 days from the date of allotment."
+          }
+        ],
+        "main_scheme_name": "Tata Digital India Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.79"
+          },
+          {
+            "name": "information_ratio",
+            "value": "0.14"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "2888"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "10,323.44",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "130",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20151228"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "28 December 2015 Nifty India Consumption"
+        ],
+        "field_location": [
+          {
+            "amc_name": "133",
+            "benchmark_index": "133",
+            "count": 67,
+            "fund_manager_managing_fund_since": "133",
+            "fund_manager_name": "133",
+            "fund_manager_qualification": "133",
+            "fund_manager_total_exp": "133",
+            "load_exit": "133",
+            "main_scheme_name": "133",
+            "metrics_beta": "133",
+            "metrics_information_ratio": "133",
+            "metrics_port_turnover_ratio": "133",
+            "min_addl_amt": "133",
+            "min_addl_amt_multiple": "133",
+            "min_amt": "133",
+            "min_amt_multiple": "133",
+            "monthly_aaum_date": "133",
+            "monthly_aaum_value": "133",
+            "mutual_fund_name": "133",
+            "riskometer": "133",
+            "riskometer_benchmark": "133",
+            "scheme_launch_date": "133"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "01-Apr-2016",
+            "name": "Sonam Udasi",
+            "qualification": "",
+            "total_exp": "28"
+          },
+          {
+            "managing_fund_since": "03-Oct-   2023",
+            "name": "Aditya Bagul",
+            "qualification": "",
+            "total_exp": "13"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "0.25% of NAV if redeemed switched out before 30 days from the date of allotment."
+          }
+        ],
+        "main_scheme_name": "Tata India Consumer Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.89"
+          },
+          {
+            "name": "information_ratio",
+            "value": "1.44"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "5900"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "2,883.48",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "133",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20151228"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "28 December 2015 BSE HC"
+        ],
+        "field_location": [
+          {
+            "amc_name": "136",
+            "benchmark_index": "136",
+            "count": 67,
+            "fund_manager_managing_fund_since": "136",
+            "fund_manager_name": "136",
+            "fund_manager_qualification": "136",
+            "fund_manager_total_exp": "136",
+            "load_exit": "136",
+            "main_scheme_name": "136",
+            "metrics_beta": "136",
+            "metrics_port_turnover_ratio": "136",
+            "min_addl_amt": "136",
+            "min_addl_amt_multiple": "136",
+            "min_amt": "136",
+            "min_amt_multiple": "136",
+            "monthly_aaum_date": "136",
+            "monthly_aaum_value": "136",
+            "mutual_fund_name": "136",
+            "riskometer": "136",
+            "riskometer_benchmark": "136",
+            "scheme_launch_date": "136"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "16-Sep-2024",
+            "name": "Rajat Srivastava",
+            "qualification": "",
+            "total_exp": "9"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "0.25% of NAV if redeemed switched out before 30 days from the date of allotment."
+          }
+        ],
+        "main_scheme_name": "Tata India Pharma And Healthcare Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.96"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "9967"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "1,553.63",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "136",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20151228"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "28 December 2015 Nifty Commodities"
+        ],
+        "field_location": [
+          {
+            "amc_name": "139",
+            "benchmark_index": "139",
+            "count": 67,
+            "fund_manager_managing_fund_since": "139",
+            "fund_manager_name": "139",
+            "fund_manager_qualification": "139",
+            "fund_manager_total_exp": "139",
+            "load_exit": "139",
+            "main_scheme_name": "139",
+            "metrics_beta": "139",
+            "metrics_information_ratio": "139",
+            "min_addl_amt": "139",
+            "min_addl_amt_multiple": "139",
+            "min_amt": "139",
+            "min_amt_multiple": "139",
+            "monthly_aaum_date": "139",
+            "monthly_aaum_value": "139",
+            "mutual_fund_name": "139",
+            "riskometer": "139",
+            "riskometer_benchmark": "139",
+            "scheme_launch_date": "139"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "09-Nov-2018",
+            "name": "Satish Chandra",
+            "qualification": "",
+            "total_exp": "19"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "0.25% of NAV if redeemed switched out before 30 days from the date of allotment."
+          }
+        ],
+        "main_scheme_name": "Tata Resources & Energy Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.90"
+          },
+          {
+            "name": "information_ratio",
+            "value": "-0.81"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "1,429.09",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "139",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20151228"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "31 December 2004 BSE India Infrastructure"
+        ],
+        "field_location": [
+          {
+            "amc_name": "142",
+            "benchmark_index": "142",
+            "count": 67,
+            "fund_manager_managing_fund_since": "142",
+            "fund_manager_name": "142",
+            "fund_manager_qualification": "142",
+            "fund_manager_total_exp": "142",
+            "load_exit": "142",
+            "main_scheme_name": "142",
+            "metrics_beta": "142",
+            "metrics_information_ratio": "142",
+            "metrics_port_turnover_ratio": "142",
+            "min_addl_amt": "142",
+            "min_addl_amt_multiple": "142",
+            "min_amt": "142",
+            "min_amt_multiple": "142",
+            "monthly_aaum_date": "142",
+            "monthly_aaum_value": "142",
+            "mutual_fund_name": "142",
+            "riskometer": "142",
+            "riskometer_benchmark": "142",
+            "scheme_launch_date": "142"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "18-Jun-2018",
+            "name": "Abhinav Sharma",
+            "qualification": "",
+            "total_exp": "19"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "0.25% of NAV if redeemed switched out before 30 days from the date of allotment."
+          }
+        ],
+        "main_scheme_name": "Tata Infrastructure Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.69"
+          },
+          {
+            "name": "information_ratio",
+            "value": "-0.97"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "1477"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "2,071.16",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "142",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20041231"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "02 September 2022 Nifty Housing"
+        ],
+        "field_location": [
+          {
+            "amc_name": "145",
+            "benchmark_index": "145",
+            "count": 67,
+            "fund_manager_managing_fund_since": "145",
+            "fund_manager_name": "145",
+            "fund_manager_qualification": "145",
+            "fund_manager_total_exp": "145",
+            "load_exit": "145",
+            "main_scheme_name": "145",
+            "metrics_beta": "145",
+            "metrics_information_ratio": "145",
+            "metrics_port_turnover_ratio": "145",
+            "min_addl_amt": "145",
+            "min_addl_amt_multiple": "145",
+            "min_amt": "145",
+            "min_amt_multiple": "145",
+            "monthly_aaum_date": "145",
+            "monthly_aaum_value": "145",
+            "mutual_fund_name": "145",
+            "riskometer": "145",
+            "riskometer_benchmark": "145",
+            "scheme_launch_date": "145"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "16-Aug-2022",
+            "name": "Murthy Nagarajan",
+            "qualification": "",
+            "total_exp": "29"
+          },
+          {
+            "managing_fund_since": "01-Mar-   2025",
+            "name": "Hasmukh Vishariya",
+            "qualification": "",
+            "total_exp": "8"
+          },
+          {
+            "managing_fund_since": "01-Jul-2025",
+            "name": "Aditya Bagul",
+            "qualification": "",
+            "total_exp": "13"
+          },
+          {
+            "managing_fund_since": "01-Jul-2025",
+            "name": "Kapil Malhotra",
+            "qualification": "",
+            "total_exp": "16"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Redemption Switch-out SWP STP on or before expiry of 30 days from the date of allotment: 1%"
+          }
+        ],
+        "main_scheme_name": "Tata Housing Opportunities Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.96"
+          },
+          {
+            "name": "information_ratio",
+            "value": "-1.41"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "7486"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "487.31",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "145",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20220902"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "28 November 2024 Nifty 500"
+        ],
+        "field_location": [
+          {
+            "amc_name": "148",
+            "benchmark_index": "148",
+            "count": 67,
+            "fund_manager_managing_fund_since": "148",
+            "fund_manager_name": "148",
+            "fund_manager_qualification": "148",
+            "fund_manager_total_exp": "148",
+            "load_exit": "148",
+            "main_scheme_name": "148",
+            "metrics_beta": "148",
+            "metrics_information_ratio": "148",
+            "metrics_port_turnover_ratio": "148",
+            "min_addl_amt": "148",
+            "min_addl_amt_multiple": "148",
+            "min_amt": "148",
+            "min_amt_multiple": "148",
+            "monthly_aaum_date": "148",
+            "monthly_aaum_value": "148",
+            "mutual_fund_name": "148",
+            "riskometer": "148",
+            "riskometer_benchmark": "148",
+            "scheme_launch_date": "148"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "11-Nov-2024",
+            "name": "Meeta Shetty",
+            "qualification": "",
+            "total_exp": "19"
+          },
+          {
+            "managing_fund_since": "01-Mar-   2025",
+            "name": "Hasmukh Vishariya",
+            "qualification": "",
+            "total_exp": "8"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1. On or before 30 days from the date of allotment: 0.50%. 2. After 30 days from the date of allotment: NIL."
+          }
+        ],
+        "main_scheme_name": "Tata India Innovation Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.87"
+          },
+          {
+            "name": "information_ratio",
+            "value": "0.14"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "4509"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "1,366.22",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "148",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20241128"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "09 July 2026 Nifty 500"
+        ],
+        "field_location": [
+          {
+            "amc_name": "151",
+            "benchmark_index": "151",
+            "count": 67,
+            "fund_manager_managing_fund_since": "151",
+            "fund_manager_name": "151",
+            "fund_manager_qualification": "151",
+            "fund_manager_total_exp": "151",
+            "load_exit": "151",
+            "main_scheme_name": "151",
+            "metrics_port_turnover_ratio": "151",
+            "min_addl_amt": "151",
+            "min_addl_amt_multiple": "151",
+            "min_amt": "151",
+            "min_amt_multiple": "151",
+            "monthly_aaum_date": "151",
+            "monthly_aaum_value": "151",
+            "mutual_fund_name": "151",
+            "riskometer": "151",
+            "riskometer_benchmark": "151",
+            "scheme_launch_date": "151"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "22-Jul-2026",
+            "name": "Nikunj Kumar",
+            "qualification": "",
+            "total_exp": "11"
+          },
+          {
+            "managing_fund_since": "22-Jun-2026",
+            "name": "Rahul Singh",
+            "qualification": "",
+            "total_exp": "30"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "0.50% of the applicable NAV, if redeemed on or before 30 days from the date of allotment."
+          }
+        ],
+        "main_scheme_name": "Tata Multi Sector Passive FOF",
+        "metrics": [
+          {
+            "name": "port_turnover_ratio",
+            "value": "771"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "81.34",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "151",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20260709"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "20 May 2025 Crisil Composite Bond Fund Index (60%) + Nifty 50 Arbitrage Index (40%)"
+        ],
+        "field_location": [
+          {
+            "amc_name": "154",
+            "benchmark_index": "154",
+            "count": 67,
+            "fund_manager_managing_fund_since": "154",
+            "fund_manager_name": "154",
+            "fund_manager_qualification": "154",
+            "fund_manager_total_exp": "154",
+            "load_exit": "154",
+            "main_scheme_name": "154",
+            "metrics_avg_maturity": "154",
+            "metrics_beta": "154",
+            "metrics_macaulay": "154",
+            "metrics_mod_duration": "154",
+            "metrics_port_turnover_ratio": "154",
+            "min_addl_amt": "154",
+            "min_addl_amt_multiple": "154",
+            "min_amt": "154",
+            "min_amt_multiple": "154",
+            "monthly_aaum_date": "154",
+            "monthly_aaum_value": "154",
+            "mutual_fund_name": "154",
+            "riskometer": "154",
+            "riskometer_benchmark": "154",
+            "scheme_launch_date": "154"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "05-May-2025",
+            "name": "Sailesh Jain",
+            "qualification": "",
+            "total_exp": "23"
+          },
+          {
+            "managing_fund_since": "15-Oct-   2025",
+            "name": "Murthy Nagarajan",
+            "qualification": "",
+            "total_exp": "29"
+          },
+          {
+            "managing_fund_since": "01-Jun-2026",
+            "name": "Amit Somani",
+            "qualification": "",
+            "total_exp": "24"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "0.25 % of the applicable NAV, if redeemed switched out withdrawn on or before expiry of 30 Days from the date of allotment."
+          }
+        ],
+        "main_scheme_name": "Tata Income Plus Arbitrage Active FOF",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "4.38"
+          },
+          {
+            "name": "beta",
+            "value": "0.66"
+          },
+          {
+            "name": "macaulay",
+            "value": "2.8"
+          },
+          {
+            "name": "mod_duration",
+            "value": "2.65"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "4695"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "273.40",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "154",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250520"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "08 October 1995 CRISIL Hybrid 35+65 Aggressive Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "157",
+            "benchmark_index": "157",
+            "count": 67,
+            "fund_manager_managing_fund_since": "157",
+            "fund_manager_name": "157",
+            "fund_manager_qualification": "157",
+            "fund_manager_total_exp": "157",
+            "load_exit": "157",
+            "main_scheme_name": "157",
+            "metrics_avg_maturity": "157",
+            "metrics_beta": "157",
+            "metrics_macaulay": "157",
+            "metrics_mod_duration": "157",
+            "metrics_port_turnover_ratio": "157",
+            "min_addl_amt": "157",
+            "min_addl_amt_multiple": "157",
+            "min_amt": "157",
+            "min_amt_multiple": "157",
+            "monthly_aaum_date": "157",
+            "monthly_aaum_value": "157",
+            "mutual_fund_name": "157",
+            "riskometer": "157",
+            "riskometer_benchmark": "157",
+            "scheme_launch_date": "157"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "01-Apr-2017",
+            "name": "Murthy Nagarajan",
+            "qualification": "",
+            "total_exp": "29"
+          },
+          {
+            "managing_fund_since": "01-Nov-   2019",
+            "name": "Satish Chandra",
+            "qualification": "",
+            "total_exp": "19"
+          },
+          {
+            "managing_fund_since": "01-Jun-2026",
+            "name": "Amit Somani",
+            "qualification": "",
+            "total_exp": "24"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1. On or before 30 days from the date of allotment: 0.50%. 2. After 30 days from the date of allotment: NIL."
+          }
+        ],
+        "main_scheme_name": "Tata Aggressive Hybrid Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "4.61"
+          },
+          {
+            "name": "beta",
+            "value": "1.12"
+          },
+          {
+            "name": "macaulay",
+            "value": "2.82"
+          },
+          {
+            "name": "mod_duration",
+            "value": "2.71"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "4665"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "4,025.77",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "157",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "19951008"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "28 January 2019 CRISIL Hybrid 50+50 - Moderate Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "160",
+            "benchmark_index": "160",
+            "count": 67,
+            "fund_manager_managing_fund_since": "160",
+            "fund_manager_name": "160",
+            "fund_manager_qualification": "160",
+            "fund_manager_total_exp": "160",
+            "load_exit": "160",
+            "main_scheme_name": "160",
+            "metrics_avg_maturity": "160",
+            "metrics_beta": "160",
+            "metrics_macaulay": "160",
+            "metrics_mod_duration": "160",
+            "metrics_port_turnover_ratio": "160",
+            "min_addl_amt": "160",
+            "min_addl_amt_multiple": "160",
+            "min_amt": "160",
+            "min_amt_multiple": "160",
+            "monthly_aaum_date": "160",
+            "monthly_aaum_value": "160",
+            "mutual_fund_name": "160",
+            "riskometer": "160",
+            "riskometer_benchmark": "160",
+            "scheme_launch_date": "160"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "09-Jan-2019",
+            "name": "Rahul Singh",
+            "qualification": "",
+            "total_exp": "30"
+          },
+          {
+            "managing_fund_since": "09-Jan-   2019",
+            "name": "Sailesh Jain",
+            "qualification": "",
+            "total_exp": "23"
+          },
+          {
+            "managing_fund_since": "01-Jun-2026",
+            "name": "Murthy Nagarajan",
+            "qualification": "",
+            "total_exp": "29"
+          },
+          {
+            "managing_fund_since": "01-Jun-2026",
+            "name": "Amit Somani",
+            "qualification": "",
+            "total_exp": "24"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Redemption Switch-out SWP STP: 1. On or before 30 days from the date of allotment: 0.50%. 2. After 30 days from the date of allotment: NIL."
+          }
+        ],
+        "main_scheme_name": "Tata Balanced Advantage Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "7.45"
+          },
+          {
+            "name": "beta",
+            "value": "1.00"
+          },
+          {
+            "name": "macaulay",
+            "value": "4.09"
+          },
+          {
+            "name": "mod_duration",
+            "value": "3.93"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "2523"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "8,700.39",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "160",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20190128"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "18 December 2018 Nifty 50 Arbitrage Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "163",
+            "benchmark_index": "163",
+            "count": 67,
+            "fund_manager_managing_fund_since": "163",
+            "fund_manager_name": "163",
+            "fund_manager_qualification": "163",
+            "fund_manager_total_exp": "163",
+            "load_exit": "163",
+            "main_scheme_name": "163",
+            "metrics_avg_maturity": "163",
+            "metrics_beta": "163",
+            "metrics_macaulay": "163",
+            "metrics_mod_duration": "163",
+            "metrics_port_turnover_ratio": "163",
+            "min_addl_amt": "163",
+            "min_addl_amt_multiple": "163",
+            "min_amt": "163",
+            "min_amt_multiple": "163",
+            "monthly_aaum_date": "163",
+            "monthly_aaum_value": "163",
+            "mutual_fund_name": "163",
+            "riskometer": "163",
+            "riskometer_benchmark": "163",
+            "scheme_launch_date": "163"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "10-Dec-2018",
+            "name": "Sailesh Jain",
+            "qualification": "",
+            "total_exp": "23"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "0.25 % of the applicable NAV, if redeemed switched out withdrawn on or before expiry of 15 Days from the date of allotment"
+          }
+        ],
+        "main_scheme_name": "Tata Arbitrage Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "0.42"
+          },
+          {
+            "name": "beta",
+            "value": "0.60"
+          },
+          {
+            "name": "macaulay",
+            "value": "0.42"
+          },
+          {
+            "name": "mod_duration",
+            "value": "0.41"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "28133"
+          }
+        ],
+        "min_addl_amt": "150",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "24,802.08",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "163",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20181218"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "04 March 2020 : 65% BSE 200 + 15% CRISIL Short Term Bond Index + 20% iCOMDEX Composite Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "166",
+            "benchmark_index": "166",
+            "count": 67,
+            "fund_manager_managing_fund_since": "166",
+            "fund_manager_name": "166",
+            "fund_manager_qualification": "166",
+            "fund_manager_total_exp": "166",
+            "load_exit": "166",
+            "main_scheme_name": "166",
+            "metrics_beta": "166",
+            "metrics_macaulay": "166",
+            "min_addl_amt": "166",
+            "min_addl_amt_multiple": "166",
+            "min_amt": "166",
+            "min_amt_multiple": "166",
+            "monthly_aaum_date": "166",
+            "monthly_aaum_value": "166",
+            "mutual_fund_name": "166",
+            "riskometer": "166",
+            "riskometer_benchmark": "166",
+            "scheme_launch_date": "166"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "14-Feb-2020",
+            "name": "Rahul Singh",
+            "qualification": "",
+            "total_exp": "30"
+          },
+          {
+            "managing_fund_since": "14-Feb-   2020",
+            "name": "Sailesh Jain",
+            "qualification": "",
+            "total_exp": "23"
+          },
+          {
+            "managing_fund_since": "14-Feb-2020",
+            "name": "Murthy Nagarajan",
+            "qualification": "",
+            "total_exp": "29"
+          },
+          {
+            "managing_fund_since": "01-Jun-2026",
+            "name": "Tapan Patel",
+            "qualification": "",
+            "total_exp": "12"
+          },
+          {
+            "managing_fund_since": "01-Jun-2026",
+            "name": "Amit Somani",
+            "qualification": "",
+            "total_exp": "24"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1. On or before 30 days from the date of allotment: 0.50%. 2. After 30 days from the date of allotment: NIL."
+          }
+        ],
+        "main_scheme_name": "Tata Multi Asset Allocation Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.87"
+          },
+          {
+            "name": "macaulay",
+            "value": "1.65"
+          }
+        ],
+        "min_addl_amt": "100",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "5,285.57",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "166",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20200304"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "08 August 2002 CRISIL Short Duration Debt A- II Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "169",
+            "benchmark_index": "169",
+            "count": 67,
+            "fund_manager_managing_fund_since": "169",
+            "fund_manager_name": "169",
+            "fund_manager_qualification": "169",
+            "fund_manager_total_exp": "169",
+            "load_exit": "169",
+            "main_scheme_name": "169",
+            "metrics_avg_maturity": "169",
+            "metrics_beta": "169",
+            "metrics_macaulay": "169",
+            "metrics_mod_duration": "169",
+            "metrics_port_turnover_ratio": "169",
+            "min_addl_amt": "169",
+            "min_addl_amt_multiple": "169",
+            "min_amt": "169",
+            "min_amt_multiple": "169",
+            "monthly_aaum_date": "169",
+            "monthly_aaum_value": "169",
+            "mutual_fund_name": "169",
+            "riskometer": "169",
+            "riskometer_benchmark": "169",
+            "scheme_launch_date": "169"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "11-Jun-2025",
+            "name": "Amit Somani",
+            "qualification": "",
+            "total_exp": "24"
+          },
+          {
+            "managing_fund_since": "01-Jun-   2026",
+            "name": "Dhawal Joshi",
+            "qualification": "",
+            "total_exp": "12"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil (w.e.f 24th January, 2019)"
+          }
+        ],
+        "main_scheme_name": "Tata Short Term Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "2.73"
+          },
+          {
+            "name": "beta",
+            "value": "1.08"
+          },
+          {
+            "name": "macaulay",
+            "value": "2.27"
+          },
+          {
+            "name": "mod_duration",
+            "value": "2.15"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "200"
+          }
+        ],
+        "min_addl_amt": "500",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "2,946.20",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "169",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20020808"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "06 September 2005 CRISIL Low Duration Debt A- I Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "172",
+            "benchmark_index": "172",
+            "count": 67,
+            "fund_manager_managing_fund_since": "172",
+            "fund_manager_name": "172",
+            "fund_manager_qualification": "172",
+            "fund_manager_total_exp": "172",
+            "load_exit": "172",
+            "main_scheme_name": "172",
+            "metrics_avg_maturity": "172",
+            "metrics_beta": "172",
+            "metrics_macaulay": "172",
+            "metrics_mod_duration": "172",
+            "metrics_port_turnover_ratio": "172",
+            "min_addl_amt": "172",
+            "min_addl_amt_multiple": "172",
+            "min_amt": "172",
+            "min_amt_multiple": "172",
+            "monthly_aaum_date": "172",
+            "monthly_aaum_value": "172",
+            "mutual_fund_name": "172",
+            "riskometer": "172",
+            "riskometer_benchmark": "172",
+            "scheme_launch_date": "172"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "26-Jun-2014",
+            "name": "Akhil Mittal",
+            "qualification": "",
+            "total_exp": "24"
+          },
+          {
+            "managing_fund_since": "01-Jun-   2026",
+            "name": "Dhawal Joshi",
+            "qualification": "",
+            "total_exp": "12"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "NIL"
+          }
+        ],
+        "main_scheme_name": "Tata Ultra Short to Short Term Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "10.63"
+          },
+          {
+            "name": "beta",
+            "value": "1.09"
+          },
+          {
+            "name": "macaulay",
+            "value": "10.03"
+          },
+          {
+            "name": "mod_duration",
+            "value": "9.6"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "200"
+          }
+        ],
+        "min_addl_amt": "500",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "2,433.29",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "172",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20050906"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "22 May 2003 CRISIL Money Market A-I Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "175",
+            "benchmark_index": "175",
+            "count": 67,
+            "fund_manager_managing_fund_since": "175",
+            "fund_manager_name": "175",
+            "fund_manager_qualification": "175",
+            "fund_manager_total_exp": "175",
+            "load_exit": "175",
+            "main_scheme_name": "175",
+            "metrics_avg_maturity": "175",
+            "metrics_beta": "175",
+            "metrics_macaulay": "175",
+            "metrics_mod_duration": "175",
+            "metrics_port_turnover_ratio": "175",
+            "min_addl_amt": "175",
+            "min_addl_amt_multiple": "175",
+            "min_amt": "175",
+            "min_amt_multiple": "175",
+            "monthly_aaum_date": "175",
+            "monthly_aaum_value": "175",
+            "mutual_fund_name": "175",
+            "riskometer": "175",
+            "riskometer_benchmark": "175",
+            "scheme_launch_date": "175"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "16-Oct-2013",
+            "name": "Amit Somani",
+            "qualification": "",
+            "total_exp": "24"
+          },
+          {
+            "managing_fund_since": "01-Jun-   2026",
+            "name": "Harsh Dave",
+            "qualification": "",
+            "total_exp": "3"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil (w.e.f 24th January, 2019)"
+          }
+        ],
+        "main_scheme_name": "Tata Money Market Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "4.98"
+          },
+          {
+            "name": "beta",
+            "value": "1.32"
+          },
+          {
+            "name": "macaulay",
+            "value": "4.97"
+          },
+          {
+            "name": "mod_duration",
+            "value": "4.97"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "200"
+          }
+        ],
+        "min_addl_amt": "500",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "34,242.89",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "175",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20030522"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "22 January 2019 CRISIL Ultra Short Duration Debt A-I Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "178",
+            "benchmark_index": "178",
+            "count": 67,
+            "fund_manager_managing_fund_since": "178",
+            "fund_manager_name": "178",
+            "fund_manager_qualification": "178",
+            "fund_manager_total_exp": "178",
+            "load_exit": "178",
+            "main_scheme_name": "178",
+            "metrics_avg_maturity": "178",
+            "metrics_beta": "178",
+            "metrics_macaulay": "178",
+            "metrics_mod_duration": "178",
+            "metrics_port_turnover_ratio": "178",
+            "min_addl_amt": "178",
+            "min_addl_amt_multiple": "178",
+            "min_amt": "178",
+            "min_amt_multiple": "178",
+            "monthly_aaum_date": "178",
+            "monthly_aaum_value": "178",
+            "mutual_fund_name": "178",
+            "riskometer": "178",
+            "riskometer_benchmark": "178",
+            "scheme_launch_date": "178"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "15-Oct-2025",
+            "name": "Amit Somani",
+            "qualification": "",
+            "total_exp": "24"
+          },
+          {
+            "managing_fund_since": "15-Oct-   2025",
+            "name": "Dhawal Joshi",
+            "qualification": "",
+            "total_exp": "12"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Tata Ultra Short Term Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "7.18"
+          },
+          {
+            "name": "beta",
+            "value": "1.18"
+          },
+          {
+            "name": "macaulay",
+            "value": "5.67"
+          },
+          {
+            "name": "mod_duration",
+            "value": "5.44"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "200"
+          }
+        ],
+        "min_addl_amt": "500",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "6,558.62",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "178",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20190122"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "01 December 2021 CRISIL Corporate Bond A-II Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "181",
+            "benchmark_index": "181",
+            "count": 67,
+            "fund_manager_managing_fund_since": "181",
+            "fund_manager_name": "181",
+            "fund_manager_qualification": "181",
+            "fund_manager_total_exp": "181",
+            "load_exit": "181",
+            "main_scheme_name": "181",
+            "metrics_avg_maturity": "181",
+            "metrics_beta": "181",
+            "metrics_macaulay": "181",
+            "metrics_mod_duration": "181",
+            "metrics_port_turnover_ratio": "181",
+            "min_addl_amt": "181",
+            "min_addl_amt_multiple": "181",
+            "min_amt": "181",
+            "min_amt_multiple": "181",
+            "monthly_aaum_date": "181",
+            "monthly_aaum_value": "181",
+            "mutual_fund_name": "181",
+            "riskometer": "181",
+            "riskometer_benchmark": "181",
+            "scheme_launch_date": "181"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "16-Mar-2026",
+            "name": "Puja Kasat",
+            "qualification": "",
+            "total_exp": "17"
+          },
+          {
+            "managing_fund_since": "01-Jun-   2026",
+            "name": "Amit Somani",
+            "qualification": "",
+            "total_exp": "24"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Tata Corporate Bond Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "4.38"
+          },
+          {
+            "name": "beta",
+            "value": "1.48"
+          },
+          {
+            "name": "macaulay",
+            "value": "2.8"
+          },
+          {
+            "name": "mod_duration",
+            "value": "2.65"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "200"
+          }
+        ],
+        "min_addl_amt": "150",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "3,130.08",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "181",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20211201"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "07 July 2021 CRISIL Short Duration Debt A- II Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "184",
+            "benchmark_index": "184",
+            "count": 67,
+            "fund_manager_managing_fund_since": "184",
+            "fund_manager_name": "184",
+            "fund_manager_qualification": "184",
+            "fund_manager_total_exp": "184",
+            "load_exit": "184",
+            "main_scheme_name": "184",
+            "metrics_avg_maturity": "184",
+            "metrics_beta": "184",
+            "metrics_macaulay": "184",
+            "metrics_mod_duration": "184",
+            "metrics_port_turnover_ratio": "184",
+            "min_addl_amt": "184",
+            "min_addl_amt_multiple": "184",
+            "min_amt": "184",
+            "min_amt_multiple": "184",
+            "monthly_aaum_date": "184",
+            "monthly_aaum_value": "184",
+            "mutual_fund_name": "184",
+            "riskometer": "184",
+            "riskometer_benchmark": "184",
+            "scheme_launch_date": "184"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "21-Jun-2021",
+            "name": "Akhil Mittal",
+            "qualification": "",
+            "total_exp": "24"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "NIL"
+          }
+        ],
+        "main_scheme_name": "Tata Floating Interest Rates Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "1.77"
+          },
+          {
+            "name": "beta",
+            "value": "0.91"
+          },
+          {
+            "name": "macaulay",
+            "value": "1.35"
+          },
+          {
+            "name": "mod_duration",
+            "value": "1.27"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "200"
+          }
+        ],
+        "min_addl_amt": "500",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "120.19",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "184",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20210707"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "30 March 2022 Nifty SDL Plus AAA PSU Bond Dec 2027 60: 40 Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "187",
+            "benchmark_index": "187",
+            "count": 67,
+            "fund_manager_managing_fund_since": "187",
+            "fund_manager_name": "187",
+            "fund_manager_qualification": "187",
+            "fund_manager_total_exp": "187",
+            "load_exit": "187",
+            "main_scheme_name": "187",
+            "metrics_avg_maturity": "187",
+            "metrics_beta": "187",
+            "metrics_macaulay": "187",
+            "metrics_mod_duration": "187",
+            "metrics_port_turnover_ratio": "187",
+            "min_addl_amt": "187",
+            "min_addl_amt_multiple": "187",
+            "min_amt": "187",
+            "min_amt_multiple": "187",
+            "monthly_aaum_date": "187",
+            "monthly_aaum_value": "187",
+            "mutual_fund_name": "187",
+            "riskometer": "187",
+            "riskometer_benchmark": "187",
+            "scheme_launch_date": "187"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "01-Jun-2026",
+            "name": "Murthy Nagarajan",
+            "qualification": "",
+            "total_exp": "29"
+          },
+          {
+            "managing_fund_since": "24-Mar-   2022",
+            "name": "Amit Somani",
+            "qualification": "",
+            "total_exp": "24"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "NIL"
+          }
+        ],
+        "main_scheme_name": "Tata Nifty SDL Plus AAA PSU Bond Dec 2027 60: 40 Index Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "1.2"
+          },
+          {
+            "name": "beta",
+            "value": "0.87"
+          },
+          {
+            "name": "macaulay",
+            "value": "1.15"
+          },
+          {
+            "name": "mod_duration",
+            "value": "1.1"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "200"
+          }
+        ],
+        "min_addl_amt": "150",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "645.57",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "187",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20220330"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "16 January 2023 Nifty G-Sec Dec 2026 Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "190",
+            "benchmark_index": "190",
+            "count": 67,
+            "fund_manager_managing_fund_since": "190",
+            "fund_manager_name": "190",
+            "fund_manager_qualification": "190",
+            "fund_manager_total_exp": "190",
+            "load_exit": "190",
+            "main_scheme_name": "190",
+            "metrics_avg_maturity": "190",
+            "metrics_beta": "190",
+            "metrics_macaulay": "190",
+            "metrics_mod_duration": "190",
+            "metrics_port_turnover_ratio": "190",
+            "min_addl_amt": "190",
+            "min_addl_amt_multiple": "190",
+            "min_amt": "190",
+            "min_amt_multiple": "190",
+            "monthly_aaum_date": "190",
+            "monthly_aaum_value": "190",
+            "mutual_fund_name": "190",
+            "riskometer": "190",
+            "riskometer_benchmark": "190",
+            "scheme_launch_date": "190"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "04-Jan-2023",
+            "name": "Amit Somani",
+            "qualification": "",
+            "total_exp": "24"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "NIL"
+          }
+        ],
+        "main_scheme_name": "Tata Nifty G-Sec Dec 2026 Index Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "0.22"
+          },
+          {
+            "name": "beta",
+            "value": "0.95"
+          },
+          {
+            "name": "macaulay",
+            "value": "0.22"
+          },
+          {
+            "name": "mod_duration",
+            "value": "0.22"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "200"
+          }
+        ],
+        "min_addl_amt": "500",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "73.41",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "190",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20230116"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "13 January 2023 Nifty G-Sec Dec 2029 Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "193",
+            "benchmark_index": "193",
+            "count": 67,
+            "fund_manager_managing_fund_since": "193",
+            "fund_manager_name": "193",
+            "fund_manager_qualification": "193",
+            "fund_manager_total_exp": "193",
+            "load_exit": "193",
+            "main_scheme_name": "193",
+            "metrics_avg_maturity": "193",
+            "metrics_beta": "193",
+            "metrics_macaulay": "193",
+            "metrics_mod_duration": "193",
+            "metrics_port_turnover_ratio": "193",
+            "min_addl_amt": "193",
+            "min_addl_amt_multiple": "193",
+            "min_amt": "193",
+            "min_amt_multiple": "193",
+            "monthly_aaum_date": "193",
+            "monthly_aaum_value": "193",
+            "mutual_fund_name": "193",
+            "riskometer": "193",
+            "riskometer_benchmark": "193",
+            "scheme_launch_date": "193"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "01-Jun-2026",
+            "name": "Murthy Nagarajan",
+            "qualification": "",
+            "total_exp": "29"
+          },
+          {
+            "managing_fund_since": "03-Jan-   2023",
+            "name": "Amit Somani",
+            "qualification": "",
+            "total_exp": "24"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "NIL"
+          }
+        ],
+        "main_scheme_name": "TATA Nifty G Sec Dec 2029 Index Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "2.94"
+          },
+          {
+            "name": "beta",
+            "value": "0.98"
+          },
+          {
+            "name": "macaulay",
+            "value": "2.66"
+          },
+          {
+            "name": "mod_duration",
+            "value": "2.58"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "200"
+          }
+        ],
+        "min_addl_amt": "500",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "134.37",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "193",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20230113"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "01 September 2004 CRISIL Liquid Debt A-I Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "196",
+            "benchmark_index": "196",
+            "count": 67,
+            "fund_manager_managing_fund_since": "196",
+            "fund_manager_name": "196",
+            "fund_manager_qualification": "196",
+            "fund_manager_total_exp": "196",
+            "load_exit": "196",
+            "main_scheme_name": "196",
+            "metrics_avg_maturity": "196",
+            "metrics_beta": "196",
+            "metrics_macaulay": "196",
+            "metrics_mod_duration": "196",
+            "metrics_port_turnover_ratio": "196",
+            "min_addl_amt": "196",
+            "min_addl_amt_multiple": "196",
+            "min_amt": "196",
+            "min_amt_multiple": "196",
+            "monthly_aaum_date": "196",
+            "monthly_aaum_value": "196",
+            "mutual_fund_name": "196",
+            "riskometer": "196",
+            "riskometer_benchmark": "196",
+            "scheme_launch_date": "196"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "01-Jun-2026",
+            "name": "Dhawal Joshi",
+            "qualification": "",
+            "total_exp": "12"
+          },
+          {
+            "managing_fund_since": "01-Aug-   2024",
+            "name": "Harsh Dave",
+            "qualification": "",
+            "total_exp": "3"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1 day - 0.0070% of redemption proceeds 2 days - 0.0065% of redemption proceeds 3 days - 0.0060% of redemption proceeds 4 days - 0.0055% of redemption proceeds 5 days - 0.0050% of redemption proceeds 6 days - 0.0045% of redemption proceeds 7 days or more - Nil"
+          }
+        ],
+        "main_scheme_name": "Tata Liquid Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "38.0"
+          },
+          {
+            "name": "beta",
+            "value": "1.00"
+          },
+          {
+            "name": "macaulay",
+            "value": "38.0"
+          },
+          {
+            "name": "mod_duration",
+            "value": "38.0"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "200"
+          }
+        ],
+        "min_addl_amt": "500",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "30,903.67",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "196",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20040901"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "27 March 2019 CRISIL Liquid Overnight Index (AI)"
+        ],
+        "field_location": [
+          {
+            "amc_name": "199",
+            "benchmark_index": "199",
+            "count": 67,
+            "fund_manager_managing_fund_since": "199",
+            "fund_manager_name": "199",
+            "fund_manager_qualification": "199",
+            "fund_manager_total_exp": "199",
+            "load_exit": "199",
+            "main_scheme_name": "199",
+            "metrics_avg_maturity": "199",
+            "metrics_beta": "199",
+            "metrics_macaulay": "199",
+            "metrics_mod_duration": "199",
+            "metrics_port_turnover_ratio": "199",
+            "min_addl_amt": "199",
+            "min_addl_amt_multiple": "199",
+            "min_amt": "199",
+            "min_amt_multiple": "199",
+            "monthly_aaum_date": "199",
+            "monthly_aaum_value": "199",
+            "mutual_fund_name": "199",
+            "riskometer": "199",
+            "riskometer_benchmark": "199",
+            "scheme_launch_date": "199"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "01-Jun-2026",
+            "name": "Jennifer Karkaria",
+            "qualification": "",
+            "total_exp": "22"
+          },
+          {
+            "managing_fund_since": "01-Jun-   2026",
+            "name": "Vijay Kerkar",
+            "qualification": "",
+            "total_exp": "22"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Tata Overnight Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "1.0"
+          },
+          {
+            "name": "beta",
+            "value": "0.94"
+          },
+          {
+            "name": "macaulay",
+            "value": "1.0"
+          },
+          {
+            "name": "mod_duration",
+            "value": "1.0"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "200"
+          }
+        ],
+        "min_addl_amt": "500",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "5,600.28",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "199",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20190327"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "06 September 1999 CRISIL Dynamic Gilt Index (AIII)"
+        ],
+        "field_location": [
+          {
+            "amc_name": "202",
+            "benchmark_index": "202",
+            "count": 67,
+            "fund_manager_managing_fund_since": "202",
+            "fund_manager_name": "202",
+            "fund_manager_qualification": "202",
+            "fund_manager_total_exp": "202",
+            "load_exit": "202",
+            "main_scheme_name": "202",
+            "metrics_avg_maturity": "202",
+            "metrics_beta": "202",
+            "metrics_macaulay": "202",
+            "metrics_mod_duration": "202",
+            "metrics_port_turnover_ratio": "202",
+            "min_addl_amt": "202",
+            "min_addl_amt_multiple": "202",
+            "min_amt": "202",
+            "min_amt_multiple": "202",
+            "monthly_aaum_date": "202",
+            "monthly_aaum_value": "202",
+            "mutual_fund_name": "202",
+            "riskometer": "202",
+            "riskometer_benchmark": "202",
+            "scheme_launch_date": "202"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "01-Mar-2022",
+            "name": "Akhil Mittal",
+            "qualification": "",
+            "total_exp": "24"
+          },
+          {
+            "managing_fund_since": "01-Jun-   2026",
+            "name": "Puja Kasat",
+            "qualification": "",
+            "total_exp": "17"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil (w.e.f. 2nd November, 2018)"
+          }
+        ],
+        "main_scheme_name": "Tata Gilt Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "24.84"
+          },
+          {
+            "name": "beta",
+            "value": "1.23"
+          },
+          {
+            "name": "macaulay",
+            "value": "10.52"
+          },
+          {
+            "name": "mod_duration",
+            "value": "10.14"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "200"
+          }
+        ],
+        "min_addl_amt": "500",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "840.79",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "202",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "19990906"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "01 November 2011 Nifty 500"
+        ],
+        "field_location": [
+          {
+            "amc_name": "205",
+            "benchmark_index": "205",
+            "count": 67,
+            "fund_manager_managing_fund_since": "205",
+            "fund_manager_name": "205",
+            "fund_manager_qualification": "205",
+            "fund_manager_total_exp": "205",
+            "load_exit": "205",
+            "main_scheme_name": "205",
+            "metrics_beta": "205",
+            "metrics_port_turnover_ratio": "205",
+            "min_addl_amt": "205",
+            "min_addl_amt_multiple": "205",
+            "min_amt": "205",
+            "min_amt_multiple": "205",
+            "monthly_aaum_date": "205",
+            "monthly_aaum_value": "205",
+            "mutual_fund_name": "205",
+            "riskometer": "205",
+            "riskometer_benchmark": "205",
+            "scheme_launch_date": "205"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "01-Apr-2016",
+            "name": "Sonam Udasi",
+            "qualification": "",
+            "total_exp": "28"
+          },
+          {
+            "managing_fund_since": "01-Apr-   2017",
+            "name": "Murthy Nagarajan",
+            "qualification": "",
+            "total_exp": "29"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1) Nil If redemption or switch out on or after attainment of retirement age i.e. 60years.2) Nil In case of Auto switch out of units on occurrence of Auto switch trigger event.3 ) Exit Load is 1% If redeemed before 61 months from the date of allotment. The above condtions applicable (w.e.f. 3rd May, 2019)"
+          }
+        ],
+        "main_scheme_name": "Tata Retirement Savings Fund - Progressive Plan",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.98"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "5609"
+          }
+        ],
+        "min_addl_amt": "150",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "2,244.64",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "205",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20111101"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "01 November 2011 Crisil Hybrid 25+75 - Aggressive Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "208",
+            "benchmark_index": "208",
+            "count": 67,
+            "fund_manager_managing_fund_since": "208",
+            "fund_manager_name": "208",
+            "fund_manager_qualification": "208",
+            "fund_manager_total_exp": "208",
+            "load_exit": "208",
+            "main_scheme_name": "208",
+            "metrics_beta": "208",
+            "metrics_port_turnover_ratio": "208",
+            "min_addl_amt": "208",
+            "min_addl_amt_multiple": "208",
+            "min_amt": "208",
+            "min_amt_multiple": "208",
+            "monthly_aaum_date": "208",
+            "monthly_aaum_value": "208",
+            "mutual_fund_name": "208",
+            "riskometer": "208",
+            "riskometer_benchmark": "208",
+            "scheme_launch_date": "208"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "01-Apr-2016",
+            "name": "Sonam Udasi",
+            "qualification": "",
+            "total_exp": "28"
+          },
+          {
+            "managing_fund_since": "01-Apr-   2017",
+            "name": "Murthy Nagarajan",
+            "qualification": "",
+            "total_exp": "29"
+          },
+          {
+            "managing_fund_since": "01-Jun-2026",
+            "name": "Amit Somani",
+            "qualification": "",
+            "total_exp": "24"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1) Nil If redemption or switch out on or after attainment of retirement age i.e. 60years.2) Nil In case of Auto switch out of units on occurrence of Auto switch trigger event.3 ) Exit Load is 1% If redeemed before 61 months from the date of allotment. The above condtions applicable (w.e.f. 3rd May, 2019)"
+          }
+        ],
+        "main_scheme_name": "Tata Retirement Savings Fund - Moderate Plan",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.08"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "4736"
+          }
+        ],
+        "min_addl_amt": "150",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "2,242.76",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "208",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20111101"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "01 November 2011 CRISIL Short Term Debt Hybrid 75+25 Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "211",
+            "benchmark_index": "211",
+            "count": 67,
+            "fund_manager_managing_fund_since": "211",
+            "fund_manager_name": "211",
+            "fund_manager_qualification": "211",
+            "fund_manager_total_exp": "211",
+            "load_exit": "211",
+            "main_scheme_name": "211",
+            "metrics_avg_maturity": "211",
+            "metrics_beta": "211",
+            "metrics_macaulay": "211",
+            "metrics_mod_duration": "211",
+            "metrics_port_turnover_ratio": "211",
+            "min_addl_amt": "211",
+            "min_addl_amt_multiple": "211",
+            "min_amt": "211",
+            "min_amt_multiple": "211",
+            "monthly_aaum_date": "211",
+            "monthly_aaum_value": "211",
+            "mutual_fund_name": "211",
+            "riskometer": "211",
+            "riskometer_benchmark": "211",
+            "scheme_launch_date": "211"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "01-Apr-2016",
+            "name": "Sonam Udasi",
+            "qualification": "",
+            "total_exp": "28"
+          },
+          {
+            "managing_fund_since": "01-Apr-   2017",
+            "name": "Murthy Nagarajan",
+            "qualification": "",
+            "total_exp": "29"
+          },
+          {
+            "managing_fund_since": "01-Jun-2026",
+            "name": "Amit Somani",
+            "qualification": "",
+            "total_exp": "24"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1) Nil If redemption or switch out on or after attainment of retirement age i.e. 60years.2) Nil In case of Auto switch out of units on occurrence of Auto switch trigger event.3 ) Exit Load is 1% If redeemed before 61 months from the date of allotment. The above condtions applicable (w.e.f. 3rd May, 2019)"
+          },
+          {
+            "type": "exit",
+            "comment": "Risk Interest Rate & Price Volatility Risk on Debt 2 Securities 3 Credit Default & Rating Downgrade Risk Reinvestment & Liquidity Risk on Fixed 4 Income Portfolio 5 Limited Equity Allocation & Inflation Risk with a detailed explanation in the Important Link Section Quantitative Measures (as applicable) 1 Portfolio Turnover Ratio (Annualized) a) Equity Turnover (%) NA b) Gross Exposure Turnover (%) NA (Equity + Debt + Derivatives) 2 Average Maturity (years): 8.72 3 Macaulay Duration (years): 4.82"
+          }
+        ],
+        "main_scheme_name": "Tata Retirement Savings Fund - Conservative Plan",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "8.72"
+          },
+          {
+            "name": "beta",
+            "value": "1.21"
+          },
+          {
+            "name": "macaulay",
+            "value": "4.82"
+          },
+          {
+            "name": "mod_duration",
+            "value": "4.65"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "200"
+          }
+        ],
+        "min_addl_amt": "150",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "170.56",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "211",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20111101"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Tata Asset Management Private Limited",
+        "benchmark_index": [
+          "14 October 1995 Nifty 500"
+        ],
+        "field_location": [
+          {
+            "amc_name": "214",
+            "benchmark_index": "214",
+            "count": 67,
+            "fund_manager_managing_fund_since": "214",
+            "fund_manager_name": "214",
+            "fund_manager_qualification": "214",
+            "fund_manager_total_exp": "214",
+            "load_exit": "214",
+            "main_scheme_name": "214",
+            "metrics_beta": "214",
+            "metrics_port_turnover_ratio": "214",
+            "min_addl_amt": "214",
+            "min_addl_amt_multiple": "214",
+            "min_amt": "214",
+            "min_amt_multiple": "214",
+            "monthly_aaum_date": "214",
+            "monthly_aaum_value": "214",
+            "mutual_fund_name": "214",
+            "riskometer": "214",
+            "riskometer_benchmark": "214",
+            "scheme_launch_date": "214"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "31-Oct-2025",
+            "name": "Rahul Singh",
+            "qualification": "",
+            "total_exp": "30"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Compulsory Lock-in Option: 5 years or till the child attains age of majority (whichever is earlier). If redeemed before child attains 18 years of age, Exit load is 1% (Effective from May 3)"
+          }
+        ],
+        "main_scheme_name": "Tata Childrens Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.94"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "336"
+          }
+        ],
+        "min_addl_amt": "500",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "500",
+        "min_amt_multiple": "500",
+        "monthly_aaum_date": "20260831",
+        "monthly_aaum_value": "334.02",
+        "mutual_fund_name": "Tata Mutual Fund",
+        "page_number": "214",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "19951014"
+      }
+    }
+  ]
+}

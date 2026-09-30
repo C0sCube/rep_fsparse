@@ -8,10 +8,10 @@
   PARAMS: {
     title: {
       ocr: false,
-      pattern: "Apex\\s+Hybrid.+?Fund",
-      bbox: [210.83, 83.29, 581.72, 285.0],
+      pattern: "Name.+?Hybrid.+?Fund",
+      bbox: [14.32, 110.62, 577.82, 268],
     },
-    clip_bbox: [[0, 0, 215, 845]],
+    clip_bbox: [[20, 110, 575, 495]],
     line_x: 200.0,
     data: {
       size: [6, 9],
