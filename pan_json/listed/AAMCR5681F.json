@@ -1,0 +1,61 @@
+{
+  "panNum": null,
+  "action": null,
+  "gstinResList": [
+    {
+      "gstin": "29AAMCR5681F1ZU",
+      "authStatus": "Active",
+      "stateCd": "29"
+    },
+    {
+      "gstin": "04AAMCR5681F1Z6",
+      "authStatus": "Active",
+      "stateCd": "04"
+    },
+    {
+      "gstin": "36AAMCR5681F1ZZ",
+      "authStatus": "Active",
+      "stateCd": "36"
+    },
+    {
+      "gstin": "27AAMCR5681F1ZY",
+      "authStatus": "Active",
+      "stateCd": "27"
+    },
+    {
+      "gstin": "09AAMCR5681F1ZW",
+      "authStatus": "Active",
+      "stateCd": "09"
+    },
+    {
+      "gstin": "03AAMCR5681F1Z8",
+      "authStatus": "Active",
+      "stateCd": "03"
+    },
+    {
+      "gstin": "07AAMCR5681F1Z0",
+      "authStatus": "Active",
+      "stateCd": "07"
+    },
+    {
+      "gstin": "06AAMCR5681F1Z2",
+      "authStatus": "Active",
+      "stateCd": "06"
+    },
+    {
+      "gstin": "08AAMCR5681F1ZY",
+      "authStatus": "Active",
+      "stateCd": "08"
+    },
+    {
+      "gstin": "19AAMCR5681F1ZV",
+      "authStatus": "Active",
+      "stateCd": "19"
+    },
+    {
+      "gstin": "23AAMCR5681F1Z6",
+      "authStatus": "Active",
+      "stateCd": "23"
+    }
+  ]
+}

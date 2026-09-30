@@ -1,0 +1,101 @@
+{
+  "panNum": null,
+  "action": null,
+  "gstinResList": [
+    {
+      "gstin": "09AAACZ4322M1Z1",
+      "authStatus": "Active",
+      "stateCd": "09"
+    },
+    {
+      "gstin": "10AAACZ4322M1ZI",
+      "authStatus": "Active",
+      "stateCd": "10"
+    },
+    {
+      "gstin": "27AAACZ4322M1Z3",
+      "authStatus": "Active",
+      "stateCd": "27"
+    },
+    {
+      "gstin": "36AAACZ4322M1Z4",
+      "authStatus": "Active",
+      "stateCd": "36"
+    },
+    {
+      "gstin": "33AAACZ4322M4Z7",
+      "authStatus": "Inactive",
+      "stateCd": "33"
+    },
+    {
+      "gstin": "33AAACZ4322M2Z9",
+      "authStatus": "Active",
+      "stateCd": "33"
+    },
+    {
+      "gstin": "33AAACZ4322M3Z8",
+      "authStatus": "Inactive",
+      "stateCd": "33"
+    },
+    {
+      "gstin": "29AAACZ4322M1ZZ",
+      "authStatus": "Active",
+      "stateCd": "29"
+    },
+    {
+      "gstin": "33AAACZ4322M5Z6",
+      "authStatus": "Inactive",
+      "stateCd": "33"
+    },
+    {
+      "gstin": "36AAACZ4322M2Z3",
+      "authStatus": "Active",
+      "stateCd": "36"
+    },
+    {
+      "gstin": "06AAACZ4322M1Z7",
+      "authStatus": "Active",
+      "stateCd": "06"
+    },
+    {
+      "gstin": "37AAACZ4322M1Z2",
+      "authStatus": "Active",
+      "stateCd": "37"
+    },
+    {
+      "gstin": "34AAACZ4322M1Z8",
+      "authStatus": "Active",
+      "stateCd": "34"
+    },
+    {
+      "gstin": "33AAACZ4322M6Z5",
+      "authStatus": "Active",
+      "stateCd": "33"
+    },
+    {
+      "gstin": "33AAACZ4322M1ZA",
+      "authStatus": "Active",
+      "stateCd": "33"
+    },
+    {
+      "gstin": "19AAACZ4322M1Z0",
+      "authStatus": "Active",
+      "stateCd": "19"
+    },
+    {
+      "gstin": "32AAACZ4322M1ZC",
+      "authStatus": "Active",
+      "stateCd": "32"
+    },
+    {
+      "gstin": "29AAACZ4322M2ZY",
+      "authStatus": "Active",
+      "stateCd": "29"
+    },
+    {
+      "gstin": "27AAACZ4322M2Z2",
+      "authStatus": "Active",
+      "stateCd": "27"
+    }
+  ]
+}

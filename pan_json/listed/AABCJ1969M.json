@@ -1,0 +1,106 @@
+{
+  "panNum": null,
+  "action": null,
+  "gstinResList": [
+    {
+      "gstin": "21AABCJ1969M1ZF",
+      "authStatus": "Active",
+      "stateCd": "21"
+    },
+    {
+      "gstin": "33AABCJ1969M1ZA",
+      "authStatus": "Active",
+      "stateCd": "33"
+    },
+    {
+      "gstin": "09AABCJ1969M1Z1",
+      "authStatus": "Inactive",
+      "stateCd": "09"
+    },
+    {
+      "gstin": "36AABCJ1969M1Z4",
+      "authStatus": "Active",
+      "stateCd": "36"
+    },
+    {
+      "gstin": "07AABCJ1969M3Z3",
+      "authStatus": "Active",
+      "stateCd": "07"
+    },
+    {
+      "gstin": "292000000057AR2",
+      "authStatus": "Active",
+      "stateCd": "29"
+    },
+    {
+      "gstin": "21AABCJ1969M1DO",
+      "authStatus": "Active",
+      "stateCd": "21"
+    },
+    {
+      "gstin": "24AABCJ1969M1Z9",
+      "authStatus": "Active",
+      "stateCd": "24"
+    },
+    {
+      "gstin": "06AABCJ1969M1Z7",
+      "authStatus": "Active",
+      "stateCd": "06"
+    },
+    {
+      "gstin": "19AABCJ1969M1Z0",
+      "authStatus": "Active",
+      "stateCd": "19"
+    },
+    {
+      "gstin": "27AABCJ1969M1Z3",
+      "authStatus": "Active",
+      "stateCd": "27"
+    },
+    {
+      "gstin": "07AABCJ1969M1Z5",
+      "authStatus": "Inactive",
+      "stateCd": "07"
+    },
+    {
+      "gstin": "062400002833TMP",
+      "authStatus": "Inactive",
+      "stateCd": "06"
+    },
+    {
+      "gstin": "29AABCJ1969M2ZY",
+      "authStatus": "Inactive",
+      "stateCd": "29"
+    },
+    {
+      "gstin": "07AABCJ1969M2Z4",
+      "authStatus": "Active",
+      "stateCd": "07"
+    },
+    {
+      "gstin": "29AABCJ1969M1ZZ",
+      "authStatus": "Inactive",
+      "stateCd": "29"
+    },
+    {
+      "gstin": "37AABCJ1969M2Z1",
+      "authStatus": "Active",
+      "stateCd": "37"
+    },
+    {
+      "gstin": "06AABCJ1969M1DG",
+      "authStatus": "Active",
+      "stateCd": "06"
+    },
+    {
+      "gstin": "03AABCJ1969M1ZD",
+      "authStatus": "Inactive",
+      "stateCd": "03"
+    },
+    {
+      "gstin": "37AABCJ1969M1Z2",
+      "authStatus": "Inactive",
+      "stateCd": "37"
+    }
+  ]
+}

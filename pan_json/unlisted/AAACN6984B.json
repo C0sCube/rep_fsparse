@@ -1,0 +1,101 @@
+{
+  "panNum": null,
+  "action": null,
+  "gstinResList": [
+    {
+      "gstin": "18AAACN6984B1ZD",
+      "authStatus": "Active",
+      "stateCd": "18"
+    },
+    {
+      "gstin": "21AAACN6984B1DZ",
+      "authStatus": "Active",
+      "stateCd": "21"
+    },
+    {
+      "gstin": "07AAACN6984B1ZG",
+      "authStatus": "Active",
+      "stateCd": "07"
+    },
+    {
+      "gstin": "09AAACN6984B1ZC",
+      "authStatus": "Inactive",
+      "stateCd": "09"
+    },
+    {
+      "gstin": "03AAACN6984B1ZO",
+      "authStatus": "Inactive",
+      "stateCd": "03"
+    },
+    {
+      "gstin": "18AAACN6984B2ZC",
+      "authStatus": "Inactive",
+      "stateCd": "18"
+    },
+    {
+      "gstin": "19AAACN6984B1ZB",
+      "authStatus": "Active",
+      "stateCd": "19"
+    },
+    {
+      "gstin": "07AAACN6984B1DP",
+      "authStatus": "Active",
+      "stateCd": "07"
+    },
+    {
+      "gstin": "18AAACN6984B4ZA",
+      "authStatus": "Active",
+      "stateCd": "18"
+    },
+    {
+      "gstin": "10AAACN6984B1ZT",
+      "authStatus": "Inactive",
+      "stateCd": "10"
+    },
+    {
+      "gstin": "27AAACN6984B1ZE",
+      "authStatus": "Inactive",
+      "stateCd": "27"
+    },
+    {
+      "gstin": "07AAACN6984B2ZF",
+      "authStatus": "Active",
+      "stateCd": "07"
+    },
+    {
+      "gstin": "20AAACN6984B1ZS",
+      "authStatus": "Active",
+      "stateCd": "20"
+    },
+    {
+      "gstin": "18AAACN6984B3ZB",
+      "authStatus": "Inactive",
+      "stateCd": "18"
+    },
+    {
+      "gstin": "19AAACN6984B1DK",
+      "authStatus": "Active",
+      "stateCd": "19"
+    },
+    {
+      "gstin": "21AAACN6984B1ZQ",
+      "authStatus": "Inactive",
+      "stateCd": "21"
+    },
+    {
+      "gstin": "21AAACN6984B2ZP",
+      "authStatus": "Active",
+      "stateCd": "21"
+    },
+    {
+      "gstin": "10AAACN6984B1D2",
+      "authStatus": "Active",
+      "stateCd": "10"
+    },
+    {
+      "gstin": "10AAACN6984B2ZS",
+      "authStatus": "Active",
+      "stateCd": "10"
+    }
+  ]
+}

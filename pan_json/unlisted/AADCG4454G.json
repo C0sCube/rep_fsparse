@@ -1,0 +1,51 @@
+{
+  "panNum": null,
+  "action": null,
+  "gstinResList": [
+    {
+      "gstin": "36AADCG4454G1ZO",
+      "authStatus": "Active",
+      "stateCd": "36"
+    },
+    {
+      "gstin": "33AADCG4454G1ZU",
+      "authStatus": "Active",
+      "stateCd": "33"
+    },
+    {
+      "gstin": "06AADCG4454G1ZR",
+      "authStatus": "Active",
+      "stateCd": "06"
+    },
+    {
+      "gstin": "29AADCG4454G2ZI",
+      "authStatus": "Active",
+      "stateCd": "29"
+    },
+    {
+      "gstin": "19AADCG4454G1ZK",
+      "authStatus": "Active",
+      "stateCd": "19"
+    },
+    {
+      "gstin": "27AADCG4454G1ZN",
+      "authStatus": "Active",
+      "stateCd": "27"
+    },
+    {
+      "gstin": "09AADCG4454G1ZL",
+      "authStatus": "Active",
+      "stateCd": "09"
+    },
+    {
+      "gstin": "29AADCG4454G1ZJ",
+      "authStatus": "Active",
+      "stateCd": "29"
+    },
+    {
+      "gstin": "08AADCG4454G1ZN",
+      "authStatus": "Active",
+      "stateCd": "08"
+    }
+  ]
+}

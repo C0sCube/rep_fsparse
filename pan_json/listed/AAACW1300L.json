@@ -1,0 +1,136 @@
+{
+  "panNum": null,
+  "action": null,
+  "gstinResList": [
+    {
+      "gstin": "23AAACW1300L1ZS",
+      "authStatus": "Active",
+      "stateCd": "23"
+    },
+    {
+      "gstin": "33AAACW1300L1ZR",
+      "authStatus": "Active",
+      "stateCd": "33"
+    },
+    {
+      "gstin": "09AAACW1300L1ZI",
+      "authStatus": "Active",
+      "stateCd": "09"
+    },
+    {
+      "gstin": "27AAACW1300L1ZK",
+      "authStatus": "Active",
+      "stateCd": "27"
+    },
+    {
+      "gstin": "23AAACW1300L2ZR",
+      "authStatus": "Active",
+      "stateCd": "23"
+    },
+    {
+      "gstin": "05AAACW1300L1ZQ",
+      "authStatus": "Active",
+      "stateCd": "05"
+    },
+    {
+      "gstin": "04AAACW1300L1ZS",
+      "authStatus": "Inactive",
+      "stateCd": "04"
+    },
+    {
+      "gstin": "03AAACW1300L1ZU",
+      "authStatus": "Active",
+      "stateCd": "03"
+    },
+    {
+      "gstin": "19AAACW1300L1ZH",
+      "authStatus": "Active",
+      "stateCd": "19"
+    },
+    {
+      "gstin": "10AAACW1300L1ZZ",
+      "authStatus": "Active",
+      "stateCd": "10"
+    },
+    {
+      "gstin": "02AAACW1300L1ZW",
+      "authStatus": "Active",
+      "stateCd": "02"
+    },
+    {
+      "gstin": "07AAACW1300L1ZM",
+      "authStatus": "Active",
+      "stateCd": "07"
+    },
+    {
+      "gstin": "21AAACW1300L1ZW",
+      "authStatus": "Active",
+      "stateCd": "21"
+    },
+    {
+      "gstin": "37AAACW1300L1ZJ",
+      "authStatus": "Active",
+      "stateCd": "37"
+    },
+    {
+      "gstin": "27AAACW1300L2ZJ",
+      "authStatus": "Active",
+      "stateCd": "27"
+    },
+    {
+      "gstin": "08AAACW1300L1ZK",
+      "authStatus": "Active",
+      "stateCd": "08"
+    },
+    {
+      "gstin": "20AAACW1300L1ZY",
+      "authStatus": "Inactive",
+      "stateCd": "20"
+    },
+    {
+      "gstin": "24AAACW1300L1ZQ",
+      "authStatus": "Active",
+      "stateCd": "24"
+    },
+    {
+      "gstin": "06AAACW1300L1ZO",
+      "authStatus": "Active",
+      "stateCd": "06"
+    },
+    {
+      "gstin": "29AAACW1300L1ZG",
+      "authStatus": "Active",
+      "stateCd": "29"
+    },
+    {
+      "gstin": "06AAACW1300L2ZN",
+      "authStatus": "Inactive",
+      "stateCd": "06"
+    },
+    {
+      "gstin": "07AAACW1300L2ZL",
+      "authStatus": "Inactive",
+      "stateCd": "07"
+    },
+    {
+      "gstin": "36AAACW1300L1ZL",
+      "authStatus": "Active",
+      "stateCd": "36"
+    },
+    {
+      "gstin": "32AAACW1300L1ZT",
+      "authStatus": "Active",
+      "stateCd": "32"
+    },
+    {
+      "gstin": "22AAACW1300L1ZU",
+      "authStatus": "Active",
+      "stateCd": "22"
+    },
+    {
+      "gstin": "01AAACW1300L1ZY",
+      "authStatus": "Active",
+      "stateCd": "01"
+    }
+  ]
+}

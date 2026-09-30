@@ -1,0 +1,101 @@
+{
+  "panNum": null,
+  "action": null,
+  "gstinResList": [
+    {
+      "gstin": "29AAACH7073D3ZK",
+      "authStatus": "Active",
+      "stateCd": "29"
+    },
+    {
+      "gstin": "18AAACH7073D1ZP",
+      "authStatus": "Inactive",
+      "stateCd": "18"
+    },
+    {
+      "gstin": "03AAACH7073D1Z0",
+      "authStatus": "Inactive",
+      "stateCd": "03"
+    },
+    {
+      "gstin": "24AAACH7073D1ZW",
+      "authStatus": "Inactive",
+      "stateCd": "24"
+    },
+    {
+      "gstin": "27AAACH7073D1ZQ",
+      "authStatus": "Active",
+      "stateCd": "27"
+    },
+    {
+      "gstin": "23AAACH7073D1D7",
+      "authStatus": "Active",
+      "stateCd": "23"
+    },
+    {
+      "gstin": "03AAACH7073D2ZZ",
+      "authStatus": "Active",
+      "stateCd": "03"
+    },
+    {
+      "gstin": "27AAACH7073D1DZ",
+      "authStatus": "Active",
+      "stateCd": "27"
+    },
+    {
+      "gstin": "36AAACH7073D1ZR",
+      "authStatus": "Active",
+      "stateCd": "36"
+    },
+    {
+      "gstin": "29AAACH7073D1ZM",
+      "authStatus": "Inactive",
+      "stateCd": "29"
+    },
+    {
+      "gstin": "07AAACH7073D1ZS",
+      "authStatus": "Inactive",
+      "stateCd": "07"
+    },
+    {
+      "gstin": "29AAACH7073D1DV",
+      "authStatus": "Active",
+      "stateCd": "29"
+    },
+    {
+      "gstin": "29AAACH7073D2ZL",
+      "authStatus": "Active",
+      "stateCd": "29"
+    },
+    {
+      "gstin": "09AAACH7073D1ZO",
+      "authStatus": "Inactive",
+      "stateCd": "09"
+    },
+    {
+      "gstin": "04AAACH7073D1ZY",
+      "authStatus": "Inactive",
+      "stateCd": "04"
+    },
+    {
+      "gstin": "06AAACH7073D1ZU",
+      "authStatus": "Active",
+      "stateCd": "06"
+    },
+    {
+      "gstin": "37AAACH7073D1ZP",
+      "authStatus": "Inactive",
+      "stateCd": "37"
+    },
+    {
+      "gstin": "23AAACH7073D2ZX",
+      "authStatus": "Active",
+      "stateCd": "23"
+    },
+    {
+      "gstin": "23AAACH7073D1ZY",
+      "authStatus": "Inactive",
+      "stateCd": "23"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "panNum": null,
+  "action": null,
+  "gstinResList": [
+    {
+      "gstin": "04AAACH8849M1Z5",
+      "authStatus": "Active",
+      "stateCd": "04"
+    },
+    {
+      "gstin": "08AAACH8849M1ZX",
+      "authStatus": "Active",
+      "stateCd": "08"
+    },
+    {
+      "gstin": "32AAACH8849M2Z5",
+      "authStatus": "Active",
+      "stateCd": "32"
+    },
+    {
+      "gstin": "27AAACH8849M1ZX",
+      "authStatus": "Active",
+      "stateCd": "27"
+    },
+    {
+      "gstin": "19AAACH8849M1ZU",
+      "authStatus": "Active",
+      "stateCd": "19"
+    },
+    {
+      "gstin": "23AAACH8849M1Z5",
+      "authStatus": "Active",
+      "stateCd": "23"
+    },
+    {
+      "gstin": "27AAACH8849M3ZV",
+      "authStatus": "Active",
+      "stateCd": "27"
+    },
+    {
+      "gstin": "33AAACH8849M1Z4",
+      "authStatus": "Active",
+      "stateCd": "33"
+    },
+    {
+      "gstin": "06AAACH8849M2Z0",
+      "authStatus": "Active",
+      "stateCd": "06"
+    },
+    {
+      "gstin": "09AAACH8849M1ZV",
+      "authStatus": "Inactive",
+      "stateCd": "09"
+    },
+    {
+      "gstin": "29AAACH8849M1ZT",
+      "authStatus": "Active",
+      "stateCd": "29"
+    },
+    {
+      "gstin": "04AAACH8849M2Z4",
+      "authStatus": "Active",
+      "stateCd": "04"
+    },
+    {
+      "gstin": "06AAACH8849M1Z1",
+      "authStatus": "Active",
+      "stateCd": "06"
+    },
+    {
+      "gstin": "32AAACH8849M1Z6",
+      "authStatus": "Active",
+      "stateCd": "32"
+    },
+    {
+      "gstin": "27AAACH8849M2ZW",
+      "authStatus": "Active",
+      "stateCd": "27"
+    },
+    {
+      "gstin": "24AAACH8849M1Z3",
+      "authStatus": "Active",
+      "stateCd": "24"
+    },
+    {
+      "gstin": "36AAACH8849M1ZY",
+      "authStatus": "Inactive",
+      "stateCd": "36"
+    },
+    {
+      "gstin": "07AAACH8849M1ZZ",
+      "authStatus": "Active",
+      "stateCd": "07"
+    },
+    {
+      "gstin": "36AAACH8849M2ZX",
+      "authStatus": "Active",
+      "stateCd": "36"
+    },
+    {
+      "gstin": "092500046282TMP",
+      "authStatus": null,
+      "stateCd": "09"
+    }
+  ]
+}

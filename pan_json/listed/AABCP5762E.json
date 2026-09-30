@@ -1,0 +1,101 @@
+{
+  "panNum": null,
+  "action": null,
+  "gstinResList": [
+    {
+      "gstin": "23AABCP5762E1ZN",
+      "authStatus": "Inactive",
+      "stateCd": "23"
+    },
+    {
+      "gstin": "27AABCP5762E4ZC",
+      "authStatus": "Active",
+      "stateCd": "27"
+    },
+    {
+      "gstin": "27AABCP5762E2ZE",
+      "authStatus": "Inactive",
+      "stateCd": "27"
+    },
+    {
+      "gstin": "32AABCP5762E1ZO",
+      "authStatus": "Active",
+      "stateCd": "32"
+    },
+    {
+      "gstin": "19AABCP5762E1ZC",
+      "authStatus": "Active",
+      "stateCd": "19"
+    },
+    {
+      "gstin": "23AABCP5762E2ZM",
+      "authStatus": "Active",
+      "stateCd": "23"
+    },
+    {
+      "gstin": "24AABCP5762E1ZL",
+      "authStatus": "Active",
+      "stateCd": "24"
+    },
+    {
+      "gstin": "33AABCP5762E1ZM",
+      "authStatus": "Active",
+      "stateCd": "33"
+    },
+    {
+      "gstin": "36AABCP5762E1ZG",
+      "authStatus": "Active",
+      "stateCd": "36"
+    },
+    {
+      "gstin": "37AABCP5762E1ZE",
+      "authStatus": "Inactive",
+      "stateCd": "37"
+    },
+    {
+      "gstin": "21AABCP5762E1ZR",
+      "authStatus": "Inactive",
+      "stateCd": "21"
+    },
+    {
+      "gstin": "27AABCP5762E3ZD",
+      "authStatus": "Inactive",
+      "stateCd": "27"
+    },
+    {
+      "gstin": "30AABCP5762E1ZS",
+      "authStatus": "Active",
+      "stateCd": "30"
+    },
+    {
+      "gstin": "05AABCP5762E1ZL",
+      "authStatus": "Active",
+      "stateCd": "05"
+    },
+    {
+      "gstin": "19AABCP5762E2ZB",
+      "authStatus": "Active",
+      "stateCd": "19"
+    },
+    {
+      "gstin": "06AABCP5762E1ZJ",
+      "authStatus": "Inactive",
+      "stateCd": "06"
+    },
+    {
+      "gstin": "07AABCP5762E1ZH",
+      "authStatus": "Inactive",
+      "stateCd": "07"
+    },
+    {
+      "gstin": "27AABCP5762E1ZF",
+      "authStatus": "Inactive",
+      "stateCd": "27"
+    },
+    {
+      "gstin": "062600003512TMP",
+      "authStatus": null,
+      "stateCd": "06"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "panNum": null,
+  "action": null,
+  "gstinResList": [
+    {
+      "gstin": "092200025797TMP",
+      "authStatus": "Inactive",
+      "stateCd": "09"
+    },
+    {
+      "gstin": "03AAACK1375K2ZO",
+      "authStatus": "Inactive",
+      "stateCd": "03"
+    },
+    {
+      "gstin": "06AAACK1375K1ZJ",
+      "authStatus": "Active",
+      "stateCd": "06"
+    },
+    {
+      "gstin": "092500025397TMP",
+      "authStatus": null,
+      "stateCd": "09"
+    },
+    {
+      "gstin": "24AAACK1375K1ZL",
+      "authStatus": "Inactive",
+      "stateCd": "24"
+    },
+    {
+      "gstin": "092200019709TMP",
+      "authStatus": "Inactive",
+      "stateCd": "09"
+    },
+    {
+      "gstin": "092500041401TMP",
+      "authStatus": null,
+      "stateCd": "09"
+    },
+    {
+      "gstin": "06AAACK1375K2ZI",
+      "authStatus": "Active",
+      "stateCd": "06"
+    },
+    {
+      "gstin": "092400041293TMP",
+      "authStatus": "Inactive",
+      "stateCd": "09"
+    },
+    {
+      "gstin": "03AAACK1375K1ZP",
+      "authStatus": "Active",
+      "stateCd": "03"
+    },
+    {
+      "gstin": "08AAACK1375K1ZF",
+      "authStatus": "Inactive",
+      "stateCd": "08"
+    },
+    {
+      "gstin": "22AAACK1375K1ZP",
+      "authStatus": "Inactive",
+      "stateCd": "22"
+    },
+    {
+      "gstin": "05AAACK1375K1ZL",
+      "authStatus": "Inactive",
+      "stateCd": "05"
+    },
+    {
+      "gstin": "092500025407TMP",
+      "authStatus": null,
+      "stateCd": "09"
+    },
+    {
+      "gstin": "092500010371TMP",
+      "authStatus": "Inactive",
+      "stateCd": "09"
+    },
+    {
+      "gstin": "07AAACK1375K1ZH",
+      "authStatus": "Inactive",
+      "stateCd": "07"
+    },
+    {
+      "gstin": "09AAACK1375K1ZD",
+      "authStatus": "Inactive",
+      "stateCd": "09"
+    },
+    {
+      "gstin": "092500015737TMP",
+      "authStatus": "Inactive",
+      "stateCd": "09"
+    },
+    {
+      "gstin": "04AAACK1375K1ZN",
+      "authStatus": "Inactive",
+      "stateCd": "04"
+    },
+    {
+      "gstin": "092500027652TMP",
+      "authStatus": "Inactive",
+      "stateCd": "09"
+    },
+    {
+      "gstin": "092500051894TMP",
+      "authStatus": "Inactive",
+      "stateCd": "09"
+    }
+  ]
+}

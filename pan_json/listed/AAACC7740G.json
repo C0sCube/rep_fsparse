@@ -1,0 +1,121 @@
+{
+  "panNum": null,
+  "action": null,
+  "gstinResList": [
+    {
+      "gstin": "22AAACC7740G1Z1",
+      "authStatus": "Active",
+      "stateCd": "22"
+    },
+    {
+      "gstin": "19AAACC7740G1ZO",
+      "authStatus": "Active",
+      "stateCd": "19"
+    },
+    {
+      "gstin": "27AAACC7740G1ZR",
+      "authStatus": "Active",
+      "stateCd": "27"
+    },
+    {
+      "gstin": "21AAACC7740G1Z3",
+      "authStatus": "Active",
+      "stateCd": "21"
+    },
+    {
+      "gstin": "03AAACC7740G1Z1",
+      "authStatus": "Active",
+      "stateCd": "03"
+    },
+    {
+      "gstin": "23AAACC7740G1ZZ",
+      "authStatus": "Active",
+      "stateCd": "23"
+    },
+    {
+      "gstin": "07AAACC7740G1ZT",
+      "authStatus": "Active",
+      "stateCd": "07"
+    },
+    {
+      "gstin": "29AAACC7740G2ZM",
+      "authStatus": "Active",
+      "stateCd": "29"
+    },
+    {
+      "gstin": "32AAACC7740G1Z0",
+      "authStatus": "Active",
+      "stateCd": "32"
+    },
+    {
+      "gstin": "20AAACC7740G1Z5",
+      "authStatus": "Active",
+      "stateCd": "20"
+    },
+    {
+      "gstin": "33AAACC7740G1ZY",
+      "authStatus": "Active",
+      "stateCd": "33"
+    },
+    {
+      "gstin": "18AAACC7740G1ZQ",
+      "authStatus": "Active",
+      "stateCd": "18"
+    },
+    {
+      "gstin": "08AAACC7740G1ZR",
+      "authStatus": "Active",
+      "stateCd": "08"
+    },
+    {
+      "gstin": "04AAACC7740G1ZZ",
+      "authStatus": "Active",
+      "stateCd": "04"
+    },
+    {
+      "gstin": "09AAACC7740G1ZP",
+      "authStatus": "Active",
+      "stateCd": "09"
+    },
+    {
+      "gstin": "11AAACC7740G1Z4",
+      "authStatus": "Inactive",
+      "stateCd": "11"
+    },
+    {
+      "gstin": "37AAACC7740G1ZQ",
+      "authStatus": "Inactive",
+      "stateCd": "37"
+    },
+    {
+      "gstin": "06AAACC7740G1ZV",
+      "authStatus": "Active",
+      "stateCd": "06"
+    },
+    {
+      "gstin": "24AAACC7740G2ZW",
+      "authStatus": "Active",
+      "stateCd": "24"
+    },
+    {
+      "gstin": "29AAACC7740G1ZN",
+      "authStatus": "Inactive",
+      "stateCd": "29"
+    },
+    {
+      "gstin": "36AAACC7740G1ZS",
+      "authStatus": "Active",
+      "stateCd": "36"
+    },
+    {
+      "gstin": "10AAACC7740G1Z6",
+      "authStatus": "Active",
+      "stateCd": "10"
+    },
+    {
+      "gstin": "24AAACC7740G1ZX",
+      "authStatus": "Active",
+      "stateCd": "24"
+    }
+  ]
+}

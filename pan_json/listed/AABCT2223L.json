@@ -1,0 +1,36 @@
+{
+  "panNum": null,
+  "action": null,
+  "gstinResList": [
+    {
+      "gstin": "04AABCT2223L1ZM",
+      "authStatus": "Active",
+      "stateCd": "04"
+    },
+    {
+      "gstin": "36AABCT2223L1ZF",
+      "authStatus": "Active",
+      "stateCd": "36"
+    },
+    {
+      "gstin": "37AABCT2223L1ZD",
+      "authStatus": "Inactive",
+      "stateCd": "37"
+    },
+    {
+      "gstin": "04AABCT2223L3ZK",
+      "authStatus": "Inactive",
+      "stateCd": "04"
+    },
+    {
+      "gstin": "33AABCT2223L1ZL",
+      "authStatus": "Active",
+      "stateCd": "33"
+    },
+    {
+      "gstin": "29AABCT2223L1ZA",
+      "authStatus": "Active",
+      "stateCd": "29"
+    }
+  ]
+}

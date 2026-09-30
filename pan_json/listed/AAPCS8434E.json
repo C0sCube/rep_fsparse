@@ -1,0 +1,16 @@
+{
+  "panNum": null,
+  "action": null,
+  "gstinResList": [
+    {
+      "gstin": "27AAPCS8434E1ZZ",
+      "authStatus": "Active",
+      "stateCd": "27"
+    },
+    {
+      "gstin": "08AAPCS8434E1ZZ",
+      "authStatus": "Active",
+      "stateCd": "08"
+    }
+  ]
+}

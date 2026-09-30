@@ -1,155 +1,203 @@
-import os, re, json, base64, time, warnings
+import re
+import json
+import base64
+import time
+import warnings
 from pathlib import Path
 import requests
+import pandas as pd
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from transformers import pipeline
-import pandas as pd
-from utils import Helper
-from logger import setup_logger
 
+from transformers import pipeline
+from logger import setup_logger
+from utils import Helper
 warnings.filterwarnings("ignore")
 
-pipe = pipeline("automatic-speech-recognition", model=r"D:\Developers\Kaustubh\whisper-medium")
-utils = Helper()
-logger = setup_logger(name="gstn_log")
+pipe = pipeline("automatic-speech-recognition",
+                model=r"E:\AI_Models\whisper-medium")
 
-BASE_SITE = "https://services.gst.gov.in/services/searchtp"
+BASE = "https://services.gst.gov.in/services/searchtp"
+API = "https://services.gst.gov.in/services/api/search/taxpayerReturnDetails"
 
-headers = {
+HEADERS = {
     "Accept": "application/json, text/plain, */*",
     "Content-Type": "application/json;charset=UTF-8",
     "Origin": "https://services.gst.gov.in",
-    "Referer": BASE_SITE,
+    "Referer": BASE,
 }
 
-WORD_TO_DIGIT = {
-    "zero": "0", "oh": "0",
-    "one": "1", "two": "2", "three": "3", "four": "4",
-    "five": "5", "six": "6", "seven": "7", "eight": "8", "nine": "9",
+WORD = {
+    "zero": "0", "oh": "0", "one": "1", "two": "2", "three": "3",
+    "four": "4", "five": "5", "six": "6", "seven": "7", "eight": "8", "nine": "9"
 }
 
-def normalize_digits(text: str) -> str:
-    tokens = re.findall(r"\w+", text.lower())
-    digits = []
-    for tok in tokens:
-        if tok.isdigit():
-            digits.append(tok)
-        elif tok in WORD_TO_DIGIT:
-            digits.append(WORD_TO_DIGIT[tok])
-    return "".join(digits)
+YEARS = [str(y) for y in range(2017, 2027)]
 
-def solve_captcha(driver, gstin, audio_dir):
-    textbox = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.ID, "for_gstin")))
-    textbox.clear()
-    textbox.send_keys(gstin)
 
-    audio_button = WebDriverWait(driver, 20).until(
-        EC.element_to_be_clickable((By.XPATH, "//button[i[contains(@class,'fa-volume-up')]]"))
+def wait_site(driver):
+    WebDriverWait(driver, 20).until(
+        EC.invisibility_of_element_located((By.CSS_SELECTOR, ".dimmer-holder"))
     )
-    audio_button.click()
-    logger.info("Audio button clicked...")
 
-    time.sleep(5)
-    logs = driver.get_log("performance")
-    request_id = None
-    for entry in logs:
+
+def normalize(text):
+    out = []
+    for t in re.findall(r"\w+", text.lower()):
+        if t.isdigit():
+            out.append(t)
+        elif t in WORD:
+            out.append(WORD[t])
+    return "".join(out)
+
+
+def create_session(driver, gstin, retries=5):
+    driver.get(BASE)
+    wait_site(driver)
+
+    for _ in range(retries):
+
+        box = driver.find_element(By.ID, "for_gstin")
+        box.clear()
+        box.send_keys(gstin)
+
+        driver.find_element(
+            By.XPATH,
+            "//button[i[contains(@class,'fa-volume-up')]]"
+        ).click()
+
+        request_id = None
+        for _ in range(20):
+            time.sleep(.5)
+            for e in driver.get_log("performance"):
+                try:
+                    m = json.loads(e["message"])["message"]
+                    if m["method"] == "Network.responseReceived":
+                        if "audiocaptcha" in m["params"]["response"]["url"]:
+                            request_id = m["params"]["requestId"]
+                            break
+                except:
+                    pass
+            if request_id:
+                break
+
+        body = driver.execute_cdp_cmd(
+            "Network.getResponseBody",
+            {"requestId": request_id}
+        )
+
+        Path("captcha.wav").write_bytes(base64.b64decode(body["body"]))
+        captcha = normalize(pipe("captcha.wav")["text"])
+
+        cap = driver.find_element(By.ID, "fo-captcha")
+        cap.clear()
+        cap.send_keys(captcha)
+
+        driver.find_element(By.ID, "lotsearch").click()
+        time.sleep(2)
+
+        if "Invalid Captcha" not in driver.page_source:
+            s = requests.Session()
+            for c in driver.get_cookies():
+                s.cookies.set(c["name"], c["value"])
+            return s
+
+    raise Exception("Captcha failed")
+
+
+def fetch_and_save(session, gstin, output_dir):
+    data = []
+
+    for fy in YEARS:
         try:
-            msg = json.loads(entry["message"])["message"]
-            if msg["method"] == "Network.responseReceived":
-                url = msg["params"]["response"]["url"]
-                if "audiocaptcha" in url:   # keep the same filter
-                    request_id = msg["params"]["requestId"]
-                    break
-        except Exception:
-            pass
+            r = session.post(
+                API,
+                json={"gstin": gstin, "fy": fy},
+                headers=HEADERS,
+                verify=False,
+                timeout=30,
+            )
 
-    if not request_id:
-        raise Exception("Could not find audiocaptcha request in network logs.")
+            r.raise_for_status()
+            res = r.json()
 
-    body = driver.execute_cdp_cmd("Network.getResponseBody", {"requestId": request_id})
-    audio_bytes = base64.b64decode(body["body"]) if body.get("base64Encoded") else body["body"].encode()
+            if "filingStatus" in res and res["filingStatus"]:
+                rows = res["filingStatus"][0]
 
-    audio_path = Path(audio_dir) / f"captcha_audio_{gstin}.wav"
-    with open(audio_path, "wb") as f:
-        f.write(audio_bytes)
+                for row in rows:
+                    row["gstin"] = gstin
 
-    result = pipe(str(audio_path))
-    captcha_digits = normalize_digits(result["text"])
-    captcha = re.sub(r"[^0-9]", "", captcha_digits)
-    logger.info(f"Captcha solved: {captcha}")
-    return captcha
+                data.extend(rows)
 
-def init_session(driver):
-    session = requests.Session()
-    for cookie in driver.get_cookies():
-        session.cookies.set(cookie["name"], cookie["value"])
-    return session
+            else:
+                logger.warning(f"{gstin} {fy} empty.")
+                data.append({
+                    "fy": fy,
+                    "taxp": "NA",
+                    "mof": "NA",
+                    "dof": "NA",
+                    "rtntype": "NA",
+                    "arn": "NA",
+                    "status": "Data Not Found",
+                    "gstin": gstin,
+                })
 
-def fetch_and_save(session, gstin, captcha, output_dir):
-    apis = {
-        "taxpayerDetails": "https://services.gst.gov.in/services/api/search/taxpayerDetails",
-        "taxpayerReturnDetails": "https://services.gst.gov.in/services/api/search/taxpayerReturnDetails",
-        "goodservice": f"https://services.gst.gov.in/services/api/search/goodservice?gstin={gstin}",
-        "dropdownfinyear": f"https://services.gst.gov.in/services/api/dropdownfinyear?gstin={gstin}",
-    }
-
-    gstin_dir = Path(output_dir) / gstin
-    gstin_dir.mkdir(parents=True, exist_ok=True)
-
-    for api_name, url in apis.items():
-        try:
-            if "?" in url:  # GET
-                resp = session.get(url, headers=headers, verify=False)
-            else:           # POST
-                payload = {"gstin": gstin, "captcha": captcha}
-                resp = session.post(url, json=payload, headers=headers, verify=False)
-
-            data = resp.json() if resp.ok else {"status": "Failed", "code": resp.status_code}
-            filename = gstin_dir / f"{api_name}.json"
-            utils.save_json(data, filename)
-            logger.info(f"Saved {api_name} for {gstin} -> {filename}")
         except Exception as e:
-            logger.exception(f"Error fetching {api_name} for {gstin}: {e}")
+            logger.error(f"{gstin} failed request")
+            data.append({
+                "fy": fy,
+                "taxp": "NA",
+                "mof": "NA",
+                "dof": "NA",
+                "rtntype": "NA",
+                "arn": "NA",
+                "status": "Request Failed",
+                "gstin": gstin,
+                "error": str(e),
+            })
 
-def main(gstins):
+            failed.append(gstin)
+            utils.save_json(failed, failed_path)
+
+    (output_dir / f"{gstin}.json").write_text(
+        json.dumps(data, indent=2),
+        encoding="utf-8",
+    )
+
+
+if __name__ == "__main__":
+
+    csv_path = r"PAN_NO_FILES.csv"
+    logger = setup_logger(name="gstn_log")
+    utils = Helper()
+
+    out = Path("output/gstin_json")
+    out.mkdir(parents=True, exist_ok=True)
+
+    failed = []
+    failed_path = out / "failed.json"
+    utils.save_json(failed, failed_path)
+
+    gstins = (
+        pd.read_csv(csv_path)["gstin"]
+        .dropna().astype(str).str.strip().tolist()
+    )
+
     options = webdriver.ChromeOptions()
     options.set_capability("goog:loggingPrefs", {"performance": "ALL"})
+
     driver = webdriver.Chrome(options=options)
     driver.execute_cdp_cmd("Network.enable", {})
 
-    audio_dir = Path("output/gstn_audio")
-    audio_dir.mkdir(parents=True, exist_ok=True)
-    output_dir = Path("output/gstin_json")
-    output_dir.mkdir(parents=True, exist_ok=True)
+    session = create_session(driver, gstins[0])
+    driver.quit()
 
-    try:
-        driver.get(BASE_SITE)
-        WebDriverWait(driver, 20).until(EC.invisibility_of_element_located((By.CSS_SELECTOR, ".dimmer-holder")))
-
-        for idx, gstin in enumerate(gstins, start=1):
-            logger.info(f"FETCHING: {idx} :: {gstin}")
-            captcha = solve_captcha(driver, gstin, audio_dir)
-            session = init_session(driver)
-            fetch_and_save(session, gstin, captcha, output_dir)
-
-            # refresh captcha UI for next GSTIN
-            search_button = WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.ID, "lotsearch")))
-            search_button.click()
-            refresh_button = WebDriverWait(driver, 20).until(
-                EC.element_to_be_clickable((By.XPATH, "//button[i[contains(@class,'fa-refresh')]]"))
-            )
-            refresh_button.click()
-
-    except Exception as e:
-        logger.exception(e)
-    finally:
-        driver.quit()
-
-if __name__ == "__main__":
-    csv_path = r"FETCH.csv"
-    df = pd.read_csv(csv_path)
-    gstins = df["gstin"].to_list()
-    main(gstins)
+    logger.info(f"======= created output path =======")
+    for idx, gstin in enumerate(gstins):
+        data = fetch_and_save(session, gstin, out)
+        # (out/f"{gstin}.json").write_text(json.dumps(data, indent=2), encoding="utf-8")
+        logger.info(f"{idx + 1} : {gstin} done.")
+        time.sleep(1)
