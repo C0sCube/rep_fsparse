@@ -1,0 +1,31 @@
+{
+  "01": {
+    name: "ANDAMAN AND NICOBAR",
+    districts: {
+      "0102": {
+        name: "NICOBARS",
+        blocks: {
+          "0102003": "CAMPBELL BAY",
+          "0102001": "NANCOWRY",
+          "0102002": "NICOBAR",
+        },
+      },
+      "0103": {
+        name: "NORTH AND MIDDLE ANDAMAN",
+        blocks: {
+          "0103002": "DIGLIPUR",
+          "0103001": "MAYABUNDER",
+          "0103003": "RANGAT",
+        },
+      },
+      "0101": {
+        name: "SOUTH ANDAMAN",
+        blocks: {
+          "0101002": "FERRARGUNJ",
+          "0101003": "LITTLE ANDAMAN",
+          "0101001": "PROTHRAPUR",
+        },
+      },
+    },
+  },
+}

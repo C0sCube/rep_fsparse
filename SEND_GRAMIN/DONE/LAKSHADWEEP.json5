@@ -1,0 +1,72 @@
+{
+  "19": {
+    name: "LAKSHADWEEP",
+    districts: {
+      "1901": {
+        name: "LAKSHADWEEP DISTRICT",
+        blocks: {
+          "1901005": {
+            name: "AGATTI",
+            panchayats: {
+              "1901005001": "AGATTI",
+            },
+          },
+          "1901006": {
+            name: "AMINI",
+            panchayats: {
+              "1901006001": "AMINI",
+            },
+          },
+          "1901002": {
+            name: "ANDROTT",
+            panchayats: {
+              "1901002001": "ANDROTT",
+            },
+          },
+          "1901010": {
+            name: "BITRA",
+            panchayats: {
+              "1901010001": "BITRA",
+            },
+          },
+          "1901009": {
+            name: "CHETLAT",
+            panchayats: {
+              "1901009001": "CHETLAT",
+            },
+          },
+          "1901007": {
+            name: "KADMAT",
+            panchayats: {
+              "1901007001": "KADMAT",
+            },
+          },
+          "1901003": {
+            name: "KALPENI",
+            panchayats: {
+              "1901003001": "KALPENI",
+            },
+          },
+          "1901004": {
+            name: "KAVARATTI",
+            panchayats: {
+              "1901004001": "KAVARATTI",
+            },
+          },
+          "1901008": {
+            name: "KILTAN",
+            panchayats: {
+              "1901008001": "KILTAN",
+            },
+          },
+          "1901001": {
+            name: "MINICOY",
+            panchayats: {
+              "1901001001": "MINICOY",
+            },
+          },
+        },
+      },
+    },
+  },
+}

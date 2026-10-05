@@ -1,0 +1,37 @@
+{
+  "07": {
+    name: "DADRA AND NAGAR HAVELI",
+    districts: {
+      "0701": {
+        name: "DADRA AND NAGAR HAVELI",
+        blocks: {
+          "0701001": {
+            name: "DADRA NAGAR HAVELI",
+            panchayats: {
+              "0701001001": "AMBOLI",
+              "0701001002": "DADRA",
+              "0701001003": "DAPADA",
+              "0701001004": "DUDHANI",
+              "0701001013": "GALONDA",
+              "0701001018": "KAUNCHA",
+              "0701001005": "KHANVEL",
+              "0701001012": "KHARADPADA",
+              "0701001017": "KHERDI",
+              "0701001006": "KILVANI",
+              "0701001007": "MANDONI",
+              "0701001014": "MASAT",
+              "0701001008": "NAROLI",
+              "0701001011": "RAKHOLI",
+              "0701001009": "RANDHA",
+              "0701001019": "RUDANA",
+              "0701001010": "SAMARVARNI",
+              "0701001015": "SAYLI",
+              "0701001020": "SINDONI",
+              "0701001016": "SURANGI",
+            },
+          },
+        },
+      },
+    },
+  },
+}

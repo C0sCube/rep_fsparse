@@ -1,0 +1,138 @@
+{
+  "23": {
+    name: "NAGALAND",
+    districts: {
+      "2308": {
+        name: "DIMAPUR",
+        blocks: {
+          "2308006": "AQHUNAQA",
+          "2308005": "CHUMUKEDIMA",
+          "2308001": "DHANSIRIPAR",
+          "2308007": "EAST DIMAPUR",
+          "2308002": "KUHUBOTO",
+          "2308003": "MEDZIPHEMA",
+          "2308004": "NIULAND",
+          "2308008": "WEST DIMAPUR",
+        },
+      },
+      "2309": {
+        name: "KIPHIRE",
+        blocks: {
+          "2309005": "KHONSA",
+          "2309001": "KIPHIRE",
+          "2309004": "LONGMATRA",
+          "2309002": "PUNGRO",
+          "2309003": "SITIMI",
+        },
+      },
+      "2301": {
+        name: "KOHIMA",
+        blocks: {
+          "2301006": "BOTSA",
+          "2301001": "CHEIPHOBOZOU",
+          "2301007": "CHUNLIKHA",
+          "2301002": "JAKHAMA",
+          "2301003": "KOHIMA",
+          "2301005": "SECHU-ZUBZA",
+          "2301004": "TSEMINYU",
+        },
+      },
+      "2310": {
+        name: "LONGLENG",
+        blocks: {
+          "2310001": "LONGLENG",
+          "2310003": "SAKSHI",
+          "2310002": "TAMLU",
+        },
+      },
+      "2305": {
+        name: "MOKOKCHUNG",
+        blocks: {
+          "2305001": "CHANGTONGYA",
+          "2305007": "CHUCHUYIMLANG",
+          "2305002": "KUBULONG",
+          "2305003": "LONGCHEM",
+          "2305006": "MANGKOLEMBA",
+          "2305004": "ONGPANGKONG (N)",
+          "2305005": "ONGPANGKONG ( S )",
+          "2305009": "TSURANGKONG",
+          "2305008": "TULI",
+        },
+      },
+      "2307": {
+        name: "MON",
+        blocks: {
+          "2307007": "ABOI",
+          "2307008": "ANGJANGYANG",
+          "2307001": "CHEN",
+          "2307002": "MON",
+          "2307003": "PHOMCHING",
+          "2307005": "TIZIT",
+          "2307004": "TOBU",
+          "2307006": "WAKCHING",
+        },
+      },
+      "2311": {
+        name: "PEREN",
+        blocks: {
+          "2311004": "ATHIBUNG",
+          "2311001": "JALUKIE",
+          "2311002": "PEREN",
+          "2311003": "TENNING",
+        },
+      },
+      "2302": {
+        name: "PHEK",
+        blocks: {
+          "2302006": "CHETHEBA",
+          "2302007": "CHIZAMI",
+          "2302005": "KIKRUMA",
+          "2302001": "MELURI",
+          "2302003": "PFUTSERO",
+          "2302002": "PHEK",
+          "2302004": "SEKHRUZOU",
+          "2302008": "WEZIHO",
+        },
+      },
+      "2306": {
+        name: "TUENSANG",
+        blocks: {
+          "2306001": "CHARE",
+          "2306002": "CHESSORE",
+          "2306003": "LONGKHIM",
+          "2306005": "NOKLAK",
+          "2306004": "NOKSEN",
+          "2306009": "PANSO",
+          "2306006": "SANGSANGYU",
+          "2306007": "SHAMATOR",
+          "2306008": "THONOKNYU",
+        },
+      },
+      "2304": {
+        name: "WOKHA",
+        blocks: {
+          "2304001": "BHANDARI",
+          "2304006": "CHANGPANG",
+          "2304002": "CHUKITONG",
+          "2304007": "RALAN",
+          "2304003": "SANIS",
+          "2304004": "WOKHA",
+          "2304005": "WOZHURO - RALAN",
+        },
+      },
+      "2303": {
+        name: "ZUNHEBOTO",
+        blocks: {
+          "2303007": "AKUHAITO",
+          "2303001": "AKULUTO",
+          "2303002": "GHATHASHI",
+          "2303004": "SATAKHA",
+          "2303008": "SATOI",
+          "2303003": "SURUHOTO",
+          "2303005": "TOKIYE",
+          "2303006": "ZUNHEBOTO",
+        },
+      },
+    },
+  },
+}

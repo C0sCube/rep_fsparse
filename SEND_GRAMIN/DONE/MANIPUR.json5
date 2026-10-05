@@ -1,0 +1,160 @@
+{
+  "20": {
+    name: "MANIPUR",
+    districts: {
+      "2006": {
+        name: "BISHNUPUR",
+        blocks: {
+          "2006003": "BISHNUPUR",
+          "2006004": "MOIRANG",
+          "2006005": "NAMBOL CD BLOCK",
+        },
+      },
+      "2004": {
+        name: "CHANDEL",
+        blocks: {
+          "2004003": "CHAKPIKARONG",
+          "2004002": "CHANDEL",
+          "2004008": "KHANGBAROL",
+          "2004009": "KHANGBAROL TD BLOCK",
+          "2004006": "KHENGJOY",
+        },
+      },
+      "2003": {
+        name: "CHURACHANDPUR",
+        blocks: {
+          "2003003": "HENGLEP",
+          "2003013": "KANGVAI",
+          "2003019": "KANGVAI TD BLOCK",
+          "2003012": "LAMKA",
+          "2003016": "LAMKA SOUTH TD BLOCK",
+          "2003017": "LANVA TD BLOCK",
+          "2003014": "MUALNUAM",
+          "2003018": "MUALNUAM TD BLOCK",
+          "2003010": "SAIKOT",
+          "2003005": "SAMULAMLAN",
+          "2003011": "SANGAIKOT",
+          "2003006": "SINGNGAT",
+          "2003015": "SUANGDOH TD BLOCK",
+          "2003009": "TUIBOUNG",
+        },
+      },
+      "2009": {
+        name: "IMPHAL EAST",
+        blocks: {
+          "2009008": "HEINGANG CD BLOCK",
+          "2009005": "IMPHAL EAST I",
+          "2009006": "IMPHAL EAST II",
+          "2009009": "KSHETRIGAO CD BLOCK",
+        },
+      },
+      "2007": {
+        name: "IMPHAL WEST",
+        blocks: {
+          "2007009": "HIYANGTHANG CD BLOCK",
+          "2007006": "IMPHAL WEST I",
+          "2007007": "IMPHAL WEST II",
+          "2007008": "PATSOI CD BLOCK",
+        },
+      },
+      "2010": {
+        name: "JIRIBAM",
+        blocks: {
+          "2009010": "BOROBEKRA CD BLOCK",
+          "2009007": "JIRIBAM",
+        },
+      },
+      "2012": {
+        name: "KAKCHING",
+        blocks: {
+          "2005002": "KAKCHING",
+          "2005005": "LANGMEIDONG CD BLOCK",
+        },
+      },
+      "2013": {
+        name: "KAMJONG",
+        blocks: {
+          "2008004": "KAMJONG",
+          "2008005": "KASOM KHULLEN",
+          "2008003": "PHUNGYAR",
+          "2008007": "SAHAMPHUNG TD BLOCK",
+        },
+      },
+      "2011": {
+        name: "KANGPOKPI",
+        blocks: {
+          "2001015": "BUNGTE CHIRU TD BLOCK",
+          "2001010": "CHAMPHAI TD BLOCK",
+          "2001012": "ISLAND TD BLOCK",
+          "2001013": "KANGCHUP GELJANG TD BLOCK",
+          "2001003": "KANGPOKPI",
+          "2001014": "LHUNGTIN TD BLOCK",
+          "2001004": "SAIKUL",
+          "2001007": "SAITU GAMPHAZOL",
+          "2001011": "T. VAICHONG TD BLOCK",
+        },
+      },
+      "2014": {
+        name: "NONEY",
+        blocks: {
+          "2002006": "HAOCHONG TD BLOCK",
+          "2002005": "KHOUPUM",
+          "2002007": "LONGMAI TD BLOCK",
+          "2002004": "NUNGBA",
+        },
+      },
+      "2015": {
+        name: "PHERZAWL",
+        blocks: {
+          "2003002": "THANLON",
+          "2003007": "TIPAIMUKH",
+          "2003008": "VANGAI",
+        },
+      },
+      "2001": {
+        name: "SENAPATI",
+        blocks: {
+          "2001016": "MAO TD BLOCK",
+          "2001001": "PAOMATA",
+          "2001008": "PHAIBUNG KHULLEN TD BLOCK",
+          "2001005": "PURUL",
+          "2001006": "TADUBI",
+          "2001009": "WILLONG TD BLOCK",
+        },
+      },
+      "2002": {
+        name: "TAMENGLONG",
+        blocks: {
+          "2002001": "TAMEI",
+          "2002003": "TAMENGLONG",
+          "2002002": "TOUSEM",
+        },
+      },
+      "2016": {
+        name: "TENGNOUPAL",
+        blocks: {
+          "2004004": "MACHI",
+          "2004005": "MOREH",
+          "2004001": "TENGNOUPAL",
+        },
+      },
+      "2005": {
+        name: "THOUBAL",
+        blocks: {
+          "2005003": "LILONG CD BLOCK",
+          "2005001": "THOUBAL",
+          "2005004": "WANGJING TENTHA CD BLOCK",
+        },
+      },
+      "2008": {
+        name: "UKHRUL",
+        blocks: {
+          "2008001": "CHINGAI",
+          "2008006": "JESSAMI TD BLOCK",
+          "2008008": "LUNGCHONG MAPHEI",
+          "2008002": "UKHRUL",
+        },
+      },
+    },
+  },
+}

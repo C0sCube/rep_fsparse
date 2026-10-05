@@ -1,0 +1,50 @@
+{
+  "25": {
+    name: "PUDUCHERRY",
+    districts: {
+      "2502": {
+        name: "KARAIKAL",
+        blocks: {
+          "2502001": {
+            name: "KARAIKAL",
+            panchayats: {
+              "2502001001": "KARAIKAL TOWN",
+              "2502001002": "KOTTUCHERRY",
+              "2502001003": "NEDUNGADU",
+              "2502001004": "NERAVY",
+              "2502001005": "T.R.PATINAM",
+              "2502001006": "THIRUNALLAR",
+            },
+          },
+        },
+      },
+      "2501": {
+        name: "PONDICHERRY",
+        blocks: {
+          "2501003": {
+            name: "ARIANKUPPAM",
+            panchayats: {
+              "2501003001": "ARIANKUPPAM",
+              "2501003002": "BAHOUR",
+              "2501003003": "NETTAPAKKAM",
+            },
+          },
+          "2501002": {
+            name: "OZHUKARAI",
+            panchayats: {
+              "2501002001": "OULGARET TOWN",
+              "2501002002": "PUDUCHERRY TOWN",
+            },
+          },
+          "2501001": {
+            name: "VILLIANUR",
+            panchayats: {
+              "2501001001": "MANNADIPET",
+              "2501001002": "VILLIANUR",
+            },
+          },
+        },
+      },
+    },
+  },
+}

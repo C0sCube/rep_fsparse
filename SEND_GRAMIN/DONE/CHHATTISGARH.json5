@@ -1,0 +1,318 @@
+{
+  "33": {
+    name: "CHHATTISGARH",
+    districts: {
+      "3322": {
+        name: "BALOD",
+        blocks: {
+          "3303010": "BALOD",
+          "3303011": "DONDI",
+          "3303009": "DONDILOHARA",
+          "3303008": "GUNDERDEHI",
+          "3303012": "GURUR",
+        },
+      },
+      "3319": {
+        name: "BALODA BAZAR",
+        blocks: {
+          "3316003": "BALODA BAZAR",
+          "3316002": "BHATAPARA",
+          "3316005": "KASDOL",
+          "3316004": "PALARI",
+          "3316001": "SIMGA",
+        },
+      },
+      "3327": {
+        name: "BALRAMPUR",
+        blocks: {
+          "3305017": "BALRAMPUR",
+          "3305018": "KUSAMI",
+          "3305004": "RAJPUR",
+          "3305016": "RAMCHANDRAPUR",
+          "3305019": "SHANKARGARH",
+          "3305014": "WADRAFNAGAR",
+        },
+      },
+      "3311": {
+        name: "BASTAR",
+        blocks: {
+          "3311011": "BAKAWAND",
+          "3311009": "BASTANAR",
+          "3311010": "BASTAR",
+          "3311014": "DARBHA",
+          "3311012": "JAGDALPUR",
+          "3311008": "LOHANDIGUDA",
+          "3311013": "TOKAPAL",
+        },
+      },
+      "3321": {
+        name: "BEMETARA",
+        blocks: {
+          "3303002": "BEMETARA",
+          "3303004": "BERLA",
+          "3303001": "NAWAGARH",
+          "3303003": "SAJA",
+        },
+      },
+      "3317": {
+        name: "BIJAPUR",
+        blocks: {
+          "3312003": "BHAIRAMGARH",
+          "3312001": "BHOPAL PATNAM",
+          "3312004": "BIJAPUR",
+          "3312002": "USOOR",
+        },
+      },
+      "3301": {
+        name: "BILASPUR",
+        blocks: {
+          "3301014": "BELHA",
+          "3301019": "KOTA",
+          "3301023": "MASTURI",
+          "3301015": "TAKHATPUR",
+        },
+      },
+      "3312": {
+        name: "DANTEWADA",
+        blocks: {
+          "3312006": "DANTEWADA",
+          "3312005": "GEEDAM",
+          "3312007": "KATEKALYAN",
+          "3312008": "KUWAKONDA",
+        },
+      },
+      "3309": {
+        name: "DHAMTARI",
+        blocks: {
+          "3309001": "DHAMTARI",
+          "3309002": "KURUD",
+          "3309004": "MAGARLOD",
+          "3309003": "NAGARI",
+        },
+      },
+      "3303": {
+        name: "DURG",
+        blocks: {
+          "3303005": "DHAMDHA",
+          "3303006": "DURG",
+          "3303007": "PATAN",
+        },
+      },
+      "3320": {
+        name: "GARIYABAND",
+        blocks: {
+          "3316014": "CHHURRA",
+          "3316011": "DEOBHOG",
+          "3316013": "FINGESHWAR",
+          "3316009": "GARIYABAND",
+          "3316010": "MAINPUR",
+        },
+      },
+      "3328": {
+        name: "GAURELA PENDRA MARWAHI",
+        blocks: {
+          "3301018": "GAURELLA-1",
+          "3301020": "GAURELLA-2",
+          "3301017": "MARWAHI",
+        },
+      },
+      "3314": {
+        name: "JANJGIR-CHAMPA",
+        blocks: {
+          "3314005": "AKALTARA",
+          "3314002": "BAHMINDIH",
+          "3314006": "BALAUDA",
+          "3314001": "NAWAGARH",
+          "3314007": "PAMGARH",
+        },
+      },
+      "3307": {
+        name: "JASHPUR",
+        blocks: {
+          "3307009": "BAGICHA",
+          "3307013": "DULDULA",
+          "3307012": "JASHPUR",
+          "3307010": "KANSABEL",
+          "3307011": "KUNKURI",
+          "3307016": "MANORA",
+          "3307015": "PATTHALGAON",
+          "3307014": "PHARSABAHAR",
+        },
+      },
+      "3310": {
+        name: "KANKER",
+        blocks: {
+          "3310010": "ANTAGARH",
+          "3310012": "BHANUPRATAPPUR",
+          "3310011": "CHARAMA",
+          "3310008": "DURGUKONDAL",
+          "3310014": "KANKER",
+          "3310009": "KOILEBEDA",
+          "3310013": "NARHARPUR",
+        },
+      },
+      "3302": {
+        name: "KAWARDHA",
+        blocks: {
+          "3302002": "BODLA",
+          "3302001": "KAWARDHA",
+          "3302004": "PANDARIYA",
+          "3302003": "S.LOHARA",
+        },
+      },
+      "3331": {
+        name: "KHAIRAGARH CHHUIKHADAN GANDAI",
+        blocks: {
+          "3304006": "CHHUIKHADAN",
+          "3304005": "KHAIRAGARH",
+        },
+      },
+      "3323": {
+        name: "KONDAGAON",
+        blocks: {
+          "3311002": "BADERAJPUR",
+          "3311001": "KESHKAL",
+          "3311007": "KONDAGAON",
+          "3311005": "MAKDI",
+          "3311006": "PHARASGAON",
+        },
+      },
+      "3308": {
+        name: "KORBA",
+        blocks: {
+          "3308002": "KARTALA",
+          "3308003": "KATGHORA",
+          "3308001": "KORBA",
+          "3308004": "PALI",
+          "3308005": "PODI UPARODA",
+        },
+      },
+      "3306": {
+        name: "KOREA",
+        blocks: {
+          "3306001": "BAIKUNTHPUR",
+          "3306002": "SONHAT",
+        },
+      },
+      "3315": {
+        name: "MAHASAMUND",
+        blocks: {
+          "3315003": "BAGBAHARA",
+          "3315005": "BASNA",
+          "3315002": "MAHASAMUND",
+          "3315006": "PITHORA",
+          "3315004": "SARAIPALI",
+        },
+      },
+      "3333": {
+        name: "MANENDRAGARH CHIRMIRI BHARATPUR",
+        blocks: {
+          "3306005": "BHARATPUR",
+          "3306003": "KHADGAWANA",
+          "3306004": "MANENDRAGARH",
+        },
+      },
+      "3330": {
+        name: "MOHLA MANPUR AMBAGARH CHOWKI",
+        blocks: {
+          "3304007": "A. CHOWKI",
+          "3304009": "MANPUR",
+          "3304008": "MOHLA",
+        },
+      },
+      "3325": {
+        name: "MUNGELI",
+        blocks: {
+          "3301016": "LORMI",
+          "3301022": "MUNGELI",
+          "3301021": "PATHARIYA",
+        },
+      },
+      "3318": {
+        name: "NARAYANPUR",
+        blocks: {
+          "3311004": "NARAYANPUR",
+          "3311003": "ORCHHA(ABHUJMAD)",
+        },
+      },
+      "3313": {
+        name: "RAIGARH",
+        blocks: {
+          "3313001": "DHARAMJAIGARH",
+          "3313003": "GHARGODA",
+          "3313007": "KHARSIA",
+          "3313002": "LAILUNGA",
+          "3313006": "PUSORE",
+          "3313005": "RAIGARH",
+          "3313004": "TAMNAR",
+        },
+      },
+      "3316": {
+        name: "RAIPUR",
+        blocks: {
+          "3316008": "ABHANPUR",
+          "3316015": "ARANG",
+          "3316012": "DHARSIWA",
+          "3316007": "TILDA",
+        },
+      },
+      "3304": {
+        name: "RAJNANDAGON",
+        blocks: {
+          "3304003": "CHHURIA",
+          "3304002": "DONGARGAON",
+          "3304004": "DONGARGARH",
+          "3304001": "RAJNANDGAON",
+        },
+      },
+      "3329": {
+        name: "SAKTI",
+        blocks: {
+          "3314009": "DABHARA",
+          "3314004": "JAIJAIPUR",
+          "3314008": "MALKHARAUDA",
+          "3314003": "SAKTI",
+        },
+      },
+      "3332": {
+        name: "SARANGARH BILAIGARH",
+        blocks: {
+          "3313009": "BARAMKELA",
+          "3316006": "BILAIGARH",
+          "3313008": "SARANGARH",
+        },
+      },
+      "3324": {
+        name: "SUKMA",
+        blocks: {
+          "3312009": "CHHINDGARH",
+          "3312011": "KONTA",
+          "3312010": "SUKMA",
+        },
+      },
+      "3326": {
+        name: "SURAJPUR",
+        blocks: {
+          "3305012": "BHAIYATHAN",
+          "3305013": "ODAGI",
+          "3305015": "PRATAPPUR",
+          "3305010": "PREMNAGAR",
+          "3305011": "RAMANUJNAGAR",
+          "3305009": "SURAJPUR",
+        },
+      },
+      "3305": {
+        name: "SURGUJA",
+        blocks: {
+          "3305001": "AMBIKAPUR",
+          "3305007": "BATAULI",
+          "3305002": "LAKHANPUR",
+          "3305005": "LUNDRA",
+          "3305008": "MAINPAT",
+          "3305006": "SITAPUR",
+          "3305003": "UDAIPUR",
+        },
+      },
+    },
+  },
+}

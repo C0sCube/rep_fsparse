@@ -1,0 +1,42 @@
+{
+  "08": {
+    name: "DAMAN AND DIU",
+    districts: {
+      "0801": {
+        name: "DAMAN",
+        blocks: {
+          "0801001": {
+            name: "DAMAN",
+            panchayats: {
+              "0801001006": "BHIMPORE",
+              "0801001007": "DABHEL",
+              "0801001001": "DAMANWADA",
+              "0801001009": "DUNETHA",
+              "0801001004": "KACHIGAM",
+              "0801001011": "KADAIYA",
+              "0801001002": "MAGARWADA",
+              "0801001008": "MARWAD",
+              "0801001005": "PARIYARI",
+              "0801001010": "PATLARA",
+              "0801001003": "VARKUND",
+            },
+          },
+        },
+      },
+      "0802": {
+        name: "DIU",
+        blocks: {
+          "0802001": {
+            name: "DIU",
+            panchayats: {
+              "0802001002": "BHUCHARWADA",
+              "0802001003": "SAUDWADI",
+              "0802001001": "VANAKBARA",
+              "0802001004": "ZOLAWADI",
+            },
+          },
+        },
+      },
+    },
+  },
+}
