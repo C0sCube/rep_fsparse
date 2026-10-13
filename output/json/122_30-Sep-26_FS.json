@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "document_name": "122_30-Sep-26_FS.pdf",
+    "file_type": "fs",
+    "process_date": "20261013"
+  },
+  "records": [
+    {
+      "value": {
+        "amc_name": "ASK Asset Management Pvt Ltd.",
+        "benchmark_index": [
+          "CRISIL Liquid Debt A-I TRI"
+        ],
+        "field_location": [
+          {
+            "amc_name": "0",
+            "benchmark_index": "0",
+            "count": 1,
+            "fund_manager_managing_fund_since": "0",
+            "fund_manager_name": "0",
+            "fund_manager_qualification": "0",
+            "fund_manager_total_exp": "0",
+            "load_exit": "0",
+            "main_scheme_name": "0",
+            "metrics_avg_maturity": "0",
+            "metrics_macaulay": "0",
+            "metrics_mod_duration": "0",
+            "metrics_ytm": "0",
+            "min_addl_amt": "0",
+            "min_addl_amt_multiple": "0",
+            "min_amt": "0",
+            "min_amt_multiple": "0",
+            "monthly_aaum_date": "0",
+            "monthly_aaum_value": "0",
+            "mutual_fund_name": "0",
+            "riskometer": "0",
+            "riskometer_benchmark": "0",
+            "scheme_launch_date": "0"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "01 Sept 2026",
+            "name": "Dinesh Ahuja",
+            "qualification": "",
+            "total_exp": "27 Years"
+          },
+          {
+            "managing_fund_since": "01 Sept 2026",
+            "name": "Yash Sanghvi",
+            "qualification": "",
+            "total_exp": "8 Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Investor exit upon Exit load as a % of subscription redemption proceeds Day 1 0.0070% Day 2 0.0065% Day 3 0.0060% Day 4 0.0055% Day 5 0.0050% Day 6 0.0045% Day 7 onwards 0.0000% Ideal Investment Horizon - 7 days +"
+          }
+        ],
+        "main_scheme_name": "ASK Liquid Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "0.17"
+          },
+          {
+            "name": "macaulay",
+            "value": "0.17"
+          },
+          {
+            "name": "mod_duration",
+            "value": "0.17"
+          },
+          {
+            "name": "ytm",
+            "value": "6.33"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "Lumpsum500SIP500",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20260930",
+        "monthly_aaum_value": "313.81 Crore",
+        "mutual_fund_name": "ASK Mutual Fund",
+        "page_number": "0",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20260109"
+      }
+    }
+  ]
+}
