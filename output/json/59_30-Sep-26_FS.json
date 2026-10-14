@@ -1,0 +1,2202 @@
+{
+  "metadata": {
+    "document_name": "59_30-Sep-26_FS.pdf",
+    "file_type": "fs",
+    "process_date": "20261014"
+  },
+  "records": [
+    {
+      "value": {
+        "amc_name": "Bajaj Finserv Asset Management Limited",
+        "benchmark_index": [
+          "Nifty 100"
+        ],
+        "field_location": [
+          {
+            "amc_name": "15",
+            "benchmark_index": "15",
+            "count": 25,
+            "fund_manager_managing_fund_since": "15",
+            "fund_manager_name": "15",
+            "fund_manager_qualification": "15",
+            "fund_manager_total_exp": "15",
+            "load_exit": "15",
+            "main_scheme_name": "15",
+            "metrics_beta": "15",
+            "metrics_information_ratio": "15",
+            "metrics_port_turnover_ratio": "15",
+            "metrics_sharpe": "15",
+            "metrics_std_dev": "15",
+            "min_addl_amt": "15",
+            "min_addl_amt_multiple": "15",
+            "min_amt": "15",
+            "min_amt_multiple": "15",
+            "monthly_aaum_date": "15",
+            "monthly_aaum_value": "15",
+            "mutual_fund_name": "15",
+            "riskometer": "15",
+            "riskometer_benchmark": "15",
+            "scheme_launch_date": "15"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "Ust 20, 2024",
+            "name": "Nimesh Chandan",
+            "qualification": "",
+            "total_exp": "26"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Sorbh Gupta",
+            "qualification": "",
+            "total_exp": "20"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Siddharth Chaudhary",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "For each purchase of units through Lumpsum switch-in Systematic Investment Plan (SIP) and Systematic Transfer Plan (STP), exit load will be as follows: if units are redeemed switched out within 6 months from the date of allotment: 1% of applicable NAV. if units are redeemed switched out after 6 months from the date of allotment, no exit load is payable. The Scheme will not levy exit load in case the timelines for rebalancing portfolio as stated in SEBI Master Circular for Mutual Funds dated June"
+          }
+        ],
+        "main_scheme_name": "Bajaj Finserv Large Cap Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.93"
+          },
+          {
+            "name": "information_ratio",
+            "value": "0.36"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "157"
+          },
+          {
+            "name": "sharpe",
+            "value": "0.53"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) 12.77"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260930",
+        "monthly_aaum_value": "1,604.17  Cr",
+        "mutual_fund_name": "BajaJ Finserv Mutual Fund",
+        "page_number": "15",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20240820"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bajaj Finserv Asset Management Limited",
+        "benchmark_index": [
+          "BSE 500"
+        ],
+        "field_location": [
+          {
+            "amc_name": "19",
+            "benchmark_index": "19",
+            "count": 25,
+            "fund_manager_managing_fund_since": "19",
+            "fund_manager_name": "19",
+            "fund_manager_qualification": "19",
+            "fund_manager_total_exp": "19",
+            "load_exit": "19",
+            "main_scheme_name": "19",
+            "metrics_beta": "19",
+            "metrics_information_ratio": "19",
+            "metrics_port_turnover_ratio": "19",
+            "metrics_sharpe": "19",
+            "metrics_std_dev": "19",
+            "min_addl_amt": "19",
+            "min_addl_amt_multiple": "19",
+            "min_amt": "19",
+            "min_amt_multiple": "19",
+            "monthly_aaum_date": "19",
+            "monthly_aaum_value": "19",
+            "mutual_fund_name": "19",
+            "riskometer": "19",
+            "riskometer_benchmark": "19",
+            "scheme_launch_date": "19"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "Ust 14, 2023",
+            "name": "Nimesh Chandan",
+            "qualification": "",
+            "total_exp": "26"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Sorbh Gupta",
+            "qualification": "",
+            "total_exp": "20"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Siddharth Chaudhary",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "For each purchase of units through Lumpsum switch-in Systematic Investment Plan (SIP) and Systematic Transfer Plan (STP), exit load will be as follows: if units are redeemed switched out within 6 months from the date of allotment: if upto 10% of units allotted are redeemed switched out Nil any redemption switch-out of units in excess of 10% of units allotted - 1% of applicable NAV. if units are redeemed switched out after 6 months from the date of allotment, no exit load is payable."
+          }
+        ],
+        "main_scheme_name": "Bajaj Finserv Flexi Cap Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.89"
+          },
+          {
+            "name": "information_ratio",
+            "value": "0.98"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "125"
+          },
+          {
+            "name": "sharpe",
+            "value": "0.68"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) 13.06"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260930",
+        "monthly_aaum_value": "8,600.77  Cr",
+        "mutual_fund_name": "BajaJ Finserv Mutual Fund",
+        "page_number": "19",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20230814"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bajaj Finserv Asset Management Limited",
+        "benchmark_index": [
+          "Nifty Large Midcap 250"
+        ],
+        "field_location": [
+          {
+            "amc_name": "23",
+            "benchmark_index": "23",
+            "count": 25,
+            "fund_manager_managing_fund_since": "23",
+            "fund_manager_name": "23",
+            "fund_manager_qualification": "23",
+            "fund_manager_total_exp": "23",
+            "load_exit": "23",
+            "main_scheme_name": "23",
+            "metrics_beta": "23",
+            "metrics_information_ratio": "23",
+            "metrics_port_turnover_ratio": "23",
+            "metrics_sharpe": "23",
+            "metrics_std_dev": "23",
+            "min_addl_amt": "23",
+            "min_addl_amt_multiple": "23",
+            "min_amt": "23",
+            "min_amt_multiple": "23",
+            "monthly_aaum_date": "23",
+            "monthly_aaum_value": "23",
+            "mutual_fund_name": "23",
+            "riskometer": "23",
+            "riskometer_benchmark": "23",
+            "scheme_launch_date": "23"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "Ary 27, 2024",
+            "name": "Nimesh Chandan",
+            "qualification": "",
+            "total_exp": "26"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Sorbh Gupta",
+            "qualification": "",
+            "total_exp": "20"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Siddharth Chaudhary",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "For each purchase of units through Lumpsum switch-in Systematic Investment Plan (SIP) and Systematic Transfer Plan (STP), exit load will be as follows: if units are redeemed switched out within 6 months from the date of allotment: if upto 10% of units allotted are redeemed switched out Nil any redemption switch-out of units in excess of 10% of units allotted - 1% of applicable NAV. if units are redeemed switched out after 6 months from the date of allotment, no exit load is payable."
+          }
+        ],
+        "main_scheme_name": "Bajaj Finserv Large & Mid Cap Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.84"
+          },
+          {
+            "name": "information_ratio",
+            "value": "0.22"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "160"
+          },
+          {
+            "name": "sharpe",
+            "value": "0.12"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) 13.31"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260930",
+        "monthly_aaum_value": "2,390.21  Cr",
+        "mutual_fund_name": "BajaJ Finserv Mutual Fund",
+        "page_number": "23",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20240227"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bajaj Finserv Asset Management Limited",
+        "benchmark_index": [
+          "Nifty 500 Multicap 50:25:25"
+        ],
+        "field_location": [
+          {
+            "amc_name": "27",
+            "benchmark_index": "27",
+            "count": 25,
+            "fund_manager_managing_fund_since": "27",
+            "fund_manager_name": "27",
+            "fund_manager_qualification": "27",
+            "fund_manager_total_exp": "27",
+            "load_exit": "27",
+            "main_scheme_name": "27",
+            "metrics_beta": "27",
+            "metrics_information_ratio": "27",
+            "metrics_port_turnover_ratio": "27",
+            "metrics_sharpe": "27",
+            "metrics_std_dev": "27",
+            "min_addl_amt": "27",
+            "min_addl_amt_multiple": "27",
+            "min_amt": "27",
+            "min_amt_multiple": "27",
+            "monthly_aaum_date": "27",
+            "monthly_aaum_value": "27",
+            "mutual_fund_name": "27",
+            "riskometer": "27",
+            "riskometer_benchmark": "27",
+            "scheme_launch_date": "27"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "Ary 27, 2025",
+            "name": "Nimesh Chandan",
+            "qualification": "",
+            "total_exp": "26"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Sorbh Gupta",
+            "qualification": "",
+            "total_exp": "20"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Siddharth Chaudhary",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "For each purchase of units through Lumpsum switch-in Systematic Investment Plan (SIP) and Systematic Transfer Plan (STP), exit load will be as follows: if units are redeemed switched out within 6 months from the date of allotment: if upto 10% of units allotted are redeemed switched out Nil any redemption switch-out of units in excess of 10% of units allotted - 1% of applicable NAV. if units are redeemed switched out after 6 months from the date of allotment, no exit load is payable."
+          }
+        ],
+        "main_scheme_name": "Bajaj Finserv Multi Cap Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.89"
+          },
+          {
+            "name": "information_ratio",
+            "value": "0.54"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "107"
+          },
+          {
+            "name": "sharpe",
+            "value": "0.46"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) 13.83"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260930",
+        "monthly_aaum_value": "1,643.21  Cr",
+        "mutual_fund_name": "BajaJ Finserv Mutual Fund",
+        "page_number": "27",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250227"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bajaj Finserv Asset Management Limited",
+        "benchmark_index": [
+          "BSE 250 SmallCap"
+        ],
+        "field_location": [
+          {
+            "amc_name": "30",
+            "benchmark_index": "30",
+            "count": 25,
+            "fund_manager_managing_fund_since": "30",
+            "fund_manager_name": "30",
+            "fund_manager_qualification": "30",
+            "fund_manager_total_exp": "30",
+            "load_exit": "30",
+            "main_scheme_name": "30",
+            "metrics_beta": "30",
+            "metrics_information_ratio": "30",
+            "metrics_port_turnover_ratio": "30",
+            "metrics_sharpe": "30",
+            "metrics_std_dev": "30",
+            "min_addl_amt": "30",
+            "min_addl_amt_multiple": "30",
+            "min_amt": "30",
+            "min_amt_multiple": "30",
+            "monthly_aaum_date": "30",
+            "monthly_aaum_value": "30",
+            "mutual_fund_name": "30",
+            "riskometer": "30",
+            "riskometer_benchmark": "30",
+            "scheme_launch_date": "30"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "Uly 18, 2025",
+            "name": "Nimesh Chandan",
+            "qualification": "",
+            "total_exp": "26"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Sorbh Gupta",
+            "qualification": "",
+            "total_exp": "20"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Siddharth Chaudhary",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "For each purchase of units through Lumpsum switch-in Systematic Investment Plan (SIP) and Systematic Transfer Plan (STP), exit load will be as follows: If units are redeemed switched out within 6 months from the date of allotment: Upto 10% of units held: Nil Remaining 90% of units held: 1% of applicable NAV if units are redeemed switched out after 6 months from the date of allotment: Nil"
+          }
+        ],
+        "main_scheme_name": "Bajaj Finserv Small Cap Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.92"
+          },
+          {
+            "name": "information_ratio",
+            "value": "2.02"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "80"
+          },
+          {
+            "name": "sharpe",
+            "value": "0.24"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) 15.90"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260930",
+        "monthly_aaum_value": "2,727.09  Cr",
+        "mutual_fund_name": "BajaJ Finserv Mutual Fund",
+        "page_number": "30",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250718"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bajaj Finserv Asset Management Limited",
+        "benchmark_index": [
+          "BSE 500"
+        ],
+        "field_location": [
+          {
+            "amc_name": "33",
+            "benchmark_index": "33",
+            "count": 25,
+            "fund_manager_managing_fund_since": "33",
+            "fund_manager_name": "33",
+            "fund_manager_qualification": "33",
+            "fund_manager_total_exp": "33",
+            "load_exit": "33",
+            "main_scheme_name": "33",
+            "metrics_beta": "33",
+            "metrics_information_ratio": "33",
+            "metrics_port_turnover_ratio": "33",
+            "metrics_sharpe": "33",
+            "metrics_std_dev": "33",
+            "min_addl_amt": "33",
+            "min_addl_amt_multiple": "33",
+            "min_amt": "33",
+            "min_amt_multiple": "33",
+            "monthly_aaum_date": "33",
+            "monthly_aaum_value": "33",
+            "mutual_fund_name": "33",
+            "riskometer": "33",
+            "riskometer_benchmark": "33",
+            "scheme_launch_date": "33"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "Ary 29, 2025",
+            "name": "Nimesh Chandan",
+            "qualification": "",
+            "total_exp": "26"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Sorbh Gupta",
+            "qualification": "",
+            "total_exp": "20"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Siddharth Chaudhary",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Bajaj Finserv ELSS - Tax Saver Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.87"
+          },
+          {
+            "name": "information_ratio",
+            "value": "0.69"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "140"
+          },
+          {
+            "name": "sharpe",
+            "value": "0.11"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) 12.93"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "500",
+        "monthly_aaum_date": "20260930",
+        "monthly_aaum_value": "90.15  Cr",
+        "mutual_fund_name": "BajaJ Finserv Mutual Fund",
+        "page_number": "33",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250129"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bajaj Finserv Asset Management Limited",
+        "benchmark_index": [
+          "BSE Healthcare"
+        ],
+        "field_location": [
+          {
+            "amc_name": "36",
+            "benchmark_index": "36",
+            "count": 25,
+            "fund_manager_managing_fund_since": "36",
+            "fund_manager_name": "36",
+            "fund_manager_qualification": "36",
+            "fund_manager_total_exp": "36",
+            "load_exit": "36",
+            "main_scheme_name": "36",
+            "metrics_beta": "36",
+            "metrics_information_ratio": "36",
+            "metrics_port_turnover_ratio": "36",
+            "metrics_sharpe": "36",
+            "metrics_std_dev": "36",
+            "min_addl_amt": "36",
+            "min_addl_amt_multiple": "36",
+            "min_amt": "36",
+            "min_amt_multiple": "36",
+            "monthly_aaum_date": "36",
+            "monthly_aaum_value": "36",
+            "mutual_fund_name": "36",
+            "riskometer": "36",
+            "riskometer_benchmark": "36",
+            "scheme_launch_date": "36"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "Ber 28, 2026",
+            "name": "Sorbh Gupta",
+            "qualification": "",
+            "total_exp": "12"
+          },
+          {
+            "managing_fund_since": "Ber 27, 2024",
+            "name": "Bharat Hegde",
+            "qualification": "",
+            "total_exp": "14"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Siddharth Chaudhary",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "For each purchase of units through Lumpsum switch-in Systematic Investment Plan (SIP) and Systematic Transfer Plan (STP), exit load will be as follows: if units are redeemed switched out within 3 months from the date of allotment: 1% of applicable NAV. if units are redeemed switched out after 3 months from the date of allotment, no exit load is payable."
+          }
+        ],
+        "main_scheme_name": "Bajaj Finserv Healthcare Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.86"
+          },
+          {
+            "name": "information_ratio",
+            "value": "0.14"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "45"
+          },
+          {
+            "name": "sharpe",
+            "value": "0.22"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) 13.40"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260930",
+        "monthly_aaum_value": "410.57  Cr",
+        "mutual_fund_name": "BajaJ Finserv Mutual Fund",
+        "page_number": "36",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20241227"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bajaj Finserv Asset Management Limited",
+        "benchmark_index": [
+          "Nifty India Consumption"
+        ],
+        "field_location": [
+          {
+            "amc_name": "39",
+            "benchmark_index": "39",
+            "count": 25,
+            "fund_manager_managing_fund_since": "39",
+            "fund_manager_name": "39",
+            "fund_manager_qualification": "39",
+            "fund_manager_total_exp": "39",
+            "load_exit": "39",
+            "main_scheme_name": "39",
+            "metrics_beta": "39",
+            "metrics_information_ratio": "39",
+            "metrics_port_turnover_ratio": "39",
+            "metrics_sharpe": "39",
+            "metrics_std_dev": "39",
+            "min_addl_amt": "39",
+            "min_addl_amt_multiple": "39",
+            "min_amt": "39",
+            "min_amt_multiple": "39",
+            "monthly_aaum_date": "39",
+            "monthly_aaum_value": "39",
+            "mutual_fund_name": "39",
+            "riskometer": "39",
+            "riskometer_benchmark": "39",
+            "scheme_launch_date": "39"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "Une 10, 2025",
+            "name": "Sayan Das",
+            "qualification": "",
+            "total_exp": "14"
+          },
+          {
+            "managing_fund_since": "May 19, 2026",
+            "name": "Kishore Agarwal",
+            "qualification": "",
+            "total_exp": "12"
+          },
+          {
+            "managing_fund_since": "Ber 29, 2024",
+            "name": "Siddharth Chaudhary",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "For each purchase of units through Lumpsum switch-in Systematic Investment Plan (SIP) and Systematic Transfer Plan (STP), exit load will be as follows: if units are redeemed switched out within 3 months from the date of allotment: 1% of applicable NAV. if units are redeemed switched out after 3 months from the date of allotment, no exit load is payable."
+          }
+        ],
+        "main_scheme_name": "Bajaj Finserv Consumption Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.90"
+          },
+          {
+            "name": "information_ratio",
+            "value": "0.88"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "112"
+          },
+          {
+            "name": "sharpe",
+            "value": "0.78"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) 14.16"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260930",
+        "monthly_aaum_value": "587.70  Cr",
+        "mutual_fund_name": "BajaJ Finserv Mutual Fund",
+        "page_number": "39",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20241129"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bajaj Finserv Asset Management Limited",
+        "benchmark_index": [
+          "NIFTY Financial Services"
+        ],
+        "field_location": [
+          {
+            "amc_name": "43",
+            "benchmark_index": "43",
+            "count": 25,
+            "fund_manager_managing_fund_since": "43",
+            "fund_manager_name": "43",
+            "fund_manager_qualification": "43",
+            "fund_manager_total_exp": "43",
+            "load_exit": "43",
+            "main_scheme_name": "43",
+            "min_addl_amt": "43",
+            "min_addl_amt_multiple": "43",
+            "min_amt": "43",
+            "min_amt_multiple": "43",
+            "monthly_aaum_date": "43",
+            "monthly_aaum_value": "43",
+            "mutual_fund_name": "43",
+            "riskometer": "43",
+            "riskometer_benchmark": "43",
+            "scheme_launch_date": "43"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "May 19, 2026",
+            "name": "Kishore Agarwal",
+            "qualification": "",
+            "total_exp": "12"
+          },
+          {
+            "managing_fund_since": "May 19, 2026",
+            "name": "Sayan Das",
+            "qualification": "",
+            "total_exp": "14"
+          },
+          {
+            "managing_fund_since": "Ber 01, 2025",
+            "name": "Siddharth Chaudhary",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "if units are redeemed switched out within 3 months from the date of allotment: 1% of applicable NAV. if units are redeemed switched out after 3 months from the date of allotment, no exit load is payable."
+          }
+        ],
+        "main_scheme_name": "Bajaj Finserv Banking and Financial Services Fund",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260930",
+        "monthly_aaum_value": "485.26  Cr",
+        "mutual_fund_name": "BajaJ Finserv Mutual Fund",
+        "page_number": "43",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20251201"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bajaj Finserv Asset Management Limited",
+        "benchmark_index": [
+          "Nifty Equity Savings"
+        ],
+        "field_location": [
+          {
+            "amc_name": "46",
+            "benchmark_index": "46",
+            "count": 25,
+            "fund_manager_managing_fund_since": "46",
+            "fund_manager_name": "46",
+            "fund_manager_qualification": "46",
+            "fund_manager_total_exp": "46",
+            "load_exit": "46",
+            "main_scheme_name": "46",
+            "metrics_avg_maturity": "46",
+            "metrics_beta": "46",
+            "metrics_information_ratio": "46",
+            "metrics_macaulay": "46",
+            "metrics_mod_duration": "46",
+            "metrics_port_turnover_ratio": "46",
+            "metrics_sharpe": "46",
+            "metrics_std_dev": "46",
+            "metrics_ytm": "46",
+            "min_addl_amt": "46",
+            "min_addl_amt_multiple": "46",
+            "min_amt": "46",
+            "min_amt_multiple": "46",
+            "monthly_aaum_date": "46",
+            "monthly_aaum_value": "46",
+            "mutual_fund_name": "46",
+            "riskometer": "46",
+            "riskometer_benchmark": "46",
+            "scheme_launch_date": "46"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "Ust 19, 2025",
+            "name": "Sorbh Gupta",
+            "qualification": "",
+            "total_exp": "20"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Ilesh Savla",
+            "qualification": "",
+            "total_exp": "26"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Siddharth Chaudhary",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "If units redeemed switched out within 7 days from allotment date: 0.25% of the applicable NAV If units redeemed switched out after 7 days from allotment date: Nil"
+          }
+        ],
+        "main_scheme_name": "Bajaj Finserv Equity Savings Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "0.23"
+          },
+          {
+            "name": "beta",
+            "value": "0.37"
+          },
+          {
+            "name": "information_ratio",
+            "value": "0.33"
+          },
+          {
+            "name": "macaulay",
+            "value": "0.23"
+          },
+          {
+            "name": "mod_duration",
+            "value": "0.22"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "59"
+          },
+          {
+            "name": "sharpe",
+            "value": "0.48"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) 2.19"
+          },
+          {
+            "name": "ytm",
+            "value": "(%) 6.07"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260930",
+        "monthly_aaum_value": "39.88  Cr",
+        "mutual_fund_name": "BajaJ Finserv Mutual Fund",
+        "page_number": "46",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250819"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bajaj Finserv Asset Management Limited",
+        "benchmark_index": [
+          "NIFTY 50 Hybrid Composite debt 50:50 Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "49",
+            "benchmark_index": "49",
+            "count": 25,
+            "fund_manager_managing_fund_since": "49",
+            "fund_manager_name": "49",
+            "fund_manager_qualification": "49",
+            "fund_manager_total_exp": "49",
+            "load_exit": "49",
+            "main_scheme_name": "49",
+            "metrics_avg_maturity": "49",
+            "metrics_beta": "49",
+            "metrics_information_ratio": "49",
+            "metrics_macaulay": "49",
+            "metrics_mod_duration": "49",
+            "metrics_port_turnover_ratio": "49",
+            "metrics_sharpe": "49",
+            "metrics_std_dev": "49",
+            "metrics_ytm": "49",
+            "min_addl_amt": "49",
+            "min_addl_amt_multiple": "49",
+            "min_amt": "49",
+            "min_amt_multiple": "49",
+            "monthly_aaum_date": "49",
+            "monthly_aaum_value": "49",
+            "mutual_fund_name": "49",
+            "riskometer": "49",
+            "riskometer_benchmark": "49",
+            "scheme_launch_date": "49"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "Ber 15, 2023",
+            "name": "Nimesh Chandan",
+            "qualification": "",
+            "total_exp": "26"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Sorbh Gupta",
+            "qualification": "",
+            "total_exp": "20"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Siddharth Chaudhary",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "If units are redeemed switched out within 3 months from the date of allotment: if up to 8% of units allotted are redeemed switched out Nil any redemption switch-out of units in excess of 8% of units allotted 1% of applicable NAV."
+          }
+        ],
+        "main_scheme_name": "Bajaj Finserv Balanced Advantage Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "2.53"
+          },
+          {
+            "name": "beta",
+            "value": "1.36"
+          },
+          {
+            "name": "information_ratio",
+            "value": "0.03"
+          },
+          {
+            "name": "macaulay",
+            "value": "1.36"
+          },
+          {
+            "name": "mod_duration",
+            "value": "1.28"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "109"
+          },
+          {
+            "name": "sharpe",
+            "value": "0.05"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) 9.85"
+          },
+          {
+            "name": "ytm",
+            "value": "(%) 6.32"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260930",
+        "monthly_aaum_value": "1,240.86  Cr",
+        "mutual_fund_name": "BajaJ Finserv Mutual Fund",
+        "page_number": "49",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20231215"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bajaj Finserv Asset Management Limited",
+        "benchmark_index": [
+          "65% Nifty 50 + 25% NIFTY Short Duration Debt Index + 10% Domestic Prices of Gold"
+        ],
+        "field_location": [
+          {
+            "amc_name": "53",
+            "benchmark_index": "53",
+            "count": 25,
+            "fund_manager_managing_fund_since": "53",
+            "fund_manager_name": "53",
+            "fund_manager_qualification": "53",
+            "fund_manager_total_exp": "53",
+            "load_exit": "53",
+            "main_scheme_name": "53",
+            "metrics_avg_maturity": "53",
+            "metrics_beta": "53",
+            "metrics_information_ratio": "53",
+            "metrics_macaulay": "53",
+            "metrics_mod_duration": "53",
+            "metrics_port_turnover_ratio": "53",
+            "metrics_sharpe": "53",
+            "metrics_std_dev": "53",
+            "metrics_ytm": "53",
+            "min_addl_amt": "53",
+            "min_addl_amt_multiple": "53",
+            "min_amt": "53",
+            "min_amt_multiple": "53",
+            "monthly_aaum_date": "53",
+            "monthly_aaum_value": "53",
+            "mutual_fund_name": "53",
+            "riskometer": "53",
+            "riskometer_benchmark": "53",
+            "scheme_launch_date": "53"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "Une 10, 2025",
+            "name": "Anup Kulkarni",
+            "qualification": "",
+            "total_exp": "18"
+          },
+          {
+            "managing_fund_since": "May 19, 2026",
+            "name": "Sabyasachi Mukerji",
+            "qualification": "",
+            "total_exp": "11"
+          },
+          {
+            "managing_fund_since": "Une 03, 2024",
+            "name": "Siddharth Chaudhary",
+            "qualification": "",
+            "total_exp": "20"
+          },
+          {
+            "managing_fund_since": "Une 10, 2025",
+            "name": "Cheragh Sidhwa",
+            "qualification": "",
+            "total_exp": "10"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "For each purchase of units through Lumpsum If units are redeemed switched out within 3 months from the date of allotment:"
+          }
+        ],
+        "main_scheme_name": "Bajaj Finserv Multi Asset Allocation Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "1.07"
+          },
+          {
+            "name": "beta",
+            "value": "1.00"
+          },
+          {
+            "name": "information_ratio",
+            "value": "0.50"
+          },
+          {
+            "name": "macaulay",
+            "value": "1.0"
+          },
+          {
+            "name": "mod_duration",
+            "value": "0.95"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "43"
+          },
+          {
+            "name": "sharpe",
+            "value": "0.25"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) 10.26"
+          },
+          {
+            "name": "ytm",
+            "value": "(%) 6.92"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260930",
+        "monthly_aaum_value": "1,953.59  Cr",
+        "mutual_fund_name": "BajaJ Finserv Mutual Fund",
+        "page_number": "53",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20240603"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bajaj Finserv Asset Management Limited",
+        "benchmark_index": [
+          "Nifty 50 Arbitrage Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "57",
+            "benchmark_index": "57",
+            "count": 25,
+            "fund_manager_managing_fund_since": "57",
+            "fund_manager_name": "57",
+            "fund_manager_qualification": "57",
+            "fund_manager_total_exp": "57",
+            "load_exit": "57",
+            "main_scheme_name": "57",
+            "metrics_avg_maturity": "57",
+            "metrics_beta": "57",
+            "metrics_information_ratio": "57",
+            "metrics_macaulay": "57",
+            "metrics_mod_duration": "57",
+            "metrics_port_turnover_ratio": "57",
+            "metrics_sharpe": "57",
+            "metrics_std_dev": "57",
+            "metrics_ytm": "57",
+            "min_addl_amt": "57",
+            "min_addl_amt_multiple": "57",
+            "min_amt": "57",
+            "min_amt_multiple": "57",
+            "monthly_aaum_date": "57",
+            "monthly_aaum_value": "57",
+            "mutual_fund_name": "57",
+            "riskometer": "57",
+            "riskometer_benchmark": "57",
+            "scheme_launch_date": "57"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "Ber 15, 2023",
+            "name": "Ilesh Savla",
+            "qualification": "",
+            "total_exp": "26"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Siddharth Chaudhary",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "For each purchase of units through Lumpsum switch-in Systematic Investment Plan (SIP) and Systematic Transfer Plan (STP), exit load will be as follows: 0.25% of applicable NAV if redeemed switched out within 15 days from the date of allotment. Nil if redeemed switched out after 15 days from the date of allotment."
+          }
+        ],
+        "main_scheme_name": "Bajaj Finserv Arbitrage Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "0.23"
+          },
+          {
+            "name": "beta",
+            "value": "0.61"
+          },
+          {
+            "name": "information_ratio",
+            "value": "1.38"
+          },
+          {
+            "name": "macaulay",
+            "value": "0.23"
+          },
+          {
+            "name": "mod_duration",
+            "value": "0.21"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "117"
+          },
+          {
+            "name": "sharpe",
+            "value": "1.14"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) 1.06"
+          },
+          {
+            "name": "ytm",
+            "value": "(%) 6.31"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260930",
+        "monthly_aaum_value": "1,407.57  Cr",
+        "mutual_fund_name": "BajaJ Finserv Mutual Fund",
+        "page_number": "57",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20230915"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bajaj Finserv Asset Management Limited",
+        "benchmark_index": [
+          "NIFTY Liquid Index A-I"
+        ],
+        "field_location": [
+          {
+            "amc_name": "60",
+            "benchmark_index": "60",
+            "count": 25,
+            "fund_manager_managing_fund_since": "60",
+            "fund_manager_name": "60",
+            "fund_manager_qualification": "60",
+            "fund_manager_total_exp": "60",
+            "main_scheme_name": "60",
+            "metrics_avg_maturity": "60",
+            "metrics_macaulay": "60",
+            "metrics_mod_duration": "60",
+            "metrics_ytm": "60",
+            "min_addl_amt": "60",
+            "min_addl_amt_multiple": "60",
+            "min_amt": "60",
+            "min_amt_multiple": "60",
+            "monthly_aaum_date": "60",
+            "monthly_aaum_value": "60",
+            "mutual_fund_name": "60",
+            "riskometer": "60",
+            "riskometer_benchmark": "60",
+            "scheme_launch_date": "60"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "Uly 05, 2023",
+            "name": "Nimesh Chandan",
+            "qualification": "",
+            "total_exp": "26"
+          },
+          {
+            "managing_fund_since": "Uly 05, 2023",
+            "name": "Siddharth Chaudhary",
+            "qualification": "",
+            "total_exp": "20"
+          },
+          {
+            "managing_fund_since": "May 19, 2026",
+            "name": "Chirag Shah",
+            "qualification": "",
+            "total_exp": "14"
+          }
+        ],
+        "load": [],
+        "main_scheme_name": "Bajaj Finserv Liquid Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "0.14"
+          },
+          {
+            "name": "macaulay",
+            "value": "0.14"
+          },
+          {
+            "name": "mod_duration",
+            "value": "0.13"
+          },
+          {
+            "name": "ytm",
+            "value": "(%) 6.23"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "100",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260930",
+        "monthly_aaum_value": "7,329.08  Cr",
+        "mutual_fund_name": "BajaJ Finserv Mutual Fund",
+        "page_number": "60",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20230705"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bajaj Finserv Asset Management Limited",
+        "benchmark_index": [
+          "NIFTY Money Market Index A-I"
+        ],
+        "field_location": [
+          {
+            "amc_name": "63",
+            "benchmark_index": "63",
+            "count": 25,
+            "fund_manager_managing_fund_since": "63",
+            "fund_manager_name": "63",
+            "fund_manager_qualification": "63",
+            "fund_manager_total_exp": "63",
+            "load_exit": "63",
+            "main_scheme_name": "63",
+            "metrics_avg_maturity": "63",
+            "metrics_macaulay": "63",
+            "metrics_mod_duration": "63",
+            "metrics_ytm": "63",
+            "min_addl_amt": "63",
+            "min_addl_amt_multiple": "63",
+            "min_amt": "63",
+            "min_amt_multiple": "63",
+            "monthly_aaum_date": "63",
+            "monthly_aaum_value": "63",
+            "mutual_fund_name": "63",
+            "riskometer": "63",
+            "riskometer_benchmark": "63",
+            "scheme_launch_date": "63"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "Uly 24, 2023",
+            "name": "Nimesh Chandan",
+            "qualification": "",
+            "total_exp": "26"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Siddharth Chaudhary",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Bajaj Finserv Money Market Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "0.39"
+          },
+          {
+            "name": "macaulay",
+            "value": "0.39"
+          },
+          {
+            "name": "mod_duration",
+            "value": "0.37"
+          },
+          {
+            "name": "ytm",
+            "value": "(%) 6.76"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "1000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260930",
+        "monthly_aaum_value": "4,836.43  Cr",
+        "mutual_fund_name": "BajaJ Finserv Mutual Fund",
+        "page_number": "63",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20230724"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bajaj Finserv Asset Management Limited",
+        "benchmark_index": [
+          "CRISIL Dynamic Gilt Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "66",
+            "benchmark_index": "66",
+            "count": 25,
+            "fund_manager_managing_fund_since": "66",
+            "fund_manager_name": "66",
+            "fund_manager_qualification": "66",
+            "fund_manager_total_exp": "66",
+            "load_exit": "66",
+            "main_scheme_name": "66",
+            "metrics_avg_maturity": "66",
+            "metrics_macaulay": "66",
+            "metrics_mod_duration": "66",
+            "metrics_ytm": "66",
+            "min_addl_amt": "66",
+            "min_addl_amt_multiple": "66",
+            "min_amt": "66",
+            "min_amt_multiple": "66",
+            "monthly_aaum_date": "66",
+            "monthly_aaum_value": "66",
+            "mutual_fund_name": "66",
+            "riskometer": "66",
+            "riskometer_benchmark": "66",
+            "scheme_launch_date": "66"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "Ary 15, 2025",
+            "name": "Nimesh Chandan",
+            "qualification": "",
+            "total_exp": "26"
+          },
+          {
+            "managing_fund_since": "May 19, 2026",
+            "name": "Siddharth Chaudhary",
+            "qualification": "",
+            "total_exp": "20"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Sourish Chatterjee",
+            "qualification": "",
+            "total_exp": "14"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Bajaj Finserv Gilt Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "5.54"
+          },
+          {
+            "name": "macaulay",
+            "value": "2.36"
+          },
+          {
+            "name": "mod_duration",
+            "value": "2.28"
+          },
+          {
+            "name": "ytm",
+            "value": "(%) 5.78"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260930",
+        "monthly_aaum_value": "26.13  Cr",
+        "mutual_fund_name": "BajaJ Finserv Mutual Fund",
+        "page_number": "66",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250115"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bajaj Finserv Asset Management Limited",
+        "benchmark_index": [
+          "CRISIL Liquid Overnight Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "69",
+            "benchmark_index": "69",
+            "count": 25,
+            "fund_manager_managing_fund_since": "69",
+            "fund_manager_name": "69",
+            "fund_manager_qualification": "69",
+            "fund_manager_total_exp": "69",
+            "load_exit": "69",
+            "main_scheme_name": "69",
+            "metrics_ytm": "69",
+            "min_addl_amt": "69",
+            "min_addl_amt_multiple": "69",
+            "min_amt": "69",
+            "min_amt_multiple": "69",
+            "monthly_aaum_date": "69",
+            "monthly_aaum_value": "69",
+            "mutual_fund_name": "69",
+            "riskometer": "69",
+            "riskometer_benchmark": "69",
+            "scheme_launch_date": "69"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "Uly 05, 2023",
+            "name": "Nimesh Chandan",
+            "qualification": "",
+            "total_exp": "26"
+          },
+          {
+            "managing_fund_since": "Uly 05, 2023",
+            "name": "Siddharth Chaudhary",
+            "qualification": "",
+            "total_exp": "20"
+          },
+          {
+            "managing_fund_since": "May 19, 2026",
+            "name": "Chirag Shah",
+            "qualification": "",
+            "total_exp": "14"
+          },
+          {
+            "managing_fund_since": "May 19, 2026",
+            "name": "Sourish Chatterjee",
+            "qualification": "",
+            "total_exp": "14"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Bajaj Finserv Overnight Fund",
+        "metrics": [
+          {
+            "name": "ytm",
+            "value": "(%) 5.24"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "100",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260930",
+        "monthly_aaum_value": "708.48  Cr",
+        "mutual_fund_name": "BajaJ Finserv Mutual Fund",
+        "page_number": "69",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20230705"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bajaj Finserv Asset Management Limited",
+        "benchmark_index": [
+          "Nifty Banking & PSU Debt Index A-II"
+        ],
+        "field_location": [
+          {
+            "amc_name": "72",
+            "benchmark_index": "72",
+            "count": 25,
+            "fund_manager_managing_fund_since": "72",
+            "fund_manager_name": "72",
+            "fund_manager_qualification": "72",
+            "fund_manager_total_exp": "72",
+            "load_exit": "72",
+            "main_scheme_name": "72",
+            "metrics_avg_maturity": "72",
+            "metrics_macaulay": "72",
+            "metrics_mod_duration": "72",
+            "metrics_ytm": "72",
+            "min_addl_amt": "72",
+            "min_addl_amt_multiple": "72",
+            "min_amt": "72",
+            "min_amt_multiple": "72",
+            "monthly_aaum_date": "72",
+            "monthly_aaum_value": "72",
+            "mutual_fund_name": "72",
+            "riskometer": "72",
+            "riskometer_benchmark": "72",
+            "scheme_launch_date": "72"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "Ber 13, 2023",
+            "name": "Nimesh Chandan",
+            "qualification": "",
+            "total_exp": "26"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Siddharth Chaudhary",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Bajaj Finserv Banking and PSU Debt Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "1.55"
+          },
+          {
+            "name": "macaulay",
+            "value": "1.42"
+          },
+          {
+            "name": "mod_duration",
+            "value": "1.32"
+          },
+          {
+            "name": "ytm",
+            "value": "(%) 7.02"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "1000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260930",
+        "monthly_aaum_value": "334.75  Cr",
+        "mutual_fund_name": "BajaJ Finserv Mutual Fund",
+        "page_number": "72",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20231113"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bajaj Finserv Asset Management Limited",
+        "benchmark_index": [
+          "NIFTY Low Duration Debt Index A-I"
+        ],
+        "field_location": [
+          {
+            "amc_name": "75",
+            "benchmark_index": "75",
+            "count": 25,
+            "fund_manager_managing_fund_since": "75",
+            "fund_manager_name": "75",
+            "fund_manager_qualification": "75",
+            "fund_manager_total_exp": "75",
+            "load_exit": "75",
+            "main_scheme_name": "75",
+            "metrics_avg_maturity": "75",
+            "metrics_macaulay": "75",
+            "metrics_mod_duration": "75",
+            "metrics_ytm": "75",
+            "min_addl_amt": "75",
+            "min_addl_amt_multiple": "75",
+            "min_amt": "75",
+            "min_amt_multiple": "75",
+            "monthly_aaum_date": "75",
+            "monthly_aaum_value": "75",
+            "mutual_fund_name": "75",
+            "riskometer": "75",
+            "riskometer_benchmark": "75",
+            "scheme_launch_date": "75"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "Ary 20, 2026",
+            "name": "Nimesh Chandan",
+            "qualification": "",
+            "total_exp": "26"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Siddharth Chaudhary",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Bajaj Finserv Ultra Short to Short Term Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "0.71"
+          },
+          {
+            "name": "macaulay",
+            "value": "0.68"
+          },
+          {
+            "name": "mod_duration",
+            "value": "0.64"
+          },
+          {
+            "name": "ytm",
+            "value": "(%) 7.04"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260930",
+        "monthly_aaum_value": "573.56  Cr",
+        "mutual_fund_name": "BajaJ Finserv Mutual Fund",
+        "page_number": "75",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20260220"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bajaj Finserv Asset Management Limited",
+        "benchmark_index": [
+          "Nifty 50"
+        ],
+        "field_location": [
+          {
+            "amc_name": "78",
+            "benchmark_index": "78",
+            "count": 25,
+            "fund_manager_managing_fund_since": "78",
+            "fund_manager_name": "78",
+            "fund_manager_qualification": "78",
+            "fund_manager_total_exp": "78",
+            "load_exit": "78",
+            "main_scheme_name": "78",
+            "metrics_port_turnover_ratio": "78",
+            "min_addl_amt": "78",
+            "min_addl_amt_multiple": "78",
+            "min_amt": "78",
+            "min_amt_multiple": "78",
+            "monthly_aaum_date": "78",
+            "monthly_aaum_value": "78",
+            "mutual_fund_name": "78",
+            "riskometer": "78",
+            "riskometer_benchmark": "78",
+            "scheme_launch_date": "78"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "Ary 19, 2024",
+            "name": "Ilesh Savla",
+            "qualification": "",
+            "total_exp": "26"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Bajaj Finserv Nifty 50 ETF",
+        "metrics": [
+          {
+            "name": "port_turnover_ratio",
+            "value": "16"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "1",
+        "min_amt_multiple": "50000",
+        "monthly_aaum_date": "20260930",
+        "monthly_aaum_value": "144.86  Cr",
+        "mutual_fund_name": "BajaJ Finserv Mutual Fund",
+        "page_number": "78",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20240119"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bajaj Finserv Asset Management Limited",
+        "benchmark_index": [
+          "Nifty Bank"
+        ],
+        "field_location": [
+          {
+            "amc_name": "81",
+            "benchmark_index": "81",
+            "count": 25,
+            "fund_manager_managing_fund_since": "81",
+            "fund_manager_name": "81",
+            "fund_manager_qualification": "81",
+            "fund_manager_total_exp": "81",
+            "load_exit": "81",
+            "main_scheme_name": "81",
+            "metrics_port_turnover_ratio": "81",
+            "min_addl_amt": "81",
+            "min_addl_amt_multiple": "81",
+            "min_amt": "81",
+            "min_amt_multiple": "81",
+            "monthly_aaum_date": "81",
+            "monthly_aaum_value": "81",
+            "mutual_fund_name": "81",
+            "riskometer": "81",
+            "riskometer_benchmark": "81",
+            "scheme_launch_date": "81"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "Ary 19, 2024",
+            "name": "Ilesh Savla",
+            "qualification": "",
+            "total_exp": "26"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Bajaj Finserv Nifty Bank ETF",
+        "metrics": [
+          {
+            "name": "port_turnover_ratio",
+            "value": "24"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "1",
+        "min_amt_multiple": "50000",
+        "monthly_aaum_date": "20260930",
+        "monthly_aaum_value": "394.50  Cr",
+        "mutual_fund_name": "BajaJ Finserv Mutual Fund",
+        "page_number": "81",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20240119"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bajaj Finserv Asset Management Limited",
+        "benchmark_index": [
+          "Nifty 1D Rate Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "83",
+            "benchmark_index": "83",
+            "count": 25,
+            "fund_manager_managing_fund_since": "83",
+            "fund_manager_name": "83",
+            "fund_manager_qualification": "83",
+            "fund_manager_total_exp": "83",
+            "load_exit": "83",
+            "main_scheme_name": "83",
+            "metrics_ytm": "83",
+            "min_addl_amt": "83",
+            "min_addl_amt_multiple": "83",
+            "min_amt": "83",
+            "min_amt_multiple": "83",
+            "monthly_aaum_date": "83",
+            "monthly_aaum_value": "83",
+            "mutual_fund_name": "83",
+            "riskometer": "83",
+            "riskometer_benchmark": "83",
+            "scheme_launch_date": "83"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "May 28, 2024",
+            "name": "Siddharth Chaudhary",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Bajaj Finserv Nifty 1D Rate Liquid ETF - Growth",
+        "metrics": [
+          {
+            "name": "ytm",
+            "value": "(%) 5.19"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "1",
+        "min_amt_multiple": "25",
+        "monthly_aaum_date": "20260930",
+        "monthly_aaum_value": "594.18  Cr",
+        "mutual_fund_name": "BajaJ Finserv Mutual Fund",
+        "page_number": "83",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20240528"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bajaj Finserv Asset Management Limited",
+        "benchmark_index": [
+          "BSE Top 10 Banks"
+        ],
+        "field_location": [
+          {
+            "amc_name": "86",
+            "benchmark_index": "86",
+            "count": 25,
+            "fund_manager_managing_fund_since": "86",
+            "fund_manager_name": "86",
+            "fund_manager_qualification": "86",
+            "fund_manager_total_exp": "86",
+            "load_exit": "86",
+            "main_scheme_name": "86",
+            "min_addl_amt": "86",
+            "min_addl_amt_multiple": "86",
+            "min_amt": "86",
+            "min_amt_multiple": "86",
+            "monthly_aaum_date": "86",
+            "monthly_aaum_value": "86",
+            "mutual_fund_name": "86",
+            "riskometer": "86",
+            "riskometer_benchmark": "86",
+            "scheme_launch_date": "86"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "Uly 16, 2026",
+            "name": "Ilesh Savla",
+            "qualification": "",
+            "total_exp": "26"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Bajaj Finserv BSE Top 10 Banks ETF",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "1",
+        "min_amt_multiple": "25",
+        "monthly_aaum_date": "20260930",
+        "monthly_aaum_value": "183.85  Cr",
+        "mutual_fund_name": "BajaJ Finserv Mutual Fund",
+        "page_number": "86",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20260716"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bajaj Finserv Asset Management Limited",
+        "benchmark_index": [
+          "Nifty 50"
+        ],
+        "field_location": [
+          {
+            "amc_name": "88",
+            "benchmark_index": "88",
+            "count": 25,
+            "fund_manager_managing_fund_since": "88",
+            "fund_manager_name": "88",
+            "fund_manager_qualification": "88",
+            "fund_manager_total_exp": "88",
+            "load_exit": "88",
+            "main_scheme_name": "88",
+            "metrics_port_turnover_ratio": "88",
+            "min_addl_amt": "88",
+            "min_addl_amt_multiple": "88",
+            "min_amt": "88",
+            "min_amt_multiple": "88",
+            "monthly_aaum_date": "88",
+            "monthly_aaum_value": "88",
+            "mutual_fund_name": "88",
+            "riskometer": "88",
+            "riskometer_benchmark": "88",
+            "scheme_launch_date": "88"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "May 15, 2025",
+            "name": "Ilesh Savla",
+            "qualification": "",
+            "total_exp": "26"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Bajaj Finserv Nifty 50 Index Fund",
+        "metrics": [
+          {
+            "name": "port_turnover_ratio",
+            "value": "33"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260930",
+        "monthly_aaum_value": "37.10  Cr",
+        "mutual_fund_name": "BajaJ Finserv Mutual Fund",
+        "page_number": "88",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250515"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bajaj Finserv Asset Management Limited",
+        "benchmark_index": [
+          "Nifty Next 50"
+        ],
+        "field_location": [
+          {
+            "amc_name": "91",
+            "benchmark_index": "91",
+            "count": 25,
+            "fund_manager_managing_fund_since": "91",
+            "fund_manager_name": "91",
+            "fund_manager_qualification": "91",
+            "fund_manager_total_exp": "91",
+            "load_exit": "91",
+            "main_scheme_name": "91",
+            "metrics_port_turnover_ratio": "91",
+            "min_addl_amt": "91",
+            "min_addl_amt_multiple": "91",
+            "min_amt": "91",
+            "min_amt_multiple": "91",
+            "monthly_aaum_date": "91",
+            "monthly_aaum_value": "91",
+            "mutual_fund_name": "91",
+            "riskometer": "91",
+            "riskometer_benchmark": "91",
+            "scheme_launch_date": "91"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "May 12, 2025",
+            "name": "Ilesh Savla",
+            "qualification": "",
+            "total_exp": "26"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Bajaj Finserv Nifty Next 50 Index Fund",
+        "metrics": [
+          {
+            "name": "port_turnover_ratio",
+            "value": "48"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260930",
+        "monthly_aaum_value": "31.70  Cr",
+        "mutual_fund_name": "BajaJ Finserv Mutual Fund",
+        "page_number": "91",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250512"
+      }
+    }
+  ]
+}
