@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "document_name": "105_30-Sep-26_FS.pdf",
+    "file_type": "fs",
+    "process_date": "20261019"
+  },
+  "records": [
+    {
+      "value": {
+        "amc_name": "SBI Funds Management Limited",
+        "benchmark_index": [
+          "NIFTY 50 Hybrid Composite Debt 50:50 Index TRI"
+        ],
+        "field_location": [
+          {
+            "amc_name": "2",
+            "benchmark_index": "2",
+            "count": 2,
+            "fund_manager_managing_fund_since": "2",
+            "fund_manager_name": "2",
+            "fund_manager_qualification": "2",
+            "fund_manager_total_exp": "2",
+            "load_exit": "2",
+            "main_scheme_name": "2",
+            "metrics_avg_maturity": "2",
+            "metrics_macaulay": "2",
+            "metrics_mod_duration": "2",
+            "metrics_port_turnover_ratio": "2",
+            "metrics_ytm": "2",
+            "min_addl_amt": "2",
+            "min_addl_amt_multiple": "2",
+            "min_amt": "2",
+            "min_amt_multiple": "2",
+            "monthly_aaum_date": "2",
+            "monthly_aaum_value": "2",
+            "mutual_fund_name": "2",
+            "riskometer": "2",
+            "riskometer_benchmark": "2",
+            "scheme_launch_date": "2"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Gaurav Mehta",
+            "qualification": "",
+            "total_exp": "20"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Any redemption or switch out in excess of the limit shall be subject to the following exit load: 0.50 % if the investment is redeemed on or before 15 days from the date of allotment of units. 0.25 % if the investment is redeemed after 15 days but on or before 1 month from the date of allotment of units. No Exit Load will be charged if investment is redeemed after 1month from the date of allotment of units. Expense Ratio 2 TER BER Regular: 1.57% 0.92% Direct: 0.96% 0.40% 2Total"
+          }
+        ],
+        "main_scheme_name": "MAGNUM HYBRID LONG SHORT FUND",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "2.04"
+          },
+          {
+            "name": "macaulay",
+            "value": "1.71"
+          },
+          {
+            "name": "mod_duration",
+            "value": "1.59"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "162"
+          },
+          {
+            "name": "ytm",
+            "value": "06"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20260930",
+        "monthly_aaum_value": "3,997.32",
+        "mutual_fund_name": "SBI Mutual Fund",
+        "page_number": "2",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "/ : 20/10/2025 Allotment"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "SBI Funds Management Limited",
+        "benchmark_index": [
+          "BSE 500 TRI"
+        ],
+        "field_location": [
+          {
+            "amc_name": "4",
+            "benchmark_index": "4",
+            "count": 2,
+            "fund_manager_managing_fund_since": "4",
+            "fund_manager_name": "4",
+            "fund_manager_qualification": "4",
+            "fund_manager_total_exp": "4",
+            "load_exit": "4",
+            "main_scheme_name": "4",
+            "metrics_port_turnover_ratio": "4",
+            "min_addl_amt": "4",
+            "min_addl_amt_multiple": "4",
+            "min_amt": "4",
+            "min_amt_multiple": "4",
+            "monthly_aaum_date": "4",
+            "monthly_aaum_value": "4",
+            "mutual_fund_name": "4",
+            "riskometer": "4",
+            "riskometer_benchmark": "4",
+            "scheme_launch_date": "4"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Gaurav Mehta",
+            "qualification": "",
+            "total_exp": "19"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% of the applicable NAV If units purchased or switched in from another Investment Strategy of the Fund are redeemed or switched out on or before 3 months from the date of allotment. NIL If units purchased or switched in from another Investment Strategy of the Fund are redeemed or switched out after 3 months from the date of allotment. Expense Ratio 2 TER BER Regular: 5.45% 1.80% Direct: 4.16% 0.70% 2Total"
+          }
+        ],
+        "main_scheme_name": "MAGNUM EQUITY EX-TOP 100 LONG SHORT FUND",
+        "metrics": [
+          {
+            "name": "port_turnover_ratio",
+            "value": "2"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20260930",
+        "monthly_aaum_value": "1,426.12",
+        "mutual_fund_name": "SBI Mutual Fund",
+        "page_number": "4",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "/ : 27/08/2026 Allotment"
+      }
+    }
+  ]
+}
