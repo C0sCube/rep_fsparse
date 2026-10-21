@@ -1,77 +1,87 @@
 {
   AMC_NAME: "Union Mutual Fund",
-  MAIN_MAP: { select: true, map: true, special: true },
+  CLONEKEYS: {
+    monthly_avg_aum: ".*net_aum",
+  },
+  DUPLICATE_MUTUAL_FUNDS: {},
   IMP_DATA: {
-    amc_name: "Union Asset Management Company Private Limited",
-    mutual_fund_name: "Prism SIF",
+    amc_name: "Mirae Asset Investment Managers (India) Pvt Ltd.",
+    mutual_fund_name: "Platinum SIF",
+  },
+  MAIN_MAP: {
+    map: true,
+    select: true,
+    special: true,
+  },
+  MERGEKEYS: {
+    load: [".*(entry_load|exit_load)"],
+    metrics:[".*net_asset_value"]
   },
   PARAMS: {
-    title: {
-      ocr: false,
-      pattern: "PLATINUM.+?FUND",
-      bbox: [180, 0, 590, 90],
-    },
     clip_bbox: [[0, 90, 250, 835]],
-    line_x: 200.0,
+    content_size: [30, 10],
     data: {
-      size: [6, 9],
       color: [23],
-      update_size: 30.0,
       font: ["Ubuntu-Bold"],
+      size: [6, 9],
+      update_size: 30,
     },
-    content_size: [30.0, 10.0],
-    method: "clip",
     line_side: "",
+    line_x: 200,
     max_financial_index_highlight: 5,
+    method: "clip",
     pdf_ocr: false,
     sanitize_fund: false,
     stop_words: [],
-    update_min_add: false,
-  },
-  DUPLICATE_MUTUAL_FUNDS: {},
-  PRE_DATA_SELECT: [],
-  REGEX: {
-    aum: "([\\d,.]+\\s*[Cc]rores?)",
-    benchmark: "((?:Russell|Nifty?|BSE|CRISIL|Domestic|\\bICE\\b).+(?:TRI|Index|Silver|Gold))",
-    scheme: [
-      "Investment\\s+[Oo]bjective",
-      "Fund\\s+Managers?",
-      "Allotment\\s+Date",
-      "Benchmark",
-      "Net\\s+AUM",
-      "Exit\\s+Load",
-      "Plan\\s+Available",
-      "Minimum\\s+Investment\\s+Amount",
-      "Minimum\\s+[Aa]mount\\s+for\\s+accredited",
-      "NET\\s+ASSET\\s+VALUE",
-      "QUANTITATIVE",
-      "EOL"
-    ],
-    manager: {
-      pattern: "(?:Mr|Mrs|Ms)\\.?\\s+([A-Za-z]+\\s*[A-Za-z]+)",
-      fields: ["name"],
+    title: {
+      bbox: [190, 0, 600, 60],
+      ocr: false,
+      pattern: "PLATINUM.+?FUND",
     },
-    min_amt: "([\\d,]+).*?([\\d,]+)",
-    date: "([A-Za-z]+\\s*\\d{2}\\,?\\s*\\d{3,4})",
-    metric: "(Aggregate|Beta|R\\s*Squared|Standard Deviation|Sharpe\\*?|Modified Duration|Average Maturity|Macaulay Duration|Y?ield to Maturity|Information Ratio|Tracking\\s*Error.+?)\\s*\\:?\\s*(-?[\\d.]+\\s*(?:[Yy]ears?|[Mm]onths?|[Dd]ays?|%|[Tt]imes?)?|NA|Nil)",
-    ptr: "(Equity|Aggregate|Tracking Error)\\s*(-?[\\d.]+)",
-    escape: "[^a-zA-Z0-9.,\\s\\(\\)\\-\\+\\%\\:\\&]+",
+    update_min_add: false,
   },
   PATTERN_TO_FUNCTION: {
     "^(before|dummy.*)": ["_extract_scheme_data", "scheme"],
   },
-  SECONDARY_PATTERN_TO_FUNCTION: {
-    ".*minimum_application": ["_extract_amt_data", "min_amt"],
-    ".*fund_mana": ["_extract_manager_data", "manager"],
-    ".*average_for":["_extract_generic_data","aum"]
+  PRE_DATA_SELECT: [],
+  PROMOTE_KEYS: {},
+  REGEX: {
+    aum: "([\\d,.]+\\s*[Cc]rores?)",
+    benchmark: "((?:Russell|Nifty?|BSE|CRISIL|Domestic|\\bICE\\b).+(?:TRI|Index|Silver|Gold))",
+    date: "([A-Za-z]+\\s*\\d{2}\\,?\\s*\\d{3,4})",
+    escape: "[^a-zA-Z0-9.,\\s\\(\\)\\-\\+\\%\\:\\&]+",
+    manager: {
+      fields: ["name"],
+      pattern: "(?:Mr|Mrs|Ms)\\.?\\s+([A-Za-z]+\\s*[A-Za-z]+)",
+    },
+    metric: "(Yield|Aggregate|Beta|R\\s*Squared|Standard Deviation|Sharpe\\*?|Modified\\s+Duration\\D*|Average\\s+Maturity\\D*|Macaulay\\s+Duration\\D*|Y?ield\\s+to\\s+Maturity|Information Ratio|Tracking\\s*Error.+?)\\s*\\:?\\s*(-?[\\d.]+\\s*(?:[Yy]ears?|[Mm]onths?|[Dd]ays?|%|[Tt]imes?)?|NA|Nil)",
+    min_amt: "([\\d,]+).*?([\\d,]+)",
+    ptr: "(Equity|Aggregate|Tracking Error)\\s*(-?[\\d.]+)",
+    scheme: [
+      "Investment\\s+[Oo]bjective",
+      "Fund\\s+Managers?",
+      "Allotment\\s+Date:?",
+      "Benchmark:?",
+      "Net\\s+AUM",
+      "Exit\\s+Load:?",
+      "Plan\\s+Available:?",
+      "Minimum\\s+Investment\\s+Amount:?",
+      "Minimum\\s+[Aa]mount\\s+for\\s+accredited",
+      "NET\\s+ASSET\\s+VALUE",
+      "EOL",
+    ],
   },
-  TERTIARY_PATTERN_TO_FUNCTION: {},
+  SECONDARY_PATTERN_TO_FUNCTION: {
+    // ".*net_aum": ["_extract_generic_data", "aum"],
+    ".*fund_mana": ["_extract_manager_data", "manager"],
+    ".*(minimum_application|minimum_investment)": ["_extract_amt_data", "min_amt"],
+    ".*net_asset_value":["_extract_generic_data","metric"]
+  },
   SELECTKEYS: [
-    ".*date_of_allotment",
+    ".*allotment_date",
     ".*fund_manager",
-    // "metrics",
     ".*benchmark",
-    ".*minimum_application",
+    ".*minimum_investment_amount",
     ".*monthly_avg_aum",
     "main_scheme_name",
     "monthly_aaum_date",
@@ -79,18 +89,9 @@
     "mutual_fund_name",
     "amc_name",
     "load",
+    "metrics"
   ],
-  MERGEKEYS: {
-    load: [".*(entry_load|exit_load)"],
-    // metrics: [
-    //   "metrics",
-    //   ".*(total_expense_ratio|portfolio_turnover_ratio|other_parameter)",
-    // ],
-  },
-  CLONEKEYS: {
-    "monthly_avg_aum":".*average_for"
-  },
-  PROMOTE_KEYS: {},
   SPECIAL_FUNCTIONS: {},
+  TERTIARY_PATTERN_TO_FUNCTION: {},
   Z_MUTUAL_FUND_DATA: {},
 }

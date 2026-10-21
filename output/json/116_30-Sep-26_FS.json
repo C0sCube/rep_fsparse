@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "document_name": "116_30-Sep-26_FS.pdf",
+    "file_type": "fs",
+    "process_date": "20261021"
+  },
+  "records": [
+    {
+      "value": {
+        "amc_name": "Mirae Asset Investment Managers (India) Pvt Ltd.",
+        "benchmark_index": [
+          "NIFTY 50 Hybrid Composite Debt 50:50 Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "3",
+            "benchmark_index": "3",
+            "count": 1,
+            "fund_manager_managing_fund_since": "3",
+            "fund_manager_name": "3",
+            "fund_manager_qualification": "3",
+            "fund_manager_total_exp": "3",
+            "load_exit": "3",
+            "main_scheme_name": "3",
+            "metrics_avg_maturity": "3",
+            "metrics_macaulay": "3",
+            "metrics_mod_duration": "3",
+            "metrics_ytm": "3",
+            "min_addl_amt": "3",
+            "min_addl_amt_multiple": "3",
+            "min_amt": "3",
+            "min_amt_multiple": "3",
+            "monthly_aaum_date": "3",
+            "monthly_aaum_value": "3",
+            "mutual_fund_name": "3",
+            "riskometer": "3",
+            "riskometer_benchmark": "3",
+            "scheme_launch_date": "3"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Gaurik Shah",
+            "qualification": "",
+            "total_exp": ""
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "If redeemed within 30 days from the date of allotment: 1% - If redeemed after 30 days from the date of allotment: NIL"
+          }
+        ],
+        "main_scheme_name": "PLATINUM HYBRID LONG-SHORT FUND",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "1.83"
+          },
+          {
+            "name": "macaulay",
+            "value": "1.67"
+          },
+          {
+            "name": "mod_duration",
+            "value": "1.57"
+          },
+          {
+            "name": "ytm",
+            "value": "6.52"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "1000000",
+        "min_amt_multiple": "1000",
+        "monthly_aaum_date": "20260930",
+        "monthly_aaum_value": "(Cr.) 385.37",
+        "mutual_fund_name": "Platinum SIF",
+        "page_number": "3",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20260610"
+      }
+    }
+  ]
+}
