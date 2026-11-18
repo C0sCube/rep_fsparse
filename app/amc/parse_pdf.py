@@ -47,13 +47,13 @@ class Reader:
                     else:
                         title_text = " ".join(page.get_text("text", clip=bbox).split("\n"))
                     title_text = re.sub(escape_regex, "", title_text).strip()
-                    
+                    # print(title_text)
                     title_match = re.findall(title_regex, title_text, re.DOTALL)
                     title = (
                         " ".join([_ for _ in title_match[0].strip().split(" ") if _])
                         if title_match else ""
                     )
-
+                    # print(title)
                     if title:self.logger.info(f"Page {pgn} → Title Found: {title}")
                     else:self.logger.debug(f"Page {pgn} → No title detected in '{title_text[:50]}...'")
                     title_detected[pgn] = title
@@ -114,7 +114,7 @@ class Reader:
     #     return ocr_path
 
     @log_exceptions()
-    def check_and_highlight(self, path, save_htld_pdf=False, save_report=False):
+    def check_and_highlight(self, path, save_htld_pdf=False, save_report=True):
         func = inspect.currentframe().f_code.co_name
         self.logger.info(f"▶ Start {func} | file={self.FILE_NAME}")
 
@@ -136,8 +136,10 @@ class Reader:
                     if "lines" not in block:
                         continue
                     for line in block["lines"]:
+                        # print(line["spans"])
                         for span in line["spans"]:
                             text = self.UTILS._remove_non_word_space_chars(span["text"])
+                            # print(span["text"])
                             for indice in financial_terms:
                                 if re.search(rf"\b{re.escape(indice)}\b", text, re.IGNORECASE):
                                     if indice not in found_indices:

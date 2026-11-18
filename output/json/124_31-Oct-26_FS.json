@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "document_name": "124_31-Oct-26_FS.pdf",
+    "file_type": "fs",
+    "process_date": "20261117"
+  },
+  "records": [
+    {
+      "value": {
+        "amc_name": "Lakshya Asset Management Pvt Ltd.",
+        "benchmark_index": [
+          "CRISIL Liquid Overnight Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "0",
+            "benchmark_index": "0",
+            "count": 1,
+            "fund_manager_managing_fund_since": "0",
+            "fund_manager_name": "0",
+            "fund_manager_qualification": "0",
+            "fund_manager_total_exp": "0",
+            "load_exit": "0",
+            "main_scheme_name": "0",
+            "metrics_avg_maturity": "0",
+            "metrics_macaulay": "0",
+            "metrics_mod_duration": "0",
+            "metrics_ytm": "0",
+            "min_addl_amt": "0",
+            "min_addl_amt_multiple": "0",
+            "min_amt": "0",
+            "min_amt_multiple": "0",
+            "monthly_aaum_date": "0",
+            "mutual_fund_name": "0",
+            "riskometer": "0",
+            "riskometer_benchmark": "0",
+            "scheme_launch_date": "0"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "24 Sep 2026",
+            "name": "Sarthak Shah",
+            "qualification": "",
+            "total_exp": "10 Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Lakshya Overnight Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "0.0"
+          },
+          {
+            "name": "macaulay",
+            "value": "0.0"
+          },
+          {
+            "name": "mod_duration",
+            "value": "0.0"
+          },
+          {
+            "name": "ytm",
+            "value": "5.35"
+          }
+        ],
+        "min_addl_amt": "1000",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "mutual_fund_name": "Lakshya Mutual Fund",
+        "page_number": "0",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20260924"
+      }
+    }
+  ]
+}

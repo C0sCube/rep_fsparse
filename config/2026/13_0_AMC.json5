@@ -44,7 +44,7 @@
       "NAV.*?as\\s+on",
       "AUM",
       "AAUM",
-      "Name\\s+[Oo]f\\s+Fund\\s+Managers",
+      "Fund\\s+Manager",
       "Minimum Investment",
       "Lump\\s*sum\\s+[Aa]mount",
       "SIP\\s+[Aa]mount",
@@ -58,28 +58,24 @@
     date: "(\\d{2}-?\\s*[A-Za-z]+-?\\s*\\d{2,4})",
     min_amt: "([\\d,]+).*?([\\d,]+)",
     aum: "\\D+([\\d,.]+\\s*cr)",
-     metrics: "(Equity Turnover|Average\\s*Maturity|Macaulay\\s*Duration|Tracking Error\\s*(?:Regular)?|Modified\\s*Duration|YTM\\D*|Yield\\s*[Tt]o\\s*Maturity|Portfolio\\s*Turnover\\s*Ratio|Standard\\s*Deviation|Beta|Sharpe\\s*Ratio|Tracking\\s*Error\\s*Direct|Information\\s*Ratio)\\s*[\\:\\-]?\\s*(\\(?\\s*(?:[Yy]ears?|[Mm]onths?|[Dd]ays?|%|[Tt]imes?)?\\s*\\)?\\s*[\\:\\-]?\\s*-?\\d+\\.?\\d+\\s*(?:[Yy]ears?|[Mm]onths?|[Dd]ays?|%|[Tt]imes?)?)",
-       manager: {
-      name: "(?:Mrs?|Ms)\\.?\\s+([A-Za-z]+\\s+[A-Za-z]+)",
+    metrics: "(R2|Equity\\s+Turnover|Gross\\s+(?:Exposure)?\\s+Turnover|Average\\s*Maturity|Macaulay\\s*Duration|Tracking Error\\s*(?:Regular)?|Modified\\s*Duration|YTM\\D*|Yield\\s*[Tt]o\\s*Maturity|Portfolio\\s*Turnover\\s*Ratio|Standard\\s*Deviation|Beta|Sharpe\\s*Ratio|Tracking\\s*Error\\s*Direct|Information\\s*Ratio)\\s*[\\:\\-]?\\s*(\\(?\\s*(?:[Yy]ears?|[Mm]onths?|[Dd]ays?|%|[Tt]imes?)?\\s*\\)?\\s*[\\:\\-]?\\s*-?\\d+\\.?\\d+\\s*(?:[Yy]ears?|[Mm]onths?|[Dd]ays?|%|[Tt]imes?)?)",
+    manager: {
+      name: "(?:Mrs?|Ms)\\.?\\s+([A-Za-z]+)\\s+",
       exp: "(?<=\\s)\\d{1,2}\\s+[Yy]rs?(?=\\s)",
-      since: "[A-Za-z]{3}\\s*\\d{1,2}\\,?\\s+\\d{4}",
+      since: "([A-Za-z]{3}\\s*\\-\\s*\\d{4})",
     },
-    escape: "[^A-Za-z0-9\\s\\-\\(\\).,\\+\\%\\:\\&]+|Date of Inception|Allotment|\\(?TRI\\)?|Total\\s*Returns?\\s*Index",
-  
+    escape: "[^A-Za-z0-9\\s\\-\\(\\).,\\+\\%\\:\\&]+|Date\\s+[Oo]f\\s+[iI]nception|Allotment|\\(?TRI\\)?|Total\\s*Returns?\\s*Index",
   },
   PATTERN_TO_FUNCTION: {
-     "^(before|dummy).*": ["_extract_scheme_data", "scheme"],
+    "^(before|dummy).*": ["_extract_scheme_data", "scheme"],
   },
   SECONDARY_PATTERN_TO_FUNCTION: {
-    ".*(lump_?sum|sip)": [
-      "_extract_amt_data",
-      "min_amt",
-    ],
+    ".*(lump_?sum|sip)": ["_extract_amt_data", "min_amt"],
     ".*(major_risk_factors|expense_ratio)$": [
       "_extract_generic_data",
       "metrics",
     ],
-     ".*aaum": ["_extract_generic_data", "aum"],
+    ".*aaum": ["_extract_generic_data", "aum"],
   },
   TERTIARY_PATTERN_TO_FUNCTION: {},
   SELECTKEYS: [
@@ -95,25 +91,25 @@
     "fund_manager",
     "page_number",
     "min_amt",
-    "min_addl_amt"
+    "min_addl_amt",
   ],
   MERGEKEYS: {
     load: [".*(exit_?load|entry_?load)"],
-    metrics: [".*(major_risk_factor|key_statistics|expense_ratio)", ],
+    metrics: [".*(major_risk_factor|key_statistics|expense_ratio)"],
   },
   CLONEKEYS: {
-        benchmark_index: ".*benchmark",
+    benchmark_index: ".*benchmark",
     scheme_launch_date: ".*fund_details$",
-    "monthly_aaum":".*aaum$",
-    fund_manager:".*fund_manager",
-    min_amt:".*lump_?sum",
-    min_addl_amt:".*sip"
+    monthly_aaum: ".*aaum$",
+    fund_manager: "before.fund_manager",
+    min_amt: ".*lump_?sum",
+    min_addl_amt: ".*sip",
   },
   PROMOTE_KEYS: {},
   SPECIAL_FUNCTIONS: {
     // scheme_launch_date: "_update_date_data",
     // benchmark_index: "_update_benchmark_data",
-    fund_manager:"_update_manager_data"
+    fund_manager: "_update_manager_data",
   },
   Z_MUTUAL_FUND_DATA: {},
 }

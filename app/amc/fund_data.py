@@ -400,6 +400,7 @@ class GrandFundData:
         return {"inception_date": " ".join(matches)}
     
     def _update_benchmark_data(self,main_key:str,bench_data):
+        print(f"{main_key}:{bench_data}")
         bench_data = " ".join(bench_data) if isinstance(bench_data,list) else bench_data
         bench_data = re.sub(self.REGEX["escape"],"",bench_data,re.IGNORECASE)
         
@@ -413,7 +414,7 @@ class GrandFundData:
         return {main_key:bench_data}
    
     def _update_date_data(self,main_key:str,data):
-        
+        print(f"{main_key}:{data}")
         date_data = " ".join(data) if isinstance(data, list) else data
         date_data = re.sub(self.REGEX["escape"],"",date_data,re.IGNORECASE)
         # print(date_data)

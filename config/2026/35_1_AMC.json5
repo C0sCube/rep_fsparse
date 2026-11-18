@@ -8,10 +8,11 @@
   PARAMS: {
     title: {
       ocr: false,
-      pattern: "((?:SBI|i\\s*_|S35|NIFTY|Nifty|NIFTY50|NIFTY100|NSE|CRISIL|GOLD|SILVER|CPSE|BSE).*?(?:Fund\\s*(?:of funds?|.*?Plan)?|ETF|FTF|F[oO]F|FUNDS?)\\s*(?:\\-\\s*IDCW|FUND\\s*OF\\s*FUNDS?)?)",
-      bbox: [0, 0, 460, 65],
+      pattern: "(SBI\\s+(?:NIFTY|BSE|GOLD|SILVER|CRISIL).+?(?:FUND|ETF\\s*\\-?\\s*(?:GROWTH|IDCW|FOF|FUND\\s+OF\\s+FUND)?))",
+      bbox: [0, 0, 460, 85],
     },
     clip_bbox: [
+      [0, 0, 454, 125],
       [0, 125, 165, 820],
       [425, 125, 590, 840],
     ],
@@ -23,9 +24,9 @@
       font: ["HelveticaNeue-Medium"],
     },
     content_size: [30.0, 10.0],
-    method: "line",
+    method: "clip",
     line_side: "both",
-    max_financial_index_highlight: 7,
+    max_financial_index_highlight: 6,
     pdf_ocr: false,
     sanitize_fund: true,
     stop_words: [],
@@ -37,25 +38,31 @@
     aum: "([\\d,.]+\\s*[Cc]rores?|[Cc]r)",
     benchmark: "((?:Nifty|Domestic|Price|CRISIL|BSE).+?(?:TRI|Index|Silver|Gold))",
     scheme: [
+      "Product\\s+[lL]abelling:?",
+      "Investment\\s+in\\s+[Ss]ecurities\\s+[Cc]overed\\s+[Bb]y",
+      "Investors should consult",
       "Fund\\s+Details?",
+      "Investment\\s+[Oo]bjective:?",
       "Date\\s+of\\s+Inception",
       "Benchmark\\s+Index",
-      "NAV",
       "AUM\\s*[Aa]s\\s*[Oo]n",
-      "AAUM\\s*[Ff]or",
+      "AAUM\\s*[Ff]or\\s+the",
       "Fund\\s+Manager",
       "Minimum\\s+[iI]nvestment",
+      "SIP",
       "Load\\s+Structure",
+      "Entry\\s+Load",
       "Exit\\s+Load",
       "(?:Total)?\\s*Expense\\s+Ratio",
       "EOL",
       "Major\\s+Risk\\s+[fF]actors?",
+      "Market Capitalization",
       "EOL",
     ],
     date: "\\d{2}\\s*\\d{2}\\s*\\d{4}",
     min_amt: "([\\d.,]+)\\D*(?:multiples?)\\D*(\\d+)",
     load: "(?:Entry)?(.+)Exit(.+)$",
-    metrics: "(Equity\\s+Turnover|Average\\s*Maturity|Macaulay\\s*Duration|Tracking Error\\s*(?:Regular)?|Modified\\s*Duration|YTM\\D*|Yield\\s*[Tt]o\\s*Maturity|Portfolio\\s*Turnover\\s*Ratio|Standard\\s*Deviation|Beta|Sharpe\\s*Ratio|Tracking\\s*Error\\s*Direct|Information\\s*Ratio)\\s*[\\:\\-]?\\s*(\\(?\\s*(?:[Yy]ears?|[Mm]onths?|[Dd]ays?|%|[Tt]imes?)?\\s*\\)?\\s*[\\:\\-]?\\s*-?\\d+\\.?\\d+\\s*(?:[Yy]ears?|[Mm]onths?|[Dd]ays?|%|[Tt]imes?)?)",
+    metrics: "(Equity\\s+Turnover|Total\\s+Turnover|Average\\s*Maturity|Macaulay\\s*Duration|Tracking Error\\s*(?:Regular)?|Modified\\s*Duration|YTM\\D*|Yield\\s*[Tt]o\\s*Maturity|Portfolio\\s*Turnover\\s*Ratio|Standard\\s*Deviation|Beta|Sharpe\\s*Ratio|Tracking\\s*Error\\s*Direct|Information\\s*Ratio)\\s*[\\:\\-]?\\s*(\\(?\\s*(?:[Yy]ears?|[Mm]onths?|[Dd]ays?|%|[Tt]imes?)?\\s*\\)?\\s*[\\:\\-]?\\s*-?\\d+\\.?\\d+\\s*(?:[Yy]ears?|[Mm]onths?|[Dd]ays?|%|[Tt]imes?)?)",
     manager: {
       name: "(?:Mrs?|Ms)\\.?\\s+([A-Za-z]+\\s+[A-Za-z]+)",
       exp: "(?<=\\s)\\d{1,2}\\s+[Yy]ears?(?=\\s)",
@@ -68,18 +75,19 @@
   },
   SECONDARY_PATTERN_TO_FUNCTION: {
     ".*aaum_for.*": ["_extract_generic_data", "aum"],
-    ".*(major_risk_factors|expense_ratio)$": [
+     ".*date_of_inception": ["_extract_generic_data", "date"],
+    ".*(expense_ratio|market_capitalization)$": [
       "_extract_generic_data",
       "metrics",
     ],
+
   },
   TERTIARY_PATTERN_TO_FUNCTION: {},
   SELECTKEYS: [
     ".*date_of_inception$",
-    ".*aaum_for",
-    ".*benchmark_index$",
+    "benchmark_index",
     "fund_manager",
-    ".*load_structure",
+    // ".*load_structure",
     "metrics",
     "amc_name",
     "main_scheme_name",
@@ -91,11 +99,17 @@
   ],
   MERGEKEYS: {
     load: [".*(entry_load|exit_load)"],
-    fund_manager: [".*fund_manager"],
-    metrics: [".*(portfolio_turnover.*|aum_as_on|quantitative_data)"],
+    // fund_manager: [".*fund_manager"],
+    metrics: [".*(market_capitalization|quantitative_data)"],
   },
-  CLONEKEYS: {},
+  CLONEKEYS: {
+    benchmark_index:".*investment_in_securities",
+    fund_manager:".*fund_manager",
+    monthly_aaum_value:".*aaum_for"
+  },
   PROMOTE_KEYS: {},
-  SPECIAL_FUNCTIONS: {},
+  SPECIAL_FUNCTIONS: {
+    fund_manager:"_update_manager_data"
+  },
   Z_MUTUAL_FUND_DATA: {},
 }

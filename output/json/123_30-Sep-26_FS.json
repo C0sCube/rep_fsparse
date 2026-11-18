@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "document_name": "123_30-Sep-26_FS.pdf",
+    "file_type": "fs",
+    "process_date": "20261022"
+  },
+    "records": [
+    {
+      "value": {
+        "amc_name": "Monarch Networth Asset Management Pvt Ltd.",
+        "benchmark_index": [
+          "CRISIL Liquid Overnight Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "0",
+            "benchmark_index": "0",
+            "count": 1,
+            "fund_manager_managing_fund_since": "0",
+            "fund_manager_name": "0",
+            "fund_manager_qualification": "0",
+            "fund_manager_total_exp": "0",
+            "load_exit": "0",
+            "main_scheme_name": "0",
+            "metrics_avg_maturity": "0",
+            "metrics_macaulay": "0",
+            "metrics_mod_duration": "0",
+            "metrics_ytm": "0",
+            "min_addl_amt": "0",
+            "min_addl_amt_multiple": "0",
+            "min_amt": "0",
+            "min_amt_multiple": "0",
+            "monthly_aaum_date": "0",
+            "monthly_aaum_value": "0",
+            "mutual_fund_name": "0",
+            "riskometer": "0",
+            "riskometer_benchmark": "0",
+            "scheme_launch_date": "0"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "Sept 09 2026",
+            "name": "Sanjay Motta",
+            "qualification": "",
+            "total_exp": ""
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Monarch Overnight Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "0.0"
+          },
+          {
+            "name": "macaulay",
+            "value": "0.0"
+          },
+          {
+            "name": "mod_duration",
+            "value": "0.0"
+          }
+        ],
+        "min_addl_amt": "1,000",
+        "min_addl_amt_multiple": "1",
+        "min_amt": "5,000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20260930",
+        "monthly_aaum_value": "107.36",
+        "mutual_fund_name": "Monarch Mutual Fund",
+        "page_number": "1",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20260909"
+      }
+    }
+  ]
+}

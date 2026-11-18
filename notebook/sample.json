@@ -1,0 +1,56 @@
+    {
+      "value": {
+        "amc_name": "FROM USER",
+        "benchmark_index": [
+          ""
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "CAN BE EMPTY",
+            "name": "",
+            "qualification": "CAN BE EMPTY",
+            "total_exp": "CAN BE EMPTY"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "STRING"
+          }
+        ],
+        "main_scheme_name": "FROM USER",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": ""
+          },
+          {
+            "name": "information_ratio",
+            "value": ""
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": ""
+          },
+          {
+            "name": "sharpe",
+            "value": ""
+          },
+          {
+            "name": "std_dev",
+            "value": ""
+          }
+        ],
+        "min_addl_amt": "NUMBER",
+        "min_addl_amt_multiple": "NUMBER",
+        "min_amt": "NUMBER",
+        "min_amt_multiple": "NUMBER",
+        "monthly_aaum_date": "FROM USER",
+        "monthly_aaum_value": "FLOAT",
+        "mutual_fund_name": "FROM USER",
+        "page_number": "14",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "FOUND AND CONVERTED TO YYYYMMDD"
+      }
+    }

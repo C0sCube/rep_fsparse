@@ -1,140 +1,116 @@
 {
-  "AMC_NAME": "Kotak Mahindra Mutual Fund",
-  "CLONEKEYS": {
-    "additional_investment": ".*minimum_investment_amount"
+  AMC_NAME: "Kotak Mahindra Mutual Fund",
+  DUPLICATE_MUTUAL_FUNDS: {},
+  IMP_DATA: {
+    amc_name: "Kotak Mahindra Asset Management Company Limited",
+    mutual_fund_name: "Kotak Mahindra Mutual Fund",
   },
-  "DUPLICATE_MUTUAL_FUNDS": {},
-  "IMP_DATA": {
-    "amc_name": "Kotak Mahindra Asset Management Company Limited",
-    "mutual_fund_name": "Kotak Mahindra Mutual Fund"
+  MAIN_MAP: {
+    map: true,
+    select: true,
+    special: true,
   },
-  "MAIN_MAP": {
-    "map": true,
-    "select": true,
-    "special": true
-  },
-  "MERGEKEYS": {
-    "load": [
-      ".*entry_load$",
-      ".*exit_load$",
-      "^load"
+
+  PARAMS: {
+    clip_bbox: [
+      [0, 110, 185, 830],
+      [460, 120, 590, 705],
     ],
-    "metrics": [
-      ".*net_asset_value$"
-    ]
-  },
-  "PARAMS": {
-    "clip_bbox": [
-      [
-        0,
-        80,
-        150,
-        812
-      ]
-    ],
-    "content_size": [
-      30,
-      10
-    ],
-    "data": {
-      "color": [
-        -15445130,
-        -14590595
-      ],
-      "font": [
-        "Frutiger-Bold"
-      ],
-      "size": [
-        6,
-        8
-      ],
-      "update_size": 30
+    content_size: [30, 10],
+    data: {
+      color: [-15445130, -14590595],
+      font: ["Frutiger-Bold"],
+      size: [6, 8],
+      update_size: 30,
     },
-    "line_side": "",
-    "line_x": 150,
-    "max_financial_index_highlight": 5,
-    "method": "clip",
-    "pdf_ocr": false,
-    "sanitize_fund": false,
-    "stop_words": [],
-    "title": {
-      "bbox": [
-        0,
-        0,
-        612,
-        70
-      ],
-      "ocr": false,
-      "pattern": "(KOTAK.*?(?:FUND\\s*(?:OF FUNDS?\\s*|-\\s*\\w+)?|ETF|FOF|PATH|FTF|INDEX\\s*(?:.*?FUND)?))"
+    line_side: "",
+    line_x: 150,
+    max_financial_index_highlight: 5,
+    method: "clip",
+    pdf_ocr: false,
+    sanitize_fund: false,
+    stop_words: [],
+    title: {
+      bbox: [119.41, 2.63, 572.45, 45.66],
+      ocr: false,
+      pattern: "(KOTAK.*?(?:FUND\\s*(?:OF FUNDS?\\s*|-\\s*\\w+)?|ETF|FOF|PATH|FTF|INDEX\\s*(?:.*?FUND)?))",
     },
-    "update_min_add": false
+    update_min_add: false,
   },
-  "PATTERN_TO_FUNCTION": {
-    "^before": [
-      "_extract_scheme_data",
-      "scheme"
-    ]
+  PATTERN_TO_FUNCTION: {
+    "(?:^before|^dummy).*": ["_extract_scheme_data", "scheme"],
   },
-  "PRE_DATA_SELECT": [],
-  "PROMOTE_KEYS": {},
-  "REGEX": {
-    "escape": "[^A-Za-z0-9\\s\\-\\(\\)\\.\\,\\+\\%\\&]+|·",
-    "manager": {
-      "fields": [
-        "name"
-      ],
-      "pattern": "(?:Mr\\.?|Mrs\\.?|Ms\\.?)\\s*([\\w\\s]+)"
+  PRE_DATA_SELECT: [],
+  PROMOTE_KEYS: {},
+  REGEX: {
+    aum: "(\\d+\\,?\\d+\\.\\d+).+$",
+    load: "Entry Load\\s*(.+?)\\s*Exit Load\\s*(.+)$",
+    metrics: "(Equity\\s+Turnover|Gross\\s+Turnover|Average\\s*Maturity|Macaulay\\s*Duration|Tracking Error\\s*(?:Regular)?|Modified\\s*Duration|YTM\\D*|Yield\\s*[Tt]o\\s*Maturity|Portfolio\\s*Turnover\\s*Ratio|Standard\\s*Deviation|Beta|Sharpe\\s*Ratio|Tracking\\s*Error\\s*Direct|Information\\s*Ratio)\\s*[\\:\\-]?\\s*(\\(?\\s*(?:[Yy]ears?|[Mm]onths?|[Dd]ays?|%|[Tt]imes?)?\\s*\\)?\\s*[\\:\\-]?\\s*-?\\d+\\.?\\d+\\s*(?:[Yy]ears?|[Mm]onths?|[Dd]ays?|%|[Tt]imes?)?)",
+    min_amt: "([\\d,]+)\\D+(\\d+|[Aa]ny)",
+    escape: "[^A-Za-z0-9\\s\\-\\(\\).,\\+\\%\\:\\&]+|Allotment:?|\\(?TRI\\)?|Total\\s*Returns?\\s*Index",
+    manager: {
+      // pattern: "(?:Mr|Mrs|Ms)\\.?\\s+([A-Za-z]+\\s+[A-Za-z]+)\\s+Total\\s+Experience:?\\s+(\\d+)\\s+[Yy]ears?\\s+Managing\\s+[Ss]ince:?\\s+(\\d{2}\\-[A-Za-z]{3}\\-\\d{2})",
+      // fields: ["name", "exp", "since"],
+      name: "(?:Mr|Mrs|Ms)\\.?\\s+([A-Za-z]+\\s+[A-Za-z]+)",
+      exp: "\\d{1,2}\\s+[Yy]ears?",
+      since: "\\d{2}\\s*\\-?\\s*9[A-Za-z]+\\s*\\-?\\*\\d{2,4}",
     },
-    "metric": "(P\\s*E|P\\s*BV|Portfolio Turnover|Standard Deviation|Beta|Sharpe|Tracking Error|Average Maturity|Modified Duration|Annualised YTM|Macaulay Duration|Tracking Error)\\s*(?:\\([\\w\\s%-]*\\)|\\*)?\\s*(-?[\\d.]+\\s*(?:[Dd]ays?|[Yy]e?a?rs?|[Mm]onths?|%|[Tt]imes?)?)",
-    "min_amt": "([\\d,]+).*?([\\d,]+|any)",
-    "scheme": [
-      "Fund\\s*Manager",
-      "AAUM",
-      "AUM",
-      "Benchmark",
-      "Allotment\\s*[Dd]ate",
-      "Folio\\s*Count",
-      "Minimum Investment Amount",
-      "Systematic Investment Plan",
-      "Net Asset Value",
-      "Load Structure",
-      "Entry\\s*Load",
-      "Exit\\s*Load",
-      "Data\\s*[Aa]s\\s*[Oo]n",
-      "EOL"
-    ]
-  },
-  "SECONDARY_PATTERN_TO_FUNCTION": {
-    ".*fund_manager": [
-      "_extract_manager_data",
-      "manager"
+    scheme: [
+      "Fund\\s*Details",
+      "Date\\s*of\\s*(?:Inception|[aA]llotment)",
+      "Benchmark\\s*(?:[Ii]ndex|[Nn]ame)?",
+      "NAV\\s*\\:?",
+      "Monthly\\s+AUM",
+      "Monthly\\s+AAUM",
+      "Quarterly\\s+AAUM",
+      "Fund\\s*Manager\\s*",
+      "Minimum Investment",
+      "Lump\\s*sum\\s*[aA]mount",
+      "SIP\\s*\\)?\\s*[aA]mount",
+      "Load\\s*[sS]tructure",
+      "Exit\\s*Load\\:?",
+      "Expense\\s+Ratio",
+      "EOL",
+      "Major\\s*Risk\\s*Factors?",
+      "EOL",
     ],
-    ".*minimum_investment_amount": [
-      "_extract_amt_data",
-      "min_amt"
-    ],
-    ".*net_asset_value": [
-      "_extract_generic_data",
-      "metric"
-    ]
   },
-  "SELECTKEYS": [
-    "metrics",
-    ".*aaum$",
-    ".*fund_manager",
-    ".*benchmark",
-    ".*allotment_date",
-    "additional_investment",
-    ".*minimum_investment_amount",
+  SECONDARY_PATTERN_TO_FUNCTION: {
+    ".*(lump_?sum|sip)": ["_extract_amt_data", "min_amt"],
+    ".*(major_risk_factor|expense_ratio)": ["_extract_generic_data", "metrics"],
+    ".*monthly_aaum": ["_extract_generic_data", "aum"],
+    // ".*fund_manager": ["_extract_manager_data", "manager"],
+  },
+  SELECTKEYS: [
+    "benchmark_index",
+    "scheme_launch_date",
+    "monthly_aaum",
     "load",
+    "metrics",
     "amc_name",
     "main_scheme_name",
-    "page_number",
     "monthly_aaum_date",
     "mutual_fund_name",
-    "minimum_investment_clone"
+    "fund_manager",
+    "page_number",
+    "min_amt",
+    "min_addl_amt",
   ],
-  "SPECIAL_FUNCTIONS": {},
-  "TERTIARY_PATTERN_TO_FUNCTION": {},
-  "Z_MUTUAL_FUND_DATA": {}
+  MERGEKEYS: {
+    load: [".*(exit_?load|entry_?load)"],
+    metrics: [".*(major_risk_factor|key_statistics|expense_ratio)"],
+  },
+  CLONEKEYS: {
+    benchmark_index: ".*benchmark",
+    scheme_launch_date: ".*date_of",
+    monthly_aaum: ".*monthly_aaum$",
+    fund_manager: "^before.fund_manager",
+    min_amt: ".*lump_?sum",
+    min_addl_amt: ".*sip",
+  },
+  TERTIARY_PATTERN_TO_FUNCTION: {},
+  Z_MUTUAL_FUND_DATA: {},
+  SPECIAL_FUNCTIONS: {
+    fund_manager: "_update_manager_data",
+  },
 }

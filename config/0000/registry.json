@@ -808,6 +808,7 @@
     "Riskometer_benchmark": null,
     "amc_name": null,
     "benchmark_index": null,
+    "investment_objective":null,
     "field_location": [
       {}
     ],
@@ -857,6 +858,8 @@
       "macaulay",
       "mod_duration",
       "port_turnover_ratio",
+      "equity_turnover_ratio",
+      "gross_turnover_ratio",
       "r_squared_ratio",
       "roe_ratio",
       "sharpe",
