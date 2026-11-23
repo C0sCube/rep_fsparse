@@ -1,0 +1,2022 @@
+{
+  "metadata": {
+    "document_name": "5_31-Oct-26_FS.pdf",
+    "file_type": "fs",
+    "process_date": "20261119"
+  },
+  "records": [
+    {
+      "value": {
+        "amc_name": "Bank of India Investment Managers Private Limited",
+        "benchmark_index": [
+          "Scheme Compounded Returns % - : BSE 500 Annualised Returns Regular"
+        ],
+        "field_location": [
+          {
+            "amc_name": "7",
+            "benchmark_index": "7",
+            "count": 23,
+            "fund_manager_managing_fund_since": "7",
+            "fund_manager_name": "7",
+            "fund_manager_qualification": "7",
+            "fund_manager_total_exp": "7",
+            "load_exit": "7",
+            "main_scheme_name": "7",
+            "metrics_beta": "7",
+            "metrics_gross_exposure_turnover": "7",
+            "metrics_port_turnover_ratio": "7",
+            "metrics_sharpe": "7",
+            "metrics_std_dev": "7",
+            "min_addl_amt": "7",
+            "min_addl_amt_multiple": "7",
+            "min_amt": "7",
+            "min_amt_multiple": "7",
+            "monthly_aaum_date": "7",
+            "monthly_aaum_value": "7",
+            "mutual_fund_name": "7",
+            "riskometer": "7",
+            "riskometer_benchmark": "7",
+            "scheme_launch_date": "7"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "June 29, 2020",
+            "name": "Alok Singh",
+            "qualification": "",
+            "total_exp": "5 Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "If redeemed switched-out Top 10 Holdings % to NAV within 3 months from the date of allotment: State Bank of India 5.61% For 10% of investments: Nil For remaining investments:1% ICICI Bank Ltd. 4.50% If redeemed switched-out after 3 months from the date of Hindustan Aeronautics Ltd. 2.85% allotment: Nil Sky Gold And Diamonds Ltd. 2.82%"
+          }
+        ],
+        "main_scheme_name": "Bank of India Flexi Cap Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.08"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "1.04 Times"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "81"
+          },
+          {
+            "name": "sharpe",
+            "value": "0.57"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) 18.81"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "3,128.49 Crore",
+        "mutual_fund_name": "Bank of India Mutual Fund",
+        "page_number": "7",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20200629"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bank of India Investment Managers Private Limited",
+        "benchmark_index": [
+          "Compounded Returns % - Annualised Returns NIFTY Smallcap 250 Regular : (Tier 1) 1 Year 15.32 16.97 -2.61"
+        ],
+        "field_location": [
+          {
+            "amc_name": "9",
+            "benchmark_index": "9",
+            "count": 23,
+            "fund_manager_managing_fund_since": "9",
+            "fund_manager_name": "9",
+            "fund_manager_qualification": "9",
+            "fund_manager_total_exp": "9",
+            "load_exit": "9",
+            "main_scheme_name": "9",
+            "metrics_beta": "9",
+            "metrics_gross_exposure_turnover": "9",
+            "metrics_port_turnover_ratio": "9",
+            "metrics_sharpe": "9",
+            "metrics_std_dev": "9",
+            "min_addl_amt": "9",
+            "min_addl_amt_multiple": "9",
+            "min_amt": "9",
+            "min_amt_multiple": "9",
+            "monthly_aaum_date": "9",
+            "monthly_aaum_value": "9",
+            "mutual_fund_name": "9",
+            "riskometer": "9",
+            "riskometer_benchmark": "9",
+            "scheme_launch_date": "9"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "October 1, 2024",
+            "name": "Alok Singh",
+            "qualification": "",
+            "total_exp": "20+ Years"
+          },
+          {
+            "managing_fund_since": "July 14, 2025",
+            "name": "Nav Bhardwaj",
+            "qualification": "",
+            "total_exp": "18+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "If redeemed switched-out within 3 months from the date Sky Gold And Diamonds Ltd. 2.96% of allotment: For 10% of investments: Nil Computer Age Management Services Ltd. 2.86% For remaining investments:1% Raymond Ltd. 2.83% If redeemed switched-out after 3 months from the date of Anand Rathi Wealth Ltd. 2.81% allotment: Nil Sigma Advanced Systems Ltd. 2.59%"
+          }
+        ],
+        "main_scheme_name": "Bank of India Small Cap Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.95"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.90 Times"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "65"
+          },
+          {
+            "name": "sharpe",
+            "value": "0.50"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) 22.43"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "3,739.06 Crore",
+        "mutual_fund_name": "Bank of India Mutual Fund",
+        "page_number": "9",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20181219"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bank of India Investment Managers Private Limited",
+        "benchmark_index": [
+          "Compounded Returns % - Annualised Returns : BSE 500 Regular"
+        ],
+        "field_location": [
+          {
+            "amc_name": "11",
+            "benchmark_index": "11",
+            "count": 23,
+            "fund_manager_managing_fund_since": "11",
+            "fund_manager_name": "11",
+            "fund_manager_qualification": "11",
+            "fund_manager_total_exp": "11",
+            "load_exit": "11",
+            "main_scheme_name": "11",
+            "metrics_beta": "11",
+            "metrics_gross_exposure_turnover": "11",
+            "metrics_information_ratio": "11",
+            "metrics_macaulay": "11",
+            "metrics_port_turnover_ratio": "11",
+            "metrics_sharpe": "11",
+            "metrics_std_dev": "11",
+            "min_addl_amt": "11",
+            "min_addl_amt_multiple": "11",
+            "min_amt": "11",
+            "min_amt_multiple": "11",
+            "monthly_aaum_date": "11",
+            "monthly_aaum_value": "11",
+            "mutual_fund_name": "11",
+            "riskometer": "11",
+            "riskometer_benchmark": "11",
+            "scheme_launch_date": "11"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "April 27, 2022",
+            "name": "Alok Singh",
+            "qualification": "",
+            "total_exp": "20+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil State Bank of India 5.45%"
+          }
+        ],
+        "main_scheme_name": "Bank of India ELSS Tax Saver",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.04"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.80 Times"
+          },
+          {
+            "name": "information_ratio",
+            "value": "2.66%"
+          },
+          {
+            "name": "macaulay",
+            "value": "11.0"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "63"
+          },
+          {
+            "name": "sharpe",
+            "value": "0.28"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) 17.63"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "1,338.77 Crore",
+        "mutual_fund_name": "Bank of India Mutual Fund",
+        "page_number": "11",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20090225"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bank of India Investment Managers Private Limited",
+        "benchmark_index": [
+          "Compounded Returns % - Annualised Returns NIFTY 500 Multicap Regular : 50:25:25 1 Year 2.55 3.91 -5.53"
+        ],
+        "field_location": [
+          {
+            "amc_name": "13",
+            "benchmark_index": "13",
+            "count": 23,
+            "fund_manager_managing_fund_since": "13",
+            "fund_manager_name": "13",
+            "fund_manager_qualification": "13",
+            "fund_manager_total_exp": "13",
+            "load_exit": "13",
+            "main_scheme_name": "13",
+            "metrics_beta": "13",
+            "metrics_gross_exposure_turnover": "13",
+            "metrics_macaulay": "13",
+            "metrics_port_turnover_ratio": "13",
+            "metrics_sharpe": "13",
+            "metrics_std_dev": "13",
+            "min_addl_amt": "13",
+            "min_addl_amt_multiple": "13",
+            "min_amt": "13",
+            "min_amt_multiple": "13",
+            "monthly_aaum_date": "13",
+            "monthly_aaum_value": "13",
+            "mutual_fund_name": "13",
+            "riskometer": "13",
+            "riskometer_benchmark": "13",
+            "scheme_launch_date": "13"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "March 03, 2023",
+            "name": "Nitin Gosar",
+            "qualification": "",
+            "total_exp": "16+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "If redeemed switched-out HDFC Bank Ltd. 5.77% within 3 months from the date of allotment: Reliance Industries Ltd. 4.17% For 10% of investments: Nil For remaining investments:1% Kotak Mahindra Bank Ltd. 3.74% If redeemed switched-out after 3 months from the date of Tips Music Ltd. 2.98% allotment: Nil State Bank of India 2.66% Container Corporation of India Ltd. 2.65%"
+          }
+        ],
+        "main_scheme_name": "Bank of India Multi Cap Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.96"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.65 Times"
+          },
+          {
+            "name": "macaulay",
+            "value": "13.0"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "65"
+          },
+          {
+            "name": "sharpe",
+            "value": "0.58"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) 16.54"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "2025",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "1,347.77 Crore",
+        "mutual_fund_name": "Bank of India Mutual Fund",
+        "page_number": "13",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20230303"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bank of India Investment Managers Private Limited",
+        "benchmark_index": [
+          "Compounded Scheme Returns % - BSE India Annualised Returns Manufacturing Index Regular : 1 Year 7.33 9.04 -8.60 : 50% and BSE India Infrastructure 3 Years 19.17 21.00 12.64 Index : 50%"
+        ],
+        "field_location": [
+          {
+            "amc_name": "15",
+            "benchmark_index": "15",
+            "count": 23,
+            "fund_manager_managing_fund_since": "15",
+            "fund_manager_name": "15",
+            "fund_manager_qualification": "15",
+            "fund_manager_total_exp": "15",
+            "load_exit": "15",
+            "main_scheme_name": "15",
+            "metrics_beta": "15",
+            "metrics_gross_exposure_turnover": "15",
+            "metrics_macaulay": "15",
+            "metrics_port_turnover_ratio": "15",
+            "metrics_sharpe": "15",
+            "metrics_std_dev": "15",
+            "min_addl_amt": "15",
+            "min_addl_amt_multiple": "15",
+            "min_amt": "15",
+            "min_amt_multiple": "15",
+            "monthly_aaum_date": "15",
+            "monthly_aaum_value": "15",
+            "mutual_fund_name": "15",
+            "riskometer": "15",
+            "riskometer_benchmark": "15",
+            "scheme_launch_date": "15"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "September 27, 2022",
+            "name": "Nitin Gosar",
+            "qualification": "",
+            "total_exp": "16+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "If redeemed switched-out within 3 months from the date Larsen Toubro Ltd. 4.92% of allotment: For 10% of investments: Nil NTPC Ltd. 4.76% For remaining investments:1% If redeemed switched-out ITC Ltd. 3.49% after 3 months from the date of allotment: Nil Bharti Airtel Ltd. 3.42% Petronet LNG Ltd. 3.19%"
+          }
+        ],
+        "main_scheme_name": "Bank of India Manufacturing & Infrastructure Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.84"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.61 Times"
+          },
+          {
+            "name": "macaulay",
+            "value": "15.0"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "61"
+          },
+          {
+            "name": "sharpe",
+            "value": "0.74"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) 18.25"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "985.35 Crore",
+        "mutual_fund_name": "Bank of India Mutual Fund",
+        "page_number": "15",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20100305"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bank of India Investment Managers Private Limited",
+        "benchmark_index": [
+          "Scheme Simple Annualised Returns % - : Nifty Midcap 150 Returns Regular"
+        ],
+        "field_location": [
+          {
+            "amc_name": "17",
+            "benchmark_index": "17",
+            "count": 23,
+            "fund_manager_managing_fund_since": "17",
+            "fund_manager_name": "17",
+            "fund_manager_qualification": "17",
+            "fund_manager_total_exp": "17",
+            "load_exit": "17",
+            "main_scheme_name": "17",
+            "metrics_beta": "17",
+            "metrics_gross_exposure_turnover": "17",
+            "metrics_macaulay": "17",
+            "metrics_port_turnover_ratio": "17",
+            "metrics_sharpe": "17",
+            "metrics_std_dev": "17",
+            "min_addl_amt": "17",
+            "min_addl_amt_multiple": "17",
+            "min_amt": "17",
+            "min_amt_multiple": "17",
+            "monthly_aaum_date": "17",
+            "mutual_fund_name": "17",
+            "riskometer": "17",
+            "riskometer_benchmark": "17",
+            "scheme_launch_date": "17"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "August 22, 2025",
+            "name": "Alok Singh",
+            "qualification": "",
+            "total_exp": "20+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "If redeemed switched-out Top 10 Holdings % to NAV within 3 months from the date Aurobindo Pharma Ltd. 5.95% of allotment: For 10% of investments: Nil Multi Commodity Exchange of India Ltd. 4.96% For remaining investments:1% If redeemed switched-out Abbott India Ltd. 4.72% after 3 months from the date of allotment: Nil Bharti Hexacom Ltd. 4.07% One 97 Communications Ltd. 3.49%"
+          }
+        ],
+        "main_scheme_name": "Bank of India Mid Cap Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.81"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.85 Times"
+          },
+          {
+            "name": "macaulay",
+            "value": "17.0"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "66"
+          },
+          {
+            "name": "sharpe",
+            "value": "0.47"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) 17.66"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "17",
+        "monthly_aaum_date": "20261031",
+        "mutual_fund_name": "Bank of India Mutual Fund",
+        "page_number": "17",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250822"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bank of India Investment Managers Private Limited",
+        "benchmark_index": [
+          "Compounded Scheme Returns % - : NIFTY 500 Annualised Returns Regular"
+        ],
+        "field_location": [
+          {
+            "amc_name": "19",
+            "benchmark_index": "19",
+            "count": 23,
+            "fund_manager_managing_fund_since": "19",
+            "fund_manager_name": "19",
+            "fund_manager_qualification": "19",
+            "fund_manager_total_exp": "19",
+            "load_exit": "19",
+            "main_scheme_name": "19",
+            "metrics_beta": "19",
+            "metrics_gross_exposure_turnover": "19",
+            "metrics_macaulay": "19",
+            "metrics_port_turnover_ratio": "19",
+            "metrics_sharpe": "19",
+            "metrics_std_dev": "19",
+            "min_addl_amt": "19",
+            "min_addl_amt_multiple": "19",
+            "min_amt": "19",
+            "min_amt_multiple": "19",
+            "monthly_aaum_date": "19",
+            "monthly_aaum_value": "19",
+            "mutual_fund_name": "19",
+            "riskometer": "19",
+            "riskometer_benchmark": "19",
+            "scheme_launch_date": "19"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "August 30, 2024",
+            "name": "Alok Singh",
+            "qualification": "",
+            "total_exp": "5 Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "NIL - There will be no exit load within 3 months from the date Top 10 Holdings of allotment for redemption switch out upto 10% of the Top 10 Holdings % to NAV units allotted. 1% - Any redemption switch ICICI Bank Ltd. 6.04% out in excess of the above mentioned limit would be State Bank of India 5.59% subject to an exit load of 1%, if the units are redeemed Bharti Airtel Ltd. 4.48% switched out within 3 months from the date of allotment of LG Electronics India Ltd 3.09% units. NIL - There will be"
+          }
+        ],
+        "main_scheme_name": "Bank of India Business Cycle Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.02"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.67 Times"
+          },
+          {
+            "name": "macaulay",
+            "value": "19.0"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "57"
+          },
+          {
+            "name": "sharpe",
+            "value": "0.46"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) 20.41"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "12",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "425.49 Crore",
+        "mutual_fund_name": "Bank of India Mutual Fund",
+        "page_number": "19",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20240830"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bank of India Investment Managers Private Limited",
+        "benchmark_index": [
+          "Compounded Scheme Returns % - : BSE 250 LargeMidCap Annualised Returns Regular"
+        ],
+        "field_location": [
+          {
+            "amc_name": "21",
+            "benchmark_index": "21",
+            "count": 23,
+            "fund_manager_managing_fund_since": "21",
+            "fund_manager_name": "21",
+            "fund_manager_qualification": "21",
+            "fund_manager_total_exp": "21",
+            "load_exit": "21",
+            "main_scheme_name": "21",
+            "metrics_beta": "21",
+            "metrics_gross_exposure_turnover": "21",
+            "metrics_macaulay": "21",
+            "metrics_port_turnover_ratio": "21",
+            "metrics_sharpe": "21",
+            "metrics_std_dev": "21",
+            "min_addl_amt": "21",
+            "min_addl_amt_multiple": "21",
+            "min_amt": "21",
+            "min_amt_multiple": "21",
+            "monthly_aaum_date": "21",
+            "monthly_aaum_value": "21",
+            "mutual_fund_name": "21",
+            "riskometer": "21",
+            "riskometer_benchmark": "21",
+            "scheme_launch_date": "21"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "September 27, 2022",
+            "name": "Nitin Gosar",
+            "qualification": "",
+            "total_exp": "16+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Reliance Industries Ltd. 6.27% If redeemed switched-out within 3 months from the date of allotment: Kotak Mahindra Bank Ltd. 4.49% For 10% of investments: Nil State Bank of India 3.65% For remaining investments:1% If redeemed switched-out Larsen Toubro Ltd. 3.45% after 3 months from the date of allotment: Nil FSN E-Commerce Ventures Ltd. 3.07%"
+          }
+        ],
+        "main_scheme_name": "Bank of India Large & Mid Cap Equity Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.01"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.64 Times"
+          },
+          {
+            "name": "macaulay",
+            "value": "21.0"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "64"
+          },
+          {
+            "name": "sharpe",
+            "value": "0.38"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) 16.03"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "503.75 Crore",
+        "mutual_fund_name": "Bank of India Mutual Fund",
+        "page_number": "21",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20081021"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bank of India Investment Managers Private Limited",
+        "benchmark_index": [
+          "Scheme Compounded Returns % - Nifty India Annualised Returns : Regular Consumption"
+        ],
+        "field_location": [
+          {
+            "amc_name": "23",
+            "benchmark_index": "23",
+            "count": 23,
+            "fund_manager_managing_fund_since": "23",
+            "fund_manager_name": "23",
+            "fund_manager_qualification": "23",
+            "fund_manager_total_exp": "23",
+            "load_exit": "23",
+            "main_scheme_name": "23",
+            "metrics_beta": "23",
+            "metrics_gross_exposure_turnover": "23",
+            "metrics_macaulay": "23",
+            "metrics_port_turnover_ratio": "23",
+            "metrics_sharpe": "23",
+            "metrics_std_dev": "23",
+            "min_addl_amt": "23",
+            "min_addl_amt_multiple": "23",
+            "min_amt": "23",
+            "min_amt_multiple": "23",
+            "monthly_aaum_date": "23",
+            "monthly_aaum_value": "23",
+            "mutual_fund_name": "23",
+            "riskometer": "23",
+            "riskometer_benchmark": "23",
+            "scheme_launch_date": "23"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "December 20, 2024",
+            "name": "Nitin Gosar",
+            "qualification": "",
+            "total_exp": "16+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "If redeemed switched-out within 3 months from the Bharti Airtel Ltd. 11.19% date of allotment: For 10% of investments-:Nil For remaining ITC Ltd. 9.17% investments: 1% If redeemed switched-out after Britannia Industries Ltd. 6.38% 3 months from the date of allotment: Nil Maruti Suzuki India Ltd. 5.18% Mahindra Mahindra Ltd. 4.60%"
+          }
+        ],
+        "main_scheme_name": "Bank of India Consumption Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.88"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.53 Times"
+          },
+          {
+            "name": "macaulay",
+            "value": "23.0"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "53"
+          },
+          {
+            "name": "sharpe",
+            "value": "0.74"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) 17.34"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "5",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "339.75 Crore",
+        "mutual_fund_name": "Bank of India Mutual Fund",
+        "page_number": "23",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20241220"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bank of India Investment Managers Private Limited",
+        "benchmark_index": [
+          "Scheme Simple Annualised Returns % - Nifty Financial Returns : Regular Services"
+        ],
+        "field_location": [
+          {
+            "amc_name": "25",
+            "benchmark_index": "25",
+            "count": 23,
+            "fund_manager_managing_fund_since": "25",
+            "fund_manager_name": "25",
+            "fund_manager_qualification": "25",
+            "fund_manager_total_exp": "25",
+            "load_exit": "25",
+            "main_scheme_name": "25",
+            "metrics_gross_exposure_turnover": "25",
+            "metrics_information_ratio": "25",
+            "metrics_macaulay": "25",
+            "metrics_port_turnover_ratio": "25",
+            "min_addl_amt": "25",
+            "min_addl_amt_multiple": "25",
+            "min_amt": "25",
+            "min_amt_multiple": "25",
+            "monthly_aaum_date": "25",
+            "monthly_aaum_value": "25",
+            "mutual_fund_name": "25",
+            "riskometer": "25",
+            "riskometer_benchmark": "25",
+            "scheme_launch_date": "25"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "January 30, 2026",
+            "name": "Nilesh Jethani",
+            "qualification": "",
+            "total_exp": "09+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "If redeemed switched-out ICICI Bank Ltd. 11.36% within 3 months from the date of allotment: HDFC Bank Ltd. 10.03% For 10% of investments: Nil For remaining investments:1% State Bank of India 9.07% If redeemed switched-out after 3 months from the date of Kotak Mahindra Bank Ltd. 5.58% allotment: Nil One 97 Communications Ltd. 4.06% Bank Of Baroda 3.80%"
+          }
+        ],
+        "main_scheme_name": "Bank of India Banking & Financial Services Fund",
+        "metrics": [
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.48 Times"
+          },
+          {
+            "name": "information_ratio",
+            "value": "31"
+          },
+          {
+            "name": "macaulay",
+            "value": "25.0"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "48"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "31",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "246.61 Crore",
+        "mutual_fund_name": "Bank of India Mutual Fund",
+        "page_number": "25",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20260130"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bank of India Investment Managers Private Limited",
+        "benchmark_index": [
+          "Scheme Compounded Returns % - : NIFTY 100 (Tier 1) Annualised Returns Regular"
+        ],
+        "field_location": [
+          {
+            "amc_name": "27",
+            "benchmark_index": "27",
+            "count": 23,
+            "fund_manager_managing_fund_since": "27",
+            "fund_manager_name": "27",
+            "fund_manager_qualification": "27",
+            "fund_manager_total_exp": "27",
+            "load_exit": "27",
+            "main_scheme_name": "27",
+            "metrics_beta": "27",
+            "metrics_gross_exposure_turnover": "27",
+            "metrics_macaulay": "27",
+            "metrics_port_turnover_ratio": "27",
+            "metrics_sharpe": "27",
+            "metrics_std_dev": "27",
+            "min_addl_amt": "27",
+            "min_addl_amt_multiple": "27",
+            "min_amt": "27",
+            "min_amt_multiple": "27",
+            "monthly_aaum_date": "27",
+            "monthly_aaum_value": "27",
+            "mutual_fund_name": "27",
+            "riskometer": "27",
+            "riskometer_benchmark": "27",
+            "scheme_launch_date": "27"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "October 1, 2024",
+            "name": "Nilesh Jethani",
+            "qualification": "",
+            "total_exp": "5 Years"
+          },
+          {
+            "managing_fund_since": "October 1, 2024",
+            "name": "Alok Singh",
+            "qualification": "",
+            "total_exp": "09+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "If redeemed switched-out HDFC Bank Ltd. 6.45% within 3 months from the date of allotment: ICICI Bank Ltd. 6.13% For 10% of investments: Nil For remaining investments:1% Adani Ports and Special Economic Zone Ltd. 4.94% If redeemed switched-out after 3 months from the date of State Bank of India 4.61% allotment: Nil Tech Mahindra Ltd. 3.57% Larsen Toubro Ltd. 3.56%"
+          }
+        ],
+        "main_scheme_name": "Bank of India Bluechip Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.04"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.76 Times"
+          },
+          {
+            "name": "macaulay",
+            "value": "27.0"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "76"
+          },
+          {
+            "name": "sharpe",
+            "value": "0.29"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) 16.25"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "31",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "224.50 Crore",
+        "mutual_fund_name": "Bank of India Mutual Fund",
+        "page_number": "27",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20210629"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bank of India Investment Managers Private Limited",
+        "benchmark_index": [
+          "Scheme Compounded Returns % - : Nifty 500 Annualised Returns Regular"
+        ],
+        "field_location": [
+          {
+            "amc_name": "29",
+            "benchmark_index": "29",
+            "count": 23,
+            "fund_manager_managing_fund_since": "29",
+            "fund_manager_name": "29",
+            "fund_manager_qualification": "29",
+            "fund_manager_total_exp": "29",
+            "load_exit": "29",
+            "main_scheme_name": "29",
+            "metrics_gross_exposure_turnover": "29",
+            "metrics_information_ratio": "29",
+            "metrics_macaulay": "29",
+            "metrics_port_turnover_ratio": "29",
+            "min_addl_amt": "29",
+            "min_addl_amt_multiple": "29",
+            "min_amt": "29",
+            "min_amt_multiple": "29",
+            "monthly_aaum_date": "29",
+            "monthly_aaum_value": "29",
+            "mutual_fund_name": "29",
+            "riskometer": "29",
+            "riskometer_benchmark": "29",
+            "scheme_launch_date": "29"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "September 21, 2026",
+            "name": "Nav Bhardwaj",
+            "qualification": "",
+            "total_exp": "17+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "If redeemed switched-out The Federal Bank Ltd. 2.85% within 3 months from the date of allotment: Divi s Laboratories Ltd. 2.73% For 10% of investments: Nil For remaining investments:1% Filatex India Ltd. 2.53% If redeemed switched-out Privi Speciality Chemicals Ltd. 2.50% after 3 months from the date of allotment: Nil"
+          }
+        ],
+        "main_scheme_name": "Bank of India Value Fund",
+        "metrics": [
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.00 Times"
+          },
+          {
+            "name": "information_ratio",
+            "value": "31"
+          },
+          {
+            "name": "macaulay",
+            "value": "29.0"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "1"
+          }
+        ],
+        "min_addl_amt": "31",
+        "min_addl_amt_multiple": "2026",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "356.38 Crore",
+        "mutual_fund_name": "Bank of India Mutual Fund",
+        "page_number": "29",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20260921"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bank of India Investment Managers Private Limited",
+        "benchmark_index": [
+          "Scheme Compounded Returns % - NIFTY MidSmallcap Annualised Returns Regular 400 : : 70% CRISIL 1 Year 5.52 6.95 -0.97 Short Term Bond Index: 30% 3 Years 13.90 15.35 11.61"
+        ],
+        "field_location": [
+          {
+            "amc_name": "31",
+            "benchmark_index": "31",
+            "count": 23,
+            "fund_manager_managing_fund_since": "31",
+            "fund_manager_name": "31",
+            "fund_manager_qualification": "31",
+            "fund_manager_total_exp": "31",
+            "load_exit": "31",
+            "main_scheme_name": "31",
+            "metrics_avg_maturity": "31",
+            "metrics_beta": "31",
+            "metrics_gross_exposure_turnover": "31",
+            "metrics_information_ratio": "31",
+            "metrics_macaulay": "31",
+            "metrics_mod_duration": "31",
+            "metrics_port_turnover_ratio": "31",
+            "metrics_sharpe": "31",
+            "metrics_std_dev": "31",
+            "metrics_ytm": "31",
+            "min_addl_amt": "31",
+            "min_addl_amt_multiple": "31",
+            "min_amt": "31",
+            "min_amt_multiple": "31",
+            "monthly_aaum_date": "31",
+            "monthly_aaum_value": "31",
+            "mutual_fund_name": "31",
+            "riskometer": "31",
+            "riskometer_benchmark": "31",
+            "scheme_launch_date": "31"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "February 16, 2017",
+            "name": "Alok Singh",
+            "qualification": "",
+            "total_exp": "20+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "If redeemed switched-out Bank of Maharashtra 3.39% within 3 months from the date One 97 Communications Limited 2.63% of allotment: For 10% of investments: Nil The Federal Bank Limited 2.58% For remaining investments:1% If redeemed switched-out Sterlite Technologies Ltd 2.18% after 3 months from the date of allotment: Nil Knowledge Marine Engineering Works Limited 1.99% Optiemus Infracom Ltd 1.97%"
+          }
+        ],
+        "main_scheme_name": "Bank of India Aggressive Hybrid Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "1.31"
+          },
+          {
+            "name": "beta",
+            "value": "1.11"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "1.03 Times"
+          },
+          {
+            "name": "information_ratio",
+            "value": "31"
+          },
+          {
+            "name": "macaulay",
+            "value": "1.12"
+          },
+          {
+            "name": "mod_duration",
+            "value": "1.05"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "46"
+          },
+          {
+            "name": "sharpe",
+            "value": "0.51"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) 16.09"
+          },
+          {
+            "name": "ytm",
+            "value": "(%) 7.66"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "2,235.15 Crore",
+        "mutual_fund_name": "Bank of India Mutual Fund",
+        "page_number": "31",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20160720"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bank of India Investment Managers Private Limited",
+        "benchmark_index": [
+          "Compounded Scheme Returns % - Nifty500 (40%)+Nifty Annualised Returns Composite Debt Index Regular : (40%)+Domestic Prices of Gold(15%)+Domestic 1 Year 2.29 3.42 -2.36 Prices of Silver(5%) 3 Years NA NA NA"
+        ],
+        "field_location": [
+          {
+            "amc_name": "34",
+            "benchmark_index": "34",
+            "count": 23,
+            "fund_manager_managing_fund_since": "34",
+            "fund_manager_name": "34",
+            "fund_manager_qualification": "34",
+            "fund_manager_total_exp": "34",
+            "load_exit": "34",
+            "main_scheme_name": "34",
+            "metrics_avg_maturity": "34",
+            "metrics_beta": "34",
+            "metrics_macaulay": "34",
+            "metrics_mod_duration": "34",
+            "metrics_sharpe": "34",
+            "metrics_std_dev": "34",
+            "metrics_ytm": "34",
+            "min_addl_amt": "34",
+            "min_addl_amt_multiple": "34",
+            "min_amt": "34",
+            "min_amt_multiple": "34",
+            "monthly_aaum_date": "34",
+            "monthly_aaum_value": "34",
+            "mutual_fund_name": "34",
+            "riskometer": "34",
+            "riskometer_benchmark": "34",
+            "scheme_launch_date": "34"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "February 28, 2024",
+            "name": "Mithraem Bharucha",
+            "qualification": "",
+            "total_exp": "15+ Years"
+          },
+          {
+            "managing_fund_since": "February 28, 2024",
+            "name": "Nilesh Jethani",
+            "qualification": "",
+            "total_exp": "09+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "If redeemed switched-out 7.44% IRFC Ltd NCD Sr.177 (MD 28 02 2034) 6.70% within 3 months from the date of allotment: ICICI Prudential Gold ETF 5.69% For 10% of investments: Nil For remaining investments:1% ICICI Prudential Silver ETF 5.06% If redeemed switched-out after 3 months from the date of 8.1167% Bajaj Fin Ltd Sr288 NCD (MD 10 05 2027) 5.01% allotment: Nil 6.94% GOI (MD 11 05 2036) 3.60%"
+          }
+        ],
+        "main_scheme_name": "Bank of India Multi Asset Allocation Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "4.42"
+          },
+          {
+            "name": "beta",
+            "value": "1.08"
+          },
+          {
+            "name": "macaulay",
+            "value": "3.43"
+          },
+          {
+            "name": "mod_duration",
+            "value": "3.22"
+          },
+          {
+            "name": "sharpe",
+            "value": "0.32"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) 10.50"
+          },
+          {
+            "name": "ytm",
+            "value": "(%) 7.78"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "365.44 Crore",
+        "mutual_fund_name": "Bank of India Mutual Fund",
+        "page_number": "34",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20240228"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bank of India Investment Managers Private Limited",
+        "benchmark_index": [
+          "Scheme Compounded Returns % - Nifty 50 Hybrid Com- Annualised Returns Regular : posite Debt 50: 50 Index 1 Year -1.34 -0.20 -4.68"
+        ],
+        "field_location": [
+          {
+            "amc_name": "37",
+            "benchmark_index": "37",
+            "count": 23,
+            "fund_manager_managing_fund_since": "37",
+            "fund_manager_name": "37",
+            "fund_manager_qualification": "37",
+            "fund_manager_total_exp": "37",
+            "load_exit": "37",
+            "main_scheme_name": "37",
+            "metrics_average_pe": "37",
+            "metrics_avg_maturity": "37",
+            "metrics_gross_exposure_turnover": "37",
+            "metrics_macaulay": "37",
+            "metrics_mod_duration": "37",
+            "metrics_port_turnover_ratio": "37",
+            "metrics_ytm": "37",
+            "min_addl_amt": "37",
+            "min_addl_amt_multiple": "37",
+            "min_amt": "37",
+            "min_amt_multiple": "37",
+            "monthly_aaum_date": "37",
+            "monthly_aaum_value": "37",
+            "mutual_fund_name": "37",
+            "riskometer": "37",
+            "riskometer_benchmark": "37",
+            "scheme_launch_date": "37"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "March 14, 2014",
+            "name": "Alok Singh",
+            "qualification": "",
+            "total_exp": "20+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "If redeemed switched-out Top 10 Holdings % to NAV within 3 months from the date of allotment: 6.94% GOI (MD 11 05 2036) 6.06% For 10% of investments: Nil For remaining investments:1% ICICI Bank Ltd 3.23% If redeemed switched-out after 3 months from the date of IRB InvIT Fund 3.21% allotment: Nil 6.27% Power Fin Corp NCD BS 251A (MD 15 07 2027) 2.81% 7.47% SIDBI NCD Ser II (MD 05 09 2029) 2.79%"
+          }
+        ],
+        "main_scheme_name": "Bank of India Balanced Advantage Fund",
+        "metrics": [
+          {
+            "name": "average_pe",
+            "value": "31"
+          },
+          {
+            "name": "avg_maturity",
+            "value": "2.35"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "1.65 Times"
+          },
+          {
+            "name": "macaulay",
+            "value": "1.89"
+          },
+          {
+            "name": "mod_duration",
+            "value": "1.8"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "20"
+          },
+          {
+            "name": "ytm",
+            "value": "(%) 7.35"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "174.03 Crore",
+        "mutual_fund_name": "Bank of India Mutual Fund",
+        "page_number": "37",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20140314"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bank of India Investment Managers Private Limited",
+        "benchmark_index": [
+          "Scheme Compounded Returns % - CRISIL Hybrid 85 + 15 - Annualised Returns : Regular Conservative Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "40",
+            "benchmark_index": "40",
+            "count": 23,
+            "fund_manager_managing_fund_since": "40",
+            "fund_manager_name": "40",
+            "fund_manager_qualification": "40",
+            "fund_manager_total_exp": "40",
+            "load_exit": "40",
+            "main_scheme_name": "40",
+            "metrics_avg_maturity": "40",
+            "metrics_information_ratio": "40",
+            "metrics_macaulay": "40",
+            "metrics_mod_duration": "40",
+            "metrics_r_squared_ratio": "40",
+            "metrics_ytm": "40",
+            "min_addl_amt": "40",
+            "min_addl_amt_multiple": "40",
+            "min_amt": "40",
+            "min_amt_multiple": "40",
+            "monthly_aaum_date": "40",
+            "monthly_aaum_value": "40",
+            "mutual_fund_name": "40",
+            "riskometer": "40",
+            "riskometer_benchmark": "40",
+            "scheme_launch_date": "40"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "March 18, 2009",
+            "name": "Alok Singh",
+            "qualification": "",
+            "total_exp": "20+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "If redeemed switched-out within 3 months from the date 7.1% GOI (MD 18 04 2029) 7.33% of allotment: For 10% of investments: Nil 7.57% IRFC Ltd Sr 175 NCD (MD 18 04 2029) 7.22% For remaining investments:1% If redeemed switched-out Punjab National Bank CD (MD 09 03 2027) 5.70% after 3 months from the date of allotment: Nil 6.27% Power Fin Corp NCD BS 251A (MD 15 07 2027) 4.33% 8.9% Muthoot Fin Ltd 37- A Op I (MD 07 10 2027) 3.65%"
+          }
+        ],
+        "main_scheme_name": "Bank of India Conservative Hybrid Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "2.12"
+          },
+          {
+            "name": "information_ratio",
+            "value": "31"
+          },
+          {
+            "name": "macaulay",
+            "value": "1.73"
+          },
+          {
+            "name": "mod_duration",
+            "value": "1.65"
+          },
+          {
+            "name": "r_squared_ratio",
+            "value": "88"
+          },
+          {
+            "name": "ytm",
+            "value": "(%) 7.19"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "66.86 Crore",
+        "mutual_fund_name": "Bank of India Mutual Fund",
+        "page_number": "40",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20090318"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bank of India Investment Managers Private Limited",
+        "benchmark_index": [
+          "Scheme Compounded Returns % - NIFTY 50 Arbitrage Annualised Returns : Regular Index 1 Year 5.88 6.49 7.32"
+        ],
+        "field_location": [
+          {
+            "amc_name": "43",
+            "benchmark_index": "43",
+            "count": 23,
+            "fund_manager_managing_fund_since": "43",
+            "fund_manager_name": "43",
+            "fund_manager_qualification": "43",
+            "fund_manager_total_exp": "43",
+            "load_exit": "43",
+            "main_scheme_name": "43",
+            "metrics_avg_maturity": "43",
+            "metrics_beta": "43",
+            "metrics_gross_exposure_turnover": "43",
+            "metrics_information_ratio": "43",
+            "metrics_macaulay": "43",
+            "metrics_mod_duration": "43",
+            "metrics_port_turnover_ratio": "43",
+            "metrics_sharpe": "43",
+            "metrics_std_dev": "43",
+            "metrics_ytm": "43",
+            "min_addl_amt": "43",
+            "min_addl_amt_multiple": "43",
+            "min_amt": "43",
+            "min_amt_multiple": "43",
+            "monthly_aaum_date": "43",
+            "monthly_aaum_value": "43",
+            "mutual_fund_name": "43",
+            "riskometer": "43",
+            "riskometer_benchmark": "43",
+            "scheme_launch_date": "43"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "July 14, 2025",
+            "name": "Nilesh Jethani",
+            "qualification": "",
+            "total_exp": "09+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Tata Steel Ltd. 4.79% Any Redemption Switch out - would be subject to an exit load of 0.50%, if the units Bharat Forge Ltd. 4.33% are redeemed switched out within 15 days from the date of Canara Bank Ltd. 4.32% allotment of units. Vedanta Ltd. 3.82% If the units are redeemed switched out after 15 days from Reliance Industries Ltd. 3.69% the date of allotment of units - NIL Vodafone Idea Ltd. 3.36%"
+          }
+        ],
+        "main_scheme_name": "Bank of India Arbitrage Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "0.08"
+          },
+          {
+            "name": "beta",
+            "value": "0.61"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "12.13 Times"
+          },
+          {
+            "name": "information_ratio",
+            "value": "31"
+          },
+          {
+            "name": "macaulay",
+            "value": "0.08"
+          },
+          {
+            "name": "mod_duration",
+            "value": "0.08"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "206"
+          },
+          {
+            "name": "sharpe",
+            "value": "1.00"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) 0.50"
+          },
+          {
+            "name": "ytm",
+            "value": "(%) 6.74"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "116.80 Crore",
+        "mutual_fund_name": "Bank of India Mutual Fund",
+        "page_number": "43",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20180618"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bank of India Investment Managers Private Limited",
+        "benchmark_index": [
+          "Scheme Compounded Returns % - Tier 1: CRISIL Liquid Annualised Returns : Regular Debt A-I Index 1 year 6.44 6.49 6.18"
+        ],
+        "field_location": [
+          {
+            "amc_name": "46",
+            "benchmark_index": "46",
+            "count": 23,
+            "fund_manager_managing_fund_since": "46",
+            "fund_manager_name": "46",
+            "fund_manager_qualification": "46",
+            "fund_manager_total_exp": "46",
+            "load_exit": "46",
+            "main_scheme_name": "46",
+            "metrics_avg_maturity": "46",
+            "metrics_macaulay": "46",
+            "metrics_mod_duration": "46",
+            "metrics_ytm": "46",
+            "min_addl_amt": "46",
+            "min_addl_amt_multiple": "46",
+            "min_amt": "46",
+            "min_amt_multiple": "46",
+            "monthly_aaum_date": "46",
+            "monthly_aaum_value": "46",
+            "mutual_fund_name": "46",
+            "riskometer": "46",
+            "riskometer_benchmark": "46",
+            "scheme_launch_date": "46"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "August 17, 2021",
+            "name": "Mithraem Bharucha",
+            "qualification": "",
+            "total_exp": "15+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Investor Exit upon Exit Load (as a % of National Bank For Agri Rural CD (MD 10 11 2026) 6.44% Subscription redemption proceeds) Axis Bank Ltd. CD (MD 16 12 2026) 4.26% 1 day 0.0070% 2 days 0.0065% Small Ind Dev Bk of India CD (MD 10 11 2026) 3.22% 3 days 0.0060% 4 days 0.0055% 91 Days Tbill (MD 19 11 2026) 3.22% 5 days 0.0050% 364 Days Tbill (MD 26 11 2026) 3.21% 6 days 0.0045% 7 days or more Nil Aditya Birla Housing Finance CP (MD 23 11 2026) 3.21% Canara Bank CD (MD 30 11 2026) 3.21%"
+          }
+        ],
+        "main_scheme_name": "Bank of India Liquid Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "0.09"
+          },
+          {
+            "name": "macaulay",
+            "value": "0.09"
+          },
+          {
+            "name": "mod_duration",
+            "value": "0.09"
+          },
+          {
+            "name": "ytm",
+            "value": "(%) 7.14"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "2,423.23 Crore",
+        "mutual_fund_name": "Bank of India Mutual Fund",
+        "page_number": "46",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20080716"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bank of India Investment Managers Private Limited",
+        "benchmark_index": [
+          "Scheme Compounded Returns % - Tier 1: CRISIL Short Annualised Returns : Regular Duration Debt A-II Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "49",
+            "benchmark_index": "49",
+            "count": 23,
+            "fund_manager_managing_fund_since": "49",
+            "fund_manager_name": "49",
+            "fund_manager_qualification": "49",
+            "fund_manager_total_exp": "49",
+            "load_exit": "49",
+            "main_scheme_name": "49",
+            "metrics_avg_maturity": "49",
+            "metrics_macaulay": "49",
+            "metrics_mod_duration": "49",
+            "metrics_ytm": "49",
+            "min_addl_amt": "49",
+            "min_addl_amt_multiple": "49",
+            "min_amt": "49",
+            "min_amt_multiple": "49",
+            "monthly_aaum_date": "49",
+            "monthly_aaum_value": "49",
+            "mutual_fund_name": "49",
+            "riskometer": "49",
+            "riskometer_benchmark": "49",
+            "scheme_launch_date": "49"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "August 17, 2021",
+            "name": "Mithraem Bharucha",
+            "qualification": "",
+            "total_exp": "15+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil 6.94% GOI (MD 11 05 2036) 23.10% 7.6% Power Fin Corp Ltd. NCD S237A(MD 13 04 2029) 8.14%"
+          }
+        ],
+        "main_scheme_name": "Bank of India Short Term Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "3.38"
+          },
+          {
+            "name": "macaulay",
+            "value": "2.67"
+          },
+          {
+            "name": "mod_duration",
+            "value": "2.55"
+          },
+          {
+            "name": "ytm",
+            "value": "(%) 8.04"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "260.26 Crore",
+        "mutual_fund_name": "Bank of India Mutual Fund",
+        "page_number": "49",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20081218"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bank of India Investment Managers Private Limited",
+        "benchmark_index": [
+          "Scheme Compounded Returns % - Tier 1: CRISIL Ultra Annualised Returns Regular : Short Duration Debt A-I Index 1 Year 5.69 6.22 6.21"
+        ],
+        "field_location": [
+          {
+            "amc_name": "52",
+            "benchmark_index": "52",
+            "count": 23,
+            "fund_manager_managing_fund_since": "52",
+            "fund_manager_name": "52",
+            "fund_manager_qualification": "52",
+            "fund_manager_total_exp": "52",
+            "load_exit": "52",
+            "main_scheme_name": "52",
+            "metrics_avg_maturity": "52",
+            "metrics_macaulay": "52",
+            "metrics_mod_duration": "52",
+            "metrics_ytm": "52",
+            "min_addl_amt": "52",
+            "min_addl_amt_multiple": "52",
+            "min_amt": "52",
+            "min_amt_multiple": "52",
+            "monthly_aaum_date": "52",
+            "monthly_aaum_value": "52",
+            "mutual_fund_name": "52",
+            "riskometer": "52",
+            "riskometer_benchmark": "52",
+            "scheme_launch_date": "52"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "August 17, 2021",
+            "name": "Mithraem Bharucha",
+            "qualification": "",
+            "total_exp": "15+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil 7.8% NABARD Sr 24E NCD (MD 15 03 2027) 6.75% Union Bank of India CD (MD 12 03 2027) 6.58%"
+          }
+        ],
+        "main_scheme_name": "Bank of India Ultra Short Term Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "0.3"
+          },
+          {
+            "name": "macaulay",
+            "value": "0.3"
+          },
+          {
+            "name": "mod_duration",
+            "value": "0.3"
+          },
+          {
+            "name": "ytm",
+            "value": "(%) 7.61"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "205.75 Crore",
+        "mutual_fund_name": "Bank of India Mutual Fund",
+        "page_number": "52",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20080716"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bank of India Investment Managers Private Limited",
+        "benchmark_index": [
+          "Scheme Compounded Returns % - Tier 1: CRISIL Money Annualised Returns : Regular Market A-1 Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "55",
+            "benchmark_index": "55",
+            "count": 23,
+            "fund_manager_managing_fund_since": "55",
+            "fund_manager_name": "55",
+            "fund_manager_qualification": "55",
+            "fund_manager_total_exp": "55",
+            "load_exit": "55",
+            "main_scheme_name": "55",
+            "metrics_avg_maturity": "55",
+            "metrics_macaulay": "55",
+            "metrics_mod_duration": "55",
+            "metrics_ytm": "55",
+            "min_addl_amt": "55",
+            "min_addl_amt_multiple": "55",
+            "min_amt": "55",
+            "min_amt_multiple": "55",
+            "monthly_aaum_date": "55",
+            "monthly_aaum_value": "55",
+            "mutual_fund_name": "55",
+            "riskometer": "55",
+            "riskometer_benchmark": "55",
+            "scheme_launch_date": "55"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "February 04, 2025",
+            "name": "Mithraem Bharucha",
+            "qualification": "",
+            "total_exp": "15+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil Kotak Mahindra Bank Ltd. CD (MD 04 02 2027) 8.30% Axis Bank Ltd. CD (MD 12 02 2027) 8.29%"
+          }
+        ],
+        "main_scheme_name": "Bank of India Money Market Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "0.32"
+          },
+          {
+            "name": "macaulay",
+            "value": "0.32"
+          },
+          {
+            "name": "mod_duration",
+            "value": "0.32"
+          },
+          {
+            "name": "ytm",
+            "value": "(%) 7.65"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "368.67 Crore",
+        "mutual_fund_name": "Bank of India Mutual Fund",
+        "page_number": "55",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250204"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bank of India Investment Managers Private Limited",
+        "benchmark_index": [
+          "Scheme Compounded Returns % - Tier 1: CRISIL Credit Annualised Returns : Regular Risk Debt B-II Index 1 Year 16.46 16.95 5.67"
+        ],
+        "field_location": [
+          {
+            "amc_name": "58",
+            "benchmark_index": "58",
+            "count": 23,
+            "fund_manager_managing_fund_since": "58",
+            "fund_manager_name": "58",
+            "fund_manager_qualification": "58",
+            "fund_manager_total_exp": "58",
+            "load_exit": "58",
+            "main_scheme_name": "58",
+            "metrics_avg_maturity": "58",
+            "metrics_macaulay": "58",
+            "metrics_mod_duration": "58",
+            "metrics_ytm": "58",
+            "min_addl_amt": "58",
+            "min_addl_amt_multiple": "58",
+            "min_amt": "58",
+            "min_amt_multiple": "58",
+            "monthly_aaum_date": "58",
+            "monthly_aaum_value": "58",
+            "mutual_fund_name": "58",
+            "riskometer": "58",
+            "riskometer_benchmark": "58",
+            "scheme_launch_date": "58"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "February 27, 2015",
+            "name": "Alok Singh",
+            "qualification": "",
+            "total_exp": "5 Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "If redeemed switched-out within 1 year from the date of Top 10 Holdings % to NAV allotment: For 10% of investments: Nil 7.99% Rashtriya Chem Fert NCD ( MD 07 08 2027) 9.65% For remaining investments:1% 8.75% JSW Energy Ltd. NCD TR 1(03 03 2028) 9.43% If redeemed switched-out after 1 year from the date of 7.70% Nuvoco Vistas Corp Ltd. NCD (MD 18 09 2028) 9.15% allotment: Nil 8.35%Aditya Birla Real Est NCD OPT1(MD30 08 27) 8.88%"
+          }
+        ],
+        "main_scheme_name": "Bank of India Credit Risk Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "0.86"
+          },
+          {
+            "name": "macaulay",
+            "value": "0.83"
+          },
+          {
+            "name": "mod_duration",
+            "value": "0.76"
+          },
+          {
+            "name": "ytm",
+            "value": "(%) 8.28"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "60",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "77.46 Crore",
+        "mutual_fund_name": "Bank of India Mutual Fund",
+        "page_number": "58",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20150227"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Bank of India Investment Managers Private Limited",
+        "benchmark_index": [
+          "Scheme Compounded Returns % - Tier 1: CRISIL Liquid Annualised Returns : Regular Overnight Index 1 year 5.46 5.48 5.25"
+        ],
+        "field_location": [
+          {
+            "amc_name": "61",
+            "benchmark_index": "61",
+            "count": 23,
+            "fund_manager_managing_fund_since": "61",
+            "fund_manager_name": "61",
+            "fund_manager_qualification": "61",
+            "fund_manager_total_exp": "61",
+            "load_exit": "61",
+            "main_scheme_name": "61",
+            "metrics_ytm": "61",
+            "min_addl_amt": "61",
+            "min_addl_amt_multiple": "61",
+            "min_amt": "61",
+            "min_amt_multiple": "61",
+            "monthly_aaum_date": "61",
+            "monthly_aaum_value": "61",
+            "mutual_fund_name": "61",
+            "riskometer": "61",
+            "riskometer_benchmark": "61",
+            "scheme_launch_date": "61"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "August 17, 2021",
+            "name": "Mithraem Bharucha",
+            "qualification": "",
+            "total_exp": "15+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil Cash Cash Equivalent 98.50%"
+          }
+        ],
+        "main_scheme_name": "Bank of India Overnight Fund",
+        "metrics": [
+          {
+            "name": "ytm",
+            "value": "(%) 6.12"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "90.29 Crore",
+        "mutual_fund_name": "Bank of India Mutual Fund",
+        "page_number": "61",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20200128"
+      }
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "metadata": {
+    "document_name": "97_30-Sep-26_FS.pdf",
+    "file_type": "fs",
+    "process_date": "20261123"
+  },
+  "records": [
+    {
+      "value": {
+        "amc_name": "Unifi Asset Management Pvt Ltd.",
+        "benchmark_index": [
+          "Tier I: CRISIL Hybrid 50+50 Moderate Index (TRI) Tier II: 55% CRISIL Composite Credit Risk Index + 40% CRISIL Arbitrage Index + 5% BSE 200 TRI"
+        ],
+        "field_location": [
+          {
+            "amc_name": "2",
+            "benchmark_index": "2",
+            "count": 3,
+            "load_exit": "2",
+            "main_scheme_name": "2",
+            "metrics_avg_maturity": "2",
+            "metrics_gross_exposure_turnover": "2",
+            "metrics_macaulay": "2",
+            "metrics_mod_duration": "2",
+            "metrics_port_turnover_ratio": "2",
+            "metrics_ytm": "2",
+            "min_addl_amt": "2",
+            "min_addl_amt_multiple": "2",
+            "min_amt": "2",
+            "min_amt_multiple": "2",
+            "monthly_aaum_date": "2",
+            "monthly_aaum_value": "2",
+            "mutual_fund_name": "2",
+            "riskometer": "2",
+            "riskometer_benchmark": "2",
+            "scheme_launch_date": "2"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Upto 12 months NIL up to 20% of units In excess of 20% of such units 1.50% of applicable NAV Nil after 12 months"
+          }
+        ],
+        "main_scheme_name": "Unifi Dynamic Asset Allocation Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "2.06"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "5.37"
+          },
+          {
+            "name": "macaulay",
+            "value": "1.66"
+          },
+          {
+            "name": "mod_duration",
+            "value": "1.56"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "89"
+          },
+          {
+            "name": "ytm",
+            "value": "10.07"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "0",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "1,508.20 Cr",
+        "mutual_fund_name": "Unifi Mutual Fund",
+        "page_number": "2",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250313"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Unifi Asset Management Pvt Ltd.",
+        "benchmark_index": [
+          "Tier I: Nifty 500 TRI"
+        ],
+        "field_location": [
+          {
+            "amc_name": "4",
+            "benchmark_index": "4",
+            "count": 3,
+            "load_exit": "4",
+            "main_scheme_name": "4",
+            "metrics_gross_exposure_turnover": "4",
+            "metrics_port_turnover_ratio": "4",
+            "metrics_std_dev": "4",
+            "min_addl_amt": "4",
+            "min_addl_amt_multiple": "4",
+            "min_amt": "4",
+            "min_amt_multiple": "4",
+            "monthly_aaum_date": "4",
+            "monthly_aaum_value": "4",
+            "mutual_fund_name": "4",
+            "riskometer": "4",
+            "riskometer_benchmark": "4",
+            "scheme_launch_date": "4"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Within 12 months from the date of allotment - 1.00% of NAV Nil after 12 months"
+          }
+        ],
+        "main_scheme_name": "Unifi Flexi Cap Fund",
+        "metrics": [
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.45"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "45"
+          },
+          {
+            "name": "std_dev",
+            "value": "1.90"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "0",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "249.14 Cr",
+        "mutual_fund_name": "Unifi Mutual Fund",
+        "page_number": "4",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250606"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Unifi Asset Management Pvt Ltd.",
+        "benchmark_index": [
+          "Tier I: Nifty Liquid Index A-I (TRI)"
+        ],
+        "field_location": [
+          {
+            "amc_name": "6",
+            "benchmark_index": "6",
+            "count": 3,
+            "load_exit": "6",
+            "main_scheme_name": "6",
+            "metrics_avg_maturity": "6",
+            "metrics_macaulay": "6",
+            "metrics_mod_duration": "6",
+            "metrics_ytm": "6",
+            "min_addl_amt": "6",
+            "min_addl_amt_multiple": "6",
+            "min_amt": "6",
+            "min_amt_multiple": "6",
+            "monthly_aaum_date": "6",
+            "monthly_aaum_value": "6",
+            "mutual_fund_name": "6",
+            "riskometer": "6",
+            "riskometer_benchmark": "6",
+            "scheme_launch_date": "6"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Day 1 0.0070% Day 2 0.0065% Day 3 0.0060% Day 4 0.0055% Day 5 0.0050% Day 6 0.0045% Day 7 onwards Nil For the purpose of levying exit load, if subscription (application funds) is received within cut-off time on a day, Day 1 shall be considered as the same day, else the day after the date of allotment of units shall be considered as Day 1."
+          }
+        ],
+        "main_scheme_name": "Unifi Liquid Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "0.01"
+          },
+          {
+            "name": "macaulay",
+            "value": "0.01"
+          },
+          {
+            "name": "mod_duration",
+            "value": "0.01"
+          },
+          {
+            "name": "ytm",
+            "value": "5.10"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "0",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "25.35 Cr",
+        "mutual_fund_name": "Unifi Mutual Fund",
+        "page_number": "6",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250611"
+      }
+    }
+  ]
+}

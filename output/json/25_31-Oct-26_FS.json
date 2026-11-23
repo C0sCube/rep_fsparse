@@ -1,0 +1,3700 @@
+{
+  "metadata": {
+    "document_name": "25_31-Oct-26_FS.pdf",
+    "file_type": "fs",
+    "process_date": "20261119"
+  },
+  "records": [
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "Nifty 100"
+        ],
+        "field_location": [
+          {
+            "amc_name": "11",
+            "benchmark_index": "11",
+            "count": 43,
+            "fund_manager_managing_fund_since": "11",
+            "fund_manager_name": "11",
+            "fund_manager_qualification": "11",
+            "fund_manager_total_exp": "11",
+            "load_exit": "11",
+            "main_scheme_name": "11",
+            "metrics_beta": "11",
+            "metrics_gross_exposure_turnover": "11",
+            "metrics_information_ratio": "11",
+            "metrics_port_turnover_ratio": "11",
+            "metrics_sharpe": "11",
+            "metrics_std_dev": "11",
+            "min_addl_amt": "11",
+            "min_addl_amt_multiple": "11",
+            "min_amt": "11",
+            "min_amt_multiple": "11",
+            "monthly_aaum_date": "11",
+            "monthly_aaum_value": "11",
+            "mutual_fund_name": "11",
+            "riskometer": "11",
+            "riskometer_benchmark": "11",
+            "scheme_launch_date": "11"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Sumit Bhatnagar",
+            "qualification": "",
+            "total_exp": "26+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "12% of the units allotted shall be redeemed or switched out without any exit load, on or before completion of 3 months from the date of allotment of units. 1% on remaining units if redeemed or switched out on or before completion of 3 months from the date of allotment of units. Nil, if redeemed or switched out after completion of 3 months from the date of allotment of units."
+          }
+        ],
+        "main_scheme_name": "LIC MF Large Cap Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.98"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.74"
+          },
+          {
+            "name": "information_ratio",
+            "value": "1.09"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "74"
+          },
+          {
+            "name": "sharpe",
+            "value": "(%) :  0.14"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) :  15.18"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "1,286.06 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "11",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "19940901"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "Nifty LargeMidcap 250"
+        ],
+        "field_location": [
+          {
+            "amc_name": "13",
+            "benchmark_index": "13",
+            "count": 43,
+            "fund_manager_managing_fund_since": "13",
+            "fund_manager_name": "13",
+            "fund_manager_qualification": "13",
+            "fund_manager_total_exp": "13",
+            "load_exit": "13",
+            "main_scheme_name": "13",
+            "metrics_beta": "13",
+            "metrics_gross_exposure_turnover": "13",
+            "metrics_information_ratio": "13",
+            "metrics_port_turnover_ratio": "13",
+            "metrics_sharpe": "13",
+            "metrics_std_dev": "13",
+            "min_addl_amt": "13",
+            "min_addl_amt_multiple": "13",
+            "min_amt": "13",
+            "min_amt_multiple": "13",
+            "monthly_aaum_date": "13",
+            "monthly_aaum_value": "13",
+            "mutual_fund_name": "13",
+            "riskometer": "13",
+            "riskometer_benchmark": "13",
+            "scheme_launch_date": "13"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Sudhanshu",
+            "qualification": "",
+            "total_exp": "26+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "12% of the units allotted shall be redeemed or switched out without any exit load, on or before completion of 3 months from the date of allotment of units. 1% on remaining units if redeemed or switched out on or before completion of 3 months from the date of allotment of units. Nil, if redeemed or switched out after completion of 3 months from the date of allotment of units."
+          }
+        ],
+        "main_scheme_name": "LIC MF Large & Mid Cap Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.00"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "1.53"
+          },
+          {
+            "name": "information_ratio",
+            "value": "0.54"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "153"
+          },
+          {
+            "name": "sharpe",
+            "value": "(%) :  0.34"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) :  17.50"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "2,897.81 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "13",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20150225"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "Nifty 500"
+        ],
+        "field_location": [
+          {
+            "amc_name": "15",
+            "benchmark_index": "15",
+            "count": 43,
+            "fund_manager_managing_fund_since": "15",
+            "fund_manager_name": "15",
+            "fund_manager_qualification": "15",
+            "fund_manager_total_exp": "15",
+            "load_exit": "15",
+            "main_scheme_name": "15",
+            "metrics_beta": "15",
+            "metrics_gross_exposure_turnover": "15",
+            "metrics_information_ratio": "15",
+            "metrics_port_turnover_ratio": "15",
+            "metrics_sharpe": "15",
+            "metrics_std_dev": "15",
+            "min_addl_amt": "15",
+            "min_addl_amt_multiple": "15",
+            "min_amt": "15",
+            "min_amt_multiple": "15",
+            "monthly_aaum_date": "15",
+            "monthly_aaum_value": "15",
+            "mutual_fund_name": "15",
+            "riskometer": "15",
+            "riskometer_benchmark": "15",
+            "scheme_launch_date": "15"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Sudhanshu",
+            "qualification": "",
+            "total_exp": "26+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Nikhil Kapoor",
+            "qualification": "",
+            "total_exp": "16+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "12% of the units allotted shall be redeemed or switched out without any exit load, on or before completion of 3 months from the date of allotment of units. 1% on remaining units if redeemed or switched out on or before completion of 3 months from the date of allotment of units. Nil, if redeemed or switched out after completion of 3 months from the date of allotment of units."
+          }
+        ],
+        "main_scheme_name": "LIC MF Flexi Cap Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.98"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "1.47"
+          },
+          {
+            "name": "information_ratio",
+            "value": "0.35"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "147"
+          },
+          {
+            "name": "sharpe",
+            "value": "(%) :  0.26"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) :  17.05"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "1,013.66 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "15",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "19930415"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "NIFTY 500 Multicap 50:25:25"
+        ],
+        "field_location": [
+          {
+            "amc_name": "17",
+            "benchmark_index": "17",
+            "count": 43,
+            "fund_manager_managing_fund_since": "17",
+            "fund_manager_name": "17",
+            "fund_manager_qualification": "17",
+            "fund_manager_total_exp": "17",
+            "load_exit": "17",
+            "main_scheme_name": "17",
+            "metrics_beta": "17",
+            "metrics_gross_exposure_turnover": "17",
+            "metrics_information_ratio": "17",
+            "metrics_port_turnover_ratio": "17",
+            "metrics_sharpe": "17",
+            "metrics_std_dev": "17",
+            "min_addl_amt": "17",
+            "min_addl_amt_multiple": "17",
+            "min_amt": "17",
+            "min_amt_multiple": "17",
+            "monthly_aaum_date": "17",
+            "monthly_aaum_value": "17",
+            "mutual_fund_name": "17",
+            "riskometer": "17",
+            "riskometer_benchmark": "17",
+            "scheme_launch_date": "17"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Mahesh Bendre",
+            "qualification": "",
+            "total_exp": "20+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Nikhil Kapoor",
+            "qualification": "",
+            "total_exp": "16+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "12% of the units allotted shall be redeemed or switched out without any exit load, on or before completion of 12 months from the date of allotment of units. 1% on remaining units if redeemed or switched out on or before completion of 12 months from the date of allotment of units Nil, if redeemed or switched out after completion of 12 months from the date of allotment of units."
+          }
+        ],
+        "main_scheme_name": "LIC MF MultiCap Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.01"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.49"
+          },
+          {
+            "name": "information_ratio",
+            "value": "1.51"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "49"
+          },
+          {
+            "name": "sharpe",
+            "value": "(%) :  0.57"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) :  18.13"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "2,178.30 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "17",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20221031"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "Nifty Midcap 150"
+        ],
+        "field_location": [
+          {
+            "amc_name": "19",
+            "benchmark_index": "19",
+            "count": 43,
+            "fund_manager_managing_fund_since": "19",
+            "fund_manager_name": "19",
+            "fund_manager_qualification": "19",
+            "fund_manager_total_exp": "19",
+            "load_exit": "19",
+            "main_scheme_name": "19",
+            "metrics_beta": "19",
+            "metrics_gross_exposure_turnover": "19",
+            "metrics_information_ratio": "19",
+            "metrics_port_turnover_ratio": "19",
+            "metrics_sharpe": "19",
+            "metrics_std_dev": "19",
+            "min_addl_amt": "19",
+            "min_addl_amt_multiple": "19",
+            "min_amt": "19",
+            "min_amt_multiple": "19",
+            "monthly_aaum_date": "19",
+            "monthly_aaum_value": "19",
+            "mutual_fund_name": "19",
+            "riskometer": "19",
+            "riskometer_benchmark": "19",
+            "scheme_launch_date": "19"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Sudhanshu",
+            "qualification": "",
+            "total_exp": "26+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil, If units of the Scheme are redeemed or switched out up to 12% of the units (the limit) within 12 months from the date of allotment. 1% of the applicable NAV, If units of the scheme are redeemed or switched out in excess of the limit within 12 months from the date of allotment. Nil, If units of scheme are redeemed or switched out after 12 months from the date of allotment."
+          }
+        ],
+        "main_scheme_name": "LIC MF Mid Cap Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.00"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "1.19"
+          },
+          {
+            "name": "information_ratio",
+            "value": "0.13"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "119"
+          },
+          {
+            "name": "sharpe",
+            "value": "(%) :  0.41"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) :  19.69"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "360.70 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "19",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20170125"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "Nifty Smallcap 250 -"
+        ],
+        "field_location": [
+          {
+            "amc_name": "21",
+            "benchmark_index": "21",
+            "count": 43,
+            "fund_manager_managing_fund_since": "21",
+            "fund_manager_name": "21",
+            "fund_manager_qualification": "21",
+            "fund_manager_total_exp": "21",
+            "load_exit": "21",
+            "main_scheme_name": "21",
+            "metrics_beta": "21",
+            "metrics_gross_exposure_turnover": "21",
+            "metrics_information_ratio": "21",
+            "metrics_port_turnover_ratio": "21",
+            "metrics_sharpe": "21",
+            "metrics_std_dev": "21",
+            "min_addl_amt": "21",
+            "min_addl_amt_multiple": "21",
+            "min_amt": "21",
+            "min_amt_multiple": "21",
+            "monthly_aaum_date": "21",
+            "monthly_aaum_value": "21",
+            "mutual_fund_name": "21",
+            "riskometer": "21",
+            "riskometer_benchmark": "21",
+            "scheme_launch_date": "21"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Sudhanshu",
+            "qualification": "",
+            "total_exp": "26+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil, If units of the Scheme are redeemed or switched out up to 12% of the units (the limit) within 12 months from the date of allotment. 1% of the applicable NAV, If units of the scheme are redeemed or switched out in excess of the limit within 12 months from the date of allotment. Nil, If units of scheme are redeemed or switched out after 12 months from the date of allotment."
+          }
+        ],
+        "main_scheme_name": "LIC MF Small Cap Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.93"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.80"
+          },
+          {
+            "name": "information_ratio",
+            "value": "1.55"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "80"
+          },
+          {
+            "name": "sharpe",
+            "value": "(%) :  0.47"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) :  22.30"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "821.81 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "21",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20170621"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "Nifty 500"
+        ],
+        "field_location": [
+          {
+            "amc_name": "23",
+            "benchmark_index": "23",
+            "count": 43,
+            "fund_manager_managing_fund_since": "23",
+            "fund_manager_name": "23",
+            "fund_manager_qualification": "23",
+            "fund_manager_total_exp": "23",
+            "load_exit": "23",
+            "main_scheme_name": "23",
+            "metrics_beta": "23",
+            "metrics_gross_exposure_turnover": "23",
+            "metrics_information_ratio": "23",
+            "metrics_port_turnover_ratio": "23",
+            "metrics_sharpe": "23",
+            "metrics_std_dev": "23",
+            "min_addl_amt": "23",
+            "min_addl_amt_multiple": "23",
+            "min_amt": "23",
+            "min_amt_multiple": "23",
+            "monthly_aaum_date": "23",
+            "monthly_aaum_value": "23",
+            "mutual_fund_name": "23",
+            "riskometer": "23",
+            "riskometer_benchmark": "23",
+            "scheme_launch_date": "23"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Sumit Bhatnagar",
+            "qualification": "",
+            "total_exp": "20+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil, If units of the Scheme are redeemed or switched out up to 12% of the units (the limit) within 12 months from the date of allotment. 1% of the applicable NAV, If units of the scheme are redeemed or switched out in excess of the limit within 12 months from the date of allotment. Nil, If units of scheme are redeemed or switched out after 12 months from the date of allotment."
+          }
+        ],
+        "main_scheme_name": "LIC MF Dividend Yield Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.09"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.54"
+          },
+          {
+            "name": "information_ratio",
+            "value": "0.82"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "54"
+          },
+          {
+            "name": "sharpe",
+            "value": "(%) :  0.59"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) :  18.43"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "722.94 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "23",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20181221"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "Nifty 500 -"
+        ],
+        "field_location": [
+          {
+            "amc_name": "25",
+            "benchmark_index": "25",
+            "count": 43,
+            "fund_manager_managing_fund_since": "25",
+            "fund_manager_name": "25",
+            "fund_manager_qualification": "25",
+            "fund_manager_total_exp": "25",
+            "load_exit": "25",
+            "main_scheme_name": "25",
+            "metrics_beta": "25",
+            "metrics_gross_exposure_turnover": "25",
+            "metrics_information_ratio": "25",
+            "metrics_port_turnover_ratio": "25",
+            "metrics_sharpe": "25",
+            "metrics_std_dev": "25",
+            "min_addl_amt": "25",
+            "min_addl_amt_multiple": "25",
+            "min_amt": "25",
+            "min_amt_multiple": "25",
+            "monthly_aaum_date": "25",
+            "monthly_aaum_value": "25",
+            "mutual_fund_name": "25",
+            "riskometer": "25",
+            "riskometer_benchmark": "25",
+            "scheme_launch_date": "25"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Mahesh Bendre",
+            "qualification": "",
+            "total_exp": "20+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil, If units of the Scheme are redeemed or switched out up to 12% of the units (the limit) within 12 months from the date of allotment. 1% of the applicable NAV, If units of the scheme are redeemed or switched out in excess of the limit within 12 months from the date of allotment. Nil, If units of scheme are redeemed or switched out after 12 months from the date of allotment."
+          }
+        ],
+        "main_scheme_name": "LIC MF Value Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.04"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "2.01"
+          },
+          {
+            "name": "information_ratio",
+            "value": "2.42"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "200"
+          },
+          {
+            "name": "sharpe",
+            "value": "(%) :  0.53"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) :  18.94"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "350.90 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "25",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20180820"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "Nifty 500"
+        ],
+        "field_location": [
+          {
+            "amc_name": "27",
+            "benchmark_index": "27",
+            "count": 43,
+            "fund_manager_managing_fund_since": "27",
+            "fund_manager_name": "27",
+            "fund_manager_qualification": "27",
+            "fund_manager_total_exp": "27",
+            "load_exit": "27",
+            "main_scheme_name": "27",
+            "metrics_beta": "27",
+            "metrics_gross_exposure_turnover": "27",
+            "metrics_information_ratio": "27",
+            "metrics_port_turnover_ratio": "27",
+            "metrics_sharpe": "27",
+            "metrics_std_dev": "27",
+            "min_addl_amt": "27",
+            "min_addl_amt_multiple": "27",
+            "min_amt": "27",
+            "min_amt_multiple": "27",
+            "monthly_aaum_date": "27",
+            "monthly_aaum_value": "27",
+            "mutual_fund_name": "27",
+            "riskometer": "27",
+            "riskometer_benchmark": "27",
+            "scheme_launch_date": "27"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Mahesh Bendre",
+            "qualification": "",
+            "total_exp": "20+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil, If units of the Scheme are redeemed or switched out up to 12% of the units (the limit) within 12 months from the date of allotment. 1% of the applicable NAV, If units of the scheme are redeemed or switched out in excess of the limit within 12 months from the date of allotment. Nil, If units of scheme are redeemed or switched out after 12 months from the date of allotment."
+          }
+        ],
+        "main_scheme_name": "LIC MF Focused Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.90"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "1.90"
+          },
+          {
+            "name": "information_ratio",
+            "value": "0.20"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "190"
+          },
+          {
+            "name": "sharpe",
+            "value": "(%) :  0.17"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) :  15.92"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "166.99 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "27",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20171117"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "Nifty Infrastructure"
+        ],
+        "field_location": [
+          {
+            "amc_name": "29",
+            "benchmark_index": "29",
+            "count": 43,
+            "fund_manager_managing_fund_since": "29",
+            "fund_manager_name": "29",
+            "fund_manager_qualification": "29",
+            "fund_manager_total_exp": "29",
+            "load_exit": "29",
+            "main_scheme_name": "29",
+            "metrics_beta": "29",
+            "metrics_gross_exposure_turnover": "29",
+            "metrics_information_ratio": "29",
+            "metrics_port_turnover_ratio": "29",
+            "metrics_sharpe": "29",
+            "metrics_std_dev": "29",
+            "min_addl_amt": "29",
+            "min_addl_amt_multiple": "29",
+            "min_amt": "29",
+            "min_amt_multiple": "29",
+            "monthly_aaum_date": "29",
+            "monthly_aaum_value": "29",
+            "mutual_fund_name": "29",
+            "riskometer": "29",
+            "riskometer_benchmark": "29",
+            "scheme_launch_date": "29"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Mahesh Bendre",
+            "qualification": "",
+            "total_exp": "20+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "12% of the units allotted shall be redeemed or switched out without any exit load, on or before completion of 90 days from the date of allotment of units. 1% on remaining units if redeemed or switched out on or before completion of 90 days from the date of allotment of units. Nil, if redeemed or switched out after completion of 90 days from the date of allotment of units."
+          }
+        ],
+        "main_scheme_name": "LIC MF Infrastructure Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.01"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "1.12"
+          },
+          {
+            "name": "information_ratio",
+            "value": "0.85"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "112"
+          },
+          {
+            "name": "sharpe",
+            "value": "(%) :  0.64"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) :  23.10"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "1,122.92 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "29",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20080324"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "Nifty India Manufacturing Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "31",
+            "benchmark_index": "31",
+            "count": 43,
+            "fund_manager_managing_fund_since": "31",
+            "fund_manager_name": "31",
+            "fund_manager_qualification": "31",
+            "fund_manager_total_exp": "31",
+            "load_exit": "31",
+            "main_scheme_name": "31",
+            "metrics_beta": "31",
+            "metrics_gross_exposure_turnover": "31",
+            "metrics_information_ratio": "31",
+            "metrics_port_turnover_ratio": "31",
+            "metrics_sharpe": "31",
+            "metrics_std_dev": "31",
+            "min_addl_amt": "31",
+            "min_addl_amt_multiple": "31",
+            "min_amt": "31",
+            "min_amt_multiple": "31",
+            "monthly_aaum_date": "31",
+            "monthly_aaum_value": "31",
+            "mutual_fund_name": "31",
+            "riskometer": "31",
+            "riskometer_benchmark": "31",
+            "scheme_launch_date": "31"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Mahesh Bendre",
+            "qualification": "",
+            "total_exp": "20+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "If units of the Scheme are redeemed switched-out within 90 days from the date of allotment: a) Upto 12% of the units: No exit load will be levied b) Above 12% of the units: exit load of 1% will be levied If units of the Scheme are redeemed switched- out after 90 days from the date of allotment: No exit load will be levied."
+          }
+        ],
+        "main_scheme_name": "LIC MF Manufacturing Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.14"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "1.28"
+          },
+          {
+            "name": "information_ratio",
+            "value": "0.82"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "128"
+          },
+          {
+            "name": "sharpe",
+            "value": "(%) :  0.04"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) :  22.43"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "742.10 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "31",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20241011"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "Nifty India Consumption"
+        ],
+        "field_location": [
+          {
+            "amc_name": "33",
+            "benchmark_index": "33",
+            "count": 43,
+            "fund_manager_managing_fund_since": "33",
+            "fund_manager_name": "33",
+            "fund_manager_qualification": "33",
+            "fund_manager_total_exp": "33",
+            "load_exit": "33",
+            "main_scheme_name": "33",
+            "metrics_beta": "33",
+            "metrics_gross_exposure_turnover": "33",
+            "metrics_port_turnover_ratio": "33",
+            "metrics_sharpe": "33",
+            "metrics_std_dev": "33",
+            "min_addl_amt": "33",
+            "min_addl_amt_multiple": "33",
+            "min_amt": "33",
+            "min_amt_multiple": "33",
+            "monthly_aaum_date": "33",
+            "monthly_aaum_value": "33",
+            "mutual_fund_name": "33",
+            "riskometer": "33",
+            "riskometer_benchmark": "33",
+            "scheme_launch_date": "33"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Nikhil Kapoor",
+            "qualification": "",
+            "total_exp": "16+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1. If units of the Scheme are redeemed switched-out within 90 days from the date of allotment: a. Upto 12% of the units: No exit load will be levied b. Above 12% of the units: exit load of 1% will be levied 2. If units of the Scheme are redeemed switched-out after 90 days from the date of allotment: No exit load will be levied."
+          }
+        ],
+        "main_scheme_name": "LIC MF Consumption Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.81"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.61"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "61"
+          },
+          {
+            "name": "sharpe",
+            "value": "(%) :  -0.82"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) :  18.60"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "414.98 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "33",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20251121"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "BSE TECk"
+        ],
+        "field_location": [
+          {
+            "amc_name": "35",
+            "benchmark_index": "35",
+            "count": 43,
+            "fund_manager_managing_fund_since": "35",
+            "fund_manager_name": "35",
+            "fund_manager_qualification": "35",
+            "fund_manager_total_exp": "35",
+            "load_exit": "35",
+            "main_scheme_name": "35",
+            "metrics_beta": "35",
+            "metrics_gross_exposure_turnover": "35",
+            "metrics_port_turnover_ratio": "35",
+            "metrics_sharpe": "35",
+            "metrics_std_dev": "35",
+            "min_addl_amt": "35",
+            "min_addl_amt_multiple": "35",
+            "min_amt": "35",
+            "min_amt_multiple": "35",
+            "monthly_aaum_date": "35",
+            "monthly_aaum_value": "35",
+            "mutual_fund_name": "35",
+            "riskometer": "35",
+            "riskometer_benchmark": "35",
+            "scheme_launch_date": "35"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Siddharth",
+            "qualification": "",
+            "total_exp": "20+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1. If units of the Scheme are redeemed switched out within 90 days from the date of allotment: a. Upto 12% of the units: No exit load will be levied b. Above 12% of the units: exit load of 1% will be levied 2. If units of the Scheme are redeemed switched out after 90 days from the date of allotment: No exit load will be levied."
+          }
+        ],
+        "main_scheme_name": "LIC MF Technology Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.38"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.35"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "35"
+          },
+          {
+            "name": "sharpe",
+            "value": "(%) :  0.99"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) :  16.29"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "1000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "93.08 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "35",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20260313"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "Nifty Financial Services"
+        ],
+        "field_location": [
+          {
+            "amc_name": "37",
+            "benchmark_index": "37",
+            "count": 43,
+            "fund_manager_managing_fund_since": "37",
+            "fund_manager_name": "37",
+            "fund_manager_qualification": "37",
+            "fund_manager_total_exp": "37",
+            "load_exit": "37",
+            "main_scheme_name": "37",
+            "metrics_beta": "37",
+            "metrics_gross_exposure_turnover": "37",
+            "metrics_information_ratio": "37",
+            "metrics_port_turnover_ratio": "37",
+            "metrics_sharpe": "37",
+            "metrics_std_dev": "37",
+            "min_addl_amt": "37",
+            "min_addl_amt_multiple": "37",
+            "min_amt": "37",
+            "min_amt_multiple": "37",
+            "monthly_aaum_date": "37",
+            "monthly_aaum_value": "37",
+            "mutual_fund_name": "37",
+            "riskometer": "37",
+            "riskometer_benchmark": "37",
+            "scheme_launch_date": "37"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Sudhanshu",
+            "qualification": "",
+            "total_exp": "26+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "12% of the units allotted shall be redeemed or switched out without any exit load, on or before completion of 90 days from the date of allotment of units. 1% on remaining units if redeemed or switched out on or before completion of 90 days from the date of allotment of units. Nil, if redeemed or switched out after completion of 90 days from the date of allotment of units."
+          }
+        ],
+        "main_scheme_name": "LIC MF Banking & Financial Services Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.96"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.74"
+          },
+          {
+            "name": "information_ratio",
+            "value": "0.74"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "74"
+          },
+          {
+            "name": "sharpe",
+            "value": "(%) :  -0.02"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) :  16.87"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "252.80 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "37",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20150327"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "BSE Healthcare-"
+        ],
+        "field_location": [
+          {
+            "amc_name": "39",
+            "benchmark_index": "39",
+            "count": 43,
+            "fund_manager_managing_fund_since": "39",
+            "fund_manager_name": "39",
+            "fund_manager_qualification": "39",
+            "fund_manager_total_exp": "39",
+            "load_exit": "39",
+            "main_scheme_name": "39",
+            "metrics_beta": "39",
+            "metrics_gross_exposure_turnover": "39",
+            "metrics_information_ratio": "39",
+            "metrics_port_turnover_ratio": "39",
+            "metrics_sharpe": "39",
+            "metrics_std_dev": "39",
+            "min_addl_amt": "39",
+            "min_addl_amt_multiple": "39",
+            "min_amt": "39",
+            "min_amt_multiple": "39",
+            "monthly_aaum_date": "39",
+            "monthly_aaum_value": "39",
+            "mutual_fund_name": "39",
+            "riskometer": "39",
+            "riskometer_benchmark": "39",
+            "scheme_launch_date": "39"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Sudhanshu",
+            "qualification": "",
+            "total_exp": "26+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Dhaval Sangoi",
+            "qualification": "",
+            "total_exp": "12+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil, If units of the Scheme are redeemed or switched out up to 12% of the units (the limit) within 90 days from the date of allotment. 1% of the applicable NAV, If units of the scheme are redeemed or switched out in excess of the limit within 90 days from the date of allotment. Nil, If units of scheme are redeemed or switched out after 90 days from the date of allotment."
+          }
+        ],
+        "main_scheme_name": "LIC MF Healthcare Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.93"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.50"
+          },
+          {
+            "name": "information_ratio",
+            "value": "0.60"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "50"
+          },
+          {
+            "name": "sharpe",
+            "value": "(%) :  0.91"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) :  16.11"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "96.45 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "39",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20190228"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "Nifty 500"
+        ],
+        "field_location": [
+          {
+            "amc_name": "41",
+            "benchmark_index": "41",
+            "count": 43,
+            "fund_manager_managing_fund_since": "41",
+            "fund_manager_name": "41",
+            "fund_manager_qualification": "41",
+            "fund_manager_total_exp": "41",
+            "load_exit": "41",
+            "main_scheme_name": "41",
+            "metrics_beta": "41",
+            "metrics_gross_exposure_turnover": "41",
+            "metrics_information_ratio": "41",
+            "metrics_port_turnover_ratio": "41",
+            "metrics_sharpe": "41",
+            "metrics_std_dev": "41",
+            "min_addl_amt": "41",
+            "min_addl_amt_multiple": "41",
+            "min_amt": "41",
+            "min_amt_multiple": "41",
+            "monthly_aaum_date": "41",
+            "monthly_aaum_value": "41",
+            "mutual_fund_name": "41",
+            "riskometer": "41",
+            "riskometer_benchmark": "41",
+            "scheme_launch_date": "41"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Sumit Bhatnagar",
+            "qualification": "",
+            "total_exp": "26+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Nikhil Kapoor",
+            "qualification": "",
+            "total_exp": "16+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil (Subject to lock-in period of 3 years)"
+          }
+        ],
+        "main_scheme_name": "LIC MF ELSS Tax Saver Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.90"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.41"
+          },
+          {
+            "name": "information_ratio",
+            "value": "0.91"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "41"
+          },
+          {
+            "name": "sharpe",
+            "value": "(%) :  0.20"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) :  15.26"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "500",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "951.90 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "41",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20260331"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "Crisil Hybrid 35 + 65 - Aggressive Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "43",
+            "benchmark_index": "43",
+            "count": 43,
+            "fund_manager_managing_fund_since": "43",
+            "fund_manager_name": "43",
+            "fund_manager_qualification": "43",
+            "fund_manager_total_exp": "43",
+            "load_exit": "43",
+            "main_scheme_name": "43",
+            "metrics_avg_maturity": "43",
+            "metrics_beta": "43",
+            "metrics_gross_exposure_turnover": "43",
+            "metrics_macaulay": "43",
+            "metrics_mod_duration": "43",
+            "metrics_port_turnover_ratio": "43",
+            "metrics_sharpe": "43",
+            "metrics_std_dev": "43",
+            "metrics_ytm": "43",
+            "min_addl_amt": "43",
+            "min_addl_amt_multiple": "43",
+            "min_amt": "43",
+            "min_amt_multiple": "43",
+            "monthly_aaum_date": "43",
+            "monthly_aaum_value": "43",
+            "mutual_fund_name": "43",
+            "riskometer": "43",
+            "riskometer_benchmark": "43",
+            "scheme_launch_date": "43"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Pratik Shroff",
+            "qualification": "",
+            "total_exp": "20+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "12% of the units allotted shall be redeemed or switched out without any exit load, on or before completion of 3 months from the date of allotment of units. 1% on remaining units if redeemed or switched out on or before completion of 3 months from the date of allotment of units. Nil, if redeemed or switched out after completion of 3 months from the date of allotment of units."
+          }
+        ],
+        "main_scheme_name": "LIC MF Aggressive Hybrid Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "8.36"
+          },
+          {
+            "name": "beta",
+            "value": "1.11"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "1.19"
+          },
+          {
+            "name": "macaulay",
+            "value": "4.87"
+          },
+          {
+            "name": "mod_duration",
+            "value": "4.64"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "96"
+          },
+          {
+            "name": "sharpe",
+            "value": "(%) :  0.33"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) :  12.73"
+          },
+          {
+            "name": "ytm",
+            "value": "(%) :  7.85"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "551.89 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "43",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "19910101"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "NIFTY 50 Hybrid Composite Debt 50:50 Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "45",
+            "benchmark_index": "45",
+            "count": 43,
+            "fund_manager_managing_fund_since": "45",
+            "fund_manager_name": "45",
+            "fund_manager_qualification": "45",
+            "fund_manager_total_exp": "45",
+            "load_exit": "45",
+            "main_scheme_name": "45",
+            "metrics_avg_maturity": "45",
+            "metrics_beta": "45",
+            "metrics_gross_exposure_turnover": "45",
+            "metrics_macaulay": "45",
+            "metrics_mod_duration": "45",
+            "metrics_port_turnover_ratio": "45",
+            "metrics_sharpe": "45",
+            "metrics_std_dev": "45",
+            "metrics_ytm": "45",
+            "min_addl_amt": "45",
+            "min_addl_amt_multiple": "45",
+            "min_amt": "45",
+            "min_amt_multiple": "45",
+            "monthly_aaum_date": "45",
+            "monthly_aaum_value": "45",
+            "mutual_fund_name": "45",
+            "riskometer": "45",
+            "riskometer_benchmark": "45",
+            "scheme_launch_date": "45"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Siddharth Panjwani",
+            "qualification": "",
+            "total_exp": "20+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Rahul Singh",
+            "qualification": "",
+            "total_exp": "22+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "12% of the units allotted shall be redeemed or switched out without any exit load, on or before completion of 3 months from the date of allotment of units. 1% on remaining units if redeemed or switched out on or before completion of 3 months from the date of allotment of units. Nil, if redeemed or switched out after completion of 3 months from the date of allotment of units."
+          }
+        ],
+        "main_scheme_name": "LIC MF Balanced Advantage Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "7.13"
+          },
+          {
+            "name": "beta",
+            "value": "1.09"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "2.62"
+          },
+          {
+            "name": "macaulay",
+            "value": "4.0"
+          },
+          {
+            "name": "mod_duration",
+            "value": "3.73"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "101"
+          },
+          {
+            "name": "sharpe",
+            "value": "(%) :  0.07"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) :  9.63"
+          },
+          {
+            "name": "ytm",
+            "value": "(%) :  7.48"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "642.49 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "45",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20211112"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "Nifty Equity Savings Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "47",
+            "benchmark_index": "47",
+            "count": 43,
+            "fund_manager_managing_fund_since": "47",
+            "fund_manager_name": "47",
+            "fund_manager_qualification": "47",
+            "fund_manager_total_exp": "47",
+            "load_exit": "47",
+            "main_scheme_name": "47",
+            "metrics_beta": "47",
+            "metrics_gross_exposure_turnover": "47",
+            "metrics_port_turnover_ratio": "47",
+            "metrics_sharpe": "47",
+            "metrics_std_dev": "47",
+            "min_addl_amt": "47",
+            "min_addl_amt_multiple": "47",
+            "min_amt": "47",
+            "min_amt_multiple": "47",
+            "monthly_aaum_date": "47",
+            "monthly_aaum_value": "47",
+            "mutual_fund_name": "47",
+            "riskometer": "47",
+            "riskometer_benchmark": "47",
+            "scheme_launch_date": "47"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Siddharth Panjwani",
+            "qualification": "",
+            "total_exp": "20+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Pratik Shroff",
+            "qualification": "",
+            "total_exp": "19+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil, If units of the Scheme are redeemed or switched out up to 12% of the units (the limit) within 3 months from the date of allotment. 1% of the applicable NAV, If units of the scheme are redeemed or switched out in excess of the limit within 3 months from the date of allotment. Nil, If units of scheme are redeemed or switched out after 3 months from the date of allotment."
+          }
+        ],
+        "main_scheme_name": "LIC MF Equity Savings Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.17"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "4.81"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "51"
+          },
+          {
+            "name": "sharpe",
+            "value": "(%) :  0.21"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) :  7.28"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "38.14 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "47",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20110307"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "Crisil Hybrid 85 + 15 - Conservative Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "49",
+            "benchmark_index": "49",
+            "count": 43,
+            "fund_manager_managing_fund_since": "49",
+            "fund_manager_name": "49",
+            "fund_manager_qualification": "49",
+            "fund_manager_total_exp": "49",
+            "load_exit": "49",
+            "main_scheme_name": "49",
+            "metrics_avg_maturity": "49",
+            "metrics_gross_exposure_turnover": "49",
+            "metrics_macaulay": "49",
+            "metrics_mod_duration": "49",
+            "metrics_port_turnover_ratio": "49",
+            "metrics_ytm": "49",
+            "min_addl_amt": "49",
+            "min_addl_amt_multiple": "49",
+            "min_amt": "49",
+            "min_amt_multiple": "49",
+            "monthly_aaum_date": "49",
+            "monthly_aaum_value": "49",
+            "mutual_fund_name": "49",
+            "riskometer": "49",
+            "riskometer_benchmark": "49",
+            "scheme_launch_date": "49"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Siddharth Panjwani",
+            "qualification": "",
+            "total_exp": "20+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Pratik Shroff",
+            "qualification": "",
+            "total_exp": "19+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "12% of the units allotted shall be redeemed or switched out without any exit load, on or before completion of 90 days from the date of allotment of units. 1% on remaining units if redeemed or switched out on or before completion of 90 days from the date of allotment of units Nil, if redeemed or switched out after completion of 90 days from the date of allotment of units."
+          }
+        ],
+        "main_scheme_name": "LIC MF Conservative Hybrid Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "3.28"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.56"
+          },
+          {
+            "name": "macaulay",
+            "value": "2.76"
+          },
+          {
+            "name": "mod_duration",
+            "value": "2.66"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "20"
+          },
+          {
+            "name": "ytm",
+            "value": "(%) :  7.07"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "45.30 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "49",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "19980601"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "Nifty 50 Arbitrage Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "51",
+            "benchmark_index": "51",
+            "count": 43,
+            "fund_manager_managing_fund_since": "51",
+            "fund_manager_name": "51",
+            "fund_manager_qualification": "51",
+            "fund_manager_total_exp": "51",
+            "load_exit": "51",
+            "main_scheme_name": "51",
+            "metrics_beta": "51",
+            "metrics_gross_exposure_turnover": "51",
+            "metrics_port_turnover_ratio": "51",
+            "metrics_sharpe": "51",
+            "metrics_std_dev": "51",
+            "min_addl_amt": "51",
+            "min_addl_amt_multiple": "51",
+            "min_amt": "51",
+            "min_amt_multiple": "51",
+            "monthly_aaum_date": "51",
+            "monthly_aaum_value": "51",
+            "mutual_fund_name": "51",
+            "riskometer": "51",
+            "riskometer_benchmark": "51",
+            "scheme_launch_date": "51"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Sumit Bhatnagar",
+            "qualification": "",
+            "total_exp": "26+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Pratik Shroff",
+            "qualification": "",
+            "total_exp": "19+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Sasikant",
+            "qualification": "",
+            "total_exp": "20+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "For redemption switch out of units on or before 1 month from the date of allotment: 0.25% of applicable NAV . For redemption switch out of units after 1 month from the date of allotment: Nil"
+          }
+        ],
+        "main_scheme_name": "LIC MF Arbitrage Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.52"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "8.30"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "106"
+          },
+          {
+            "name": "sharpe",
+            "value": "(%) :  1.31"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) :  0.44"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "311.48 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "51",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20190125"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "65% Nifty 500 + 25% Nifty Composite Debt Index + 10% Price of Domestic Gold."
+        ],
+        "field_location": [
+          {
+            "amc_name": "53",
+            "benchmark_index": "53",
+            "count": 43,
+            "fund_manager_managing_fund_since": "53",
+            "fund_manager_name": "53",
+            "fund_manager_qualification": "53",
+            "fund_manager_total_exp": "53",
+            "load_exit": "53",
+            "main_scheme_name": "53",
+            "metrics_gross_exposure_turnover": "53",
+            "metrics_port_turnover_ratio": "53",
+            "min_addl_amt": "53",
+            "min_addl_amt_multiple": "53",
+            "min_amt": "53",
+            "min_amt_multiple": "53",
+            "monthly_aaum_date": "53",
+            "monthly_aaum_value": "53",
+            "mutual_fund_name": "53",
+            "riskometer": "53",
+            "riskometer_benchmark": "53",
+            "scheme_launch_date": "53"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Sumit",
+            "qualification": "",
+            "total_exp": "25+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Pratik Shroff",
+            "qualification": "",
+            "total_exp": "19+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1) If units redeemed switched out within 3 months from allotment date: For upto 12% of units held - Nil Remaining 88% of units held - 1% of applicable NAV 2) If units redeemed switched out after 3 months from allotment date: Nil"
+          }
+        ],
+        "main_scheme_name": "LIC MF Multi Asset Allocation Fund",
+        "metrics": [
+          {
+            "name": "gross_exposure_turnover",
+            "value": "1.05"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "82"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "945.17 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "53",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250214"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "Crisil Hybrid 35 + 65 - Aggressive Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "55",
+            "benchmark_index": "55",
+            "count": 43,
+            "fund_manager_managing_fund_since": "55",
+            "fund_manager_name": "55",
+            "fund_manager_qualification": "55",
+            "fund_manager_total_exp": "55",
+            "load_exit": "55",
+            "main_scheme_name": "55",
+            "metrics_beta": "55",
+            "metrics_gross_exposure_turnover": "55",
+            "metrics_port_turnover_ratio": "55",
+            "metrics_sharpe": "55",
+            "metrics_std_dev": "55",
+            "min_addl_amt": "55",
+            "min_addl_amt_multiple": "55",
+            "min_amt": "55",
+            "min_amt_multiple": "55",
+            "monthly_aaum_date": "55",
+            "monthly_aaum_value": "55",
+            "mutual_fund_name": "55",
+            "riskometer": "55",
+            "riskometer_benchmark": "55",
+            "scheme_launch_date": "55"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Siddharth",
+            "qualification": "",
+            "total_exp": "20+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Pratik Shroff",
+            "qualification": "",
+            "total_exp": "19+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "NIL (3 years lock-in period) Liquidity: Repurchase after lock-in period of 3 years from the date of Investment."
+          }
+        ],
+        "main_scheme_name": "LIC MF Unit Linked Insurance Scheme",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.08"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.78"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "65"
+          },
+          {
+            "name": "sharpe",
+            "value": "(%) :  0.08"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) :  12.16"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "10000",
+        "min_amt_multiple": "1000",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "415.28 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "55",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "19890619"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "NIFTY 1D Rate Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "57",
+            "benchmark_index": "57",
+            "count": 43,
+            "fund_manager_managing_fund_since": "57",
+            "fund_manager_name": "57",
+            "fund_manager_qualification": "57",
+            "fund_manager_total_exp": "57",
+            "load_exit": "57",
+            "main_scheme_name": "57",
+            "metrics_avg_maturity": "57",
+            "metrics_macaulay": "57",
+            "metrics_mod_duration": "57",
+            "metrics_ytm": "57",
+            "min_addl_amt": "57",
+            "min_addl_amt_multiple": "57",
+            "min_amt": "57",
+            "min_amt_multiple": "57",
+            "monthly_aaum_date": "57",
+            "monthly_aaum_value": "57",
+            "mutual_fund_name": "57",
+            "riskometer": "57",
+            "riskometer_benchmark": "57",
+            "scheme_launch_date": "57"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Rahul Singh",
+            "qualification": "",
+            "total_exp": "22+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Aakash Dhulia",
+            "qualification": "",
+            "total_exp": "9+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "LIC MF Overnight Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "0.01"
+          },
+          {
+            "name": "macaulay",
+            "value": "0.01"
+          },
+          {
+            "name": "mod_duration",
+            "value": "0.01"
+          },
+          {
+            "name": "ytm",
+            "value": "(%) :  5.77"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "1,036.64 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "57",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20190718"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "CRISIL Liquid Debt A-I Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "59",
+            "benchmark_index": "59",
+            "count": 43,
+            "fund_manager_managing_fund_since": "59",
+            "fund_manager_name": "59",
+            "fund_manager_qualification": "59",
+            "fund_manager_total_exp": "59",
+            "load_exit": "59",
+            "main_scheme_name": "59",
+            "metrics_avg_maturity": "59",
+            "metrics_macaulay": "59",
+            "metrics_mod_duration": "59",
+            "metrics_ytm": "59",
+            "min_addl_amt": "59",
+            "min_addl_amt_multiple": "59",
+            "min_amt": "59",
+            "min_amt_multiple": "59",
+            "monthly_aaum_date": "59",
+            "monthly_aaum_value": "59",
+            "mutual_fund_name": "59",
+            "riskometer": "59",
+            "riskometer_benchmark": "59",
+            "scheme_launch_date": "59"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Rahul Singh",
+            "qualification": "",
+            "total_exp": "22+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Aakash Dhulia",
+            "qualification": "",
+            "total_exp": "9+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Investor exit upon Exit load as a % of Subscription redemption switch out proceeds Day 1 0.0070% Day 2 0.0065% Day 3 0.0060% Day 4 0.0055% Day 5 0.0050% Day 6 0.0045% Day 7 onwards 0.0000%"
+          }
+        ],
+        "main_scheme_name": "LIC MF Liquid Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "0.1"
+          },
+          {
+            "name": "macaulay",
+            "value": "0.1"
+          },
+          {
+            "name": "mod_duration",
+            "value": "0.1"
+          },
+          {
+            "name": "ytm",
+            "value": "(%) :  7.07"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "15,581.96 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "59",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20020318"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "CRISIL Ultra Short Duration Debt A-I Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "61",
+            "benchmark_index": "61",
+            "count": 43,
+            "fund_manager_managing_fund_since": "61",
+            "fund_manager_name": "61",
+            "fund_manager_qualification": "61",
+            "fund_manager_total_exp": "61",
+            "load_exit": "61",
+            "main_scheme_name": "61",
+            "metrics_avg_maturity": "61",
+            "metrics_macaulay": "61",
+            "metrics_mod_duration": "61",
+            "metrics_ytm": "61",
+            "min_addl_amt": "61",
+            "min_addl_amt_multiple": "61",
+            "min_amt": "61",
+            "min_amt_multiple": "61",
+            "monthly_aaum_date": "61",
+            "monthly_aaum_value": "61",
+            "mutual_fund_name": "61",
+            "riskometer": "61",
+            "riskometer_benchmark": "61",
+            "scheme_launch_date": "61"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Rahul Singh",
+            "qualification": "",
+            "total_exp": "22+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Pratik Shroff",
+            "qualification": "",
+            "total_exp": "19+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "LIC MF Ultra Short Term Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "0.31"
+          },
+          {
+            "name": "macaulay",
+            "value": "0.31"
+          },
+          {
+            "name": "mod_duration",
+            "value": "0.31"
+          },
+          {
+            "name": "ytm",
+            "value": "(%) :  7.67"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "1,432.08 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "61",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20191127"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "NIFTY Money Market Index A-I"
+        ],
+        "field_location": [
+          {
+            "amc_name": "63",
+            "benchmark_index": "63",
+            "count": 43,
+            "fund_manager_managing_fund_since": "63",
+            "fund_manager_name": "63",
+            "fund_manager_qualification": "63",
+            "fund_manager_total_exp": "63",
+            "load_exit": "63",
+            "main_scheme_name": "63",
+            "metrics_avg_maturity": "63",
+            "metrics_macaulay": "63",
+            "metrics_mod_duration": "63",
+            "metrics_ytm": "63",
+            "min_addl_amt": "63",
+            "min_addl_amt_multiple": "63",
+            "min_amt": "63",
+            "min_amt_multiple": "63",
+            "monthly_aaum_date": "63",
+            "monthly_aaum_value": "63",
+            "mutual_fund_name": "63",
+            "riskometer": "63",
+            "riskometer_benchmark": "63",
+            "scheme_launch_date": "63"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Rahul Singh",
+            "qualification": "",
+            "total_exp": "22+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Pratik Shroff",
+            "qualification": "",
+            "total_exp": "19+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "LIC MF Money Market Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "0.3"
+          },
+          {
+            "name": "macaulay",
+            "value": "0.3"
+          },
+          {
+            "name": "mod_duration",
+            "value": "0.3"
+          },
+          {
+            "name": "ytm",
+            "value": "(%) :  7.67"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "4,536.89 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "63",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20220801"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "CRISIL Low Duration Debt A-I Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "65",
+            "benchmark_index": "65",
+            "count": 43,
+            "fund_manager_managing_fund_since": "65",
+            "fund_manager_name": "65",
+            "fund_manager_qualification": "65",
+            "fund_manager_total_exp": "65",
+            "load_exit": "65",
+            "main_scheme_name": "65",
+            "metrics_avg_maturity": "65",
+            "metrics_macaulay": "65",
+            "metrics_mod_duration": "65",
+            "metrics_ytm": "65",
+            "min_addl_amt": "65",
+            "min_addl_amt_multiple": "65",
+            "min_amt": "65",
+            "min_amt_multiple": "65",
+            "monthly_aaum_date": "65",
+            "monthly_aaum_value": "65",
+            "mutual_fund_name": "65",
+            "riskometer": "65",
+            "riskometer_benchmark": "65",
+            "scheme_launch_date": "65"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Rahul Singh",
+            "qualification": "",
+            "total_exp": "22+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Pratik Shroff",
+            "qualification": "",
+            "total_exp": "19+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "LIC MF Ultra Short to Short Term Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "0.71"
+          },
+          {
+            "name": "macaulay",
+            "value": "0.7"
+          },
+          {
+            "name": "mod_duration",
+            "value": "0.66"
+          },
+          {
+            "name": "ytm",
+            "value": "(%) :  7.83"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "1,842.35 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "65",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20030609"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "CRISIL Medium to Long Duration Debt A-III Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "67",
+            "benchmark_index": "67",
+            "count": 43,
+            "fund_manager_managing_fund_since": "67",
+            "fund_manager_name": "67",
+            "fund_manager_qualification": "67",
+            "fund_manager_total_exp": "67",
+            "load_exit": "67",
+            "main_scheme_name": "67",
+            "metrics_avg_maturity": "67",
+            "metrics_macaulay": "67",
+            "metrics_mod_duration": "67",
+            "metrics_ytm": "67",
+            "min_addl_amt": "67",
+            "min_addl_amt_multiple": "67",
+            "min_amt": "67",
+            "min_amt_multiple": "67",
+            "monthly_aaum_date": "67",
+            "monthly_aaum_value": "67",
+            "mutual_fund_name": "67",
+            "riskometer": "67",
+            "riskometer_benchmark": "67",
+            "scheme_launch_date": "67"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Pratik Shroff",
+            "qualification": "",
+            "total_exp": "19+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Rahul Singh",
+            "qualification": "",
+            "total_exp": "22+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "0.25% if redeemed or switched out on or before completion of 15 days from the date of allotment of units. No Exit Load is payable if units are redeemed switched-out after 15 days from the date of allotment."
+          }
+        ],
+        "main_scheme_name": "LIC MF Medium to Long Term Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "9.57"
+          },
+          {
+            "name": "macaulay",
+            "value": "4.4"
+          },
+          {
+            "name": "mod_duration",
+            "value": "4.2"
+          },
+          {
+            "name": "ytm",
+            "value": "(%) :  7.75"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "172.48 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "67",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20260623"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "NIFTY Banking PSU Debt Index A-II"
+        ],
+        "field_location": [
+          {
+            "amc_name": "69",
+            "benchmark_index": "69",
+            "count": 43,
+            "fund_manager_managing_fund_since": "69",
+            "fund_manager_name": "69",
+            "fund_manager_qualification": "69",
+            "fund_manager_total_exp": "69",
+            "load_exit": "69",
+            "main_scheme_name": "69",
+            "metrics_avg_maturity": "69",
+            "metrics_macaulay": "69",
+            "metrics_mod_duration": "69",
+            "metrics_ytm": "69",
+            "min_addl_amt": "69",
+            "min_addl_amt_multiple": "69",
+            "min_amt": "69",
+            "min_amt_multiple": "69",
+            "monthly_aaum_date": "69",
+            "monthly_aaum_value": "69",
+            "mutual_fund_name": "69",
+            "riskometer": "69",
+            "riskometer_benchmark": "69",
+            "scheme_launch_date": "69"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Pratik Shroff",
+            "qualification": "",
+            "total_exp": "19+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Rahul Singh",
+            "qualification": "",
+            "total_exp": "22+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "LIC MF Banking & PSU Debt Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "2.21"
+          },
+          {
+            "name": "macaulay",
+            "value": "1.71"
+          },
+          {
+            "name": "mod_duration",
+            "value": "1.6"
+          },
+          {
+            "name": "ytm",
+            "value": "(%) :  7.73"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "1,595.83 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "69",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20070531"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "CRISIL Short Duration Debt A-II Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "71",
+            "benchmark_index": "71",
+            "count": 43,
+            "fund_manager_managing_fund_since": "71",
+            "fund_manager_name": "71",
+            "fund_manager_qualification": "71",
+            "fund_manager_total_exp": "71",
+            "load_exit": "71",
+            "main_scheme_name": "71",
+            "metrics_avg_maturity": "71",
+            "metrics_macaulay": "71",
+            "metrics_mod_duration": "71",
+            "metrics_ytm": "71",
+            "min_addl_amt": "71",
+            "min_addl_amt_multiple": "71",
+            "min_amt": "71",
+            "min_amt_multiple": "71",
+            "monthly_aaum_date": "71",
+            "monthly_aaum_value": "71",
+            "mutual_fund_name": "71",
+            "riskometer": "71",
+            "riskometer_benchmark": "71",
+            "scheme_launch_date": "71"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Pratik Shroff",
+            "qualification": "",
+            "total_exp": "19+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Rahul Singh",
+            "qualification": "",
+            "total_exp": "22+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "LIC MF Short Term Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "1.99"
+          },
+          {
+            "name": "macaulay",
+            "value": "1.81"
+          },
+          {
+            "name": "mod_duration",
+            "value": "1.7"
+          },
+          {
+            "name": "ytm",
+            "value": "(%) :  7.88"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "120.85 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "71",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20190201"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "NIFTY All Duration G-Sec Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "73",
+            "benchmark_index": "73",
+            "count": 43,
+            "fund_manager_managing_fund_since": "73",
+            "fund_manager_name": "73",
+            "fund_manager_qualification": "73",
+            "fund_manager_total_exp": "73",
+            "load_exit": "73",
+            "main_scheme_name": "73",
+            "metrics_avg_maturity": "73",
+            "metrics_macaulay": "73",
+            "metrics_mod_duration": "73",
+            "metrics_ytm": "73",
+            "min_addl_amt": "73",
+            "min_addl_amt_multiple": "73",
+            "min_amt": "73",
+            "min_amt_multiple": "73",
+            "monthly_aaum_date": "73",
+            "monthly_aaum_value": "73",
+            "mutual_fund_name": "73",
+            "riskometer": "73",
+            "riskometer_benchmark": "73",
+            "scheme_launch_date": "73"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Pratik Shroff",
+            "qualification": "",
+            "total_exp": "19+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Rahul Singh",
+            "qualification": "",
+            "total_exp": "22+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "0.25% if exit within 30 days from date of allotment of units"
+          }
+        ],
+        "main_scheme_name": "LIC MF Gilt Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "16.94"
+          },
+          {
+            "name": "macaulay",
+            "value": "6.59"
+          },
+          {
+            "name": "mod_duration",
+            "value": "6.34"
+          },
+          {
+            "name": "ytm",
+            "value": "(%) :  6.87"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "10000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "43.64 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "73",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "19991210"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "Crisil Hybrid 35 + 65 - Aggressive Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "75",
+            "benchmark_index": "75",
+            "count": 43,
+            "fund_manager_managing_fund_since": "75",
+            "fund_manager_name": "75",
+            "fund_manager_qualification": "75",
+            "fund_manager_total_exp": "75",
+            "load_exit": "75",
+            "main_scheme_name": "75",
+            "metrics_beta": "75",
+            "metrics_gross_exposure_turnover": "75",
+            "metrics_port_turnover_ratio": "75",
+            "metrics_sharpe": "75",
+            "metrics_std_dev": "75",
+            "min_addl_amt": "75",
+            "min_addl_amt_multiple": "75",
+            "min_amt": "75",
+            "min_amt_multiple": "75",
+            "monthly_aaum_date": "75",
+            "monthly_aaum_value": "75",
+            "mutual_fund_name": "75",
+            "riskometer": "75",
+            "riskometer_benchmark": "75",
+            "scheme_launch_date": "75"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Siddharth",
+            "qualification": "",
+            "total_exp": "20 Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Pratik Shroff",
+            "qualification": "",
+            "total_exp": "19+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil Lock-in Period: Lock-in-period for at least 5 years or till the child attains age of majority whichever is earlier."
+          }
+        ],
+        "main_scheme_name": "LIC MF Childrens Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.29"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.93"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "93"
+          },
+          {
+            "name": "sharpe",
+            "value": "(%) :  0.16"
+          },
+          {
+            "name": "std_dev",
+            "value": "(%) :  15.45"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "15.37 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "75",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20011112"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "BSE Sensex"
+        ],
+        "field_location": [
+          {
+            "amc_name": "77",
+            "benchmark_index": "77",
+            "count": 43,
+            "fund_manager_managing_fund_since": "77",
+            "fund_manager_name": "77",
+            "fund_manager_qualification": "77",
+            "fund_manager_total_exp": "77",
+            "load_exit": "77",
+            "main_scheme_name": "77",
+            "metrics_gross_exposure_turnover": "77",
+            "metrics_port_turnover_ratio": "77",
+            "min_addl_amt": "77",
+            "min_addl_amt_multiple": "77",
+            "min_amt": "77",
+            "min_amt_multiple": "77",
+            "monthly_aaum_date": "77",
+            "monthly_aaum_value": "77",
+            "mutual_fund_name": "77",
+            "riskometer": "77",
+            "riskometer_benchmark": "77",
+            "scheme_launch_date": "77"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Nikhil Kapoor",
+            "qualification": "",
+            "total_exp": "15+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Sasikant",
+            "qualification": "",
+            "total_exp": "20 Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil Liquidity: The Units of the scheme are listed on National Stock Exchange(NSE) Bombay Stock Exchange Ltd.(BSE). NSE Disclaimer: Refer next page BSE Disclaimer: Refer next page"
+          }
+        ],
+        "main_scheme_name": "LIC MF BSE Sensex ETF",
+        "metrics": [
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.04"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "4"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "25",
+        "min_amt_multiple": "2000",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "682.49 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "77",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20151130"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "Nifty 50"
+        ],
+        "field_location": [
+          {
+            "amc_name": "79",
+            "benchmark_index": "79",
+            "count": 43,
+            "fund_manager_managing_fund_since": "79",
+            "fund_manager_name": "79",
+            "fund_manager_qualification": "79",
+            "fund_manager_total_exp": "79",
+            "load_exit": "79",
+            "main_scheme_name": "79",
+            "metrics_gross_exposure_turnover": "79",
+            "metrics_port_turnover_ratio": "79",
+            "min_addl_amt": "79",
+            "min_addl_amt_multiple": "79",
+            "min_amt": "79",
+            "min_amt_multiple": "79",
+            "monthly_aaum_date": "79",
+            "monthly_aaum_value": "79",
+            "mutual_fund_name": "79",
+            "riskometer": "79",
+            "riskometer_benchmark": "79",
+            "scheme_launch_date": "79"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Nikhil Kapoor",
+            "qualification": "",
+            "total_exp": "15+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Sasikant",
+            "qualification": "",
+            "total_exp": "20 Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil Liquidity: The Units of the scheme are listed on National Stock Exchange(NSE) Bombay Stock Exchange Ltd.(BSE). NSE Disclaimer: Refer next page BSE Disclaimer: Refer next page"
+          }
+        ],
+        "main_scheme_name": "LIC MF NIFTY 50 ETF",
+        "metrics": [
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.03"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "3"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "25",
+        "min_amt_multiple": "10000",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "818.71 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "79",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20151120"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "Nifty 100"
+        ],
+        "field_location": [
+          {
+            "amc_name": "81",
+            "benchmark_index": "81",
+            "count": 43,
+            "fund_manager_managing_fund_since": "81",
+            "fund_manager_name": "81",
+            "fund_manager_qualification": "81",
+            "fund_manager_total_exp": "81",
+            "load_exit": "81",
+            "main_scheme_name": "81",
+            "metrics_gross_exposure_turnover": "81",
+            "metrics_port_turnover_ratio": "81",
+            "min_addl_amt": "81",
+            "min_addl_amt_multiple": "81",
+            "min_amt": "81",
+            "min_amt_multiple": "81",
+            "monthly_aaum_date": "81",
+            "monthly_aaum_value": "81",
+            "mutual_fund_name": "81",
+            "riskometer": "81",
+            "riskometer_benchmark": "81",
+            "scheme_launch_date": "81"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Nikhil Kapoor",
+            "qualification": "",
+            "total_exp": "15+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Sasikant",
+            "qualification": "",
+            "total_exp": "20 Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil Liquidity: The Units of the scheme are listed on National Stock Exchange(NSE) Bombay Stock Exchange Ltd.(BSE). NSE Disclaimer: Refer next page BSE Disclaimer: Refer next page"
+          }
+        ],
+        "main_scheme_name": "LIC MF NIFTY 100 ETF",
+        "metrics": [
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.08"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "8"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "25",
+        "min_amt_multiple": "40000",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "697.03 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "81",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20160317"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "Nifty Midcap 100 -"
+        ],
+        "field_location": [
+          {
+            "amc_name": "83",
+            "benchmark_index": "83",
+            "count": 43,
+            "fund_manager_managing_fund_since": "83",
+            "fund_manager_name": "83",
+            "fund_manager_qualification": "83",
+            "fund_manager_total_exp": "83",
+            "load_exit": "83",
+            "main_scheme_name": "83",
+            "metrics_gross_exposure_turnover": "83",
+            "metrics_port_turnover_ratio": "83",
+            "min_addl_amt": "83",
+            "min_addl_amt_multiple": "83",
+            "min_amt": "83",
+            "min_amt_multiple": "83",
+            "monthly_aaum_date": "83",
+            "monthly_aaum_value": "83",
+            "mutual_fund_name": "83",
+            "riskometer": "83",
+            "riskometer_benchmark": "83",
+            "scheme_launch_date": "83"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Nikhil Kapoor",
+            "qualification": "",
+            "total_exp": "15+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Sasikant",
+            "qualification": "",
+            "total_exp": "20 Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil Liquidity: The Units of the scheme are listed on National Stock Exchange(NSE) Bombay Stock Exchange Ltd.(BSE). NSE Disclaimer: Refer next page BSE Disclaimer: Refer next page"
+          }
+        ],
+        "main_scheme_name": "LIC MF Nifty Midcap 100 ETF",
+        "metrics": [
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.25"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "25"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "25",
+        "min_amt_multiple": "200000",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "617.30 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "83",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20240214"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "Nifty 8-13 yr G-Sec Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "85",
+            "benchmark_index": "85",
+            "count": 43,
+            "fund_manager_managing_fund_since": "85",
+            "fund_manager_name": "85",
+            "fund_manager_qualification": "85",
+            "fund_manager_total_exp": "85",
+            "load_exit": "85",
+            "main_scheme_name": "85",
+            "metrics_avg_maturity": "85",
+            "metrics_macaulay": "85",
+            "metrics_mod_duration": "85",
+            "metrics_ytm": "85",
+            "min_addl_amt": "85",
+            "min_addl_amt_multiple": "85",
+            "min_amt": "85",
+            "min_amt_multiple": "85",
+            "monthly_aaum_date": "85",
+            "monthly_aaum_value": "85",
+            "mutual_fund_name": "85",
+            "riskometer": "85",
+            "riskometer_benchmark": "85",
+            "scheme_launch_date": "85"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Pratik Shroff",
+            "qualification": "",
+            "total_exp": "19+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Rahul Singh",
+            "qualification": "",
+            "total_exp": "22+ Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil Liquidity: The Units of the scheme are listed on National Stock Exchange(NSE). NSE Disclaimer: Refer next page"
+          }
+        ],
+        "main_scheme_name": "LIC MF Nifty 8-13 yr G-Sec ETF",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "9.22"
+          },
+          {
+            "name": "macaulay",
+            "value": "6.93"
+          },
+          {
+            "name": "mod_duration",
+            "value": "6.69"
+          },
+          {
+            "name": "ytm",
+            "value": "(%) :  7.38"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "25",
+        "min_amt_multiple": "100000",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "1,686.82 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "85",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20141224"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "BSE Sensex"
+        ],
+        "field_location": [
+          {
+            "amc_name": "87",
+            "benchmark_index": "87",
+            "count": 43,
+            "fund_manager_managing_fund_since": "87",
+            "fund_manager_name": "87",
+            "fund_manager_qualification": "87",
+            "fund_manager_total_exp": "87",
+            "load_exit": "87",
+            "main_scheme_name": "87",
+            "metrics_gross_exposure_turnover": "87",
+            "metrics_port_turnover_ratio": "87",
+            "min_addl_amt": "87",
+            "min_addl_amt_multiple": "87",
+            "min_amt": "87",
+            "min_amt_multiple": "87",
+            "monthly_aaum_date": "87",
+            "monthly_aaum_value": "87",
+            "mutual_fund_name": "87",
+            "riskometer": "87",
+            "riskometer_benchmark": "87",
+            "scheme_launch_date": "87"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Nikhil Kapoor",
+            "qualification": "",
+            "total_exp": "15+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Sasikant",
+            "qualification": "",
+            "total_exp": "20 Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "0.25% if redeemed or switch out on or before completion of 7 Days from the date of allotment of units Nil after 7 days"
+          }
+        ],
+        "main_scheme_name": "LIC MF BSE Sensex Index Fund",
+        "metrics": [
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.04"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "4"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "87.60 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "87",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20021205"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "Nifty 50"
+        ],
+        "field_location": [
+          {
+            "amc_name": "89",
+            "benchmark_index": "89",
+            "count": 43,
+            "fund_manager_managing_fund_since": "89",
+            "fund_manager_name": "89",
+            "fund_manager_qualification": "89",
+            "fund_manager_total_exp": "89",
+            "load_exit": "89",
+            "main_scheme_name": "89",
+            "metrics_gross_exposure_turnover": "89",
+            "metrics_port_turnover_ratio": "89",
+            "min_addl_amt": "89",
+            "min_addl_amt_multiple": "89",
+            "min_amt": "89",
+            "min_amt_multiple": "89",
+            "monthly_aaum_date": "89",
+            "monthly_aaum_value": "89",
+            "mutual_fund_name": "89",
+            "riskometer": "89",
+            "riskometer_benchmark": "89",
+            "scheme_launch_date": "89"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Nikhil Kapoor",
+            "qualification": "",
+            "total_exp": "15+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Sasikant",
+            "qualification": "",
+            "total_exp": "20 Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "0.25% if redeemed or switch out on or before completion of 7 Days from the date of allotment of units Nil after 7 days"
+          }
+        ],
+        "main_scheme_name": "LIC MF NIFTY 50 Index Fund",
+        "metrics": [
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.05"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "5"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "346.98 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "89",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20021205"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "Nifty Next 50 -"
+        ],
+        "field_location": [
+          {
+            "amc_name": "91",
+            "benchmark_index": "91",
+            "count": 43,
+            "fund_manager_managing_fund_since": "91",
+            "fund_manager_name": "91",
+            "fund_manager_qualification": "91",
+            "fund_manager_total_exp": "91",
+            "load_exit": "91",
+            "main_scheme_name": "91",
+            "metrics_gross_exposure_turnover": "91",
+            "metrics_port_turnover_ratio": "91",
+            "min_addl_amt": "91",
+            "min_addl_amt_multiple": "91",
+            "min_amt": "91",
+            "min_amt_multiple": "91",
+            "monthly_aaum_date": "91",
+            "monthly_aaum_value": "91",
+            "mutual_fund_name": "91",
+            "riskometer": "91",
+            "riskometer_benchmark": "91",
+            "scheme_launch_date": "91"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Nikhil Kapoor",
+            "qualification": "",
+            "total_exp": "15+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Sasikant",
+            "qualification": "",
+            "total_exp": "20 Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "LIC MF Nifty Next 50 Index Fund",
+        "metrics": [
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.30"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "30"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "107.45 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "91",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20100920"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "Domestic Price of Gold"
+        ],
+        "field_location": [
+          {
+            "amc_name": "93",
+            "benchmark_index": "93",
+            "count": 43,
+            "fund_manager_managing_fund_since": "93",
+            "fund_manager_name": "93",
+            "fund_manager_qualification": "93",
+            "fund_manager_total_exp": "93",
+            "load_exit": "93",
+            "main_scheme_name": "93",
+            "min_addl_amt": "93",
+            "min_addl_amt_multiple": "93",
+            "min_amt": "93",
+            "min_amt_multiple": "93",
+            "monthly_aaum_date": "93",
+            "monthly_aaum_value": "93",
+            "mutual_fund_name": "93",
+            "riskometer": "93",
+            "riskometer_benchmark": "93",
+            "scheme_launch_date": "93"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Sumit Bhatnagar",
+            "qualification": "",
+            "total_exp": "25+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Sasikant",
+            "qualification": "",
+            "total_exp": "20 Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil Liquidity: The Units of the scheme are listed on National Stock Exchange(NSE) Bombay Stock Exchange Ltd.(BSE). NSE Disclaimer: Refer next page BSE Disclaimer: Refer next page"
+          }
+        ],
+        "main_scheme_name": "LIC MF Gold Exchange Traded Fund",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "120000",
+        "min_amt_multiple": "120000",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "1,427.22 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "93",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20111109"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "LIC Mutual Fund Asset Management Limited",
+        "benchmark_index": [
+          "Domestic Price of Gold"
+        ],
+        "field_location": [
+          {
+            "amc_name": "95",
+            "benchmark_index": "95",
+            "count": 43,
+            "fund_manager_managing_fund_since": "95",
+            "fund_manager_name": "95",
+            "fund_manager_qualification": "95",
+            "fund_manager_total_exp": "95",
+            "load_exit": "95",
+            "main_scheme_name": "95",
+            "min_addl_amt": "95",
+            "min_addl_amt_multiple": "95",
+            "min_amt": "95",
+            "min_amt_multiple": "95",
+            "monthly_aaum_date": "95",
+            "monthly_aaum_value": "95",
+            "mutual_fund_name": "95",
+            "riskometer": "95",
+            "riskometer_benchmark": "95",
+            "scheme_launch_date": "95"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "",
+            "name": "Sumit Bhatnagar",
+            "qualification": "",
+            "total_exp": "25+ Years"
+          },
+          {
+            "managing_fund_since": "",
+            "name": "Sasikant",
+            "qualification": "",
+            "total_exp": "20 Years"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% for exit (redemption switchout transfer SWP) within 15 days from the date of allotment. Nil, if units of scheme are redeemed or switched out after 15 days from the date of allotment."
+          }
+        ],
+        "main_scheme_name": "LIC MF Gold ETF",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "5000",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "827.29 Cr",
+        "mutual_fund_name": "LIC Mutual Fund",
+        "page_number": "95",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20120814"
+      }
+    }
+  ]
+}

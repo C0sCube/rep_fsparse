@@ -1,0 +1,4951 @@
+{
+  "metadata": {
+    "document_name": "28_31-Oct-26_1_FS.pdf",
+    "file_type": "fs",
+    "process_date": "20261123"
+  },
+  "records": [
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "NASDAQ-100"
+        ],
+        "field_location": [
+          {
+            "amc_name": "5",
+            "benchmark_index": "5",
+            "count": 67,
+            "fund_manager_managing_fund_since": "5",
+            "fund_manager_name": "5",
+            "fund_manager_qualification": "5",
+            "fund_manager_total_exp": "5",
+            "load_exit": "5",
+            "main_scheme_name": "5",
+            "min_addl_amt": "5",
+            "min_addl_amt_multiple": "5",
+            "min_amt": "5",
+            "min_amt_multiple": "5",
+            "monthly_aaum_date": "5",
+            "monthly_aaum_value": "5",
+            "mutual_fund_name": "5",
+            "riskometer": "5",
+            "riskometer_benchmark": "5",
+            "scheme_launch_date": "5"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "26 July, 2019"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "15 October, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "22 November, 2022"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1%- If redeemed on or before 15 days from the date of allotment. Nil- If redeemed after 15 days from the date of allotment. Exit Load will be applicable on switch-options amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out from Regular to Direct plan within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nasdaq 100 ETF Product labeling : This product is suitable for investors who are seeking Return that corresponds to the performance of the NASDAQ-100 Total Returns Index subject to tracking error Investment in units of Motilal Oswal Nasdaq 100 ETF Motilal Oswal Nasdaq 100 Fund of Fund",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "7,738.97 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "5",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20181129"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty 500 Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "7",
+            "benchmark_index": "7",
+            "count": 67,
+            "fund_manager_managing_fund_since": "7",
+            "fund_manager_name": "7",
+            "fund_manager_qualification": "7",
+            "fund_manager_total_exp": "7",
+            "load_exit": "7",
+            "main_scheme_name": "7",
+            "metrics_beta": "7",
+            "metrics_std_dev": "7",
+            "min_addl_amt": "7",
+            "min_addl_amt_multiple": "7",
+            "min_amt": "7",
+            "min_amt_multiple": "7",
+            "monthly_aaum_date": "7",
+            "monthly_aaum_value": "7",
+            "mutual_fund_name": "7",
+            "riskometer": "7",
+            "riskometer_benchmark": "7",
+            "scheme_launch_date": "7"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "06 September, 2019"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "15 October, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "20 December, 2024"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1%- If redeemed on or before 15 days from the date of allotment. Nil- If redeemed after 15 days from the date of allotment. Exit Load will be applicable on switch-options amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out from Regular to Direct plan within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty 500 Index Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.0"
+          },
+          {
+            "name": "std_dev",
+            "value": "15.4"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "3,095.06 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "7",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20190906"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty Midcap 150 Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "9",
+            "benchmark_index": "9",
+            "count": 67,
+            "fund_manager_managing_fund_since": "9",
+            "fund_manager_name": "9",
+            "fund_manager_qualification": "9",
+            "fund_manager_total_exp": "9",
+            "load_exit": "9",
+            "main_scheme_name": "9",
+            "metrics_beta": "9",
+            "metrics_std_dev": "9",
+            "min_addl_amt": "9",
+            "min_addl_amt_multiple": "9",
+            "min_amt": "9",
+            "min_amt_multiple": "9",
+            "monthly_aaum_date": "9",
+            "monthly_aaum_value": "9",
+            "mutual_fund_name": "9",
+            "riskometer": "9",
+            "riskometer_benchmark": "9",
+            "scheme_launch_date": "9"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "06 September, 2019"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "15 October, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "20 December, 2024"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 15 days from the date of allotment. Nil - If redeemed after 15 days from the date of allotment. Exit Load will be applicable on switch-options amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out from Regular to Direct plan within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty Midcap 150 Index Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.0"
+          },
+          {
+            "name": "std_dev",
+            "value": "18.3"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "3,973.54 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "9",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20190906"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty Smallcap 250"
+        ],
+        "field_location": [
+          {
+            "amc_name": "11",
+            "benchmark_index": "11",
+            "count": 67,
+            "fund_manager_managing_fund_since": "11",
+            "fund_manager_name": "11",
+            "fund_manager_qualification": "11",
+            "fund_manager_total_exp": "11",
+            "load_exit": "11",
+            "main_scheme_name": "11",
+            "metrics_beta": "11",
+            "metrics_std_dev": "11",
+            "min_addl_amt": "11",
+            "min_addl_amt_multiple": "11",
+            "min_amt": "11",
+            "min_amt_multiple": "11",
+            "monthly_aaum_date": "11",
+            "monthly_aaum_value": "11",
+            "mutual_fund_name": "11",
+            "riskometer": "11",
+            "riskometer_benchmark": "11",
+            "scheme_launch_date": "11"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "06 September, 2019"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "15 October, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "20 December, 2024"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 15 days from the date of allotment. Nil - If redeemed after 15 days from the date of allotment. Exit Load will be applicable on switch-options amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out from Regular to Direct plan within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty Smallcap 250 Index Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.0"
+          },
+          {
+            "name": "std_dev",
+            "value": "21.9"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "1,212.69 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "11",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20190906"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty Bank"
+        ],
+        "field_location": [
+          {
+            "amc_name": "13",
+            "benchmark_index": "13",
+            "count": 67,
+            "fund_manager_managing_fund_since": "13",
+            "fund_manager_name": "13",
+            "fund_manager_qualification": "13",
+            "fund_manager_total_exp": "13",
+            "load_exit": "13",
+            "main_scheme_name": "13",
+            "metrics_beta": "13",
+            "metrics_std_dev": "13",
+            "min_addl_amt": "13",
+            "min_addl_amt_multiple": "13",
+            "min_amt": "13",
+            "min_amt_multiple": "13",
+            "monthly_aaum_date": "13",
+            "monthly_aaum_value": "13",
+            "mutual_fund_name": "13",
+            "riskometer": "13",
+            "riskometer_benchmark": "13",
+            "scheme_launch_date": "13"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "06 September, 2019"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "15 October, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "20 December, 2024"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 15 days from the date of allotment. Nil- If redeemed after 15 days from the date of allotment. Exit Load will be applicable on switch-options amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out from Regular to Direct plan within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty Bank Index Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.0"
+          },
+          {
+            "name": "std_dev",
+            "value": "16.5"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "622.46 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "13",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20190906"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty 50"
+        ],
+        "field_location": [
+          {
+            "amc_name": "15",
+            "benchmark_index": "15",
+            "count": 67,
+            "fund_manager_managing_fund_since": "15",
+            "fund_manager_name": "15",
+            "fund_manager_qualification": "15",
+            "fund_manager_total_exp": "15",
+            "load_exit": "15",
+            "main_scheme_name": "15",
+            "metrics_beta": "15",
+            "metrics_std_dev": "15",
+            "min_addl_amt": "15",
+            "min_addl_amt_multiple": "15",
+            "min_amt": "15",
+            "min_amt_multiple": "15",
+            "monthly_aaum_date": "15",
+            "monthly_aaum_value": "15",
+            "mutual_fund_name": "15",
+            "riskometer": "15",
+            "riskometer_benchmark": "15",
+            "scheme_launch_date": "15"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "23 December, 2019"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "15 October, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "20 December, 2024"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty 50 Index Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.0"
+          },
+          {
+            "name": "std_dev",
+            "value": "13.8"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "860.04 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "15",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20191223"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty Next 50"
+        ],
+        "field_location": [
+          {
+            "amc_name": "17",
+            "benchmark_index": "17",
+            "count": 67,
+            "fund_manager_managing_fund_since": "17",
+            "fund_manager_name": "17",
+            "fund_manager_qualification": "17",
+            "fund_manager_total_exp": "17",
+            "load_exit": "17",
+            "main_scheme_name": "17",
+            "metrics_beta": "17",
+            "metrics_std_dev": "17",
+            "min_addl_amt": "17",
+            "min_addl_amt_multiple": "17",
+            "min_amt": "17",
+            "min_amt_multiple": "17",
+            "monthly_aaum_date": "17",
+            "monthly_aaum_value": "17",
+            "mutual_fund_name": "17",
+            "riskometer": "17",
+            "riskometer_benchmark": "17",
+            "scheme_launch_date": "17"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "23 December, 2019"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "15 October, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "20 December, 2024"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 15 days from the date of allotment. Nil - If redeemed after 15 days from the date of allotment. Exit Load will be applicable on switch-options amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out from Regular to Direct plan within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty Next 50 Index Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.0"
+          },
+          {
+            "name": "std_dev",
+            "value": "20.2"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "504.38 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "17",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20191223"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "S P 500 Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "19",
+            "benchmark_index": "19",
+            "count": 67,
+            "fund_manager_managing_fund_since": "19",
+            "fund_manager_name": "19",
+            "fund_manager_qualification": "19",
+            "fund_manager_total_exp": "19",
+            "load_exit": "19",
+            "main_scheme_name": "19",
+            "metrics_beta": "19",
+            "metrics_std_dev": "19",
+            "min_addl_amt": "19",
+            "min_addl_amt_multiple": "19",
+            "min_amt": "19",
+            "min_amt_multiple": "19",
+            "monthly_aaum_date": "19",
+            "monthly_aaum_value": "19",
+            "mutual_fund_name": "19",
+            "riskometer": "19",
+            "riskometer_benchmark": "19",
+            "scheme_launch_date": "19"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "13 October, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "13 October, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "22 November, 2022"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1%- If redeemed on or before 7 days from the date of allotment. Nil- If redeemed after 7 days from the date of allotment. Exit Load will be applicable on switch-options amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out from Regular to Direct plan within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal S&P 500 Index Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.0"
+          },
+          {
+            "name": "std_dev",
+            "value": "13.8"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "4,604.08 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "19",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20200428"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty 50"
+        ],
+        "field_location": [
+          {
+            "amc_name": "21",
+            "benchmark_index": "21",
+            "count": 67,
+            "fund_manager_managing_fund_since": "21",
+            "fund_manager_name": "21",
+            "fund_manager_qualification": "21",
+            "fund_manager_total_exp": "21",
+            "load_exit": "21",
+            "main_scheme_name": "21",
+            "metrics_beta": "21",
+            "metrics_std_dev": "21",
+            "min_addl_amt": "21",
+            "min_addl_amt_multiple": "21",
+            "min_amt": "21",
+            "min_amt_multiple": "21",
+            "monthly_aaum_date": "21",
+            "monthly_aaum_value": "21",
+            "mutual_fund_name": "21",
+            "riskometer": "21",
+            "riskometer_benchmark": "21",
+            "scheme_launch_date": "21"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "26 July, 2019"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "15 October, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "20 December, 2024"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty 50 ETF",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.0"
+          },
+          {
+            "name": "std_dev",
+            "value": "13.8"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "72.93 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "21",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20100728"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty Midcap 100"
+        ],
+        "field_location": [
+          {
+            "amc_name": "23",
+            "benchmark_index": "23",
+            "count": 67,
+            "fund_manager_managing_fund_since": "23",
+            "fund_manager_name": "23",
+            "fund_manager_qualification": "23",
+            "fund_manager_total_exp": "23",
+            "load_exit": "23",
+            "main_scheme_name": "23",
+            "metrics_beta": "23",
+            "metrics_std_dev": "23",
+            "min_addl_amt": "23",
+            "min_addl_amt_multiple": "23",
+            "min_amt": "23",
+            "min_amt_multiple": "23",
+            "monthly_aaum_date": "23",
+            "monthly_aaum_value": "23",
+            "mutual_fund_name": "23",
+            "riskometer": "23",
+            "riskometer_benchmark": "23",
+            "scheme_launch_date": "23"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "26 July, 2019"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "15 October, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "20 December, 2024"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty Midcap 100 ETF",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.0"
+          },
+          {
+            "name": "std_dev",
+            "value": "19.0"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "811.76 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "23",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20110131"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "NASDAQ - 100"
+        ],
+        "field_location": [
+          {
+            "amc_name": "25",
+            "benchmark_index": "25",
+            "count": 67,
+            "fund_manager_managing_fund_since": "25",
+            "fund_manager_name": "25",
+            "fund_manager_qualification": "25",
+            "fund_manager_total_exp": "25",
+            "load_exit": "25",
+            "main_scheme_name": "25",
+            "metrics_beta": "25",
+            "metrics_std_dev": "25",
+            "min_addl_amt": "25",
+            "min_addl_amt_multiple": "25",
+            "min_amt": "25",
+            "min_amt_multiple": "25",
+            "monthly_aaum_date": "25",
+            "monthly_aaum_value": "25",
+            "mutual_fund_name": "25",
+            "riskometer": "25",
+            "riskometer_benchmark": "25",
+            "scheme_launch_date": "25"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "13 October, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "13 October, 2025"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nasdaq 100 ETF",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.0"
+          },
+          {
+            "name": "std_dev",
+            "value": "19.4"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "14,097.32   Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "25",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20110329"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty 5 year Benchmark G-sec"
+        ],
+        "field_location": [
+          {
+            "amc_name": "27",
+            "benchmark_index": "27",
+            "count": 67,
+            "fund_manager_managing_fund_since": "27",
+            "fund_manager_name": "27",
+            "fund_manager_qualification": "27",
+            "fund_manager_total_exp": "27",
+            "load_exit": "27",
+            "main_scheme_name": "27",
+            "metrics_avg_maturity": "27",
+            "metrics_macaulay": "27",
+            "metrics_mod_duration": "27",
+            "metrics_ytm": "27",
+            "min_addl_amt": "27",
+            "min_addl_amt_multiple": "27",
+            "min_amt": "27",
+            "min_amt_multiple": "27",
+            "monthly_aaum_date": "27",
+            "monthly_aaum_value": "27",
+            "mutual_fund_name": "27",
+            "riskometer": "27",
+            "riskometer_benchmark": "27",
+            "scheme_launch_date": "27"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "22 November, 2022"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty 5 year Benchmark G-Sec ETF",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "4.29"
+          },
+          {
+            "name": "macaulay",
+            "value": "3.72"
+          },
+          {
+            "name": "mod_duration",
+            "value": "3.47"
+          },
+          {
+            "name": "ytm",
+            "value": "7.20"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "161.11 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "27",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20201210"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty 5 yr Benchmark G-sec"
+        ],
+        "field_location": [
+          {
+            "amc_name": "29",
+            "benchmark_index": "29",
+            "count": 67,
+            "fund_manager_managing_fund_since": "29",
+            "fund_manager_name": "29",
+            "fund_manager_qualification": "29",
+            "fund_manager_total_exp": "29",
+            "load_exit": "29",
+            "main_scheme_name": "29",
+            "min_addl_amt": "29",
+            "min_addl_amt_multiple": "29",
+            "min_amt": "29",
+            "min_amt_multiple": "29",
+            "monthly_aaum_date": "29",
+            "monthly_aaum_value": "29",
+            "mutual_fund_name": "29",
+            "riskometer": "29",
+            "riskometer_benchmark": "29",
+            "scheme_launch_date": "29"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "22 November, 2022"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1%- If redeemed on or before 15 days from the date of allotment. Nil- If redeemed after 15 days from the date of allotment. Exit Load will be applicable on switch-options amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out from Regular to Direct plan within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal 5 Year G-sec Fund Of Fund",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "64.82 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "29",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20211006"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "60% Nifty 500 + 30% NIFTY Composite Debt Index + 10% Domestic Price of Gold Silver"
+        ],
+        "field_location": [
+          {
+            "amc_name": "31",
+            "benchmark_index": "31",
+            "count": 67,
+            "fund_manager_managing_fund_since": "31",
+            "fund_manager_name": "31",
+            "fund_manager_qualification": "31",
+            "fund_manager_total_exp": "31",
+            "load_exit": "31",
+            "main_scheme_name": "31",
+            "metrics_beta": "31",
+            "metrics_std_dev": "31",
+            "min_addl_amt": "31",
+            "min_addl_amt_multiple": "31",
+            "min_amt": "31",
+            "min_amt_multiple": "31",
+            "monthly_aaum_date": "31",
+            "monthly_aaum_value": "31",
+            "mutual_fund_name": "31",
+            "riskometer": "31",
+            "riskometer_benchmark": "31",
+            "scheme_launch_date": "31"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "12 June, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "22 November, 2022"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil - If redeemed on or before 15 days from the date of allotment. Nil - If redeemed after 15 days from the date of allotment. No exit load shall be imposed on switches amongst the Schemes of MOMF and switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch out amongst the plans within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Multi Asset Passive Fund of Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.0"
+          },
+          {
+            "name": "std_dev",
+            "value": "10.0"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "148.53 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "31",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20210312"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "30% Nifty 500 + 10% S P 500 (INR) + 10% Domestic Price of Gold + 50% Nifty 5 Yr Benchmark G-Sec Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "33",
+            "benchmark_index": "33",
+            "count": 67,
+            "fund_manager_managing_fund_since": "33",
+            "fund_manager_name": "33",
+            "fund_manager_qualification": "33",
+            "fund_manager_total_exp": "33",
+            "load_exit": "33",
+            "main_scheme_name": "33",
+            "metrics_beta": "33",
+            "metrics_std_dev": "33",
+            "min_addl_amt": "33",
+            "min_addl_amt_multiple": "33",
+            "min_amt": "33",
+            "min_amt_multiple": "33",
+            "monthly_aaum_date": "33",
+            "monthly_aaum_value": "33",
+            "mutual_fund_name": "33",
+            "riskometer": "33",
+            "riskometer_benchmark": "33",
+            "scheme_launch_date": "33"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "12 June, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "22 November, 2022"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1%- If redeemed on or before 15 days from the date of allotment. Nil- If redeemed after 15 days from the date of allotment. Exit Load will be applicable on switch-options amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out from Regular to Direct plan within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Asset Allocation Passive Fund of Fund Conservative",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.6"
+          },
+          {
+            "name": "std_dev",
+            "value": "6.1"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "68.88 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "33",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20210312"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nasdaq Q-50"
+        ],
+        "field_location": [
+          {
+            "amc_name": "35",
+            "benchmark_index": "35",
+            "count": 67,
+            "fund_manager_managing_fund_since": "35",
+            "fund_manager_name": "35",
+            "fund_manager_qualification": "35",
+            "fund_manager_total_exp": "35",
+            "load_exit": "35",
+            "main_scheme_name": "35",
+            "metrics_beta": "35",
+            "metrics_std_dev": "35",
+            "min_addl_amt": "35",
+            "min_addl_amt_multiple": "35",
+            "min_amt": "35",
+            "min_amt_multiple": "35",
+            "monthly_aaum_date": "35",
+            "monthly_aaum_value": "35",
+            "mutual_fund_name": "35",
+            "riskometer": "35",
+            "riskometer_benchmark": "35",
+            "scheme_launch_date": "35"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "13 October, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "13 October, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "22 November, 2022"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nasdaq Q 50 ETF",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.0"
+          },
+          {
+            "name": "std_dev",
+            "value": "20.0"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "176.31 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "35",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20211223"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty 200 Momentum 30"
+        ],
+        "field_location": [
+          {
+            "amc_name": "37",
+            "benchmark_index": "37",
+            "count": 67,
+            "fund_manager_managing_fund_since": "37",
+            "fund_manager_name": "37",
+            "fund_manager_qualification": "37",
+            "fund_manager_total_exp": "37",
+            "load_exit": "37",
+            "main_scheme_name": "37",
+            "metrics_beta": "37",
+            "metrics_std_dev": "37",
+            "min_addl_amt": "37",
+            "min_addl_amt_multiple": "37",
+            "min_amt": "37",
+            "min_amt_multiple": "37",
+            "monthly_aaum_date": "37",
+            "monthly_aaum_value": "37",
+            "mutual_fund_name": "37",
+            "riskometer": "37",
+            "riskometer_benchmark": "37",
+            "scheme_launch_date": "37"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "10 February, 2022"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "15 October, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "22 November, 2022"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty 200 Momentum 30 ETF",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.0"
+          },
+          {
+            "name": "std_dev",
+            "value": "19.9"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "112.56 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "37",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20220210"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty 200 Momentum 30"
+        ],
+        "field_location": [
+          {
+            "amc_name": "39",
+            "benchmark_index": "39",
+            "count": 67,
+            "fund_manager_managing_fund_since": "39",
+            "fund_manager_name": "39",
+            "fund_manager_qualification": "39",
+            "fund_manager_total_exp": "39",
+            "load_exit": "39",
+            "main_scheme_name": "39",
+            "metrics_beta": "39",
+            "metrics_std_dev": "39",
+            "min_addl_amt": "39",
+            "min_addl_amt_multiple": "39",
+            "min_amt": "39",
+            "min_amt_multiple": "39",
+            "monthly_aaum_date": "39",
+            "monthly_aaum_value": "39",
+            "mutual_fund_name": "39",
+            "riskometer": "39",
+            "riskometer_benchmark": "39",
+            "scheme_launch_date": "39"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "10 February, 2022"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "15 October, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "22 November, 2022"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 15 days from the date of allotment. Nil - If redeemed after 15 days from the date of allotment. Exit Load will be applicable on switch-options amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out from Regular to Direct plan within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty 200 Momentum 30 Index Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.0"
+          },
+          {
+            "name": "std_dev",
+            "value": "19.8"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "858.88 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "39",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20220210"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "BSE Low Volatility"
+        ],
+        "field_location": [
+          {
+            "amc_name": "41",
+            "benchmark_index": "41",
+            "count": 67,
+            "fund_manager_managing_fund_since": "41",
+            "fund_manager_name": "41",
+            "fund_manager_qualification": "41",
+            "fund_manager_total_exp": "41",
+            "load_exit": "41",
+            "main_scheme_name": "41",
+            "metrics_beta": "41",
+            "metrics_std_dev": "41",
+            "min_addl_amt": "41",
+            "min_addl_amt_multiple": "41",
+            "min_amt": "41",
+            "min_amt_multiple": "41",
+            "monthly_aaum_date": "41",
+            "monthly_aaum_value": "41",
+            "mutual_fund_name": "41",
+            "riskometer": "41",
+            "riskometer_benchmark": "41",
+            "scheme_launch_date": "41"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "23 March, 2022"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "15 October, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "22 November, 2022"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 15 days from the date of allotment. Nil - If redeemed after 15 days from the date of allotment. Exit Load will be applicable on switch-options amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out from Regular to Direct plan within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal BSE Low Volatility Index Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.0"
+          },
+          {
+            "name": "std_dev",
+            "value": "14.2"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "57.95 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "41",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20220323"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "BSE Low Volatility"
+        ],
+        "field_location": [
+          {
+            "amc_name": "43",
+            "benchmark_index": "43",
+            "count": 67,
+            "fund_manager_managing_fund_since": "43",
+            "fund_manager_name": "43",
+            "fund_manager_qualification": "43",
+            "fund_manager_total_exp": "43",
+            "load_exit": "43",
+            "main_scheme_name": "43",
+            "metrics_beta": "43",
+            "metrics_std_dev": "43",
+            "min_addl_amt": "43",
+            "min_addl_amt_multiple": "43",
+            "min_amt": "43",
+            "min_amt_multiple": "43",
+            "monthly_aaum_date": "43",
+            "monthly_aaum_value": "43",
+            "mutual_fund_name": "43",
+            "riskometer": "43",
+            "riskometer_benchmark": "43",
+            "scheme_launch_date": "43"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "23 March, 2022"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "15 October, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "22 November, 2022"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal BSE Low Volatility ETF",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.0"
+          },
+          {
+            "name": "std_dev",
+            "value": "14.2"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "67.14 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "43",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20220323"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "BSE Financials ex Bank 30"
+        ],
+        "field_location": [
+          {
+            "amc_name": "45",
+            "benchmark_index": "45",
+            "count": 67,
+            "fund_manager_managing_fund_since": "45",
+            "fund_manager_name": "45",
+            "fund_manager_qualification": "45",
+            "fund_manager_total_exp": "45",
+            "load_exit": "45",
+            "main_scheme_name": "45",
+            "metrics_beta": "45",
+            "metrics_std_dev": "45",
+            "min_addl_amt": "45",
+            "min_addl_amt_multiple": "45",
+            "min_amt": "45",
+            "min_amt_multiple": "45",
+            "monthly_aaum_date": "45",
+            "monthly_aaum_value": "45",
+            "mutual_fund_name": "45",
+            "riskometer": "45",
+            "riskometer_benchmark": "45",
+            "scheme_launch_date": "45"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "29 July, 2022"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "15 October, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "22 November, 2022"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 15 days from the date of allotment. Nil - If redeemed after 15 days from the date of allotment. Exit Load will be applicable on switch-options amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out from Regular to Direct plan within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal BSE Financials ex Bank 30 Index Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.0"
+          },
+          {
+            "name": "std_dev",
+            "value": "18.1"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "29.27 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "45",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20220729"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "BSE Healthcare"
+        ],
+        "field_location": [
+          {
+            "amc_name": "47",
+            "benchmark_index": "47",
+            "count": 67,
+            "fund_manager_managing_fund_since": "47",
+            "fund_manager_name": "47",
+            "fund_manager_qualification": "47",
+            "fund_manager_total_exp": "47",
+            "load_exit": "47",
+            "main_scheme_name": "47",
+            "metrics_beta": "47",
+            "metrics_std_dev": "47",
+            "min_addl_amt": "47",
+            "min_addl_amt_multiple": "47",
+            "min_amt": "47",
+            "min_amt_multiple": "47",
+            "monthly_aaum_date": "47",
+            "monthly_aaum_value": "47",
+            "mutual_fund_name": "47",
+            "riskometer": "47",
+            "riskometer_benchmark": "47",
+            "scheme_launch_date": "47"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "29 July, 2022"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "15 October, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "22 November, 2022"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal BSE Healthcare ETF",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.0"
+          },
+          {
+            "name": "std_dev",
+            "value": "15.9"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "43.37 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "47",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20220729"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "BSE Enhanced Value"
+        ],
+        "field_location": [
+          {
+            "amc_name": "49",
+            "benchmark_index": "49",
+            "count": 67,
+            "fund_manager_managing_fund_since": "49",
+            "fund_manager_name": "49",
+            "fund_manager_qualification": "49",
+            "fund_manager_total_exp": "49",
+            "load_exit": "49",
+            "main_scheme_name": "49",
+            "metrics_beta": "49",
+            "metrics_std_dev": "49",
+            "min_addl_amt": "49",
+            "min_addl_amt_multiple": "49",
+            "min_amt": "49",
+            "min_amt_multiple": "49",
+            "monthly_aaum_date": "49",
+            "monthly_aaum_value": "49",
+            "mutual_fund_name": "49",
+            "riskometer": "49",
+            "riskometer_benchmark": "49",
+            "scheme_launch_date": "49"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "22 August, 2022"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "15 October, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "22 November, 2022"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 15 days from the date of allotment. Nil - If redeemed after 15 days from the date of allotment. Exit Load will be applicable on switch-options amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out from Regular to Direct plan within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal BSE Enhanced Value Index Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.0"
+          },
+          {
+            "name": "std_dev",
+            "value": "21.4"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "2,112.53 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "49",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20220822"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "BSE Enhanced Value"
+        ],
+        "field_location": [
+          {
+            "amc_name": "51",
+            "benchmark_index": "51",
+            "count": 67,
+            "fund_manager_managing_fund_since": "51",
+            "fund_manager_name": "51",
+            "fund_manager_qualification": "51",
+            "fund_manager_total_exp": "51",
+            "load_exit": "51",
+            "main_scheme_name": "51",
+            "metrics_beta": "51",
+            "metrics_std_dev": "51",
+            "min_addl_amt": "51",
+            "min_addl_amt_multiple": "51",
+            "min_amt": "51",
+            "min_amt_multiple": "51",
+            "monthly_aaum_date": "51",
+            "monthly_aaum_value": "51",
+            "mutual_fund_name": "51",
+            "riskometer": "51",
+            "riskometer_benchmark": "51",
+            "scheme_launch_date": "51"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "22 August, 2022"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "15 October, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "22 November, 2022"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal BSE Enhanced Value ETF",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.0"
+          },
+          {
+            "name": "std_dev",
+            "value": "21.5"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "144.50 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "51",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20220822"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "BSE Quality"
+        ],
+        "field_location": [
+          {
+            "amc_name": "53",
+            "benchmark_index": "53",
+            "count": 67,
+            "fund_manager_managing_fund_since": "53",
+            "fund_manager_name": "53",
+            "fund_manager_qualification": "53",
+            "fund_manager_total_exp": "53",
+            "load_exit": "53",
+            "main_scheme_name": "53",
+            "metrics_beta": "53",
+            "metrics_std_dev": "53",
+            "min_addl_amt": "53",
+            "min_addl_amt_multiple": "53",
+            "min_amt": "53",
+            "min_amt_multiple": "53",
+            "monthly_aaum_date": "53",
+            "monthly_aaum_value": "53",
+            "mutual_fund_name": "53",
+            "riskometer": "53",
+            "riskometer_benchmark": "53",
+            "scheme_launch_date": "53"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "22 August, 2022"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "15 October, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "22 November, 2022"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 15 days from the date of allotment. Nil - If redeemed after 15 days from the date of allotment. Exit Load will be applicable on switch-options amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out from Regular to Direct plan within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal BSE Quality Index Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.0"
+          },
+          {
+            "name": "std_dev",
+            "value": "18.2"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "53.55 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "53",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20220822"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "BSE Quality"
+        ],
+        "field_location": [
+          {
+            "amc_name": "55",
+            "benchmark_index": "55",
+            "count": 67,
+            "fund_manager_managing_fund_since": "55",
+            "fund_manager_name": "55",
+            "fund_manager_qualification": "55",
+            "fund_manager_total_exp": "55",
+            "load_exit": "55",
+            "main_scheme_name": "55",
+            "metrics_beta": "55",
+            "metrics_std_dev": "55",
+            "min_addl_amt": "55",
+            "min_addl_amt_multiple": "55",
+            "min_amt": "55",
+            "min_amt_multiple": "55",
+            "monthly_aaum_date": "55",
+            "monthly_aaum_value": "55",
+            "mutual_fund_name": "55",
+            "riskometer": "55",
+            "riskometer_benchmark": "55",
+            "scheme_launch_date": "55"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "22 August, 2022"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "15 October, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "22 November, 2022"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal BSE Quality ETF",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.0"
+          },
+          {
+            "name": "std_dev",
+            "value": "18.3"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "29.15 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "55",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20220822"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Domestic price of gold and silver"
+        ],
+        "field_location": [
+          {
+            "amc_name": "57",
+            "benchmark_index": "57",
+            "count": 67,
+            "fund_manager_managing_fund_since": "57",
+            "fund_manager_name": "57",
+            "fund_manager_qualification": "57",
+            "fund_manager_total_exp": "57",
+            "load_exit": "57",
+            "main_scheme_name": "57",
+            "min_addl_amt": "57",
+            "min_addl_amt_multiple": "57",
+            "min_amt": "57",
+            "min_amt_multiple": "57",
+            "monthly_aaum_date": "57",
+            "monthly_aaum_value": "57",
+            "mutual_fund_name": "57",
+            "riskometer": "57",
+            "riskometer_benchmark": "57",
+            "scheme_launch_date": "57"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "12 June, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "24 December, 2022"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Gold and Silver Passive Fund of Funds",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "2,765.77 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "57",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20221013"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty Microcap 250"
+        ],
+        "field_location": [
+          {
+            "amc_name": "59",
+            "benchmark_index": "59",
+            "count": 67,
+            "fund_manager_managing_fund_since": "59",
+            "fund_manager_name": "59",
+            "fund_manager_qualification": "59",
+            "fund_manager_total_exp": "59",
+            "load_exit": "59",
+            "main_scheme_name": "59",
+            "metrics_beta": "59",
+            "metrics_std_dev": "59",
+            "min_addl_amt": "59",
+            "min_addl_amt_multiple": "59",
+            "min_amt": "59",
+            "min_amt_multiple": "59",
+            "monthly_aaum_date": "59",
+            "monthly_aaum_value": "59",
+            "mutual_fund_name": "59",
+            "riskometer": "59",
+            "riskometer_benchmark": "59",
+            "scheme_launch_date": "59"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "05 July, 2023"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "15 October, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "20 December, 2024"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 15 days from the date of allotment. Nil - If redeemed after 15 days from the date of allotment. Exit Load will be applicable on switch-options amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out from Regular to Direct plan within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty Microcap 250 Index Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.0"
+          },
+          {
+            "name": "std_dev",
+            "value": "24.8"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "2,292.15 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "59",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20230705"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "S P Developed Ex- U.S. BMI"
+        ],
+        "field_location": [
+          {
+            "amc_name": "61",
+            "benchmark_index": "61",
+            "count": 67,
+            "fund_manager_managing_fund_since": "61",
+            "fund_manager_name": "61",
+            "fund_manager_qualification": "61",
+            "fund_manager_total_exp": "61",
+            "load_exit": "61",
+            "main_scheme_name": "61",
+            "min_addl_amt": "61",
+            "min_addl_amt_multiple": "61",
+            "min_amt": "61",
+            "min_amt_multiple": "61",
+            "monthly_aaum_date": "61",
+            "monthly_aaum_value": "61",
+            "mutual_fund_name": "61",
+            "riskometer": "61",
+            "riskometer_benchmark": "61",
+            "scheme_launch_date": "61"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "13 October, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "21 September, 2023"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 15 days from the date of allotment. Nil - If redeemed after 15 days from the date of allotment. Exit Load will be applicable on switch-options amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out from Regular to Direct plan within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Developed Market Ex US ETF",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "37.65 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "61",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20230921"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty 500"
+        ],
+        "field_location": [
+          {
+            "amc_name": "63",
+            "benchmark_index": "63",
+            "count": 67,
+            "fund_manager_managing_fund_since": "63",
+            "fund_manager_name": "63",
+            "fund_manager_qualification": "63",
+            "fund_manager_total_exp": "63",
+            "load_exit": "63",
+            "main_scheme_name": "63",
+            "metrics_beta": "63",
+            "metrics_std_dev": "63",
+            "min_addl_amt": "63",
+            "min_addl_amt_multiple": "63",
+            "min_amt": "63",
+            "min_amt_multiple": "63",
+            "monthly_aaum_date": "63",
+            "monthly_aaum_value": "63",
+            "mutual_fund_name": "63",
+            "riskometer": "63",
+            "riskometer_benchmark": "63",
+            "scheme_launch_date": "63"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "29 September, 2023"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "15 October, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "29 September, 2023"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty 500 ETF",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.0"
+          },
+          {
+            "name": "std_dev",
+            "value": "15.4"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "296.00 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "63",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20230929"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty Realty"
+        ],
+        "field_location": [
+          {
+            "amc_name": "65",
+            "benchmark_index": "65",
+            "count": 67,
+            "fund_manager_managing_fund_since": "65",
+            "fund_manager_name": "65",
+            "fund_manager_qualification": "65",
+            "fund_manager_total_exp": "65",
+            "load_exit": "65",
+            "main_scheme_name": "65",
+            "metrics_beta": "65",
+            "metrics_std_dev": "65",
+            "min_addl_amt": "65",
+            "min_addl_amt_multiple": "65",
+            "min_amt": "65",
+            "min_amt_multiple": "65",
+            "monthly_aaum_date": "65",
+            "monthly_aaum_value": "65",
+            "mutual_fund_name": "65",
+            "riskometer": "65",
+            "riskometer_benchmark": "65",
+            "scheme_launch_date": "65"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "15 March, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "15 October, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "15 March, 2024"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty Realty ETF",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.0"
+          },
+          {
+            "name": "std_dev",
+            "value": "32.7"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "230.70 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "65",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20240315"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty Smallcap 250"
+        ],
+        "field_location": [
+          {
+            "amc_name": "67",
+            "benchmark_index": "67",
+            "count": 67,
+            "fund_manager_managing_fund_since": "67",
+            "fund_manager_name": "67",
+            "fund_manager_qualification": "67",
+            "fund_manager_total_exp": "67",
+            "load_exit": "67",
+            "main_scheme_name": "67",
+            "metrics_beta": "67",
+            "metrics_std_dev": "67",
+            "min_addl_amt": "67",
+            "min_addl_amt_multiple": "67",
+            "min_amt": "67",
+            "min_amt_multiple": "67",
+            "monthly_aaum_date": "67",
+            "monthly_aaum_value": "67",
+            "mutual_fund_name": "67",
+            "riskometer": "67",
+            "riskometer_benchmark": "67",
+            "scheme_launch_date": "67"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "15 March, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "15 October, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "15 March, 2024"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty Smallcap 250 ETF",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.0"
+          },
+          {
+            "name": "std_dev",
+            "value": "22.5"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "242.64 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "67",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20240315"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty India Defence"
+        ],
+        "field_location": [
+          {
+            "amc_name": "69",
+            "benchmark_index": "69",
+            "count": 67,
+            "fund_manager_managing_fund_since": "69",
+            "fund_manager_name": "69",
+            "fund_manager_qualification": "69",
+            "fund_manager_total_exp": "69",
+            "load_exit": "69",
+            "main_scheme_name": "69",
+            "min_addl_amt": "69",
+            "min_addl_amt_multiple": "69",
+            "min_amt": "69",
+            "min_amt_multiple": "69",
+            "monthly_aaum_date": "69",
+            "monthly_aaum_value": "69",
+            "mutual_fund_name": "69",
+            "riskometer": "69",
+            "riskometer_benchmark": "69",
+            "scheme_launch_date": "69"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "03 July, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "15 October, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "03 July, 2024"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 15 days from the date of allotment. Nil - If redeemed after 15 days from the date of allotment. Exit Load will be applicable on switch-options amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out from Regular to Direct plan within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty India Defence Index Fund",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "5,325.77 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "69",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20240703"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty India Defence"
+        ],
+        "field_location": [
+          {
+            "amc_name": "71",
+            "benchmark_index": "71",
+            "count": 67,
+            "fund_manager_managing_fund_since": "71",
+            "fund_manager_name": "71",
+            "fund_manager_qualification": "71",
+            "fund_manager_total_exp": "71",
+            "load_exit": "71",
+            "main_scheme_name": "71",
+            "min_addl_amt": "71",
+            "min_addl_amt_multiple": "71",
+            "min_amt": "71",
+            "min_amt_multiple": "71",
+            "monthly_aaum_date": "71",
+            "monthly_aaum_value": "71",
+            "mutual_fund_name": "71",
+            "riskometer": "71",
+            "riskometer_benchmark": "71",
+            "scheme_launch_date": "71"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "21 August, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "15 October, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "21 August, 2024"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty India Defence ETF",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "1,253.18 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "71",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20240821"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty 500 Momentum 50"
+        ],
+        "field_location": [
+          {
+            "amc_name": "73",
+            "benchmark_index": "73",
+            "count": 67,
+            "fund_manager_managing_fund_since": "73",
+            "fund_manager_name": "73",
+            "fund_manager_qualification": "73",
+            "fund_manager_total_exp": "73",
+            "load_exit": "73",
+            "main_scheme_name": "73",
+            "min_addl_amt": "73",
+            "min_addl_amt_multiple": "73",
+            "min_amt": "73",
+            "min_amt_multiple": "73",
+            "monthly_aaum_date": "73",
+            "monthly_aaum_value": "73",
+            "mutual_fund_name": "73",
+            "riskometer": "73",
+            "riskometer_benchmark": "73",
+            "scheme_launch_date": "73"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "24 September, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "15 October, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "24 September, 2024"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 15 days from the date of allotment. Nil - If redeemed after 15 days from the date of allotment. Exit Load will be applicable on switch-options amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out from Regular to Direct plan within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty 500 Momentum 50 Index Fund",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "774.92 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "73",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20240924"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty 500 Momentum 50"
+        ],
+        "field_location": [
+          {
+            "amc_name": "75",
+            "benchmark_index": "75",
+            "count": 67,
+            "fund_manager_managing_fund_since": "75",
+            "fund_manager_name": "75",
+            "fund_manager_qualification": "75",
+            "fund_manager_total_exp": "75",
+            "load_exit": "75",
+            "main_scheme_name": "75",
+            "min_addl_amt": "75",
+            "min_addl_amt_multiple": "75",
+            "min_amt": "75",
+            "min_amt_multiple": "75",
+            "monthly_aaum_date": "75",
+            "monthly_aaum_value": "75",
+            "mutual_fund_name": "75",
+            "riskometer": "75",
+            "riskometer_benchmark": "75",
+            "scheme_launch_date": "75"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "24 September, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "15 October, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "24 September, 2024"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty 500 Momentum 50 ETF",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "391.73 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "75",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20240924"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty MidSmall Healthcare"
+        ],
+        "field_location": [
+          {
+            "amc_name": "77",
+            "benchmark_index": "77",
+            "count": 67,
+            "fund_manager_managing_fund_since": "77",
+            "fund_manager_name": "77",
+            "fund_manager_qualification": "77",
+            "fund_manager_total_exp": "77",
+            "load_exit": "77",
+            "main_scheme_name": "77",
+            "min_addl_amt": "77",
+            "min_addl_amt_multiple": "77",
+            "min_amt": "77",
+            "min_amt_multiple": "77",
+            "monthly_aaum_date": "77",
+            "monthly_aaum_value": "77",
+            "mutual_fund_name": "77",
+            "riskometer": "77",
+            "riskometer_benchmark": "77",
+            "scheme_launch_date": "77"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "19 November, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "20 December, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "19 November, 2024"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 15 days from the date of allotment. Nil - If redeemed after 15 days from the date of allotment. Exit Load will be applicable on switch-options amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out from Regular to Direct plan within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty MidSmall Healthcare Index Fund",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "52.62 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "77",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20241119"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty MidSmall India Consumption"
+        ],
+        "field_location": [
+          {
+            "amc_name": "79",
+            "benchmark_index": "79",
+            "count": 67,
+            "fund_manager_managing_fund_since": "79",
+            "fund_manager_name": "79",
+            "fund_manager_qualification": "79",
+            "fund_manager_total_exp": "79",
+            "load_exit": "79",
+            "main_scheme_name": "79",
+            "min_addl_amt": "79",
+            "min_addl_amt_multiple": "79",
+            "min_amt": "79",
+            "min_amt_multiple": "79",
+            "monthly_aaum_date": "79",
+            "monthly_aaum_value": "79",
+            "mutual_fund_name": "79",
+            "riskometer": "79",
+            "riskometer_benchmark": "79",
+            "scheme_launch_date": "79"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "19 November, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "20 December, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "19 November, 2024"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 15 days from the date of allotment. Nil - If redeemed after 15 days from the date of allotment. Exit Load will be applicable on switch-options amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out from Regular to Direct plan within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty MidSmall India Consumption Index Fund",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "22.11 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "79",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20241119"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty MidSmall Finan- cial Services ."
+        ],
+        "field_location": [
+          {
+            "amc_name": "81",
+            "benchmark_index": "81",
+            "count": 67,
+            "fund_manager_managing_fund_since": "81",
+            "fund_manager_name": "81",
+            "fund_manager_qualification": "81",
+            "fund_manager_total_exp": "81",
+            "load_exit": "81",
+            "main_scheme_name": "81",
+            "min_addl_amt": "81",
+            "min_addl_amt_multiple": "81",
+            "min_amt": "81",
+            "min_amt_multiple": "81",
+            "monthly_aaum_date": "81",
+            "monthly_aaum_value": "81",
+            "mutual_fund_name": "81",
+            "riskometer": "81",
+            "riskometer_benchmark": "81",
+            "scheme_launch_date": "81"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "19 November, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "20 December, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "19 November, 2024"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 15 days from the date of allotment. Nil - If redeemed after 15 days from the date of allotment. Exit Load will be applicable on switch-options amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out from Regular to Direct plan within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty MidSmall Financial Services Index Fund",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "117.02 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "81",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20241119"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty MidSmall IT and Telecom ."
+        ],
+        "field_location": [
+          {
+            "amc_name": "83",
+            "benchmark_index": "83",
+            "count": 67,
+            "fund_manager_managing_fund_since": "83",
+            "fund_manager_name": "83",
+            "fund_manager_qualification": "83",
+            "fund_manager_total_exp": "83",
+            "load_exit": "83",
+            "main_scheme_name": "83",
+            "min_addl_amt": "83",
+            "min_addl_amt_multiple": "83",
+            "min_amt": "83",
+            "min_amt_multiple": "83",
+            "monthly_aaum_date": "83",
+            "monthly_aaum_value": "83",
+            "mutual_fund_name": "83",
+            "riskometer": "83",
+            "riskometer_benchmark": "83",
+            "scheme_launch_date": "83"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "19 November, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "20 December, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "19 November, 2024"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 15 days from the date of allotment. Nil - If redeemed after 15 days from the date of allotment. Exit Load will be applicable on switch-options amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out from Regular to Direct plan within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty MidSmall IT and Telecom Index Fund",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "55.53 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "83",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20241119"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty Capital Market"
+        ],
+        "field_location": [
+          {
+            "amc_name": "85",
+            "benchmark_index": "85",
+            "count": 67,
+            "fund_manager_managing_fund_since": "85",
+            "fund_manager_name": "85",
+            "fund_manager_qualification": "85",
+            "fund_manager_total_exp": "85",
+            "load_exit": "85",
+            "main_scheme_name": "85",
+            "min_addl_amt": "85",
+            "min_addl_amt_multiple": "85",
+            "min_amt": "85",
+            "min_amt_multiple": "85",
+            "monthly_aaum_date": "85",
+            "monthly_aaum_value": "85",
+            "mutual_fund_name": "85",
+            "riskometer": "85",
+            "riskometer_benchmark": "85",
+            "scheme_launch_date": "85"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "16 December, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "20 December, 2024"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "16 December, 2024"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 15 days from the date of allotment. Nil - If redeemed after 15 days from the date of allotment. Exit Load will be applicable on switch-options amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out from Regular to Direct plan within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty Capital Market Index Fund",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "680.44 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "85",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20241216"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty Capital Market"
+        ],
+        "field_location": [
+          {
+            "amc_name": "87",
+            "benchmark_index": "87",
+            "count": 67,
+            "fund_manager_managing_fund_since": "87",
+            "fund_manager_name": "87",
+            "fund_manager_qualification": "87",
+            "fund_manager_total_exp": "87",
+            "load_exit": "87",
+            "main_scheme_name": "87",
+            "min_addl_amt": "87",
+            "min_addl_amt_multiple": "87",
+            "min_amt": "87",
+            "min_amt_multiple": "87",
+            "monthly_aaum_date": "87",
+            "monthly_aaum_value": "87",
+            "mutual_fund_name": "87",
+            "riskometer": "87",
+            "riskometer_benchmark": "87",
+            "scheme_launch_date": "87"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "07 March, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "07 March, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "07 March, 2025"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty Capital Market ETF",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "331.19 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "87",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250307"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "BSE India Infrastructure"
+        ],
+        "field_location": [
+          {
+            "amc_name": "89",
+            "benchmark_index": "89",
+            "count": 67,
+            "fund_manager_managing_fund_since": "89",
+            "fund_manager_name": "89",
+            "fund_manager_qualification": "89",
+            "fund_manager_total_exp": "89",
+            "load_exit": "89",
+            "main_scheme_name": "89",
+            "min_addl_amt": "89",
+            "min_addl_amt_multiple": "89",
+            "min_amt": "89",
+            "min_amt_multiple": "89",
+            "monthly_aaum_date": "89",
+            "monthly_aaum_value": "89",
+            "mutual_fund_name": "89",
+            "riskometer": "89",
+            "riskometer_benchmark": "89",
+            "scheme_launch_date": "89"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "16 May, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "16 May, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "16 May, 2025"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal BSE India Infrastructure ETF",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "3.23 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "89",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250516"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty 50 Equal Weight"
+        ],
+        "field_location": [
+          {
+            "amc_name": "91",
+            "benchmark_index": "91",
+            "count": 67,
+            "fund_manager_managing_fund_since": "91",
+            "fund_manager_name": "91",
+            "fund_manager_qualification": "91",
+            "fund_manager_total_exp": "91",
+            "load_exit": "91",
+            "main_scheme_name": "91",
+            "min_addl_amt": "91",
+            "min_addl_amt_multiple": "91",
+            "min_amt": "91",
+            "min_amt_multiple": "91",
+            "monthly_aaum_date": "91",
+            "monthly_aaum_value": "91",
+            "mutual_fund_name": "91",
+            "riskometer": "91",
+            "riskometer_benchmark": "91",
+            "scheme_launch_date": "91"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "2 May, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "2 May, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "2 May, 2025"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty 50 Equal Weight ETF",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "173.81 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "91",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250502"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty India Manufacturing"
+        ],
+        "field_location": [
+          {
+            "amc_name": "93",
+            "benchmark_index": "93",
+            "count": 67,
+            "fund_manager_managing_fund_since": "93",
+            "fund_manager_name": "93",
+            "fund_manager_qualification": "93",
+            "fund_manager_total_exp": "93",
+            "load_exit": "93",
+            "main_scheme_name": "93",
+            "min_addl_amt": "93",
+            "min_addl_amt_multiple": "93",
+            "min_amt": "93",
+            "min_amt_multiple": "93",
+            "monthly_aaum_date": "93",
+            "monthly_aaum_value": "93",
+            "mutual_fund_name": "93",
+            "riskometer": "93",
+            "riskometer_benchmark": "93",
+            "scheme_launch_date": "93"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "23 May, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "23 May, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "23 May, 2025"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty India Manufacturing ETF",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "1.87 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "93",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250523"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty Next 50"
+        ],
+        "field_location": [
+          {
+            "amc_name": "95",
+            "benchmark_index": "95",
+            "count": 67,
+            "fund_manager_managing_fund_since": "95",
+            "fund_manager_name": "95",
+            "fund_manager_qualification": "95",
+            "fund_manager_total_exp": "95",
+            "load_exit": "95",
+            "main_scheme_name": "95",
+            "min_addl_amt": "95",
+            "min_addl_amt_multiple": "95",
+            "min_amt": "95",
+            "min_amt_multiple": "95",
+            "monthly_aaum_date": "95",
+            "monthly_aaum_value": "95",
+            "mutual_fund_name": "95",
+            "riskometer": "95",
+            "riskometer_benchmark": "95",
+            "scheme_launch_date": "95"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "9 May, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "9 May, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "9 May, 2025"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty Next 50 ETF",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "15.74 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "95",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250509"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "BSE 1000"
+        ],
+        "field_location": [
+          {
+            "amc_name": "97",
+            "benchmark_index": "97",
+            "count": 67,
+            "fund_manager_managing_fund_since": "97",
+            "fund_manager_name": "97",
+            "fund_manager_qualification": "97",
+            "fund_manager_total_exp": "97",
+            "load_exit": "97",
+            "main_scheme_name": "97",
+            "min_addl_amt": "97",
+            "min_addl_amt_multiple": "97",
+            "min_amt": "97",
+            "min_amt_multiple": "97",
+            "monthly_aaum_date": "97",
+            "monthly_aaum_value": "97",
+            "mutual_fund_name": "97",
+            "riskometer": "97",
+            "riskometer_benchmark": "97",
+            "scheme_launch_date": "97"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "25 June, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "25 June, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "25 June, 2025"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% if redeemed on or before 15 days of allotment. Nil- If redeemed after 15 days from the date of allotment. Exit Load will be applicable on switch-options amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out from Regular to Direct plan within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal BSE 1000 Index Fund",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "59.60 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "97",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250625"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty India Tourism"
+        ],
+        "field_location": [
+          {
+            "amc_name": "99",
+            "benchmark_index": "99",
+            "count": 67,
+            "fund_manager_managing_fund_since": "99",
+            "fund_manager_name": "99",
+            "fund_manager_qualification": "99",
+            "fund_manager_total_exp": "99",
+            "load_exit": "99",
+            "main_scheme_name": "99",
+            "min_addl_amt": "99",
+            "min_addl_amt_multiple": "99",
+            "min_amt": "99",
+            "min_amt_multiple": "99",
+            "monthly_aaum_date": "99",
+            "monthly_aaum_value": "99",
+            "mutual_fund_name": "99",
+            "riskometer": "99",
+            "riskometer_benchmark": "99",
+            "scheme_launch_date": "99"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "9 June, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "9 June, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "9 June, 2025"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty India Tourism ETF",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "16.34 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "99",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250609"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty PSE"
+        ],
+        "field_location": [
+          {
+            "amc_name": "101",
+            "benchmark_index": "101",
+            "count": 67,
+            "fund_manager_managing_fund_since": "101",
+            "fund_manager_name": "101",
+            "fund_manager_qualification": "101",
+            "fund_manager_total_exp": "101",
+            "load_exit": "101",
+            "main_scheme_name": "101",
+            "min_addl_amt": "101",
+            "min_addl_amt_multiple": "101",
+            "min_amt": "101",
+            "min_amt_multiple": "101",
+            "monthly_aaum_date": "101",
+            "monthly_aaum_value": "101",
+            "mutual_fund_name": "101",
+            "riskometer": "101",
+            "riskometer_benchmark": "101",
+            "scheme_launch_date": "101"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "2 June, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "2 June, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "2 June, 2025"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty PSE ETF",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "2.24 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "101",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250602"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty Midcap150 Momentum 50"
+        ],
+        "field_location": [
+          {
+            "amc_name": "103",
+            "benchmark_index": "103",
+            "count": 67,
+            "fund_manager_managing_fund_since": "103",
+            "fund_manager_name": "103",
+            "fund_manager_qualification": "103",
+            "fund_manager_total_exp": "103",
+            "load_exit": "103",
+            "main_scheme_name": "103",
+            "min_addl_amt": "103",
+            "min_addl_amt_multiple": "103",
+            "min_amt": "103",
+            "min_amt_multiple": "103",
+            "monthly_aaum_date": "103",
+            "monthly_aaum_value": "103",
+            "mutual_fund_name": "103",
+            "riskometer": "103",
+            "riskometer_benchmark": "103",
+            "scheme_launch_date": "103"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "30 June, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "30 June, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "30 June, 2025"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty Midcap 150 Momentum 50 ETF",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "44.68 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "103",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250630"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty Alpha 50"
+        ],
+        "field_location": [
+          {
+            "amc_name": "105",
+            "benchmark_index": "105",
+            "count": 67,
+            "fund_manager_managing_fund_since": "105",
+            "fund_manager_name": "105",
+            "fund_manager_qualification": "105",
+            "fund_manager_total_exp": "105",
+            "load_exit": "105",
+            "main_scheme_name": "105",
+            "min_addl_amt": "105",
+            "min_addl_amt_multiple": "105",
+            "min_amt": "105",
+            "min_amt_multiple": "105",
+            "monthly_aaum_date": "105",
+            "monthly_aaum_value": "105",
+            "mutual_fund_name": "105",
+            "riskometer": "105",
+            "riskometer_benchmark": "105",
+            "scheme_launch_date": "105"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "7 July, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "7 July, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "7 July, 2025"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty Alpha 50 ETF",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "3.32 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "105",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250707"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Domestic price of Physical Gold"
+        ],
+        "field_location": [
+          {
+            "amc_name": "107",
+            "benchmark_index": "107",
+            "count": 67,
+            "fund_manager_managing_fund_since": "107",
+            "fund_manager_name": "107",
+            "fund_manager_qualification": "107",
+            "fund_manager_total_exp": "107",
+            "load_exit": "107",
+            "main_scheme_name": "107",
+            "min_addl_amt": "107",
+            "min_addl_amt_multiple": "107",
+            "min_amt": "107",
+            "min_amt_multiple": "107",
+            "monthly_aaum_date": "107",
+            "monthly_aaum_value": "107",
+            "mutual_fund_name": "107",
+            "riskometer": "107",
+            "riskometer_benchmark": "107",
+            "scheme_launch_date": "107"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "28 July, 2025"
+          },
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "13 October, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "28 July, 2025"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Gold ETF",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "1,920.96 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "107",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250728"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Domestic price of Physical Silver"
+        ],
+        "field_location": [
+          {
+            "amc_name": "109",
+            "benchmark_index": "109",
+            "count": 67,
+            "fund_manager_managing_fund_since": "109",
+            "fund_manager_name": "109",
+            "fund_manager_qualification": "109",
+            "fund_manager_total_exp": "109",
+            "load_exit": "109",
+            "main_scheme_name": "109",
+            "min_addl_amt": "109",
+            "min_addl_amt_multiple": "109",
+            "min_amt": "109",
+            "min_amt_multiple": "109",
+            "monthly_aaum_date": "109",
+            "monthly_aaum_value": "109",
+            "mutual_fund_name": "109",
+            "riskometer": "109",
+            "riskometer_benchmark": "109",
+            "scheme_launch_date": "109"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "11 August, 2025"
+          },
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "13 October, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "11 August, 2025"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Silver ETF",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "991.23 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "109",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250811"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty Energy"
+        ],
+        "field_location": [
+          {
+            "amc_name": "111",
+            "benchmark_index": "111",
+            "count": 67,
+            "fund_manager_managing_fund_since": "111",
+            "fund_manager_name": "111",
+            "fund_manager_qualification": "111",
+            "fund_manager_total_exp": "111",
+            "load_exit": "111",
+            "main_scheme_name": "111",
+            "min_addl_amt": "111",
+            "min_addl_amt_multiple": "111",
+            "min_amt": "111",
+            "min_amt_multiple": "111",
+            "monthly_aaum_date": "111",
+            "monthly_aaum_value": "111",
+            "mutual_fund_name": "111",
+            "riskometer": "111",
+            "riskometer_benchmark": "111",
+            "scheme_launch_date": "111"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "13 October, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "13 October, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "13 October, 2025"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty Energy ETF",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "58.81 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "111",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20251013"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty 100"
+        ],
+        "field_location": [
+          {
+            "amc_name": "113",
+            "benchmark_index": "113",
+            "count": 67,
+            "fund_manager_managing_fund_since": "113",
+            "fund_manager_name": "113",
+            "fund_manager_qualification": "113",
+            "fund_manager_total_exp": "113",
+            "load_exit": "113",
+            "main_scheme_name": "113",
+            "min_addl_amt": "113",
+            "min_addl_amt_multiple": "113",
+            "min_amt": "113",
+            "min_amt_multiple": "113",
+            "monthly_aaum_date": "113",
+            "monthly_aaum_value": "113",
+            "mutual_fund_name": "113",
+            "riskometer": "113",
+            "riskometer_benchmark": "113",
+            "scheme_launch_date": "113"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "13 October, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "13 October, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "13 October, 2025"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty 100 ETF",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "16.78 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "113",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20251013"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "BSE Select IPO"
+        ],
+        "field_location": [
+          {
+            "amc_name": "115",
+            "benchmark_index": "115",
+            "count": 67,
+            "fund_manager_managing_fund_since": "115",
+            "fund_manager_name": "115",
+            "fund_manager_qualification": "115",
+            "fund_manager_total_exp": "115",
+            "load_exit": "115",
+            "main_scheme_name": "115",
+            "min_addl_amt": "115",
+            "min_addl_amt_multiple": "115",
+            "min_amt": "115",
+            "min_amt_multiple": "115",
+            "monthly_aaum_date": "115",
+            "monthly_aaum_value": "115",
+            "mutual_fund_name": "115",
+            "riskometer": "115",
+            "riskometer_benchmark": "115",
+            "scheme_launch_date": "115"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "17 November, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "17 November, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "17 November, 2025"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal BSE Select IPO ETF",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "5.86 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "115",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20251117"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty Services Sector"
+        ],
+        "field_location": [
+          {
+            "amc_name": "117",
+            "benchmark_index": "117",
+            "count": 67,
+            "fund_manager_managing_fund_since": "117",
+            "fund_manager_name": "117",
+            "fund_manager_qualification": "117",
+            "fund_manager_total_exp": "117",
+            "load_exit": "117",
+            "main_scheme_name": "117",
+            "min_addl_amt": "117",
+            "min_addl_amt_multiple": "117",
+            "min_amt": "117",
+            "min_amt_multiple": "117",
+            "monthly_aaum_date": "117",
+            "monthly_aaum_value": "117",
+            "mutual_fund_name": "117",
+            "riskometer": "117",
+            "riskometer_benchmark": "117",
+            "scheme_launch_date": "117"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "24 November, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "24 November, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "24 November, 2025"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty Services Sector ETF",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "6.19 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "117",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20251124"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty MNC"
+        ],
+        "field_location": [
+          {
+            "amc_name": "119",
+            "benchmark_index": "119",
+            "count": 67,
+            "fund_manager_managing_fund_since": "119",
+            "fund_manager_name": "119",
+            "fund_manager_qualification": "119",
+            "fund_manager_total_exp": "119",
+            "load_exit": "119",
+            "main_scheme_name": "119",
+            "min_addl_amt": "119",
+            "min_addl_amt_multiple": "119",
+            "min_amt": "119",
+            "min_amt_multiple": "119",
+            "monthly_aaum_date": "119",
+            "monthly_aaum_value": "119",
+            "mutual_fund_name": "119",
+            "riskometer": "119",
+            "riskometer_benchmark": "119",
+            "scheme_launch_date": "119"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "1 December, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "1 December, 2025"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "1 December, 2025"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty MNC ETF",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "2.19 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "119",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20251201"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty 500"
+        ],
+        "field_location": [
+          {
+            "amc_name": "121",
+            "benchmark_index": "121",
+            "count": 67,
+            "fund_manager_managing_fund_since": "121",
+            "fund_manager_name": "121",
+            "fund_manager_qualification": "121",
+            "fund_manager_total_exp": "121",
+            "load_exit": "121",
+            "main_scheme_name": "121",
+            "min_addl_amt": "121",
+            "min_addl_amt_multiple": "121",
+            "min_amt": "121",
+            "min_amt_multiple": "121",
+            "monthly_aaum_date": "121",
+            "monthly_aaum_value": "121",
+            "mutual_fund_name": "121",
+            "riskometer": "121",
+            "riskometer_benchmark": "121",
+            "scheme_launch_date": "121"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "22 January, 2026"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "22 January, 2026"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 15 days from the date of allotment. Nil - If redeemed after 15 days from the date of allotment."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Diversified Equity Flexicap Passive Fund of Funds",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "40.05 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "121",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20260122"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty 500"
+        ],
+        "field_location": [
+          {
+            "amc_name": "123",
+            "benchmark_index": "123",
+            "count": 67,
+            "fund_manager_managing_fund_since": "123",
+            "fund_manager_name": "123",
+            "fund_manager_qualification": "123",
+            "fund_manager_total_exp": "123",
+            "load_exit": "123",
+            "main_scheme_name": "123",
+            "min_addl_amt": "123",
+            "min_addl_amt_multiple": "123",
+            "min_amt": "123",
+            "min_amt_multiple": "123",
+            "monthly_aaum_date": "123",
+            "monthly_aaum_value": "123",
+            "mutual_fund_name": "123",
+            "riskometer": "123",
+            "riskometer_benchmark": "123",
+            "scheme_launch_date": "123"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "12 March, 2026"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "12 March, 2026"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 15 days from the date of allotment. Nil - If redeemed after 15 days from the date of allotment."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Multi Factor Passive Fund of Funds",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "28.84 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "123",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20260312"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "BSE Top 10 Banks"
+        ],
+        "field_location": [
+          {
+            "amc_name": "125",
+            "benchmark_index": "125",
+            "count": 67,
+            "fund_manager_managing_fund_since": "125",
+            "fund_manager_name": "125",
+            "fund_manager_qualification": "125",
+            "fund_manager_total_exp": "125",
+            "load_exit": "125",
+            "main_scheme_name": "125",
+            "min_addl_amt": "125",
+            "min_addl_amt_multiple": "125",
+            "min_amt": "125",
+            "min_amt_multiple": "125",
+            "monthly_aaum_date": "125",
+            "monthly_aaum_value": "125",
+            "mutual_fund_name": "125",
+            "riskometer": "125",
+            "riskometer_benchmark": "125",
+            "scheme_launch_date": "125"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "6 April, 2026"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "6 April, 2026"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "6 April, 2026"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal BSE Top 10 Banks ETF",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "102.75 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "125",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20260406"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "BSE Clean Environment"
+        ],
+        "field_location": [
+          {
+            "amc_name": "127",
+            "benchmark_index": "127",
+            "count": 67,
+            "fund_manager_managing_fund_since": "127",
+            "fund_manager_name": "127",
+            "fund_manager_qualification": "127",
+            "fund_manager_total_exp": "127",
+            "load_exit": "127",
+            "main_scheme_name": "127",
+            "min_addl_amt": "127",
+            "min_addl_amt_multiple": "127",
+            "min_amt": "127",
+            "min_amt_multiple": "127",
+            "monthly_aaum_date": "127",
+            "monthly_aaum_value": "127",
+            "mutual_fund_name": "127",
+            "riskometer": "127",
+            "riskometer_benchmark": "127",
+            "scheme_launch_date": "127"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "25 June, 2026"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "25 June, 2026"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "25 June, 2026"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 15 days from the allotment. Nil - If redeemed after 15 days from the allotment. Exit Load will be applicable on switch amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch out amongst the plans within the same scheme. For details on load structure, please refer to Section on Load Structure in this Document."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal BSE Clean Environment Index Fund",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "49.47 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "127",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20260625"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "BSE Midcap 150 Momentum 30"
+        ],
+        "field_location": [
+          {
+            "amc_name": "129",
+            "benchmark_index": "129",
+            "count": 67,
+            "fund_manager_managing_fund_since": "129",
+            "fund_manager_name": "129",
+            "fund_manager_qualification": "129",
+            "fund_manager_total_exp": "129",
+            "load_exit": "129",
+            "main_scheme_name": "129",
+            "min_addl_amt": "129",
+            "min_addl_amt_multiple": "129",
+            "min_amt": "129",
+            "min_amt_multiple": "129",
+            "monthly_aaum_date": "129",
+            "monthly_aaum_value": "129",
+            "mutual_fund_name": "129",
+            "riskometer": "129",
+            "riskometer_benchmark": "129",
+            "scheme_launch_date": "129"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "23 July, 2026"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "23 July, 2026"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "23 July, 2026"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% if redeemed on or before 15 days from the date of allotment. Nil if redeemed after 15 days from the date of allotment. Exit Load will be applicable on switch amongst the Schemes of MOMF. No Load shall be imposed for switching between options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out amongst the plans within the same scheme. For details on load structure, please refer to Section on Load Structure in Scheme Information Document."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal BSE Midcap 150 Momentum 30 Index Fund",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "168.95 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "129",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20260723"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty Metal"
+        ],
+        "field_location": [
+          {
+            "amc_name": "131",
+            "benchmark_index": "131",
+            "count": 67,
+            "fund_manager_managing_fund_since": "131",
+            "fund_manager_name": "131",
+            "fund_manager_qualification": "131",
+            "fund_manager_total_exp": "131",
+            "load_exit": "131",
+            "main_scheme_name": "131",
+            "min_addl_amt": "131",
+            "min_addl_amt_multiple": "131",
+            "min_amt": "131",
+            "min_amt_multiple": "131",
+            "monthly_aaum_date": "131",
+            "monthly_aaum_value": "131",
+            "mutual_fund_name": "131",
+            "riskometer": "131",
+            "riskometer_benchmark": "131",
+            "scheme_launch_date": "131"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "03 August, 2026"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "03 August, 2026"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "03 August, 2026"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty Metal ETF",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "1.50 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "131",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20260803"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty Oil Gas"
+        ],
+        "field_location": [
+          {
+            "amc_name": "133",
+            "benchmark_index": "133",
+            "count": 67,
+            "fund_manager_managing_fund_since": "133",
+            "fund_manager_name": "133",
+            "fund_manager_qualification": "133",
+            "fund_manager_total_exp": "133",
+            "load_exit": "133",
+            "main_scheme_name": "133",
+            "min_addl_amt": "133",
+            "min_addl_amt_multiple": "133",
+            "min_amt": "133",
+            "min_amt_multiple": "133",
+            "monthly_aaum_date": "133",
+            "monthly_aaum_value": "133",
+            "mutual_fund_name": "133",
+            "riskometer": "133",
+            "riskometer_benchmark": "133",
+            "scheme_launch_date": "133"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "03 August, 2026"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "03 August, 2026"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "03 August, 2026"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty Oil & Gas ETF",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "",
+        "min_amt_multiple": "",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "1.31 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "133",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20260803"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty Midcap150 Plus 8-13 yr G-Sec 70:30"
+        ],
+        "field_location": [
+          {
+            "amc_name": "135",
+            "benchmark_index": "135",
+            "count": 67,
+            "fund_manager_managing_fund_since": "135",
+            "fund_manager_name": "135",
+            "fund_manager_qualification": "135",
+            "fund_manager_total_exp": "135",
+            "load_exit": "135",
+            "main_scheme_name": "135",
+            "min_addl_amt": "135",
+            "min_addl_amt_multiple": "135",
+            "min_amt": "135",
+            "min_amt_multiple": "135",
+            "monthly_aaum_date": "135",
+            "monthly_aaum_value": "135",
+            "mutual_fund_name": "135",
+            "riskometer": "135",
+            "riskometer_benchmark": "135",
+            "scheme_launch_date": "135"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "30 October, 2026"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "30 October, 2026"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "30 October, 2026"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% If redeemed on or before 15 days from the allotment. Nil - If redeemed after 15 days from the allotment."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty Midcap 150 Plus 8-13 yr G-Sec 7030 Index Fund",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "0.83 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "135",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20261030"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Limited",
+        "benchmark_index": [
+          "Nifty REITs Realty"
+        ],
+        "field_location": [
+          {
+            "amc_name": "137",
+            "benchmark_index": "137",
+            "count": 67,
+            "fund_manager_managing_fund_since": "137",
+            "fund_manager_name": "137",
+            "fund_manager_qualification": "137",
+            "fund_manager_total_exp": "137",
+            "load_exit": "137",
+            "main_scheme_name": "137",
+            "min_addl_amt": "137",
+            "min_addl_amt_multiple": "137",
+            "min_amt": "137",
+            "min_amt_multiple": "137",
+            "monthly_aaum_date": "137",
+            "monthly_aaum_value": "137",
+            "mutual_fund_name": "137",
+            "riskometer": "137",
+            "riskometer_benchmark": "137",
+            "scheme_launch_date": "137"
+          }
+        ],
+        "fund_manager": [
+          {
+            "managing_fund_since": "20+ Years",
+            "name": "Swapnil Mayekar",
+            "qualification": "",
+            "total_exp": "30 October, 2026"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Dishant Mehta",
+            "qualification": "",
+            "total_exp": "30 October, 2026"
+          },
+          {
+            "managing_fund_since": "14+ Years",
+            "name": "Rakesh Shetty",
+            "qualification": "",
+            "total_exp": "30 October, 2026"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% If redeemed on or before 15 days from the allotment. Nil - If redeemed after 15 days from the allotment."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Nifty REITs & Realty Index Fund",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "5.14 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "137",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20261015"
+      }
+    }
+  ]
+}

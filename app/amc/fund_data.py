@@ -755,41 +755,9 @@ class LIC(BaseAMC): pass
 class JioBlackRock(BaseAMC): pass
 class Abbakkus(BaseAMC): pass
 
-class Canara(BaseAMC):
+class Canara(BaseAMC): pass
     
-    def _update_manager_data(self,main_key:str,manager_data):
-        nsample, msample, esample = [], [], []
-        nlength = 0
-        value = " ".join(manager_data.values()) if isinstance(manager_data,dict) else manager_data
-        nsample = re.findall(self.REGEX['manager']['name'], value, re.IGNORECASE)
-        esample = re.findall(self.REGEX['manager']['exp'], value, re.IGNORECASE)
-        msample = re.findall(self.REGEX['manager']['since'], value, re.IGNORECASE)
-        
-        nlength = len(nsample)
-        msample += [""] * abs(nlength - len(msample))
-        esample += [""] * abs(nlength - len(esample))
-        
-        # print(value)
-        # print(nsample,esample,msample)
-        
-        final_list = [self._return_manager_data(since=m,name=n,exp=e)for n, m, e in zip(nsample, msample, esample)]
-        return {main_key:final_list}
-
-class LIC(BaseAMC):
-    
-    def _update_manager_data(self, main_key: str, data):
-        final_list = []
-        manager_data = " ".join(data) if isinstance(data,list) else data
-        manager_data =re.sub(self.REGEX["escape"], "", manager_data).strip()
-        n = re.findall(self.REGEX['manager']['name'], manager_data, re.IGNORECASE)
-        e = re.findall(self.REGEX['manager']['exp'], manager_data, re.IGNORECASE)
-        # s = re.findall(self.REGEX['manager']['since'], manager_data, re.IGNORECASE)
-        
-        adjust = lambda target, lst: target[:len(lst)] + ([target[-1]] * abs(len(target) - len(lst)) if lst else [""])
-        e = adjust(e,n)
-        for name,exp in zip(n,e):
-            final_list.append(self._return_manager_data(name=name,exp=exp))
-        return {main_key: final_list}
+class LIC(BaseAMC):pass
 
 class BajajFinServ(BaseAMC):  
     
@@ -833,28 +801,6 @@ class BajajFinServ(BaseAMC):
     
 class Bandhan(BaseAMC):  pass
     
-    # def _extract_manager_data(self, main_key: str, manager_data, pattern: str):
-    #     manager_data = " ".join(manager_data.values()) if isinstance(manager_data, dict) else manager_data
-    #     manager_data = re.sub(self.REGEX["escape"], "", manager_data, re.IGNORECASE)
-
-    #     names = re.findall(self.REGEX[pattern]['name'], manager_data, re.IGNORECASE)
-    #     since = re.findall(self.REGEX[pattern]['since'], manager_data, re.IGNORECASE)
-
-    #     if not names:
-    #         return {main_key: []}
-
-    #     n_len, s_len = len(names), len(since)
-
-    #     if s_len == 0:
-    #         since = [""] * n_len
-    #     elif s_len == 1 and n_len > 1:
-    #         since = since * n_len
-    #     elif s_len < n_len:
-    #         since += [since[-1]] * (n_len - s_len)
-
-    #     final_list = [self._return_manager_data(name=n, since=s) for n, s in zip(names, since)]
-    #     return {main_key: final_list}
-
 class DSP(BaseAMC):
         
     def _generate_table_data(self,path,pages):
@@ -961,63 +907,10 @@ class NJMF(BaseAMC): pass
 class SBI(BaseAMC): pass #OCR
 
 class SBIPassive(BaseAMC):  pass
-    # def _update_manager_data(self,main_key:str,data):
-    #     final_list = []
-    #     manager_data = " ".join(data) if isinstance(data, list) else data
-    #     manager_data = re.sub(self.REGEX['escape'], "", manager_data).strip()
-    #     pattern_info = self.REGEX["manager"]
-    #     regex_pattern = pattern_info['pattern']
-    #     field_names = pattern_info['fields']
-    #     if matches := re.findall(regex_pattern, manager_data, re.IGNORECASE):
-    #         for match in matches:
-    #             if isinstance(match, str):
-    #                 match = (match,)
-    #             record = {field_names[i]: match[i] if i < len(match) else "" for i in range(len(field_names))} #kwargs
-    #             final_list.append(self._return_manager_data(**record))
 
-    #     return {main_key: final_list}
     
-class AdityaBirla(BaseAMC):
-    def _fetch_manager_data(self,main_key:str,manager_data):
-        nsample, msample, esample = [], [], []
-        nlength = 0
-        for key, value in manager_data.items():
-            if re.search(r"\bfund_manager\b", key, re.IGNORECASE):
-                nsample = re.findall(self.REGEX["manager"]["name"], value, re.IGNORECASE)
-                nlength = len(nsample)
-
-            elif re.search(r".*managing_fund", key, re.IGNORECASE):
-                # print(value)
-                msample = re.findall(self.REGEX["manager"]["since"], value, re.IGNORECASE)
-                
-            elif re.search(r".*experience", key, re.IGNORECASE):
-                # print(value)
-                esample = re.findall(self.REGEX["manager"]["exp"], value, re.IGNORECASE)
-        nlength = len(nsample)
-        msample += [""] * (nlength - len(msample))
-        esample += [""] * (nlength - len(esample))
-
-        final_list = [
-            self._return_manager_data(since=m,name=n,exp=e)
-            for n, m, e in zip(nsample, msample, esample)
-        ]
-
-        return {main_key:final_list}
- 
-class AXISMF(BaseAMC):
-   
-    def _update_manager_data(self, main_key: str, data):
-        final_list = []
-        manager_data = " ".join(data.values()) if isinstance(data,dict) else data
-        manager_data =re.sub(self.REGEX["escape"], "", manager_data).strip()
-        n = re.findall(self.REGEX['manager']['name'], manager_data, re.IGNORECASE)
-        e = re.findall(self.REGEX['manager']['exp'], manager_data, re.IGNORECASE)
-        
-        adjust = lambda target, lst: target[:len(lst)] + ([target[-1]] * abs(len(target) - len(lst)) if lst else [""])
-        n = adjust(n,e)
-        for name,exp in zip(n,e):
-            final_list.append(self._return_manager_data(name=name,exp=exp))
-        return {main_key: final_list}
+class AdityaBirla(BaseAMC): pass
+class AXISMF(BaseAMC):pass
     
 class AXISMFPassive(BaseAMC):
            

@@ -1,0 +1,1602 @@
+{
+  "metadata": {
+    "document_name": "28_31-Oct-26_FS.pdf",
+    "file_type": "fs",
+    "process_date": "20261120"
+  },
+  "records": [
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Ltd.",
+        "benchmark_index": [
+          "NIFTY 100"
+        ],
+        "field_location": [
+          {
+            "amc_name": "4",
+            "benchmark_index": "4",
+            "count": 25,
+            "load_exit": "4",
+            "main_scheme_name": "4",
+            "metrics_beta": "4",
+            "metrics_gross_exposure_turnover": "4",
+            "metrics_port_turnover_ratio": "4",
+            "metrics_std_dev": "4",
+            "min_addl_amt": "4",
+            "min_addl_amt_multiple": "4",
+            "min_amt": "4",
+            "min_amt_multiple": "4",
+            "monthly_aaum_date": "4",
+            "monthly_aaum_value": "4",
+            "mutual_fund_name": "4",
+            "riskometer": "4",
+            "riskometer_benchmark": "4",
+            "scheme_launch_date": "4"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 365 days from the date of allotment. Nil - If redeemed after 365 days from the date of allotment. Exit Load will be applicable on switch amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out amongst the plans within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Large Cap Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.0"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.86 Times"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "86"
+          },
+          {
+            "name": "std_dev",
+            "value": "14.5"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "2,919.30 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "4",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20240206"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Ltd.",
+        "benchmark_index": [
+          "NIFTY Large Midcap 250"
+        ],
+        "field_location": [
+          {
+            "amc_name": "7",
+            "benchmark_index": "7",
+            "count": 25,
+            "load_exit": "7",
+            "main_scheme_name": "7",
+            "metrics_beta": "7",
+            "metrics_gross_exposure_turnover": "7",
+            "metrics_information_ratio": "7",
+            "metrics_port_turnover_ratio": "7",
+            "metrics_std_dev": "7",
+            "min_addl_amt": "7",
+            "min_addl_amt_multiple": "7",
+            "min_amt": "7",
+            "min_amt_multiple": "7",
+            "monthly_aaum_date": "7",
+            "monthly_aaum_value": "7",
+            "mutual_fund_name": "7",
+            "riskometer": "7",
+            "riskometer_benchmark": "7",
+            "scheme_launch_date": "7"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 365 days from the date of allotment. Nil - If redeemed after 365 days from the date of allotment. Exit Load will be applicable on switch amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switchout amongst the plans within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Large and Midcap Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.2"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.60 Times"
+          },
+          {
+            "name": "information_ratio",
+            "value": "0.67"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "60"
+          },
+          {
+            "name": "std_dev",
+            "value": "21.6"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "19,786.41 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "7",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20191017"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Ltd.",
+        "benchmark_index": [
+          "Benchmark Index : Nifty 500"
+        ],
+        "field_location": [
+          {
+            "amc_name": "10",
+            "benchmark_index": "10",
+            "count": 25,
+            "load_exit": "10",
+            "main_scheme_name": "10",
+            "metrics_beta": "10",
+            "metrics_gross_exposure_turnover": "10",
+            "metrics_information_ratio": "10",
+            "metrics_port_turnover_ratio": "10",
+            "metrics_std_dev": "10",
+            "min_addl_amt": "10",
+            "min_addl_amt_multiple": "10",
+            "min_amt": "10",
+            "min_amt_multiple": "10",
+            "monthly_aaum_date": "10",
+            "monthly_aaum_value": "10",
+            "mutual_fund_name": "10",
+            "riskometer": "10",
+            "riskometer_benchmark": "10",
+            "scheme_launch_date": "10"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 365 days from the date of allotment. Nil - If redeemed after 365 days from the date of allotment. Exit Load will be applicable on switch amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switchout amongst the plans within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Flexi Cap Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.0"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "1.40 Times"
+          },
+          {
+            "name": "information_ratio",
+            "value": "0.60"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "140"
+          },
+          {
+            "name": "std_dev",
+            "value": "17.8"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "13,303.94 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "10",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20140428"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Ltd.",
+        "benchmark_index": [
+          "Nifty 500 Multicap Benchmark Index : 50:25:25 Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "13",
+            "benchmark_index": "13",
+            "count": 25,
+            "load_exit": "13",
+            "main_scheme_name": "13",
+            "metrics_beta": "13",
+            "metrics_gross_exposure_turnover": "13",
+            "metrics_port_turnover_ratio": "13",
+            "metrics_std_dev": "13",
+            "min_addl_amt": "13",
+            "min_addl_amt_multiple": "13",
+            "min_amt": "13",
+            "min_amt_multiple": "13",
+            "monthly_aaum_date": "13",
+            "monthly_aaum_value": "13",
+            "mutual_fund_name": "13",
+            "riskometer": "13",
+            "riskometer_benchmark": "13",
+            "scheme_launch_date": "13"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 365 days from the date of allotment. Nil - If redeemed after 365 days from the date of allotment. Exit Load will be applicable on switch amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out amongst the plans within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Multi Cap Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.1"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "1.76 Times"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "176"
+          },
+          {
+            "name": "std_dev",
+            "value": "21.0"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "4,607.61 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "13",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20240618"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Ltd.",
+        "benchmark_index": [
+          "Benchmark Index : NIFTY Midcap 150"
+        ],
+        "field_location": [
+          {
+            "amc_name": "16",
+            "benchmark_index": "16",
+            "count": 25,
+            "load_exit": "16",
+            "main_scheme_name": "16",
+            "metrics_beta": "16",
+            "metrics_gross_exposure_turnover": "16",
+            "metrics_information_ratio": "16",
+            "metrics_port_turnover_ratio": "16",
+            "metrics_std_dev": "16",
+            "min_addl_amt": "16",
+            "min_addl_amt_multiple": "16",
+            "min_amt": "16",
+            "min_amt_multiple": "16",
+            "monthly_aaum_date": "16",
+            "monthly_aaum_value": "16",
+            "mutual_fund_name": "16",
+            "riskometer": "16",
+            "riskometer_benchmark": "16",
+            "scheme_launch_date": "16"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 365 days from the date of allotment. Nil - If redeemed after 365 days from the date of allotment. Exit Load will be applicable on switch amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out amongst the plans within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Midcap Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.0"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.75 Times"
+          },
+          {
+            "name": "information_ratio",
+            "value": "0.19"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "75"
+          },
+          {
+            "name": "std_dev",
+            "value": "21.0"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "40,132.01 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "16",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20140224"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Ltd.",
+        "benchmark_index": [
+          "Benchmark Index : Nifty Smallcap 250"
+        ],
+        "field_location": [
+          {
+            "amc_name": "19",
+            "benchmark_index": "19",
+            "count": 25,
+            "load_exit": "19",
+            "main_scheme_name": "19",
+            "metrics_beta": "19",
+            "metrics_gross_exposure_turnover": "19",
+            "metrics_port_turnover_ratio": "19",
+            "metrics_std_dev": "19",
+            "min_addl_amt": "19",
+            "min_addl_amt_multiple": "19",
+            "min_amt": "19",
+            "min_amt_multiple": "19",
+            "monthly_aaum_date": "19",
+            "monthly_aaum_value": "19",
+            "mutual_fund_name": "19",
+            "riskometer": "19",
+            "riskometer_benchmark": "19",
+            "scheme_launch_date": "19"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 365 days from the date of allotment. Nil - If redeemed after 365 days from the date of allotment. Exit Load will be applicable on switch amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out amongst the plans within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Small Cap Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "0.9"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.50 Times"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "50"
+          },
+          {
+            "name": "std_dev",
+            "value": "20.2"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "8,221.29 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "19",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20231226"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Ltd.",
+        "benchmark_index": [
+          "Benchmark Index : NIFTY 500"
+        ],
+        "field_location": [
+          {
+            "amc_name": "22",
+            "benchmark_index": "22",
+            "count": 25,
+            "load_exit": "22",
+            "main_scheme_name": "22",
+            "metrics_beta": "22",
+            "metrics_gross_exposure_turnover": "22",
+            "metrics_information_ratio": "22",
+            "metrics_port_turnover_ratio": "22",
+            "metrics_std_dev": "22",
+            "min_addl_amt": "22",
+            "min_addl_amt_multiple": "22",
+            "min_amt": "22",
+            "min_amt_multiple": "22",
+            "monthly_aaum_date": "22",
+            "monthly_aaum_value": "22",
+            "mutual_fund_name": "22",
+            "riskometer": "22",
+            "riskometer_benchmark": "22",
+            "scheme_launch_date": "22"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 365 days from the date of allotment. Nil - If redeemed after 365 days from the date of allotment. Exit Load will be applicable on switch amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out amongst the plans within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Focused Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.0"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "2.05 Times"
+          },
+          {
+            "name": "information_ratio",
+            "value": "0.26"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "204"
+          },
+          {
+            "name": "std_dev",
+            "value": "19.4"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "1,840.07 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "22",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20130513"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Ltd.",
+        "benchmark_index": [
+          "Benchmark Index : NIFTY 500"
+        ],
+        "field_location": [
+          {
+            "amc_name": "25",
+            "benchmark_index": "25",
+            "count": 25,
+            "load_exit": "25",
+            "main_scheme_name": "25",
+            "metrics_beta": "25",
+            "metrics_gross_exposure_turnover": "25",
+            "metrics_information_ratio": "25",
+            "metrics_port_turnover_ratio": "25",
+            "metrics_std_dev": "25",
+            "min_addl_amt": "25",
+            "min_addl_amt_multiple": "25",
+            "min_amt": "25",
+            "min_amt_multiple": "25",
+            "monthly_aaum_date": "25",
+            "monthly_aaum_value": "25",
+            "mutual_fund_name": "25",
+            "riskometer": "25",
+            "riskometer_benchmark": "25",
+            "scheme_launch_date": "25"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal ELSS Tax Saver Fund",
+        "metrics": [
+          {
+            "name": "beta",
+            "value": "1.2"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.67 Times"
+          },
+          {
+            "name": "information_ratio",
+            "value": "0.61"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "67"
+          },
+          {
+            "name": "std_dev",
+            "value": "21.9"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "4,777.32 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "25",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20150121"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Ltd.",
+        "benchmark_index": [
+          "Benchmark Index : NIFTY 500"
+        ],
+        "field_location": [
+          {
+            "amc_name": "28",
+            "benchmark_index": "28",
+            "count": 25,
+            "load_exit": "28",
+            "main_scheme_name": "28",
+            "metrics_gross_exposure_turnover": "28",
+            "metrics_port_turnover_ratio": "28",
+            "min_addl_amt": "28",
+            "min_addl_amt_multiple": "28",
+            "min_amt": "28",
+            "min_amt_multiple": "28",
+            "monthly_aaum_date": "28",
+            "monthly_aaum_value": "28",
+            "mutual_fund_name": "28",
+            "riskometer": "28",
+            "riskometer_benchmark": "28",
+            "scheme_launch_date": "28"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 365 days from the date of allotment. Nil - If redeemed after 365 days from the date of allotment. Exit Load will be applicable on switch amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out amongst the plans within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Business Cycle Fund",
+        "metrics": [
+          {
+            "name": "gross_exposure_turnover",
+            "value": "1.53 Times"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "153"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "1,414.02 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "28",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20240827"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Ltd.",
+        "benchmark_index": [
+          "Nifty India Manufacturing Benchmark Index :"
+        ],
+        "field_location": [
+          {
+            "amc_name": "31",
+            "benchmark_index": "31",
+            "count": 25,
+            "load_exit": "31",
+            "main_scheme_name": "31",
+            "metrics_gross_exposure_turnover": "31",
+            "metrics_port_turnover_ratio": "31",
+            "min_addl_amt": "31",
+            "min_addl_amt_multiple": "31",
+            "min_amt": "31",
+            "min_amt_multiple": "31",
+            "monthly_aaum_date": "31",
+            "monthly_aaum_value": "31",
+            "mutual_fund_name": "31",
+            "riskometer": "31",
+            "riskometer_benchmark": "31",
+            "scheme_launch_date": "31"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 90 days from the date of allotment. Nil - If redeemed after 90 days from the date of allotment. Exit Load will be applicable on switch amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out amongst the plans within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Manufacturing Fund",
+        "metrics": [
+          {
+            "name": "gross_exposure_turnover",
+            "value": "2.28 Times"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "227"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "655.75 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "31",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20240808"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Ltd.",
+        "benchmark_index": [
+          "Benchmark Index : BSE Teck"
+        ],
+        "field_location": [
+          {
+            "amc_name": "34",
+            "benchmark_index": "34",
+            "count": 25,
+            "load_exit": "34",
+            "main_scheme_name": "34",
+            "metrics_gross_exposure_turnover": "34",
+            "metrics_port_turnover_ratio": "34",
+            "min_addl_amt": "34",
+            "min_addl_amt_multiple": "34",
+            "min_amt": "34",
+            "min_amt_multiple": "34",
+            "monthly_aaum_date": "34",
+            "monthly_aaum_value": "34",
+            "mutual_fund_name": "34",
+            "riskometer": "34",
+            "riskometer_benchmark": "34",
+            "scheme_launch_date": "34"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 90 days from the date of allotment. Nil - If redeemed after 90 days from the date of allotment. Exit Load will be applicable on switch amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out amongst the plans within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Digital India Fund",
+        "metrics": [
+          {
+            "name": "gross_exposure_turnover",
+            "value": "1.14 Times"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "113"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "995.37 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "34",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20241104"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Ltd.",
+        "benchmark_index": [
+          "Benchmark Index : Nifty 200 Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "37",
+            "benchmark_index": "37",
+            "count": 25,
+            "load_exit": "37",
+            "main_scheme_name": "37",
+            "metrics_gross_exposure_turnover": "37",
+            "metrics_port_turnover_ratio": "37",
+            "min_addl_amt": "37",
+            "min_addl_amt_multiple": "37",
+            "min_amt": "37",
+            "min_amt_multiple": "37",
+            "monthly_aaum_date": "37",
+            "monthly_aaum_value": "37",
+            "mutual_fund_name": "37",
+            "riskometer": "37",
+            "riskometer_benchmark": "37",
+            "scheme_launch_date": "37"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 15 days from the date of allotment. Nil - If redeemed after 15 days from the date of allotment. Exit Load will be applicable on switch amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out from Regular to Direct plan within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Quant Fund",
+        "metrics": [
+          {
+            "name": "gross_exposure_turnover",
+            "value": "2.37 Times"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "237"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "232.40 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "37",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20240606"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Ltd.",
+        "benchmark_index": [
+          "Benchmark Index : Nifty 500"
+        ],
+        "field_location": [
+          {
+            "amc_name": "40",
+            "benchmark_index": "40",
+            "count": 25,
+            "load_exit": "40",
+            "main_scheme_name": "40",
+            "metrics_gross_exposure_turnover": "40",
+            "metrics_port_turnover_ratio": "40",
+            "min_addl_amt": "40",
+            "min_addl_amt_multiple": "40",
+            "min_amt": "40",
+            "min_amt_multiple": "40",
+            "monthly_aaum_date": "40",
+            "monthly_aaum_value": "40",
+            "mutual_fund_name": "40",
+            "riskometer": "40",
+            "riskometer_benchmark": "40",
+            "scheme_launch_date": "40"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed within 90 days from the day of allotment. Nil - If redeemed after 90 days from the date of allotment. Exit Load will be applicable on switch amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out amongst the plans within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Innovation Opportunities Fund",
+        "metrics": [
+          {
+            "name": "gross_exposure_turnover",
+            "value": "1.20 Times"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "120"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "857.56 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "40",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250218"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Ltd.",
+        "benchmark_index": [
+          "Benchmark Index : Nifty 500"
+        ],
+        "field_location": [
+          {
+            "amc_name": "43",
+            "benchmark_index": "43",
+            "count": 25,
+            "load_exit": "43",
+            "main_scheme_name": "43",
+            "metrics_gross_exposure_turnover": "43",
+            "metrics_port_turnover_ratio": "43",
+            "min_addl_amt": "43",
+            "min_addl_amt_multiple": "43",
+            "min_amt": "43",
+            "min_amt_multiple": "43",
+            "monthly_aaum_date": "43",
+            "monthly_aaum_value": "43",
+            "mutual_fund_name": "43",
+            "riskometer": "43",
+            "riskometer_benchmark": "43",
+            "scheme_launch_date": "43"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 90 days from the date of allotment. Nil - If redeemed after 90 days from the date of allotment. Exit Load will be applicable on switch amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switchout amongst the plans within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Active Momentum Fund",
+        "metrics": [
+          {
+            "name": "gross_exposure_turnover",
+            "value": "2.04 Times"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "204"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "Crore 1,446.60",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "43",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250317"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Ltd.",
+        "benchmark_index": [
+          "Benchmark Index : Nifty Infrastructure"
+        ],
+        "field_location": [
+          {
+            "amc_name": "46",
+            "benchmark_index": "46",
+            "count": 25,
+            "load_exit": "46",
+            "main_scheme_name": "46",
+            "metrics_gross_exposure_turnover": "46",
+            "metrics_port_turnover_ratio": "46",
+            "min_addl_amt": "46",
+            "min_addl_amt_multiple": "46",
+            "min_amt": "46",
+            "min_amt_multiple": "46",
+            "monthly_aaum_date": "46",
+            "monthly_aaum_value": "46",
+            "mutual_fund_name": "46",
+            "riskometer": "46",
+            "riskometer_benchmark": "46",
+            "scheme_launch_date": "46"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed within 3 months from the day of allotment. Nil - If redeemed after 3 months from the date of allotment. Exit Load will be applicable on switch-options amongst the Schemes of Motilal Oswal Mutual Fund. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out amongst the plans within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Infrastructure Fund",
+        "metrics": [
+          {
+            "name": "gross_exposure_turnover",
+            "value": "1.87 Times"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "187"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "148.67 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "46",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250513"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Ltd.",
+        "benchmark_index": [
+          "Benchmark Index : Nifty 500"
+        ],
+        "field_location": [
+          {
+            "amc_name": "49",
+            "benchmark_index": "49",
+            "count": 25,
+            "load_exit": "49",
+            "main_scheme_name": "49",
+            "metrics_gross_exposure_turnover": "49",
+            "metrics_port_turnover_ratio": "49",
+            "min_addl_amt": "49",
+            "min_addl_amt_multiple": "49",
+            "min_amt": "49",
+            "min_amt_multiple": "49",
+            "monthly_aaum_date": "49",
+            "monthly_aaum_value": "49",
+            "mutual_fund_name": "49",
+            "riskometer": "49",
+            "riskometer_benchmark": "49",
+            "scheme_launch_date": "49"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed within 3 months from the day ofallotment. Nil - If redeemed after 3 months from the date of allotment. Exit Load will be applicable on switch-options amongst the Schemes of Motilal Oswal Mutual Fund. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out from Regular to Direct plan within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Special Opportunities Fund",
+        "metrics": [
+          {
+            "name": "gross_exposure_turnover",
+            "value": "1.50 Times"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "150"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "115.84 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "49",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250814"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Ltd.",
+        "benchmark_index": [
+          "Nifty India Benchmark Index : Consumption"
+        ],
+        "field_location": [
+          {
+            "amc_name": "52",
+            "benchmark_index": "52",
+            "count": 25,
+            "load_exit": "52",
+            "main_scheme_name": "52",
+            "metrics_gross_exposure_turnover": "52",
+            "metrics_port_turnover_ratio": "52",
+            "min_addl_amt": "52",
+            "min_addl_amt_multiple": "52",
+            "min_amt": "52",
+            "min_amt_multiple": "52",
+            "monthly_aaum_date": "52",
+            "monthly_aaum_value": "52",
+            "mutual_fund_name": "52",
+            "riskometer": "52",
+            "riskometer_benchmark": "52",
+            "scheme_launch_date": "52"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed within 90 days from the day of allotment. Nil - If redeemed after 90 days from the date of allotment. Exit Load will be applicable on switch-options amongst the Schemes of Motilal Oswal Mutual Fund. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out from Regular to Direct plan within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Consumption Fund",
+        "metrics": [
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.89 Times"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "89"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "1,144.01 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "52",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20251023"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Ltd.",
+        "benchmark_index": [
+          "Benchmark Index : Nifty Services Sector"
+        ],
+        "field_location": [
+          {
+            "amc_name": "55",
+            "benchmark_index": "55",
+            "count": 25,
+            "load_exit": "55",
+            "main_scheme_name": "55",
+            "metrics_gross_exposure_turnover": "55",
+            "metrics_port_turnover_ratio": "55",
+            "min_addl_amt": "55",
+            "min_addl_amt_multiple": "55",
+            "min_amt": "55",
+            "min_amt_multiple": "55",
+            "monthly_aaum_date": "55",
+            "monthly_aaum_value": "55",
+            "mutual_fund_name": "55",
+            "riskometer": "55",
+            "riskometer_benchmark": "55",
+            "scheme_launch_date": "55"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed within 90 days from the day of allotment. Nil - If redeemed after 90 days from the date of allotment. Exit Load will be applicable on switch amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out amongst the plans within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Services Fund",
+        "metrics": [
+          {
+            "name": "gross_exposure_turnover",
+            "value": "1.03 Times"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "103"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "136.34 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "55",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20250609"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Ltd.",
+        "benchmark_index": [
+          "Nifty Financial Services Benchmark Index :"
+        ],
+        "field_location": [
+          {
+            "amc_name": "58",
+            "benchmark_index": "58",
+            "count": 25,
+            "load_exit": "58",
+            "main_scheme_name": "58",
+            "metrics_gross_exposure_turnover": "58",
+            "metrics_port_turnover_ratio": "58",
+            "min_addl_amt": "58",
+            "min_addl_amt_multiple": "58",
+            "min_amt": "58",
+            "min_amt_multiple": "58",
+            "monthly_aaum_date": "58",
+            "monthly_aaum_value": "58",
+            "mutual_fund_name": "58",
+            "riskometer": "58",
+            "riskometer_benchmark": "58",
+            "scheme_launch_date": "58"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed within 90 days from the day of allotment. Nil - If redeemed after 90 days from the date of allotment. Exit Load will be applicable on switch amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out amongst the plans within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Financial Services Fund",
+        "metrics": [
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.85 Times"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "85"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "Crore 215.46",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "58",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20260216"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Ltd.",
+        "benchmark_index": [
+          "Nifty 500 Total Return Benchmark Index : Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "61",
+            "benchmark_index": "61",
+            "count": 25,
+            "load_exit": "61",
+            "main_scheme_name": "61",
+            "metrics_gross_exposure_turnover": "61",
+            "metrics_port_turnover_ratio": "61",
+            "min_addl_amt": "61",
+            "min_addl_amt_multiple": "61",
+            "min_amt": "61",
+            "min_amt_multiple": "61",
+            "monthly_aaum_date": "61",
+            "monthly_aaum_value": "61",
+            "mutual_fund_name": "61",
+            "riskometer": "61",
+            "riskometer_benchmark": "61",
+            "scheme_launch_date": "61"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "If redeemed within 365 days from the day of allotment.1%. If redeemed after 365 days from the date of allotment. - Nil. Exit Load will be applicable on switch amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out amongst the plans within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Contra Fund",
+        "metrics": [
+          {
+            "name": "gross_exposure_turnover",
+            "value": "1.18 Times"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "118"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "Crore   411.02",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "61",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20260529"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Ltd.",
+        "benchmark_index": [
+          "Nifty 200 Quality 30 Benchmark Index :"
+        ],
+        "field_location": [
+          {
+            "amc_name": "64",
+            "benchmark_index": "64",
+            "count": 25,
+            "load_exit": "64",
+            "main_scheme_name": "64",
+            "min_addl_amt": "64",
+            "min_addl_amt_multiple": "64",
+            "min_amt": "64",
+            "min_amt_multiple": "64",
+            "monthly_aaum_date": "64",
+            "monthly_aaum_value": "64",
+            "mutual_fund_name": "64",
+            "riskometer": "64",
+            "riskometer_benchmark": "64",
+            "scheme_launch_date": "64"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "If redeemed on or before 90 days from the day of allotment. 1%. If redeemed after 90 days from the date of allotment. - Nil Exit Load will be applicable on switch amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch- out amongst the plans within the same scheme. For details on load structure, please refer to Section on Load Structure in this Document."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Quality Fund",
+        "metrics": [],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "Crore 43.93",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "64",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20260915"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Ltd.",
+        "benchmark_index": [
+          "CRISIL Hybrid 50+50 - Moderate"
+        ],
+        "field_location": [
+          {
+            "amc_name": "67",
+            "benchmark_index": "67",
+            "count": 25,
+            "load_exit": "67",
+            "main_scheme_name": "67",
+            "metrics_avg_maturity": "67",
+            "metrics_beta": "67",
+            "metrics_gross_exposure_turnover": "67",
+            "metrics_information_ratio": "67",
+            "metrics_macaulay": "67",
+            "metrics_port_turnover_ratio": "67",
+            "metrics_std_dev": "67",
+            "metrics_ytm": "67",
+            "min_addl_amt": "67",
+            "min_addl_amt_multiple": "67",
+            "min_amt": "67",
+            "min_amt_multiple": "67",
+            "monthly_aaum_date": "67",
+            "monthly_aaum_value": "67",
+            "mutual_fund_name": "67",
+            "riskometer": "67",
+            "riskometer_benchmark": "67",
+            "scheme_launch_date": "67"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "1% - If redeemed on or before 365 days from the date of allotment. Nil - If redeemed after 365 days from thedate of allotment. Exit Load will be applicable on switchamongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out amongst the plans within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Balanced Advantage Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "1.38"
+          },
+          {
+            "name": "beta",
+            "value": "1.2"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "1.60 Times"
+          },
+          {
+            "name": "information_ratio",
+            "value": "0.63"
+          },
+          {
+            "name": "macaulay",
+            "value": "1.29"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "160"
+          },
+          {
+            "name": "std_dev",
+            "value": "14.6"
+          },
+          {
+            "name": "ytm",
+            "value": "8.07"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "704.66 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "67",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20160927"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Ltd.",
+        "benchmark_index": [
+          "Benchmark Index : Nifty 50 Arbitrage"
+        ],
+        "field_location": [
+          {
+            "amc_name": "70",
+            "benchmark_index": "70",
+            "count": 25,
+            "load_exit": "70",
+            "main_scheme_name": "70",
+            "metrics_avg_maturity": "70",
+            "metrics_gross_exposure_turnover": "70",
+            "metrics_macaulay": "70",
+            "metrics_mod_duration": "70",
+            "metrics_port_turnover_ratio": "70",
+            "metrics_ytm": "70",
+            "min_addl_amt": "70",
+            "min_addl_amt_multiple": "70",
+            "min_amt": "70",
+            "min_amt_multiple": "70",
+            "monthly_aaum_date": "70",
+            "monthly_aaum_value": "70",
+            "mutual_fund_name": "70",
+            "riskometer": "70",
+            "riskometer_benchmark": "70",
+            "scheme_launch_date": "70"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "0.25% - If redeemed within 15 days from the day of allotment. Nil - If redeemed after 15 days from the date of allotment. Exit Load will be applicable on switch amongst the Schemes of MOMF. No Load shall be imposed for switching between Options within the Scheme. Further, it is clarified that there will be no exit load charged on a switch-out from Regular to Direct plan within the same scheme."
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Arbitrage Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "0.34"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "10.26 Times"
+          },
+          {
+            "name": "macaulay",
+            "value": "0.37"
+          },
+          {
+            "name": "mod_duration",
+            "value": "0.34"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "1026"
+          },
+          {
+            "name": "ytm",
+            "value": "7.17"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "3,158.70 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "70",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20241223"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Ltd.",
+        "benchmark_index": [
+          "CRISIL Ultra Short Benchmark Index : Duration Debt A-I Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "73",
+            "benchmark_index": "73",
+            "count": 25,
+            "load_exit": "73",
+            "main_scheme_name": "73",
+            "metrics_avg_maturity": "73",
+            "metrics_gross_exposure_turnover": "73",
+            "metrics_macaulay": "73",
+            "metrics_mod_duration": "73",
+            "metrics_port_turnover_ratio": "73",
+            "metrics_ytm": "73",
+            "min_addl_amt": "73",
+            "min_addl_amt_multiple": "73",
+            "min_amt": "73",
+            "min_amt_multiple": "73",
+            "monthly_aaum_date": "73",
+            "monthly_aaum_value": "73",
+            "mutual_fund_name": "73",
+            "riskometer": "73",
+            "riskometer_benchmark": "73",
+            "scheme_launch_date": "73"
+          }
+        ],
+        "load": [
+          {
+            "type": "exit",
+            "comment": "Nil"
+          }
+        ],
+        "main_scheme_name": "Motilal Oswal Ultra Short Term Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "0.36"
+          },
+          {
+            "name": "gross_exposure_turnover",
+            "value": "0.89 Times"
+          },
+          {
+            "name": "macaulay",
+            "value": "0.36"
+          },
+          {
+            "name": "mod_duration",
+            "value": "0.33"
+          },
+          {
+            "name": "port_turnover_ratio",
+            "value": "89"
+          },
+          {
+            "name": "ytm",
+            "value": "7.28"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "Crore   502.60",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "73",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20130906"
+      }
+    },
+    {
+      "value": {
+        "amc_name": "Motilal Oswal Asset Management Company Ltd.",
+        "benchmark_index": [
+          "Crisil Liquid Fund A-I Benchmark Index : Index"
+        ],
+        "field_location": [
+          {
+            "amc_name": "76",
+            "benchmark_index": "76",
+            "count": 25,
+            "main_scheme_name": "76",
+            "metrics_avg_maturity": "76",
+            "metrics_macaulay": "76",
+            "metrics_mod_duration": "76",
+            "metrics_ytm": "76",
+            "min_addl_amt": "76",
+            "min_addl_amt_multiple": "76",
+            "min_amt": "76",
+            "min_amt_multiple": "76",
+            "monthly_aaum_date": "76",
+            "monthly_aaum_value": "76",
+            "mutual_fund_name": "76",
+            "riskometer": "76",
+            "riskometer_benchmark": "76",
+            "scheme_launch_date": "76"
+          }
+        ],
+        "load": [],
+        "main_scheme_name": "Motilal Oswal Liquid Fund",
+        "metrics": [
+          {
+            "name": "avg_maturity",
+            "value": "0.14"
+          },
+          {
+            "name": "macaulay",
+            "value": "0.14"
+          },
+          {
+            "name": "mod_duration",
+            "value": "0.13"
+          },
+          {
+            "name": "ytm",
+            "value": "7.09"
+          }
+        ],
+        "min_addl_amt": "",
+        "min_addl_amt_multiple": "",
+        "min_amt": "500",
+        "min_amt_multiple": "1",
+        "monthly_aaum_date": "20261031",
+        "monthly_aaum_value": "1,075.97 Crore",
+        "mutual_fund_name": "Motilal Oswal Mutual Fund",
+        "page_number": "76",
+        "riskometer": null,
+        "riskometer_benchmark": null,
+        "scheme_launch_date": "20181220"
+      }
+    }
+  ]
+}
